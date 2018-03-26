@@ -59,6 +59,12 @@
         <mark key="." line="345" column="15" />
         <mark key="^" line="345" column="15" />
       </file>
+      <file name="$USER_HOME$/source/uyun/e2e/test/managerDubbo.test.ts" timestamp="1522034018595">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/datamonitor_template" timestamp="1520478460478">
         <mark key="[" line="19" column="71" />
         <mark key="]" line="19" column="71" />
@@ -94,7 +100,6 @@
         <mark key="]" line="132" column="86" />
         <mark key="." line="132" column="72" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/hello_world.py" timestamp="1521191734093" />
       <file name="$USER_HOME$/source/uyun/monitor/framework/config.py" timestamp="1516881248939">
         <mark key="'" line="978" column="55" />
         <mark key="[" line="830" column="62" />
@@ -157,6 +162,10 @@
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/e2e/package.json" timestamp="1522034036561">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1517577160814">
         <mark key="[" line="233" column="38" />
@@ -312,45 +321,45 @@
       <jump line="240" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
+      <register name="&quot;" type="4">
+        <text>node-zookeeper-dubbo</text>
       </register>
       <register name="-" type="4">
-        <text>ger</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXTUlTYW1wbGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Timestamp_Sys100NS</text>
+        <text>node-zookeeper-dubbo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW0gPSBzZWxmLm1lbV93bWlfc2FtcGxlclswXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZW0gPSBzZWxmLm1lbV93bWlfc2FtcGxlclswXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcyA9IHNlbGYub3Nfd21pX3NhbXBsZXJbMF0uZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAsICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBvcyA9IHNlbGYub3Nfd21pX3NhbXBsZXJbMF0uZ2V0Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAsICIiCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">bSA9IFdNSVNhbXBsZXIobG9nLCAiV2luMzJfT3BlcmF0aW5nU3lzdGVtIiwgW10pCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>PU', log)
     network = get_chec</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
