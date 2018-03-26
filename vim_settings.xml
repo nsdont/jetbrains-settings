@@ -94,7 +94,6 @@
         <mark key="]" line="132" column="86" />
         <mark key="." line="132" column="72" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/hello_world.py" timestamp="1521191734093" />
       <file name="$USER_HOME$/source/uyun/monitor/framework/config.py" timestamp="1516881248939">
         <mark key="'" line="978" column="55" />
         <mark key="[" line="830" column="62" />
@@ -171,6 +170,9 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
+        <mark key="'" line="44" column="18" />
+      </file>
       <file name="$USER_HOME$/source/uyun/nova/nova/cmdb/admin.py" timestamp="1516083916797">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -210,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="8" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="406" column="25" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="407" column="29" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="33" column="60" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
@@ -310,6 +311,7 @@
       <jump line="102" column="27" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="13" column="40" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="240" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="44" column="18" filename="$USER_HOME$/source/uyun/agent/framework/actions/info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -319,7 +321,7 @@
         <text>ger</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXTUlTYW1wbGVyXD4=</text>
+        <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
       </register>
       <register name="0" type="4">
         <text>Timestamp_Sys100NS</text>
@@ -354,15 +356,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXTUlTYW1wbGVyXD4=</last-search>
+      <last-search encoding="base64">XDxwbGF0Zm9ybVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXTUlTYW1wbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwbGF0Zm9ybVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X2NvdW50ZXJfZGljdGlvbmFyeVw+</entry>
         <entry>system</entry>
         <entry>collect_event</entry>
         <entry>find</entry>
@@ -382,6 +383,7 @@
         <entry encoding="base64">XDxNZW1vcnlcPg==</entry>
         <entry encoding="base64">XDxnZXRfY2hlY2tcPg==</entry>
         <entry encoding="base64">XDxXTUlTYW1wbGVyXD4=</entry>
+        <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
