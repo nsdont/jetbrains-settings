@@ -3,24 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/uyun/agent/agent/service/adapter.py" timestamp="1519980071816">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/updater.py" timestamp="1520319380945">
         <mark key="'" line="222" column="8" />
         <mark key="[" line="134" column="29" />
         <mark key="]" line="134" column="23" />
         <mark key="." line="134" column="23" />
         <mark key="^" line="134" column="23" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/requirements/development.txt" timestamp="1519455046712">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
       </file>
       <file name="/Python Console" timestamp="1519464449936">
         <mark key="[" line="0" column="0" />
@@ -29,14 +17,11 @@
         <mark key="[" line="38" column="17" />
         <mark key="]" line="38" column="34" />
       </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleStopTaskExecutor.java" timestamp="1522226753760">
+        <mark key="'" line="49" column="37" />
+      </file>
       <file name="/a.dummy" timestamp="1517390266038">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/manifest.yaml" timestamp="1517381567416">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/datamonitor.conf" timestamp="1517542463538">
         <mark key="'" line="242" column="0" />
@@ -52,18 +37,15 @@
         <mark key="^" line="1120" column="3" />
         <mark key="." line="1120" column="3" />
       </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleInstallationTaskExecutor.java" timestamp="1522226735246">
+        <mark key="'" line="101" column="27" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/circle/process.py" timestamp="1514966962019">
         <mark key="'" line="351" column="48" />
         <mark key="[" line="345" column="13" />
         <mark key="]" line="345" column="15" />
         <mark key="." line="345" column="15" />
         <mark key="^" line="345" column="15" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/datamonitor_template" timestamp="1520478460478">
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="19" column="71" />
-        <mark key="." line="19" column="71" />
-        <mark key="^" line="19" column="70" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/agent/plugins/file.py" timestamp="1519984118067">
         <mark key="'" line="178" column="73" />
@@ -79,17 +61,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1518145134085">
-        <mark key="[" line="65" column="25" />
-        <mark key="]" line="65" column="34" />
-        <mark key="^" line="65" column="34" />
-        <mark key="." line="65" column="34" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" timestamp="1522224458851">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" timestamp="1522227054270">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/message/transfers/http.py" timestamp="1517562313097">
         <mark key="[" line="33" column="0" />
@@ -99,6 +76,10 @@
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="86" />
         <mark key="." line="132" column="72" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/resources/dubbo-gateway-consumer.xml" timestamp="1522226794974">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="84" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/framework/config.py" timestamp="1516881248939">
         <mark key="'" line="978" column="55" />
@@ -145,14 +126,15 @@
         <mark key="^" line="180" column="50" />
         <mark key="." line="180" column="50" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1520322853489">
-        <mark key="'" line="166" column="13" />
-        <mark key="[" line="191" column="24" />
-        <mark key="]" line="191" column="29" />
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/DiscoveryDeepScanTaskExecutor.java" timestamp="1522226772917">
+        <mark key="'" line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" timestamp="1522224368569">
-        <mark key="[" line="12" column="66" />
-        <mark key="]" line="12" column="120" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" timestamp="1522226808526">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="97" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/control_script.py" timestamp="1515120606227">
         <mark key="'" line="218" column="41" />
@@ -161,17 +143,14 @@
         <mark key="." line="50" column="38" />
         <mark key="^" line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/aix64/manifest.yaml" timestamp="1517553924170">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522226861865">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="76" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1517577160814">
-        <mark key="[" line="233" column="38" />
-        <mark key="]" line="233" column="38" />
-        <mark key="^" line="233" column="38" />
-        <mark key="." line="233" column="38" />
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/AbstractTaskExecutor.java" timestamp="1522226787493">
+        <mark key="'" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/source/uyun/requests_test/reqeusts_demo.py" timestamp="1516606874089">
         <mark key="'" line="0" column="9" />
@@ -183,41 +162,25 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
         <mark key="'" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522224239548">
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/META-INF/sprint/dubbo-consumer.xml" timestamp="1522225920226">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522226863370">
+        <mark key="'" line="22" column="26" />
         <mark key="[" line="25" column="50" />
         <mark key="]" line="26" column="34" />
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/nova/nova/cmdb/admin.py" timestamp="1516083916797">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/fabfile.py" timestamp="1515381772899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/agent/plugins/finder.py" timestamp="1519962298557">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1521008991966">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/requests_test/tornado_server.py" timestamp="1516700283891">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/requests_test/tornado_client.py" timestamp="1516700774429">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1513856683999">
         <mark key="'" line="245" column="0" />
@@ -228,18 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="29" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="33" column="60" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="142" column="5" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="160" column="12" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="163" column="57" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="166" column="13" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="234" column="36" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="235" column="25" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="236" column="19" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="226" column="73" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="233" column="16" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="66" column="13" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="101" column="24" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="151" column="11" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
@@ -328,19 +279,31 @@
       <jump line="240" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="44" column="18" filename="$USER_HOME$/source/uyun/agent/framework/actions/info.py" />
       <jump line="53" column="19" filename="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" />
+      <jump line="12" column="66" filename="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" />
+      <jump line="31" column="8" filename="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/META-INF/sprint/dubbo-consumer.xml" />
+      <jump line="101" column="27" filename="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleInstallationTaskExecutor.java" />
+      <jump line="27" column="26" filename="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleStopTaskExecutor.java" />
+      <jump line="49" column="37" filename="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleStopTaskExecutor.java" />
+      <jump line="34" column="27" filename="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/DiscoveryDeepScanTaskExecutor.java" />
+      <jump line="25" column="30" filename="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/AbstractTaskExecutor.java" />
+      <jump line="59" column="27" filename="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/AbstractTaskExecutor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" />
+      <jump line="22" column="26" filename="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" />
+      <jump line="13" column="12" filename="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uyun.ant.agent.api.service.LocalRemoteAutomationService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>arctic</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>junit</text>
+        <text encoding="base64">XDxhZ2VudElkTWFwU2VydmljZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>uyun.ant.agent.api.service.LocalRemoteAutomationService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,38 +312,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0t6LWE5rqQ5bqTZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4ucGFjaWZpYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFjaWZpYy1yZXNvdXJjZS1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8IS0t54q25oCB5bqTZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYXJjdGljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jaGVja3BvaW50LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYXJjdGljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5tb2RlbC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">MQogICAgICAgIDIKICAgICAgICAzCiAgICAgICAgNAogICAgICAgIDUKICAgICAgICA2CiAgICAgICAgNwogICAgICAgIDgKICAgICAgICA5CiAgICAgICAgMTAKICAgICAgICAxMQogICAgICAgIDEyCiAgICAgICAgMTMKICAgICAgICAxNAogICAgICAgIDE1CiAgICAgICAgMTYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0t56ef5oi3ZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYmlyZC50ZW5hbnQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnRlbmFudC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgPCEtLeWFrOWPuOe7n+S4gOWKoOWvhuino+WvhuS+nei1li0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD51eXVuLndoYWxlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb24tZW5jcnlwdGlvbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIkhlbGxvIE1hdmVuIiwgIkhlbGxvIEFnZW50Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51eXVuLmFudC47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0t5YWs5Y+4dXl1bi53aGFsZS5wYXJlbnQxLjIuOC0tPgogICAgICAgIDxjb21tb24udmVyc2lvbj4xLjAuMTwvY29tbW9uLnZlcnNpb24+CiAgICAgICAgPHRlbmFudC52ZXJzaW9uPjIuMC41PC90ZW5hbnQudmVyc2lvbj4KICAgICAgICA8cGFjaWZpYy52ZXJzaW9uPjIuMC41PC9wYWNpZmljLnZlcnNpb24+CiAgICAgICAgPGFyY3RpYy52ZXJzaW9uPjEuMy4xPC9hcmN0aWMudmVyc2lvbj4K</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0U3VpdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0t5YWs5Y+457uf5LiAZHViYm945L6d6LWWLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4ud2hhbGU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1kdWJib3g8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7Y29tbW9uLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwhLS3np5/miLdkdWJibyBhcGnmjqXlj6MtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+dXl1bi5iaXJkLnRlbmFudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuYW50LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHt0ZW5hbnQudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8IS0t6LWE5rqQ5bqTZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4ucGFjaWZpYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFjaWZpYy1yZXNvdXJjZS1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7cGFjaWZpYy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDwhLS3nirbmgIHlupNkdWJibyBhcGnmjqXlj6MtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+dXl1bi5hcmN0aWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNoZWNrcG9pbnQtYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke2FyY3RpYy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYXJjdGljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5tb2RlbC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7YXJjdGljLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>junit</last-search>
+      <last-search encoding="base64">XDxhZ2VudElkTWFwU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>junit</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhZ2VudElkTWFwU2VydmljZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>collect_event</entry>
-        <entry>find</entry>
         <entry>system.process</entry>
         <entry>GCE</entry>
         <entry encoding="base64">XDxnZXRfdXRmOFw+</entry>
@@ -399,6 +360,8 @@
         <entry encoding="base64">XDxXTUlTYW1wbGVyXD4=</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry>junit</entry>
+        <entry encoding="base64">XDxtb2R1bGVPcGVyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxhZ2VudElkTWFwU2VydmljZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
