@@ -173,6 +173,12 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
         <mark key="'" line="44" column="18" />
       </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522223607054">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/nova/nova/cmdb/admin.py" timestamp="1516083916797">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -212,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="25" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="407" column="29" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="33" column="60" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="142" column="5" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
@@ -312,59 +317,58 @@
       <jump line="13" column="40" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="240" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="44" column="18" filename="$USER_HOME$/source/uyun/agent/framework/actions/info.py" />
+      <jump line="53" column="19" filename="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ger</text>
+        <text>arctic</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
+        <text>junit</text>
       </register>
-      <register name="0" type="4">
-        <text>Timestamp_Sys100NS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+dXl1bi5hcmN0aWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1vZGVsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHthcmN0aWMudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW0gPSBzZWxmLm1lbV93bWlfc2FtcGxlclswXQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0t6LWE5rqQ5bqTZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4ucGFjaWZpYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFjaWZpYy1yZXNvdXJjZS1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8IS0t54q25oCB5bqTZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYXJjdGljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jaGVja3BvaW50LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYXJjdGljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5tb2RlbC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0t56ef5oi3ZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYmlyZC50ZW5hbnQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnRlbmFudC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcyA9IHNlbGYub3Nfd21pX3NhbXBsZXJbMF0uZ2V0Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPCEtLeWFrOWPuOe7n+S4gOWKoOWvhuino+WvhuS+nei1li0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD51eXVuLndoYWxlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb24tZW5jcnlwdGlvbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAsICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bSA9IFdNSVNhbXBsZXIobG9nLCAiV2luMzJfT3BlcmF0aW5nU3lzdGVtIiwgW10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>PU', log)
-    network = get_chec</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0t5YWs5Y+4dXl1bi53aGFsZS5wYXJlbnQxLjIuOC0tPgogICAgICAgIDxjb21tb24udmVyc2lvbj4xLjAuMTwvY29tbW9uLnZlcnNpb24+CiAgICAgICAgPHRlbmFudC52ZXJzaW9uPjIuMC41PC90ZW5hbnQudmVyc2lvbj4KICAgICAgICA8cGFjaWZpYy52ZXJzaW9uPjIuMC41PC9wYWNpZmljLnZlcnNpb24+CiAgICAgICAgPGFyY3RpYy52ZXJzaW9uPjEuMy4xPC9hcmN0aWMudmVyc2lvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0t5YWs5Y+457uf5LiAZHViYm945L6d6LWWLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4ud2hhbGU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1kdWJib3g8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7Y29tbW9uLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwhLS3np5/miLdkdWJibyBhcGnmjqXlj6MtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+dXl1bi5iaXJkLnRlbmFudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGVuYW50LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHt0ZW5hbnQudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8IS0t6LWE5rqQ5bqTZHViYm8gYXBp5o6l5Y+jLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4ucGFjaWZpYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFjaWZpYy1yZXNvdXJjZS1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7cGFjaWZpYy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDwhLS3nirbmgIHlupNkdWJibyBhcGnmjqXlj6MtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+dXl1bi5hcmN0aWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNoZWNrcG9pbnQtYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke2FyY3RpYy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnV5dW4uYXJjdGljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5tb2RlbC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7YXJjdGljLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF0Zm9ybVw+</last-search>
+      <last-search>junit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF0Zm9ybVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>junit</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>system</entry>
         <entry>collect_event</entry>
         <entry>find</entry>
         <entry>system.process</entry>
@@ -384,6 +388,7 @@
         <entry encoding="base64">XDxnZXRfY2hlY2tcPg==</entry>
         <entry encoding="base64">XDxXTUlTYW1wbGVyXD4=</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
+        <entry>junit</entry>
       </history-search>
       <history-cmd />
       <history-expr />
