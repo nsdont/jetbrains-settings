@@ -85,6 +85,12 @@
         <mark key="^" line="65" column="34" />
         <mark key="." line="65" column="34" />
       </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" timestamp="1522224458851">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/message/transfers/http.py" timestamp="1517562313097">
         <mark key="[" line="33" column="0" />
       </file>
@@ -144,6 +150,10 @@
         <mark key="[" line="191" column="24" />
         <mark key="]" line="191" column="29" />
       </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" timestamp="1522224368569">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="12" column="120" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/control_script.py" timestamp="1515120606227">
         <mark key="'" line="218" column="41" />
         <mark key="[" line="50" column="41" />
@@ -173,11 +183,11 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
         <mark key="'" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522223607054">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522224239548">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/source/uyun/nova/nova/cmdb/admin.py" timestamp="1516083916797">
         <mark key="[" line="75" column="0" />
@@ -320,8 +330,8 @@
       <jump line="53" column="19" filename="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>uyun.ant.agent.api.service.LocalRemoteAutomationService</text>
       </register>
       <register name="-" type="4">
         <text>arctic</text>
@@ -329,8 +339,8 @@
       <register name="/" type="4">
         <text>junit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+dXl1bi5hcmN0aWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1vZGVsLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHthcmN0aWMudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="0" type="4">
+        <text>uyun.ant.agent.api.service.LocalRemoteAutomationService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
