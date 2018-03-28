@@ -25,9 +25,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1522204451720">
-        <mark key="[" line="76" column="6" />
-        <mark key="]" line="76" column="11" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1522205632646">
+        <mark key="[" line="115" column="7" />
+        <mark key="]" line="115" column="22" />
         <mark key="." line="76" column="11" />
         <mark key="^" line="76" column="11" />
       </file>
@@ -368,8 +368,8 @@
       <jump line="4" column="26" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gd2luc3Rvbi5sb2dnZXJzLmdldCgnZGVmYXVsdF9sb2dnZXInKTsK</text>
+      <register name="&quot;" type="4">
+        <text>receive messages</text>
       </register>
       <register name="-" type="4">
         <text>winston</text>
@@ -377,8 +377,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5zdG9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gd2luc3Rvbi5sb2dnZXJzLmdldCgnZGVmYXVsdF9sb2dnZXInKTsK</text>
+      <register name="0" type="4">
+        <text>receive messages</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
