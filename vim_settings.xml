@@ -79,11 +79,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="60" column="5" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" timestamp="1522293596409">
-        <mark key="[" line="34" column="92" />
-        <mark key="]" line="34" column="94" />
-        <mark key="^" line="34" column="94" />
-        <mark key="." line="34" column="94" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" timestamp="1522294604740">
+        <mark key="[" line="34" column="112" />
+        <mark key="]" line="34" column="112" />
+        <mark key="^" line="34" column="112" />
+        <mark key="." line="34" column="112" />
       </file>
       <file name="$USER_HOME$/source/uyun/manager_dubbo/.editorconfig" timestamp="1522043600752">
         <mark key="'" line="5" column="12" />
@@ -157,6 +157,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1522294965612" />
       <file name="$USER_HOME$/source/uyun/monitor/conf/datamonitor.template" timestamp="1517539014418">
         <mark key="'" line="50" column="47" />
         <mark key="[" line="14" column="80" />
@@ -381,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>receive messages</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>winston</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>headers</text>
