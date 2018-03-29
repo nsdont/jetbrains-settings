@@ -143,11 +143,11 @@
         <mark key="^" line="41" column="35" />
         <mark key="." line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522232997279">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522305163326">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="25" column="78" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1517577160814">
         <mark key="[" line="233" column="38" />
@@ -169,7 +169,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522230947444">
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" timestamp="1522304820918">
         <mark key="'" line="250" column="26" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="111" column="28" />
@@ -279,9 +279,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/resources/dubbo-gateway-consumer.xml" timestamp="1522226794974">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="84" column="16" />
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/resources/dubbo-gateway-consumer.xml" timestamp="1522305178197">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1521598837190">
         <mark key="[" line="0" column="0" />
@@ -461,43 +461,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB4bWxucz0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyIK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>AgentService</text>
       </register>
       <register name="/" type="4">
         <text>headers</text>
       </register>
-      <register name="0" type="4">
-        <text>receive messages</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB4bWxucz0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLTQuMC54c2QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaWQ9ImFnZW50SWRNYXBTZXJ2aWNlIgogICAgICAgICAgICAgICAgICAgICBpbnRlcmZhY2U9InV5dW4uYW50LmFnZW50LmFwaS5zZXJ2aWNlLlJlbW90ZURpc2NvdmVyeUxpc3RlbmVyU2VydmljZSIKICAgICAgICAgICAgICAgICAgICAgcHJvdG9jb2w9ImR1YmJvIgogICAgICAgICAgICAgICAgICAgICByZXRyaWVzPSIzIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZW0gPSBzZWxmLm1lbV93bWlfc2FtcGxlclswXQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgogICAgICAgIENoZWNrLl9faW5pdF9fKHNlbGYsIGxvZ2dlcikKCiAgICAgICAgIyBTYW1wbGVyKHMpCiAgICAgICAgc2VsZi5vc193bWlfc2FtcGxlcl9tZW1vcnlfc2l6ZSA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcyA9IHNlbGYub3Nfd21pX3NhbXBsZXJbMF0uZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAsICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBtZW0gPSBzZWxmLm1lbV93bWlfc2FtcGxlclswXQo=</text>
       </register>
     </registers>
     <search>
