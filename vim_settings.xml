@@ -3,56 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/updater.py" timestamp="1520319380945">
-        <mark key="'" line="222" column="8" />
-        <mark key="[" line="134" column="29" />
-        <mark key="]" line="134" column="23" />
-        <mark key="." line="134" column="23" />
-        <mark key="^" line="134" column="23" />
-      </file>
-      <file name="/Python Console" timestamp="1519464449936">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/libs/wmi/sampler.py" timestamp="1521601834309">
         <mark key="[" line="38" column="17" />
         <mark key="]" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleStopTaskExecutor.java" timestamp="1522226753760">
-        <mark key="'" line="49" column="37" />
-      </file>
-      <file name="/a.dummy" timestamp="1517390266038">
+      <file name="/a.dummy" timestamp="1522232101913">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/datamonitor.conf" timestamp="1517542463538">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1520479768381">
-        <mark key="'" line="750" column="35" />
-        <mark key="[" line="1119" column="61" />
-        <mark key="]" line="1120" column="3" />
-        <mark key="^" line="1120" column="3" />
-        <mark key="." line="1120" column="3" />
       </file>
       <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleInstallationTaskExecutor.java" timestamp="1522226735246">
         <mark key="'" line="101" column="27" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/circle/process.py" timestamp="1514966962019">
-        <mark key="'" line="351" column="48" />
-        <mark key="[" line="345" column="13" />
-        <mark key="]" line="345" column="15" />
-        <mark key="." line="345" column="15" />
-        <mark key="^" line="345" column="15" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/agent/plugins/file.py" timestamp="1519984118067">
-        <mark key="'" line="178" column="73" />
-        <mark key="[" line="194" column="56" />
-        <mark key="]" line="194" column="68" />
-        <mark key="^" line="194" column="68" />
-        <mark key="." line="194" column="68" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/uyun/ant/managertest/HelloWorldTest.java" timestamp="1522232063058">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/sqlserver.py" timestamp="1521450153296">
         <mark key="'" line="29" column="0" />
@@ -61,25 +26,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" timestamp="1522227054270">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="45" />
-      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/message/transfers/http.py" timestamp="1517562313097">
         <mark key="[" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/libs/win/winpdh.py" timestamp="1520561775250">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="86" />
-        <mark key="." line="132" column="72" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/resources/dubbo-gateway-consumer.xml" timestamp="1522226794974">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="84" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/framework/config.py" timestamp="1516881248939">
         <mark key="'" line="978" column="55" />
@@ -109,32 +57,12 @@
         <mark key="^" line="14" column="80" />
         <mark key="." line="14" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521598837190">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1517542288751">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="505" column="21" />
-        <mark key="]" line="505" column="48" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1521528050829">
         <mark key="'" line="604" column="35" />
         <mark key="[" line="180" column="50" />
         <mark key="]" line="180" column="50" />
         <mark key="^" line="180" column="50" />
         <mark key="." line="180" column="50" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/DiscoveryDeepScanTaskExecutor.java" timestamp="1522226772917">
-        <mark key="'" line="34" column="27" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" timestamp="1522226808526">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="97" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/control_script.py" timestamp="1515120606227">
         <mark key="'" line="218" column="41" />
@@ -143,14 +71,11 @@
         <mark key="." line="50" column="38" />
         <mark key="^" line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522226861865">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="76" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/AbstractTaskExecutor.java" timestamp="1522226787493">
-        <mark key="'" line="59" column="27" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522232997279">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/source/uyun/requests_test/reqeusts_demo.py" timestamp="1516606874089">
         <mark key="'" line="0" column="9" />
@@ -158,9 +83,6 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
-        <mark key="'" line="44" column="18" />
       </file>
       <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/META-INF/sprint/dubbo-consumer.xml" timestamp="1522225920226">
         <mark key="'" line="15" column="8" />
@@ -179,6 +101,97 @@
       <file name="$USER_HOME$/source/uyun/monitor/fabfile.py" timestamp="1515381772899">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/java/uyun/ant/managertest/HelloWorld.java" timestamp="1522232031736">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/checks/updater.py" timestamp="1520319380945">
+        <mark key="'" line="222" column="8" />
+        <mark key="[" line="134" column="29" />
+        <mark key="]" line="134" column="23" />
+        <mark key="." line="134" column="23" />
+        <mark key="^" line="134" column="23" />
+      </file>
+      <file name="/Python Console" timestamp="1519464449936">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleStopTaskExecutor.java" timestamp="1522226753760">
+        <mark key="'" line="49" column="37" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/datamonitor.conf" timestamp="1517542463538">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1520479768381">
+        <mark key="'" line="750" column="35" />
+        <mark key="[" line="1119" column="61" />
+        <mark key="]" line="1120" column="3" />
+        <mark key="^" line="1120" column="3" />
+        <mark key="." line="1120" column="3" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/uyun/ant/managertest/AgentTest.java" timestamp="1522232695502">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/circle/process.py" timestamp="1514966962019">
+        <mark key="'" line="351" column="48" />
+        <mark key="[" line="345" column="13" />
+        <mark key="]" line="345" column="15" />
+        <mark key="." line="345" column="15" />
+        <mark key="^" line="345" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/agent/plugins/file.py" timestamp="1519984118067">
+        <mark key="'" line="178" column="73" />
+        <mark key="[" line="194" column="56" />
+        <mark key="]" line="194" column="68" />
+        <mark key="^" line="194" column="68" />
+        <mark key="." line="194" column="68" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" timestamp="1522227054270">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/resources/dubbo-gateway-consumer.xml" timestamp="1522226794974">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="84" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521598837190">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1517542288751">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="505" column="21" />
+        <mark key="]" line="505" column="48" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/DiscoveryDeepScanTaskExecutor.java" timestamp="1522226772917">
+        <mark key="'" line="34" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" timestamp="1522226808526">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="97" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/AbstractTaskExecutor.java" timestamp="1522226787493">
+        <mark key="'" line="59" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
+        <mark key="'" line="44" column="18" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1521008991966">
         <mark key="'" line="0" column="0" />
       </file>
@@ -191,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="13" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="101" column="24" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="151" column="11" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="148" column="24" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
@@ -291,13 +303,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/source/uyun/manager_dubbo_test/dubbo-consumer.xml" />
       <jump line="22" column="26" filename="$USER_HOME$/source/uyun/manager_dubbo_test/pom.xml" />
       <jump line="13" column="12" filename="$USER_HOME$/source/uyun/manager_dubbo_test/src/test/java/com/uyun/ant/dubbotest/AgentTest.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/java/uyun/ant/managertest/HelloWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>lat</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>lat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZ2VudElkTWFwU2VydmljZVw+</text>
