@@ -146,9 +146,9 @@
         <mark key="^" line="41" column="35" />
         <mark key="." line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522317028459">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="36" />
+      <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522317895163">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="70" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
@@ -472,7 +472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bbd47d531f70c29cdcb5246b27afb656</text>
+        <text>uyun.ant.agent.api.service.AgentService</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -481,7 +481,7 @@
         <text>log</text>
       </register>
       <register name="0" type="4">
-        <text>bbd47d531f70c29cdcb5246b27afb656</text>
+        <text>uyun.ant.agent.api.service.AgentService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGFnZW50TGlzdC5zaXplKCkgPiAwKTsK</text>
