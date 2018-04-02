@@ -20,16 +20,21 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1522639672348">
+      <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1522655273900">
         <mark key="'" line="28" column="27" />
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="328" column="34" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522655373005">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -48,8 +53,8 @@
       <jump line="28" column="27" filename="$USER_HOME$/source/uyun/agent/bin/ant.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>write</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04Cg==</text>
       </register>
       <register name="-" type="4">
         <text>write</text>
@@ -58,7 +63,7 @@
         <text encoding="base64">XDxCQVNFX0RJUlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGhhbmRsZV9jbGkoYXJndW1lbnRzKToKICAgIGNtZF9tYXAgPSB7CiAgICAgICAgJ3J1bic6IHJ1biwKICAgICAgICAnc2V0Jzogc2V0X2NvbmZpZywKICAgICAgICAnaGVsbG8nOiBoZWxsb193b3JsZCwKICAgIH0KCiAgICBmb3IgY21kIGluIGFyZ3VtZW50czoKICAgICAgICBpZiBhcmd1bWVudHNbY21kXSBhbmQgY21kIGluIGNtZF9tYXA6CiAgICAgICAgICAgIGNtZF9tYXBbY21kXShhcmd1bWVudHMpCg==</text>
+        <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50IG91dHB1dAo=</text>
