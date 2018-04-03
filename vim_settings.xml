@@ -41,12 +41,22 @@
         <mark key="[" line="447" column="26" />
         <mark key="]" line="447" column="39" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522741086891">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="120" column="53" />
-        <mark key="]" line="120" column="53" />
-        <mark key="." line="120" column="53" />
-        <mark key="^" line="120" column="53" />
+      <file name="$USER_HOME$/source/uyun/agent/bin/setup_ping_check.sh" timestamp="1522742074382">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="41" column="28" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/env/lib/python2.7/site-packages/pip/index.py" timestamp="1522743871796" />
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522746871208">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="175" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -67,7 +77,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="10" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="42" column="22" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
-      <jump line="5" column="48" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="43" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="50" column="45" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="13" column="22" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
@@ -81,46 +90,49 @@
       <jump line="75" column="67" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="60" column="19" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="44" column="8" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="272" column="3" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>update</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YXRlX2xpc3QuZXh0ZW5kKFsoaSwgT05MSU5FKSBmb3IgaSBpbiBvbmxpbmVfaXBdKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>offline_ip</text>
       </register>
       <register name="/" type="4">
         <text>upstream</text>
       </register>
-      <register name="0" type="4">
-        <text>fping -c 5 -r 5 -t 250 -u</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW2kub2JqZWN0IGZvciBpIGluIHJlc3VsdCBpZiBpLnZhbHVlID09IHN0YXRlXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlX2xpc3QuZXh0ZW5kKFsoaSwgT05MSU5FKSBmb3IgaSBpbiBvbmxpbmVfaXBdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIG9mZgo=</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfaXAgPSBzZXQoZ2V0X29mZmxpbmVfaG9zdChhZ2VudF9pcF9saXN0KSkKICAgIG9ubGluZV9pcCA9IHNldChhZ2VudF9pcF9saXN0KSAtIG9mZmxpbmVfaXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXRlX2xpc3QuZXh0ZW5kKFsoaSwgT05MSU5FKSBmb3IgaSBpbiBvbmxpbmVfaXBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFnZW50X2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIGFnZW50X2lwX2xpc3QgPSBhZ2VudF9pbmZvX2xpc3QudmFsdWVzKCkKICAgIG9mZmxpbmVfaXAgPSBzZXQoZ2V0X29mZmxpbmVfaG9zdChhZ2VudF9pcF9saXN0KSkKICAgIG9ubGluZV9pcCA9IHNldChhZ2VudF9pcF9saXN0KSAtIG9mZmxpbmVfaXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIm9wZXJhdGUiOiAiaW4iLAo=</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfaXAgPSBzZXQoZ2V0X29mZmxpbmVfaG9zdChhZ2VudF9pcF9saXN0KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFnZW50X2lwX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGRvdXQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0ZG91dCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
