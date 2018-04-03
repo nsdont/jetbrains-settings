@@ -41,12 +41,12 @@
         <mark key="[" line="447" column="26" />
         <mark key="]" line="447" column="39" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522739738455">
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522741086891">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="98" column="33" />
-        <mark key="]" line="98" column="33" />
-        <mark key="." line="98" column="33" />
-        <mark key="^" line="98" column="33" />
+        <mark key="[" line="120" column="53" />
+        <mark key="]" line="120" column="53" />
+        <mark key="." line="120" column="53" />
+        <mark key="^" line="120" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -84,43 +84,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, CONFIG.get('apikey')</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>, CONFIG.get('apikey')</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>upstream</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7CiAgICAgICAgICAgICdhcGlrZXknOiBDT05GSUcuZ2V0KCdhcGlrZXknKQogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>fping -c 5 -r 5 -t 250 -u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFnZW50X2lwX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGRvdXQK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIG9mZgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0ZG91dCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGFnZW50X2xpc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKHN0ZG91dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIm9wZXJhdGUiOiAiaW4iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdsb2dzL2ZwaW5nX3Jlc3VsdC5sb2cnKSwgJ3cnKSBhcyBmOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFnZW50X2lwX2xpc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGRvdXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHByaW50KGRpc2NvbmYpCiAgICBwcmludChzZXNzaW9uKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KHN0ZG91dCkK</text>
       </register>
     </registers>
     <search>
