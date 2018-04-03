@@ -31,12 +31,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522720649362">
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522721534377">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="99" column="57" />
-        <mark key="]" line="99" column="57" />
-        <mark key="." line="99" column="57" />
-        <mark key="^" line="99" column="57" />
+        <mark key="[" line="132" column="11" />
+        <mark key="]" line="132" column="11" />
+        <mark key="." line="132" column="11" />
+        <mark key="^" line="12" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -63,17 +63,17 @@
       <jump line="13" column="22" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2x1c3RlciA9IE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text>spamn_callback</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>spamn_callback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCQVNFX0RJUlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgJ2Nhc3NhbmRyYS5wYXNzd29yZCcgaW4gcmVzdWx0Cg==</text>
+      <register name="0" type="4">
+        <text>[i.split(&quot;:&quot;)[0] for i in value.split(',')]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2x1c3RlciA9IE5vbmUK</text>
