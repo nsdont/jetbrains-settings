@@ -41,11 +41,12 @@
         <mark key="[" line="447" column="26" />
         <mark key="]" line="447" column="39" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522725731598">
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522733773986">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
     </filemarks>
     <jumps>
