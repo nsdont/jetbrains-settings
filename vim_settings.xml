@@ -51,12 +51,12 @@
         <mark key="]" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/env/lib/python2.7/site-packages/pip/index.py" timestamp="1522743871796" />
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522746871208">
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522747896790">
         <mark key="'" line="5" column="13" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-        <mark key="^" line="175" column="51" />
+        <mark key="[" line="81" column="17" />
+        <mark key="]" line="81" column="21" />
+        <mark key="." line="81" column="21" />
+        <mark key="^" line="81" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -95,11 +95,11 @@
       <jump line="5" column="13" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRlX2xpc3QuZXh0ZW5kKFsoaSwgT05MSU5FKSBmb3IgaSBpbiBvbmxpbmVfaXBdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>离线</text>
       </register>
       <register name="-" type="4">
-        <text>offline_ip</text>
+        <text>离线</text>
       </register>
       <register name="/" type="4">
         <text>upstream</text>
