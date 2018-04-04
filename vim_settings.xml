@@ -51,12 +51,12 @@
         <mark key="]" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/env/lib/python2.7/site-packages/pip/index.py" timestamp="1522743871796" />
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522747896790">
-        <mark key="'" line="5" column="13" />
-        <mark key="[" line="81" column="17" />
-        <mark key="]" line="81" column="21" />
-        <mark key="." line="81" column="21" />
-        <mark key="^" line="81" column="21" />
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522808019338">
+        <mark key="'" line="279" column="4" />
+        <mark key="[" line="281" column="29" />
+        <mark key="]" line="281" column="31" />
+        <mark key="." line="281" column="31" />
+        <mark key="^" line="281" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -93,19 +93,22 @@
       <jump line="272" column="3" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="17" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="5" column="13" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="119" column="46" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="203" column="51" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="279" column="4" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>离线</text>
+        <text>offline_ids</text>
       </register>
       <register name="-" type="4">
-        <text>离线</text>
+        <text>offline_ids</text>
       </register>
       <register name="/" type="4">
-        <text>upstream</text>
+        <text encoding="base64">XDxnZXRfb2ZmbGluZV9ob3N0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW2kub2JqZWN0IGZvciBpIGluIHJlc3VsdCBpZiBpLnZhbHVlID09IHN0YXRlXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdbcGVyaW9kIGNoZWNrXSBmZXRjaCBvZmZsaW5lIGlkczoge30nLmZvcm1hdChvZmZsaW5lX2lkcykpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0YXRlX2xpc3QuZXh0ZW5kKFsoaSwgT05MSU5FKSBmb3IgaSBpbiBvbmxpbmVfaXBdKQo=</text>
@@ -136,10 +139,10 @@
       </register>
     </registers>
     <search>
-      <last-search>upstream</last-search>
+      <last-search encoding="base64">XDxnZXRfb2ZmbGluZV9ob3N0XD4=</last-search>
       <last-offset />
-      <last-pattern>upstream</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRfb2ZmbGluZV9ob3N0XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -149,6 +152,8 @@
         <entry encoding="base64">XDxsb29wXD4=</entry>
         <entry encoding="base64">XDxVUFNUUkVBTVw+</entry>
         <entry>upstream</entry>
+        <entry>ping</entry>
+        <entry encoding="base64">XDxnZXRfb2ZmbGluZV9ob3N0XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
