@@ -52,8 +52,8 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1523173491809">
-        <mark key="'" line="279" column="4" />
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1523174137639">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="71" column="75" />
         <mark key="]" line="71" column="90" />
         <mark key="." line="71" column="90" />
@@ -107,6 +107,7 @@
       <jump line="177" column="52" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="54" column="0" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="423" column="35" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
