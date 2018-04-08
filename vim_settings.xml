@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/uyun/agent/framework/task/python.py" timestamp="1522725291463" />
       <file name="$USER_HOME$/source/uyun/monitor/build.yaml" timestamp="1522406812571">
         <mark key="'" line="10" column="59" />
         <mark key="[" line="74" column="42" />
@@ -49,18 +48,16 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/transaction.py" timestamp="1522826533143" />
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/env/lib/python2.7/site-packages/pip/index.py" timestamp="1522743871796" />
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1522808019338">
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1523173491809">
         <mark key="'" line="279" column="4" />
-        <mark key="[" line="281" column="29" />
-        <mark key="]" line="281" column="31" />
-        <mark key="." line="281" column="31" />
-        <mark key="^" line="281" column="31" />
+        <mark key="[" line="71" column="75" />
+        <mark key="]" line="71" column="90" />
+        <mark key="." line="71" column="90" />
+        <mark key="^" line="71" column="89" />
       </file>
     </filemarks>
     <jumps>
