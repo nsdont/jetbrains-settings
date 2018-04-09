@@ -13,7 +13,13 @@
       <file name="/Dummy.txt" timestamp="1522405893952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows64/manifest.yaml" timestamp="1522405975858" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/config.ts" timestamp="1523273331185">
+        <mark key="'" line="63" column="52" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="15" />
@@ -26,31 +32,34 @@
       <jump line="19" column="33" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="49" column="31" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="10" column="59" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="12" column="18" filename="$USER_HOME$/source/uyun/dispatcher/src/config.ts" />
+      <jump line="63" column="52" filename="$USER_HOME$/source/uyun/dispatcher/src/config.ts" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">IndpbmRvd3MiOgogIG5hbWU6IGxvY2FsLW1vbml0b3IKICBzdGVwczoKICAgIC0gbWFrZWRpcnMge3R9CiAgICAtIG1ha2VkaXJzIHt0fS9ydW4vCiAgICAtIG1ha2VkaXJzIHt0fS9sb2dzLwogICAgLSBkb3dubG9hZCBodHRwOi8vMTAuMS4xMDAuMTAwL2ludGVycHJldGVyL3B5dGhvbi9tb25pdG9yLXB5dGhvbi13aW5kb3dzMzIuemlwIHtzfS9weXRob24td2luZG93czY0LnppcAogICAgLSB1bmNvbXByZXNzIHtzfS9weXRob24td2luZG93czY0LnppcCB7dH0KICAgIC0gY29weSB7c30vYnVpbGQvd2luX2J1aWxkL25zc20uZXhlIHt0fS9uc3NtLmV4ZQogICAgLSBjb3B5IHtzfS9idWlsZC93aW5fYnVpbGQvc3RhcnQuYmF0IHt0fS9zdGFydC5iYXQKICAgIC0gY29weSB7c30vYnVpbGQvd2luX2J1aWxkL21hbmlmZXN0LnlhbWwge3R9L21hbmlmZXN0LnlhbWwKICAgIC0gY29weSB7c30vYnVpbGQvaW5zdGFsbC5weSB7dH0vaW5zdGFsbC5weQogICAgLSBjb3B5IHtzfS9jb25mLmQge3R9CiAgICAtIGNvcHkge3N9L2NoZWNrcy5kIHt0fQogICAgLSBjb3B5IHtzfS9jaGVja3Mge3R9CiAgICAtIGNvcHkge3N9L3NjcmlwdHMge3R9CiAgICAtIGNvcHkge3N9L3V0aWxzIHt0fQogICAgLSBjb3B5IHtzfS93aW4zMiB7dH0KICAgIC0gY29weSB7c30vZGF0YW1vbml0b3JfdGVtcGxhdGUge3R9L2RhdGFtb25pdG9yX3RlbXBsYXRlCiAgICAtIGNvcHkge3N9L2RhdGFtb25pdG9yLWNlcnQucGVtIHt0fS9kYXRhbW9uaXRvci1jZXJ0LnBlbQogICAgLSBjb3B5IHtzfS9zY3JpcHRfbW9uaXRvcl9wcm9jZXNzLnB5IHt0fS9zY3JpcHRfbW9uaXRvcl9wcm9jZXNzLnB5CiAgICAtIGNvcHkge3N9L3VwZGF0ZXJfcHJvY2Vzcy5weSB7dH0vdXBkYXRlcl9wcm9jZXNzLnB5CiAgICAtIGNvcHkge3N9L21vbml0b3JzdGF0c2QucHkge3R9L21vbml0b3JzdGF0c2QucHkKICAgIC0gY29weSB7c30vbW9uaXRvcmFnZW50LnB5IHt0fS9tb25pdG9yYWdlbnQucHkKICAgIC0gY29weSB7c30vdHJhbnNhY3Rpb24ucHkge3R9L3RyYW5zYWN0aW9uLnB5CiAgICAtIGNvcHkge3N9L2FnZ3JlZ2F0b3IucHkge3R9L2FnZ3JlZ2F0b3IucHkKICAgIC0gY29weSB7c30vam14ZmV0Y2gucHkge3R9L2pteGZldGNoLnB5CiAgICAtIGNvcHkge3N9L2dyYXBoaXRlLnB5IHt0fS9ncmFwaGl0ZS5weQogICAgLSBjb3B5IHtzfS9tb2R1bGVzLnB5IHt0fS9tb2R1bGVzLnB5CiAgICAtIGNvcHkge3N9L2VtaXR0ZXIucHkge3R9L2VtaXR0ZXIucHkKICAgIC0gY29weSB7c30vY29uZmlnLnB5IHt0fS9jb25maWcucHkKICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9kYWVtb24ucHkKICAgIC0gY29weSB7c30vZ29oYWkucHkge3R9L2dvaGFpLnB5CiAgICAtIGNvcHkge3N9L3V0aWwucHkge3R9L3V0aWwucHkKICAgIC0gY2hhbl9tb2Qge3R9IHNlbnNpdGl2ZT0ucGVtLC5rZXkKICAgIC0gY29tcHJlc3Mge3R9IHtwcm9qZWN0X25hbWV9IC13aW5kb3dzLXtwcm9qZWN0X3ZlcnNpb259LnRhci5negogICAgLSByZW1vdmUge3R9Cg==</text>
+      <register name="0" type="4">
+        <text>default_logger</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>default_logger</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>manifest.yaml</text>
+        <text encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>manifest.yaml</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>manifest.yaml</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>manifest.yaml</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
