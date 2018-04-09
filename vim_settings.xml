@@ -55,8 +55,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1523255817138">
-        <mark key="'" line="104" column="0" />
+      <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1523259018430">
+        <mark key="'" line="210" column="15" />
         <mark key="[" line="71" column="75" />
         <mark key="]" line="71" column="90" />
         <mark key="." line="71" column="90" />
@@ -133,6 +133,8 @@
       <jump line="65" column="13" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="89" column="27" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="108" column="54" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="173" column="27" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="210" column="15" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -142,7 +144,7 @@
         <text>offline_ids</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>ready ping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdbcGVyaW9kIGNoZWNrXSBmZXRjaCBvZmZsaW5lIGlkczoge30nLmZvcm1hdChvZmZsaW5lX2lkcykpCg==</text>
@@ -176,9 +178,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>ready ping</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern>ready ping</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -199,6 +201,7 @@
         <entry encoding="base64">XDxUUkFOU0FDVElPTl9GTFVTSF9JTlRFUlZBTFw+</entry>
         <entry>mem</entry>
         <entry>process</entry>
+        <entry>ready ping</entry>
       </history-search>
       <history-cmd />
       <history-expr />
