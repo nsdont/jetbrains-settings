@@ -20,11 +20,18 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/HeartbeatHandler.ts" timestamp="1523427053693">
+        <mark key="'" line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523427140149">
+        <mark key="[" line="87" column="33" />
+        <mark key="]" line="87" column="79" />
       </file>
     </filemarks>
     <jumps>
@@ -34,25 +41,26 @@
       <jump line="10" column="59" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="12" column="18" filename="$USER_HOME$/source/uyun/dispatcher/src/config.ts" />
       <jump line="63" column="52" filename="$USER_HOME$/source/uyun/dispatcher/src/config.ts" />
+      <jump line="4" column="12" filename="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/HeartbeatHandler.ts" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>default_logger</text>
+        <text>ant/manager/api/v1/agent/heartbeats?tenantId=${</text>
       </register>
       <register name="&quot;" type="4">
-        <text>default_logger</text>
+        <text>ant/manager/api/v1/agent/heartbeats?tenantId=${</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</text>
+        <text encoding="base64">XDxtYW5hZ2VyXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxtYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYW5hZ2VyXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -60,6 +68,7 @@
       <history-search>
         <entry>manifest.yaml</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2NvbmZpZ19wYXRoXD4=</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
