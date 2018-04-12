@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/HeartbeatHandler.ts" timestamp="1523427053693">
         <mark key="'" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1523497400889" />
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="15" />
