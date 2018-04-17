@@ -21,10 +21,11 @@
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1523498132257">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1523931493477">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
@@ -167,11 +168,11 @@
       <jump line="148" column="44" filename="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>exec_stop</text>
+        <text>14</text>
       </register>
       <register name="/" type="4">
         <text>dispatcher</text>
