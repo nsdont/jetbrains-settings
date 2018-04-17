@@ -68,11 +68,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" timestamp="1523981455555">
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" timestamp="1523982891053">
         <mark key="'" line="23" column="23" />
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="45" column="42" />
-        <mark key="." line="45" column="42" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="35" />
+        <mark key="." line="53" column="93" />
+        <mark key="^" line="53" column="2" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1523348649654">
         <mark key="'" line="89" column="20" />
@@ -94,6 +95,9 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/src/config.ts" timestamp="1523979271274">
         <mark key="'" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
+        <mark key="'" line="301" column="58" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
@@ -114,9 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
-      <jump line="447" column="21" filename="$USER_HOME$/source/uyun/agent/circle/arbiter.py" />
-      <jump line="344" column="17" filename="$USER_HOME$/source/uyun/agent/circle/arbiter.py" />
       <jump line="321" column="13" filename="$USER_HOME$/source/uyun/agent/circle/arbiter.py" />
       <jump line="84" column="38" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="131" column="28" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
@@ -214,61 +215,63 @@
       <jump line="22" column="18" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
       <jump line="58" column="22" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
       <jump line="23" column="23" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" />
+      <jump line="16" column="20" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
+      <jump line="299" column="0" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
+      <jump line="301" column="58" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRQbGF0UmFuZFw+</text>
+        <text>axios</text>
       </register>
-      <register name="0" type="4">
-        <text>getPlatRand</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0VXNlcigpIHsKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBheGlvcy5nZXQoJ2h0dHBzOi8vZWNoby5wYXcuY2xvdWQvJyk7CiAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0VXNlcigpIHsKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBheGlvcy5nZXQoJ2h0dHBzOi8vMTAuMS42MS4yMzg6NzUwOC90ZW5hbnQvYXBpL3YxL3RlbmFudC9zZWxlY3RCeUFwaWtleScpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBjb25zb2xlLmVycm9yKGVycm9yKTsKICB9Cn0K</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0VXNlcigpIHsKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBheGlvcy5nZXQoJ2h0dHA6Ly8xMC4xLjYxLjIzODo3NTA4L3RlbmFudC9hcGkvdjEvdGVuYW50L3NlbGVjdEJ5QXBpa2V5Jyk7CiAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwogIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0VXNlcigpIHsKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBheGlvcy5nZXQoJ2h0dHBzOi8vMTAuMS42MS4yMzg6NzUwOC90ZW5hbnQvYXBpL3YxL3RlbmFudC9zZWxlY3RCeUFwaWtleScpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBjb25zb2xlLmVycm9yKGVycm9yKTsKICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWFkZXJzLkNvb2tpZSA9IGNvb2tpZTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBoZWFkZXJzLkNvb2tpZSA9IGNvb2tpZTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oIi91c3IvbG9jYWwvYmluL25vZGUgL3Vzci9sb2NhbC9iaW4vcG0yIHJlc3RhcnQgcHJvY2Vzcy5qc29uIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJ1bignTk9ERV9FTlY9cHJvZCBub2RlL2Jpbi9ub2RlIGRpc3BhdGNoZXIvdHlwZW9ybS5qcyBtaWdyYXRpb25zOnJ1bicpCg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oIi91c3IvbG9jYWwvYmluL25vZGUgL3Vzci9sb2NhbC9iaW4vcG0yIHJlc3RhcnQgcHJvY2Vzcy5qc29uIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1ZG8oJ05PREVfRU5WPXByb2Qgbm9kZS9iaW4vbm9kZSBkaXNwYXRjaGVyL3R5cGVvcm0uanMgbWlncmF0aW9uczpydW4nLCB1c2VyPSd1eXVuJykK</text>
+        <text encoding="base64">ICAgICAgICAjIHJ1bignTk9ERV9FTlY9cHJvZCBub2RlL2Jpbi9ub2RlIGRpc3BhdGNoZXIvdHlwZW9ybS5qcyBtaWdyYXRpb25zOnJ1bicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1ZG8oJ2NobW9kICt4IGJpbi9hbnQnLCB1c2VyPSd1eXVuJykK</text>
+        <text encoding="base64">ICAgICAgICAjIHN1ZG8oJ05PREVfRU5WPXByb2Qgbm9kZS9iaW4vbm9kZSBkaXNwYXRjaGVyL3R5cGVvcm0uanMgbWlncmF0aW9uczpydW4nLCB1c2VyPSd1eXVuJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1ZG8oIi91c3IvbG9jYWwvYmluL25vZGUgL3Vzci9sb2NhbC9iaW4vcG0yIHJlc3RhcnQgcHJvY2Vzcy5qc29uIiwgdXNlcj0ndXl1bicpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN1ZG8oJ2NobW9kICt4IGJpbi9hbnQnLCB1c2VyPSd1eXVuJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRQbGF0UmFuZFw+</last-search>
+      <last-search>axios</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRQbGF0UmFuZFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>axios</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>forward</entry>
         <entry>def f</entry>
         <entry>sleep</entry>
         <entry>flush(</entry>
@@ -288,6 +291,7 @@
         <entry>call_</entry>
         <entry>uyun</entry>
         <entry encoding="base64">XDxnZXRQbGF0UmFuZFw+</entry>
+        <entry>axios</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
