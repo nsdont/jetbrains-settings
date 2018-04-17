@@ -49,11 +49,12 @@
         <mark key="." line="148" column="109" />
         <mark key="^" line="148" column="109" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523973822610">
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523974878441">
         <mark key="'" line="149" column="2" />
         <mark key="[" line="171" column="18" />
-        <mark key="]" line="171" column="18" />
-        <mark key="." line="171" column="18" />
+        <mark key="]" line="87" column="33" />
+        <mark key="." line="87" column="33" />
+        <mark key="^" line="87" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/setup_ping_check.sh" timestamp="1522742074382">
         <mark key="[" line="1" column="0" />
