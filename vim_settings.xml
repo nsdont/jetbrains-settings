@@ -32,11 +32,6 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/disconf.ts" timestamp="1523991035877">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
       </file>
@@ -90,12 +85,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/config.ts" timestamp="1523991745839">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
