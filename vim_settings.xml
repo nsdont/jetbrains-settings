@@ -9,6 +9,9 @@
       <file name="/Dummy.txt" timestamp="1523498155376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/nfs/__init__.py" timestamp="1524054594072">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
         <mark key="'" line="63" column="34" />
         <mark key="[" line="12" column="38" />
@@ -179,6 +182,7 @@
       <jump line="126" column="44" filename="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" />
       <jump line="137" column="44" filename="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" />
       <jump line="148" column="44" filename="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" />
+      <jump line="13" column="0" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/nfs/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
