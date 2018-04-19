@@ -81,10 +81,9 @@
         <mark key="^" line="148" column="109" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" timestamp="1523992787558">
-        <mark key="'" line="23" column="23" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
