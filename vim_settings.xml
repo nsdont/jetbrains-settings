@@ -66,12 +66,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/fabfile.py" timestamp="1524225491464">
-        <mark key="'" line="34" column="51" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="18" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/fabfile.py" timestamp="1524226361086">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1523498155376">
         <mark key="[" line="0" column="0" />
@@ -123,10 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="27" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="108" column="54" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="173" column="27" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
-      <jump line="210" column="15" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="122" column="19" filename="$USER_HOME$/source/uyun/monitor/gohai.py" />
       <jump line="131" column="17" filename="$USER_HOME$/source/uyun/monitor/gohai.py" />
       <jump line="73" column="15" filename="$USER_HOME$/.virtualenvs/monitor-kHKo3dhK/lib/python2.7/site-packages/sysutil/cpu.py" />
@@ -223,19 +219,23 @@
       <jump line="186" column="39" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="97" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="237" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="37" column="18" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
+      <jump line="38" column="9" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
+      <jump line="43" column="22" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
+      <jump line="44" column="16" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBydW4oInJtIGRpc3QudGFyLmd6IikK</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>dist.tar</text>
       </register>
-      <register name="0" type="4">
-        <text>messageCheckAndSend</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBydW4oInJtIGRpc3QudGFyLmd6IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
@@ -271,15 +271,14 @@
       </register>
     </registers>
     <search>
-      <last-search>lock</last-search>
+      <last-search>dist.tar</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
+      <last-pattern>dist.tar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCQVNFX1VSTFw+</entry>
         <entry>call_</entry>
         <entry>uyun</entry>
         <entry encoding="base64">XDxnZXRQbGF0UmFuZFw+</entry>
@@ -299,6 +298,7 @@
         <entry encoding="base64">XDxtZXNzYWdlQ2hlY2tBbmRTZW5kXD4=</entry>
         <entry>redis</entry>
         <entry>lock</entry>
+        <entry>dist.tar</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
