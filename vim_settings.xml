@@ -6,17 +6,24 @@
       <file name="/fragment.js" timestamp="1523989656050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524214932032">
-        <mark key="[" line="124" column="15" />
-        <mark key="]" line="124" column="18" />
-        <mark key="." line="124" column="18" />
-        <mark key="^" line="124" column="18" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
+        <mark key="'" line="157" column="62" />
+        <mark key="[" line="126" column="38" />
+        <mark key="]" line="126" column="56" />
+        <mark key="." line="127" column="62" />
+        <mark key="^" line="127" column="62" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/collection.ts" timestamp="1524212128518">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
         <mark key="^" line="0" column="62" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/MessageReactor.ts" timestamp="1524216858366">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="73" />
+        <mark key="^" line="21" column="73" />
+        <mark key="." line="21" column="73" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1523992085527">
         <mark key="'" line="55" column="15" />
@@ -25,12 +32,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524213031488">
-        <mark key="'" line="57" column="9" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="38" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="57" column="22" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524217259702">
+        <mark key="'" line="210" column="15" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="213" column="57" />
       </file>
       <file name="/JavaScript Console" timestamp="1524214938815">
         <mark key="[" line="0" column="0" />
@@ -49,12 +56,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/fabfile.py" timestamp="1524213080169">
+      <file name="$USER_HOME$/source/uyun/dispatcher/fabfile.py" timestamp="1524217091059">
         <mark key="'" line="34" column="51" />
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
-        <mark key="^" line="48" column="62" />
-        <mark key="." line="44" column="4" />
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="43" />
+        <mark key="^" line="36" column="43" />
+        <mark key="." line="36" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1523498155376">
         <mark key="[" line="0" column="0" />
@@ -106,11 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="36" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="571" column="29" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="181" column="24" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="177" column="52" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="423" column="35" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="104" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="37" column="27" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
@@ -204,67 +206,67 @@
       <jump line="80" column="33" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" />
       <jump line="128" column="29" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
       <jump line="164" column="40" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="57" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="34" column="51" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="137" column="7" filename="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" />
+      <jump line="154" column="18" filename="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" />
+      <jump line="157" column="62" filename="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="210" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>every</text>
+        <text>dist</text>
       </register>
       <register name="-" type="4">
-        <text>every</text>
+        <text>dist</text>
       </register>
       <register name="/" type="4">
-        <text>126</text>
+        <text>handleMsg</text>
       </register>
-      <register name="0" type="4">
-        <text>JSON.stringify(request.payload)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvY2FsKCJ0YXIgLXpjZiBkaXN0LnRhci5neiAuL2Rpc3QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZXNfc3RyOiBhbnlbXSA9IFtdOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtnZXRNZXNzYWdlc30gZnJvbSAnLi91dGlscy9tZXNzYWdlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZXMgPSByZXF1ZXN0LnBheWxvYWQubWVzc2FnZXMgYXMgSU1lc3NhZ2VbXTsKICAgICAgbGV0IHRlbmFudElkOiBzdHJpbmcgPSAnJzsKICAgICAgbGV0IGFwaUtleTogc3RyaW5nID0gJyc7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShtZXNzYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2VfYm9keSA9IHsKICAgICAgICBlcnJvcl9jb2RlOiBjb25zdGFudC5TVUNDRVNTX0VSUk9SX0NPREUsCiAgICAgICAgZXJyb3JfbXNnOiAnJywKICAgICAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICAgICAgYWNjZXB0Q291bnQ6IDAsCiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZXNfc3RyOiBhbnlbXSA9IFtdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZXMgPSByZXF1ZXN0LnBheWxvYWQubWVzc2FnZXMgYXMgSU1lc3NhZ2VbXTsKICAgICAgbGV0IHRlbmFudElkOiBzdHJpbmcgPSAnJzsKICAgICAgbGV0IGFwaUtleTogc3RyaW5nID0gJyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2VzX3N0cjogYW55W10gPSBbXTsKICAgIHJlcXVlc3QucGF5bG9hZC5tZXNzYWdlcy5lYWNoKChpdGVtOiBhbnkpID0+IHsKICAgICAgaWYgKCdsb2cnIGluIGl0ZW0uYm9keSAmJiBpdGVtLmJvZHkubG9nLmxlbmd0aCA+IDEwMjQpIHsKICAgICAgICBtZXNzYWdlc19zdHIucHVzaChKU09OLnN0cmluZ2lmeShjb3B5RGljdEV4Y2x1ZGVCb2R5KGl0ZW0sICdsb2cnKSkpOwogICAgICB9IGVsc2UgewogICAgICAgIG1lc3NhZ2VzX3N0ci5wdXNoKEpTT04uc3RyaW5naWZ5KGl0ZW0pKTsKICAgICAgfQogICAgfSk7CiAgICBsb2dnZXIuaW5mbygKICAgICAgYFtjb250cm9sbGVycy9tZXNzYWdlc10gaGVhZGVycygke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QuaGVhZGVycyl9KSBgICsKICAgICAgYHJlY2VpdmUgbWVzc2FnZXMoJHttZXNzYWdlc19zdHJ9KWAsCiAgICApOwogICAgcmVxdWVzdFRpbWUuaW5jcigpOwogICAgY29uc3QgbWVzc2FnZXMgPSByZXF1ZXN0LnBheWxvYWQubWVzc2FnZXMgYXMgSU1lc3NhZ2VbXTsKICAgIGxldCB0ZW5hbnRJZDogc3RyaW5nID0gJyc7CiAgICBsZXQgYXBpS2V5OiBzdHJpbmcgPSAnJzsKICAgIGNvbnN0IHJlc3BvbnNlX2JvZHkgPSB7CiAgICAgIGVycm9yX2NvZGU6IGNvbnN0YW50LlNVQ0NFU1NfRVJST1JfQ09ERSwKICAgICAgZXJyb3JfbXNnOiAnJywKICAgICAgc3RhdHVzQ29kZTogMjAwLAogICAgICBhY2NlcHRDb3VudDogMCwKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2VfYm9keSA9IHsKICAgICAgICBlcnJvcl9jb2RlOiBjb25zdGFudC5TVUNDRVNTX0VSUk9SX0NPREUsCiAgICAgICAgZXJyb3JfbXNnOiAnJywKICAgICAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICAgICAgYWNjZXB0Q291bnQ6IDAsCiAgICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LnBheWxvYWQuYm9keS5sZW5ndGggPiAxMDI0KSB7CiAgICAgIHBheWxvYWRfc3RyID0gSlNPTi5zdHJpbmdpZnkoY29weURpY3RFeGNsdWRlQm9keShyZXF1ZXN0LnBheWxvYWQpKTsKICAgIH0gZWxzZSB7CiAgICAgIHBheWxvYWRfc3RyID0gSlNPTi5zdHJpbmdpZnkocmVxdWVzdC5wYXlsb2FkKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2VzX3N0cjogYW55W10gPSBbXTsKICAgIHJlcXVlc3QucGF5bG9hZC5tZXNzYWdlcy5lYWNoKChpdGVtOiBhbnkpID0+IHsKICAgICAgaWYgKCdsb2cnIGluIGl0ZW0uYm9keSAmJiBpdGVtLmJvZHkubG9nLmxlbmd0aCA+IDEwMjQpIHsKICAgICAgICBtZXNzYWdlc19zdHIucHVzaChKU09OLnN0cmluZ2lmeShjb3B5RGljdEV4Y2x1ZGVCb2R5KGl0ZW0sICdsb2cnKSkpOwogICAgICB9IGVsc2UgewogICAgICAgIG1lc3NhZ2VzX3N0ci5wdXNoKEpTT04uc3RyaW5naWZ5KGl0ZW0pKTsKICAgICAgfQogICAgfSk7CiAgICBsb2dnZXIuaW5mbygKICAgICAgYFtjb250cm9sbGVycy9tZXNzYWdlc10gaGVhZGVycygke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QuaGVhZGVycyl9KSBgICsKICAgICAgYHJlY2VpdmUgbWVzc2FnZXMoJHttZXNzYWdlc19zdHJ9KWAsCiAgICApOwogICAgcmVxdWVzdFRpbWUuaW5jcigpOwogICAgY29uc3QgbWVzc2FnZXMgPSByZXF1ZXN0LnBheWxvYWQubWVzc2FnZXMgYXMgSU1lc3NhZ2VbXTsKICAgIGxldCB0ZW5hbnRJZDogc3RyaW5nID0gJyc7CiAgICBsZXQgYXBpS2V5OiBzdHJpbmcgPSAnJzsKICAgIGNvbnN0IHJlc3BvbnNlX2JvZHkgPSB7CiAgICAgIGVycm9yX2NvZGU6IGNvbnN0YW50LlNVQ0NFU1NfRVJST1JfQ09ERSwKICAgICAgZXJyb3JfbXNnOiAnJywKICAgICAgc3RhdHVzQ29kZTogMjAwLAogICAgICBhY2NlcHRDb3VudDogMCwKICAgIH07Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBsZXQgbXNnX3N0cjogYW55ID0gewogICAgdXJsOiBtc2cudXJsLAogICAgc2VxOiBtc2cuc2VxLAogICAgYXBpa2V5OiBtc2cuYXBpS2V5LAogICAgcGF5bG9hZDogJycsCiAgfTsKICBpZiAoJ25ld19sb2dzJyBpbiBtc2cucGF5bG9hZCAmJiBtc2cucGF5bG9hZC5uZXdfbG9ncy5sZW5ndGggPiAxMDI0KSB7CiAgICBtc2dfc3RyLnBheWxvYWQgPSBKU09OLnN0cmluZ2lmeShjb3B5RGljdEV4Y2x1ZGVCb2R5KG1zZy5wYXlsb2FkLCAnbmV3X2xvZ3MnKSk7CiAgfSBlbHNlIHsKICAgIG1zZ19zdHIucGF5bG9hZCA9IEpTT04uc3RyaW5naWZ5KG1zZy5wYXlsb2FkKTsKICB9CiAgbXNnX3N0ciA9IEpTT04uc3RyaW5naWZ5KG1zZ19zdHIpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LnBheWxvYWQuYm9keS5sZW5ndGggPiAxMDI0KSB7CiAgICAgIHBheWxvYWRfc3RyID0gSlNPTi5zdHJpbmdpZnkoY29weURpY3RFeGNsdWRlQm9keShyZXF1ZXN0LnBheWxvYWQpKTsKICAgIH0gZWxzZSB7CiAgICAgIHBheWxvYWRfc3RyID0gSlNPTi5zdHJpbmdpZnkocmVxdWVzdC5wYXlsb2FkKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDogbXNnLmFwaUtleSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>126</last-search>
+      <last-search>handleMsg</last-search>
       <last-offset />
-      <last-pattern>126</last-pattern>
+      <last-pattern>handleMsg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ready ping</entry>
-        <entry encoding="base64">XDxzY3B1aW5mb1w+</entry>
-        <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
-        <entry encoding="base64">XDxmYW1pbHlcPg==</entry>
-        <entry>restart</entry>
         <entry>dispatcher</entry>
         <entry>taskResult</entry>
         <entry>result</entry>
@@ -280,6 +282,11 @@
         <entry encoding="base64">XDxnZXRNc2dTbWFsbE1zZ1w+</entry>
         <entry encoding="base64">XDxnZXRNc2dTbWFsbFN0clw+</entry>
         <entry>126</entry>
+        <entry>receive</entry>
+        <entry>feed</entry>
+        <entry>feed message</entry>
+        <entry>redis</entry>
+        <entry>handleMsg</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
