@@ -6,11 +6,17 @@
       <file name="/fragment.js" timestamp="1523989656050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524209088491">
-        <mark key="[" line="127" column="6" />
-        <mark key="]" line="127" column="6" />
-        <mark key="." line="127" column="6" />
-        <mark key="^" line="123" column="24" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524211146012">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="113" column="24" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1523992085527">
         <mark key="'" line="55" column="15" />
@@ -206,8 +212,8 @@
       <jump line="128" column="29" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmZ1bmN0aW9uIGNvcHlEaWN0RXhjbHVkZUJvZHkocGF5bG9hZDogYW55KSB7CiAgY29uc3QgcmVzdWx0OiBhbnkgPSB7fTsKICBmb3IgKGNvbnN0IGtleSBvZiBPYmplY3Qua2V5cyhwYXlsb2FkKSkgewogICAgaWYgKGtleSAhPT0gJ2JvZHknKSB7CiAgICAgIHJlc3VsdFtrZXldID0gcGF5bG9hZFtrZXldOwogICAgfQogIH0KICByZXR1cm4gcmVzdWx0Owp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y29uc3Qg</text>
@@ -219,31 +225,31 @@
         <text>error.response.headers['set-cookie'][0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGNvcHlEaWN0RXhjbHVkZUJvZHkocGF5bG9hZDogYW55KSB7CiAgY29uc3QgcmVzdWx0OiBhbnkgPSB7fTsKICBmb3IgKGNvbnN0IGtleSBvZiBPYmplY3Qua2V5cyhwYXlsb2FkKSkgewogICAgaWYgKGtleSAhPT0gJ2JvZHknKSB7CiAgICAgIHJlc3VsdFtrZXldID0gcGF5bG9hZFtrZXldOwogICAgfQogIH0KICByZXR1cm4gcmVzdWx0Owp9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBgW3V0aWxzL2F4aW9zXSBheGlvcyB0aHJvdyBlcnJvcjogJHt1cmx9IChyZXF1ZXN0OiAke21ldGhvZH0tJHtKU09OLnBhcnNlKHBheWxvYWQpfS0ke0pTT04ucGFyc2UoaGVhZGVycyl9KWAgKwogICAgICAgIGA6ICR7ZXJyb3IucmVzcG9uc2Uuc3RhdHVzfSAtICR7SlNPTi5zdHJpbmdpZnkoZXJyb3IucmVzcG9uc2UuZGF0YSl9YCwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBgW3V0aWxzL2F4aW9zXSBheGlvcyB0aHJvdyBlcnJvcjogJHt1cmx9IChyZXF1ZXN0OiAke21ldGhvZH0tJHtKU09OLnBhcnNlKHBheWxvYWQpfS0ke0pTT04ucGFyc2UoaGVhZGVycyl9KWAgKwogICAgICAgIGA6ICR7ZXJyb3IucmVzcG9uc2Uuc3RhdHVzfSAtICR7SlNPTi5zdHJpbmdpZnkoZXJyb3IucmVzcG9uc2UuZGF0YSl9YCwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvb2tpZTogY29va2llLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIENvb2tpZTogY29va2llLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0gewo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
