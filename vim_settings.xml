@@ -9,10 +9,6 @@
       <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/nfs/__init__.py" timestamp="1524054594072">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/ioloop.py" timestamp="1522725309284">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/backend/backend.py" timestamp="1523437466827">
         <mark key="'" line="94" column="32" />
       </file>
@@ -35,9 +31,8 @@
       <file name="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" timestamp="1524209484457">
         <mark key="'" line="999" column="9" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="41" column="28" />
+      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524222592783">
+        <mark key="'" line="21" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1523498155376">
         <mark key="[" line="0" column="0" />
@@ -81,8 +76,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="33" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
-      <jump line="49" column="31" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="10" column="59" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="54" column="0" filename="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" />
       <jump line="26" column="39" filename="$USER_HOME$/source/uyun/agent/bin/ant.py" />
@@ -181,6 +174,8 @@
       <jump line="992" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
       <jump line="999" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
       <jump line="276" column="16" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/source/uyun/monitor/emitter.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/source/uyun/monitor/emitter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -190,7 +185,7 @@
         <text>exec_stop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW1zdGF0c1w+</text>
+        <text encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>system.swap</text>
@@ -224,16 +219,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW1zdGF0c1w+</last-search>
+      <last-search encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW1zdGF0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>forward</entry>
-        <entry>def f</entry>
         <entry>sleep</entry>
         <entry>flush(</entry>
         <entry>on_response</entry>
@@ -252,6 +245,8 @@
         <entry>swap.</entry>
         <entry>swap\.</entry>
         <entry encoding="base64">XDxtZW1zdGF0c1w+</entry>
+        <entry encoding="base64">XDx6bGliXD4=</entry>
+        <entry encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
