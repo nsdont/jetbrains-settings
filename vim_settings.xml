@@ -6,56 +6,15 @@
       <file name="vim_settings.xml" timestamp="1523608847397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523498155376">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/nfs/__init__.py" timestamp="1524054594072">
         <mark key="'" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
-        <mark key="'" line="63" column="34" />
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1522736412530">
-        <mark key="'" line="28" column="27" />
-        <mark key="[" line="97" column="33" />
-        <mark key="]" line="97" column="55" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
-        <mark key="'" line="423" column="35" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1523498132257">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/ioloop.py" timestamp="1522725309284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/circle/arbiter.py" timestamp="1522725659949">
-        <mark key="'" line="321" column="13" />
-        <mark key="[" line="447" column="26" />
-        <mark key="]" line="447" column="39" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/backend/backend.py" timestamp="1523437466827">
         <mark key="'" line="94" column="32" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" timestamp="1523498271696">
-        <mark key="'" line="148" column="44" />
-        <mark key="[" line="148" column="106" />
-        <mark key="]" line="148" column="109" />
-        <mark key="." line="148" column="109" />
-        <mark key="^" line="148" column="109" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/setup_ping_check.sh" timestamp="1522742074382">
         <mark key="[" line="1" column="0" />
@@ -73,15 +32,45 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1523348649654">
-        <mark key="'" line="89" column="20" />
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="20" />
-        <mark key="." line="89" column="20" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" timestamp="1524209484457">
+        <mark key="'" line="999" column="9" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523498155376">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/checks.d/cacti.py" timestamp="1524209242914">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
+        <mark key="'" line="63" column="34" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
+        <mark key="'" line="423" column="35" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1523498132257">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" timestamp="1523498271696">
+        <mark key="'" line="148" column="44" />
+        <mark key="[" line="148" column="106" />
+        <mark key="]" line="148" column="109" />
+        <mark key="." line="148" column="109" />
+        <mark key="^" line="148" column="109" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1524209264107" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1524209531237">
+        <mark key="'" line="276" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1523629987227">
         <mark key="'" line="210" column="15" />
@@ -92,7 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="19" column="33" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="49" column="31" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="10" column="59" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
@@ -183,19 +171,29 @@
       <jump line="137" column="44" filename="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" />
       <jump line="148" column="44" filename="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" />
       <jump line="13" column="0" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/nfs/__init__.py" />
+      <jump line="151" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="660" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="667" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="674" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="971" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="978" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="985" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="992" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="999" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/libs/vmware/all_metrics.py" />
+      <jump line="276" column="16" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>system.swap</text>
       </register>
       <register name="-" type="4">
         <text>exec_stop</text>
       </register>
       <register name="/" type="4">
-        <text>dispatcher</text>
+        <text encoding="base64">XDxtZW1zdGF0c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>exec_restart</text>
+        <text>system.swap</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -226,18 +224,14 @@
       </register>
     </registers>
     <search>
-      <last-search>dispatcher</last-search>
+      <last-search encoding="base64">XDxtZW1zdGF0c1w+</last-search>
       <last-offset />
-      <last-pattern>dispatcher</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxtZW1zdGF0c1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVUFNUUkVBTVw+</entry>
-        <entry>upstream</entry>
-        <entry>ping</entry>
-        <entry encoding="base64">XDxnZXRfb2ZmbGluZV9ob3N0XD4=</entry>
         <entry>forward</entry>
         <entry>def f</entry>
         <entry>sleep</entry>
@@ -254,6 +248,10 @@
         <entry encoding="base64">XDxVcGRhdGVyUHJvY2Vzc1w+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlbWFuYWdlclw+</entry>
         <entry>exit</entry>
+        <entry>swap</entry>
+        <entry>swap.</entry>
+        <entry>swap\.</entry>
+        <entry encoding="base64">XDxtZW1zdGF0c1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
