@@ -13,11 +13,21 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agent/bin/setup_ping_check.sh" timestamp="1522742074382">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/collection.ts" timestamp="1524212128518">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
         <mark key="^" line="0" column="62" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/logging.ts" timestamp="1524225672994">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/message/MessageReactor.ts" timestamp="1524216858366">
         <mark key="[" line="21" column="65" />
@@ -32,12 +42,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524222088152">
-        <mark key="'" line="210" column="15" />
-        <mark key="[" line="231" column="59" />
-        <mark key="]" line="231" column="65" />
-        <mark key="." line="231" column="65" />
-        <mark key="^" line="231" column="65" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524225296372">
+        <mark key="'" line="237" column="2" />
+        <mark key="[" line="143" column="41" />
+        <mark key="]" line="143" column="40" />
+        <mark key="." line="143" column="40" />
+        <mark key="^" line="143" column="40" />
       </file>
       <file name="/JavaScript Console" timestamp="1524214938815">
         <mark key="[" line="0" column="0" />
@@ -56,12 +66,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/fabfile.py" timestamp="1524217091059">
+      <file name="$USER_HOME$/source/uyun/dispatcher/fabfile.py" timestamp="1524225491464">
         <mark key="'" line="34" column="51" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="43" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1523498155376">
         <mark key="[" line="0" column="0" />
@@ -113,28 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="35" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
-      <jump line="37" column="27" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="145" column="22" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="200" column="46" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="201" column="29" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="202" column="29" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="204" column="49" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="206" column="22" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="275" column="61" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="286" column="42" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="294" column="43" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="297" column="22" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="299" column="38" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="300" column="27" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="306" column="35" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="314" column="14" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="317" column="9" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="319" column="16" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="321" column="36" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="340" column="13" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="65" column="13" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="89" column="27" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="108" column="54" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="173" column="27" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
@@ -212,64 +200,85 @@
       <jump line="154" column="18" filename="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" />
       <jump line="157" column="62" filename="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="210" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="197" column="6" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="111" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="180" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="163" column="14" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="158" column="14" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="94" column="23" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="95" column="6" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="99" column="45" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="101" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="102" column="36" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="103" column="7" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="210" column="66" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="225" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="226" column="36" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="89" column="89" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="92" column="8" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="269" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="234" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="185" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="186" column="39" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="97" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="237" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>handleMsg</text>
+        <text>lock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvY2FsKCJ0YXIgLXpjZiBkaXN0LnRhci5neiAuL2Rpc3QiKQo=</text>
+      <register name="0" type="4">
+        <text>messageCheckAndSend</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRNZXNzYWdlc30gZnJvbSAnLi91dGlscy9tZXNzYWdlJzsK</text>
+        <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhID0gSlNPTi5wYXJzZShtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZXNfc3RyOiBhbnlbXSA9IFtdOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZXMgPSByZXF1ZXN0LnBheWxvYWQubWVzc2FnZXMgYXMgSU1lc3NhZ2VbXTsKICAgICAgbGV0IHRlbmFudElkOiBzdHJpbmcgPSAnJzsKICAgICAgbGV0IGFwaUtleTogc3RyaW5nID0gJyc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2VfYm9keSA9IHsKICAgICAgICBlcnJvcl9jb2RlOiBjb25zdGFudC5TVUNDRVNTX0VSUk9SX0NPREUsCiAgICAgICAgZXJyb3JfbXNnOiAnJywKICAgICAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICAgICAgYWNjZXB0Q291bnQ6IDAsCiAgICAgIH07Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2VzX3N0cjogYW55W10gPSBbXTsKICAgIHJlcXVlc3QucGF5bG9hZC5tZXNzYWdlcy5lYWNoKChpdGVtOiBhbnkpID0+IHsKICAgICAgaWYgKCdsb2cnIGluIGl0ZW0uYm9keSAmJiBpdGVtLmJvZHkubG9nLmxlbmd0aCA+IDEwMjQpIHsKICAgICAgICBtZXNzYWdlc19zdHIucHVzaChKU09OLnN0cmluZ2lmeShjb3B5RGljdEV4Y2x1ZGVCb2R5KGl0ZW0sICdsb2cnKSkpOwogICAgICB9IGVsc2UgewogICAgICAgIG1lc3NhZ2VzX3N0ci5wdXNoKEpTT04uc3RyaW5naWZ5KGl0ZW0pKTsKICAgICAgfQogICAgfSk7CiAgICBsb2dnZXIuaW5mbygKICAgICAgYFtjb250cm9sbGVycy9tZXNzYWdlc10gaGVhZGVycygke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QuaGVhZGVycyl9KSBgICsKICAgICAgYHJlY2VpdmUgbWVzc2FnZXMoJHttZXNzYWdlc19zdHJ9KWAsCiAgICApOwogICAgcmVxdWVzdFRpbWUuaW5jcigpOwogICAgY29uc3QgbWVzc2FnZXMgPSByZXF1ZXN0LnBheWxvYWQubWVzc2FnZXMgYXMgSU1lc3NhZ2VbXTsKICAgIGxldCB0ZW5hbnRJZDogc3RyaW5nID0gJyc7CiAgICBsZXQgYXBpS2V5OiBzdHJpbmcgPSAnJzsKICAgIGNvbnN0IHJlc3BvbnNlX2JvZHkgPSB7CiAgICAgIGVycm9yX2NvZGU6IGNvbnN0YW50LlNVQ0NFU1NfRVJST1JfQ09ERSwKICAgICAgZXJyb3JfbXNnOiAnJywKICAgICAgc3RhdHVzQ29kZTogMjAwLAogICAgICBhY2NlcHRDb3VudDogMCwKICAgIH07Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBsZXQgdGltZXI6IGFueTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LnBheWxvYWQuYm9keS5sZW5ndGggPiAxMDI0KSB7CiAgICAgIHBheWxvYWRfc3RyID0gSlNPTi5zdHJpbmdpZnkoY29weURpY3RFeGNsdWRlQm9keShyZXF1ZXN0LnBheWxvYWQpKTsKICAgIH0gZWxzZSB7CiAgICAgIHBheWxvYWRfc3RyID0gSlNPTi5zdHJpbmdpZnkocmVxdWVzdC5wYXlsb2FkKTsKICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvY2sgPSBhd2FpdCByZWRpcy5yZWRsb2NrLmxvY2sobG9ja0tleSwgbG9ja1RUTCk7CiAgICB0aW1lciA9IHNldFRpbWVvdXQoYXN5bmMgZnVuY3Rpb24gb25UaW1lb3V0KCkgewogICAgICBhd2FpdCBsb2NrLmV4dGVuZChsb2NrVFRMKTsKICAgICAgdGltZXIgPSBzZXRUaW1lb3V0KG9uVGltZW91dCwgbG9ja1RUTCAtIDEwMDApOwogICAgfSwgbG9ja1RUTCAtIDEwMDApOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>finally {
+  }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICh0aW1lcikgewogICAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgfQogICAgdHJ5IHsKICAgICAgaWYgKGxvY2spIHsKICAgICAgICBsb2NrLnVubG9jaygpOwogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2dnZXIuZXJyb3IoYFtzbXRdIEVycm9yIHdoaWxlIHVubG9ja2luZzogJHttc2dfc3RyfWAsIGVycm9yLnN0YWNrKTsKICAgIH0K</text>
+      </register>
+      <register name="8" type="4">
+        <text>}
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>handleMsg</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern>handleMsg</last-pattern>
+      <last-pattern>lock</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dispatcher</entry>
-        <entry>taskResult</entry>
-        <entry>result</entry>
         <entry encoding="base64">XDxCQVNFX1VSTFw+</entry>
         <entry>call_</entry>
         <entry>uyun</entry>
@@ -285,8 +294,11 @@
         <entry>receive</entry>
         <entry>feed</entry>
         <entry>feed message</entry>
-        <entry>redis</entry>
         <entry>handleMsg</entry>
+        <entry encoding="base64">XDxkZWxheVJlQ2hlY2tNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxtZXNzYWdlQ2hlY2tBbmRTZW5kXD4=</entry>
+        <entry>redis</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
