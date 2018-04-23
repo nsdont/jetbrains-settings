@@ -26,6 +26,11 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
         <mark key="'" line="146" column="62" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/MessageQueue.ts" timestamp="1524483234113">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1524126355306">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="17" />
@@ -65,6 +70,9 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/send_to_redis.ts" timestamp="1524483780571">
+        <mark key="'" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1523992085527">
         <mark key="'" line="55" column="15" />
@@ -122,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="15" filename="$USER_HOME$/.virtualenvs/monitor-kHKo3dhK/lib/python2.7/site-packages/sysutil/cpu.py" />
       <jump line="68" column="4" filename="$USER_HOME$/.virtualenvs/monitor-kHKo3dhK/lib/python2.7/site-packages/sysutil/cpu.py" />
       <jump line="48" column="55" filename="$USER_HOME$/.virtualenvs/monitor-kHKo3dhK/lib/python2.7/site-packages/sysutil/cpu.py" />
       <jump line="221" column="51" filename="$USER_HOME$/.virtualenvs/monitor-kHKo3dhK/lib/python2.7/site-packages/sysutil/cpu.py" />
@@ -222,63 +229,63 @@
       <jump line="44" column="16" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
       <jump line="344" column="24" filename="$USER_HOME$/source/uyun/dispatcher/bin/ant.py" />
       <jump line="3" column="6" filename="$USER_HOME$/source/uyun/dispatcher/bin/ant.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/send_to_redis.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ANT_TASK_WEBHOOK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXNsCg==</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>hello</text>
+        <text encoding="base64">XDxiZWZvcmVTdGFydFw+</text>
       </register>
       <register name="0" type="4">
         <text>ANT_TASK_WEBHOOK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFpbGFibGU6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgdGltZXI6IGFueTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBsZXQgdGltZXI6IGFueTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvY2sgPSBhd2FpdCByZWRpcy5yZWRsb2NrLmxvY2sobG9ja0tleSwgbG9ja1RUTCk7CiAgICB0aW1lciA9IHNldFRpbWVvdXQoYXN5bmMgZnVuY3Rpb24gb25UaW1lb3V0KCkgewogICAgICBhd2FpdCBsb2NrLmV4dGVuZChsb2NrVFRMKTsKICAgICAgdGltZXIgPSBzZXRUaW1lb3V0KG9uVGltZW91dCwgbG9ja1RUTCAtIDEwMDApOwogICAgfSwgbG9ja1RUTCAtIDEwMDApOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>finally {
   }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICh0aW1lcikgewogICAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgfQogICAgdHJ5IHsKICAgICAgaWYgKGxvY2spIHsKICAgICAgICBsb2NrLnVubG9jaygpOwogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2dnZXIuZXJyb3IoYFtzbXRdIEVycm9yIHdoaWxlIHVubG9ja2luZzogJHttc2dfc3RyfWAsIGVycm9yLnN0YWNrKTsKICAgIH0K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>}
   }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hello</last-search>
+      <last-search encoding="base64">XDxiZWZvcmVTdGFydFw+</last-search>
       <last-offset />
-      <last-pattern>hello</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxiZWZvcmVTdGFydFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uyun</entry>
         <entry encoding="base64">XDxnZXRQbGF0UmFuZFw+</entry>
         <entry>axios</entry>
         <entry encoding="base64">XDxSZXF1ZXN0SW5pdFw+</entry>
@@ -298,6 +305,7 @@
         <entry>lock</entry>
         <entry>dist.tar</entry>
         <entry>hello</entry>
+        <entry encoding="base64">XDxiZWZvcmVTdGFydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
