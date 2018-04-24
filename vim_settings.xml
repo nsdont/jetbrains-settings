@@ -85,11 +85,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524553440601">
-        <mark key="'" line="79" column="8" />
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="393" column="0" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524558911025">
+        <mark key="'" line="463" column="13" />
+        <mark key="[" line="420" column="67" />
+        <mark key="]" line="420" column="67" />
+        <mark key="^" line="420" column="67" />
+        <mark key="." line="420" column="67" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -191,20 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="23" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" />
-      <jump line="16" column="20" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
-      <jump line="299" column="0" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
-      <jump line="301" column="58" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
-      <jump line="60" column="31" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="2" column="30" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="109" column="60" filename="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/test_axios.ts" />
-      <jump line="11" column="8" filename="$USER_HOME$/source/uyun/dispatcher/a.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="55" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="15" column="33" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" />
-      <jump line="12" column="19" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" />
       <jump line="5" column="12" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" />
       <jump line="80" column="33" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" />
       <jump line="128" column="29" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
@@ -291,63 +278,74 @@
       <jump line="15" column="6" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="136" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="79" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="401" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="438" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="398" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="93" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="272" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="394" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="395" column="52" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="397" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="399" column="79" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="314" column="60" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="383" column="59" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="384" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="426" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="463" column="13" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kX21ldHJpY19pdGVtKCdzeXN0ZW0uZXMuY291bnQnLCBJUCwgY291bnQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>split</text>
+        <text>mem</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfcGVyX3NlY29uZCA9IG5vZGVbJ2luZGljZXMnXVsnaW5kZXhpbmcnXVsnaW5kZXhfdG90YWwnXQo=</text>
+      <register name="0" type="4">
+        <text>.format(IP)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kX21ldHJpY19pdGVtKCdzeXN0ZW0uZXMuY291bnQnLCBJUCwgY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdmFsdWVzWzFdID09IElQOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLmVzLmxvYWQnLCBJUCwgdmFsdWVzWzRdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLmVzLmhlYXAucGVyY2VudCcsIElQLCB2YWx1ZXNbMl0pCiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS5lcy5sb2FkJywgSVAsIHZhbHVlc1s0XSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbWFpbihzeXMuYXJndlsxOl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLmVzLnJhbS5wZXJjZW50JywgSVAsIHZhbHVlc1szXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLmVzLmxvYWQnLCBJUCwgdmFsdWVzWzRdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLmVzLnNlYXJjaC5yZWplY3RlZCcsIElQLCB2YWx1ZXNbMTBdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3VtZW50cy5pdGVtcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLmVzLmluZGV4LnJlamVjdGVkJywgSVAsIHZhbHVlc1s3XSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVqZWN0X2NvdW50ID0gaW50KHZhbHVlc1s0XSkgKyBpbnQodmFsdWVzWzddKSArIGludCh2YWx1ZXNbMTBdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kX21ldHJpY19pdGVtKCdzeXN0ZW0uZXMuYnVsay5yZWplY3RlZCcsIElQLCByZWFkX3RpbWVfcGVyX3JlY29yZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>split</last-search>
+      <last-search>mem</last-search>
       <last-offset />
-      <last-pattern>split</last-pattern>
+      <last-pattern>mem</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmYW1pbHlcPg==</entry>
-        <entry>restart</entry>
-        <entry>dispatcher</entry>
         <entry>taskResult</entry>
         <entry>result</entry>
         <entry encoding="base64">XDxCQVNFX1VSTFw+</entry>
@@ -365,6 +363,9 @@
         <entry>disk</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>split</entry>
+        <entry>total</entry>
+        <entry>count</entry>
+        <entry>mem</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
