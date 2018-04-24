@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1523989656050">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
         <mark key="'" line="157" column="62" />
         <mark key="[" line="126" column="38" />
@@ -13,9 +10,10 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1524488714823">
+      <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1524538159805">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="63" />
+        <mark key="o" line="114" column="19" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
@@ -86,6 +84,10 @@
         <mark key="." line="65" column="39" />
         <mark key="^" line="65" column="39" />
       </file>
+      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="16" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
       </file>
@@ -102,9 +104,6 @@
         <mark key="]" line="39" column="3" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523498155376">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
         <mark key="'" line="63" column="34" />
@@ -284,7 +283,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>os</text>
+        <text>zlib</text>
       </register>
       <register name="-" type="4">
         <text>os</text>
@@ -293,7 +292,7 @@
         <text>split</text>
       </register>
       <register name="0" type="4">
-        <text>json.dumps(metric_data)</text>
+        <text>zlib</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpdGggb3BlbihNRVRSSUNfUkVTVUxUX1BBVEgsICdhJykgYXMgZjoKICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMobWV0cmljX2RhdGEpICsgJ1xuJykK</text>
