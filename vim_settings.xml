@@ -15,11 +15,19 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/win_build/windows32/manifest.yaml" timestamp="1522405969349">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/ioloop.py" timestamp="1522725309284">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523980788186">
         <mark key="'" line="158" column="2" />
@@ -77,12 +85,11 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524540419398">
-        <mark key="'" line="366" column="0" />
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="65" column="39" />
-        <mark key="." line="65" column="39" />
-        <mark key="^" line="65" column="39" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524553440601">
+        <mark key="'" line="79" column="8" />
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="393" column="0" />
+        <mark key="." line="393" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -90,6 +97,10 @@
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" timestamp="1523992442493">
         <mark key="'" line="15" column="33" />
@@ -180,12 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="23" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
-      <jump line="18" column="27" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
-      <jump line="20" column="33" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
-      <jump line="22" column="18" filename="$USER_HOME$/source/uyun/dispatcher/fabfile.py" />
-      <jump line="58" column="22" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
       <jump line="23" column="23" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/axios.ts" />
       <jump line="16" column="20" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
       <jump line="299" column="0" filename="$USER_HOME$/source/uyun/dispatcher/yarn.lock" />
@@ -277,49 +282,55 @@
       <jump line="356" column="23" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="143" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="164" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="165" column="22" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="281" column="46" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="348" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="396" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="165" column="9" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="403" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="15" column="6" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="79" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>zlib</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kX21ldHJpY19pdGVtKCdzeXN0ZW0uZXMuY291bnQnLCBJUCwgY291bnQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>os</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
       </register>
-      <register name="0" type="4">
-        <text>zlib</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfcGVyX3NlY29uZCA9IG5vZGVbJ2luZGljZXMnXVsnaW5kZXhpbmcnXVsnaW5kZXhfdG90YWwnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihNRVRSSUNfUkVTVUxUX1BBVEgsICdhJykgYXMgZjoKICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMobWV0cmljX2RhdGEpICsgJ1xuJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kX21ldHJpY19pdGVtKCdzeXN0ZW0uZXMuY291bnQnLCBJUCwgY291bnQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICMgbWFpbihzeXMuYXJndlsxOl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuY29uZmlnLmRpY3RDb25maWcoTE9HR0lORykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGxvZ2dpbmcuY29uZmlnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3VtZW50cy5pdGVtcygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZXF1ZXN0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
