@@ -225,12 +225,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524723787926">
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524724585573">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/source/uyun/requests_test/reqeusts_demo.py" timestamp="1516606874089">
         <mark key="'" line="0" column="9" />
