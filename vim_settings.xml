@@ -98,12 +98,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524728160109">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="849" column="99" />
-        <mark key="]" line="847" column="10" />
-        <mark key="^" line="847" column="10" />
-        <mark key="." line="847" column="10" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524729923080">
+        <mark key="'" line="834" column="42" />
+        <mark key="[" line="859" column="0" />
+        <mark key="]" line="859" column="12" />
+        <mark key="." line="859" column="12" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -198,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="180" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="163" column="14" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="158" column="14" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
@@ -298,46 +296,47 @@
       <jump line="302" column="13" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="357" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="0" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="834" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>se i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>se i</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>run_cmd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmQoc2VhcmNoX3Jlc3VsdCwgbWV0cmljX3J1bGVbJ2FsaWFzJ10sIG1ldHJpY19ydWxlWydtZXRob2QnXSwgZGF0YS5nZXQoJ3ZhbHVlJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VhcmNoX3Jlc3VsdFttZXRyaWNdWydtZXRob2QnXSA9PSAnTWVhbic6CiAgICAgICAgICAgICAgICB2YWx1ZSA9IHN1bShbaSBmb3IgaSBpbiBzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddXSkgLyBmbG9hdChsZW4oc2VhcmNoX3Jlc3VsdFttZXRyaWNdWyd2YWx1ZXMnXSkpCiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS57fScuZm9ybWF0KG1ldHJpYyksIElQLCB2YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1ldHJpY19ydWxlWydhbGlhcyddIGluIHNlYXJjaF9yZXN1bHQ6CiAgICAgICAgICAgICAgICAgICAgc2VhcmNoX3Jlc3VsdFttZXRyaWNfcnVsZVsnYWxpYXMnXV1bJ3ZhbHVlcyddLmFwcGVuZChkYXRhWyd2YWx1ZSddKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWFyY2hfcmVzdWx0W21ldHJpY19ydWxlWydhbGlhcyddXSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ21ldGhvZCc6IG1ldHJpY19ydWxlWydtZXRob2QnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlcyc6IFtkYXRhWyd2YWx1ZSddXQogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gc3VtKFtpIGZvciBpIGluIHNlYXJjaF9yZXN1bHRbbWV0cmljXVsndmFsdWVzJ11dKSAvIGZsb2F0KGxlbihzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLS0gVGhyZWFkIHN0YXJ0ZWQgLS0nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLS0gUHJvY2VzcyBzdGRvdXQvc3RkZXJyOiBcbnt9Jy5mb3JtYXQoc3Rkb3V0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1ldHJpY19ydWxlWydhbGlhcyddIGluIHNlYXJjaF9yZXN1bHQ6CiAgICAgICAgICAgICAgICAgICAgc2VhcmNoX3Jlc3VsdFttZXRyaWNfcnVsZVsnYWxpYXMnXV1bJ3ZhbHVlcyddLmFwcGVuZChkYXRhWyd2YWx1ZSddKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWFyY2hfcmVzdWx0W21ldHJpY19ydWxlWydhbGlhcyddXSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgJ21ldGhvZCc6IG1ldHJpY19ydWxlWydtZXRob2QnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlcyc6IFtkYXRhWyd2YWx1ZSddXQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLS0gVGhyZWFkIGZpbmlzaGVkIC0tJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoJy0tIFRlcm1pbmF0aW5nIHByb2Nlc3MgLS0nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBzdGRvdXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
