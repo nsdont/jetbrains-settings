@@ -29,11 +29,11 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/setup_ant.sh" timestamp="1524709714477">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/setup_ant.sh" timestamp="1524725458565">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/dal/dataobject/UserBaseInfoDO.java" timestamp="1524671442980">
         <mark key="'" line="42" column="19" />
@@ -317,8 +317,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522308972572">
+      <file name="/Dummy.txt" timestamp="1524725942925">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/conf/datamonitor.template" timestamp="1517539014418">
         <mark key="'" line="50" column="47" />
@@ -494,10 +497,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJwcm9jZXNzXD4=</text>
