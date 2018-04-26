@@ -225,12 +225,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524709960071">
-        <mark key="'" line="5" column="27" />
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="81" />
-        <mark key="." line="34" column="81" />
-        <mark key="^" line="34" column="81" />
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524723787926">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/requests_test/reqeusts_demo.py" timestamp="1516606874089">
         <mark key="'" line="0" column="9" />
@@ -391,8 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="13" filename="$USER_HOME$/source/uyun/monitor/util.py" />
-      <jump line="558" column="12" filename="$USER_HOME$/source/uyun/monitor/util.py" />
       <jump line="12" column="39" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="132" column="17" filename="$USER_HOME$/source/uyun/monitor/checks/libs/win/winpdh.py" />
       <jump line="126" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/libs/win/winpdh.py" />
@@ -491,6 +489,8 @@
       <jump line="21" column="20" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
       <jump line="33" column="3" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
       <jump line="6" column="27" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
+      <jump line="15" column="32" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +500,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text encoding="base64">XDxzdWJwcm9jZXNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QkFTRV9IT01FPWBwd2RgCg==</text>
@@ -534,15 +534,14 @@
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search encoding="base64">XDxzdWJwcm9jZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzdWJwcm9jZXNzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>socket</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxzcWxfbmFtZVw+</entry>
         <entry encoding="base64">XDxJTlNUQU5DRVNfUVVFUllcPg==</entry>
@@ -562,6 +561,7 @@
         <entry>name</entry>
         <entry encoding="base64">XDxsb2dQYXNzd29yZFw+</entry>
         <entry>insert</entry>
+        <entry encoding="base64">XDxzdWJwcm9jZXNzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
