@@ -219,6 +219,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524706542323" />
       <file name="$USER_HOME$/source/uyun/requests_test/reqeusts_demo.py" timestamp="1516606874089">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="8" column="24" />
@@ -226,6 +227,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agentless/build/manifest.yaml" timestamp="1524706473154" />
       <file name="$USER_HOME$/source/uyun/nova/nova/cmdb/admin.py" timestamp="1516083916797">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -260,7 +262,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/run_with_ant.sh" timestamp="1522303930640">
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/run_with_ant.sh" timestamp="1524706215595">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="48" />
