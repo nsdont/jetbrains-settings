@@ -88,12 +88,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/config.yaml" timestamp="1524645267989">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="89" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/constant.ts" timestamp="1524402461893">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="17" />
