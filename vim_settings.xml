@@ -29,6 +29,12 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/setup_ant.sh" timestamp="1524709714477">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/dal/dataobject/UserBaseInfoDO.java" timestamp="1524671442980">
         <mark key="'" line="42" column="19" />
       </file>
@@ -219,7 +225,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524706542323" />
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" timestamp="1524709960071">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="81" />
+        <mark key="." line="34" column="81" />
+        <mark key="^" line="34" column="81" />
+      </file>
       <file name="$USER_HOME$/source/uyun/requests_test/reqeusts_demo.py" timestamp="1516606874089">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="8" column="24" />
@@ -262,12 +274,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/run_with_ant.sh" timestamp="1524706215595">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="48" />
-        <mark key="." line="40" column="47" />
-        <mark key="^" line="40" column="47" />
+      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/run_with_ant.sh" timestamp="1524709752701">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1520479768381">
         <mark key="'" line="750" column="35" />
@@ -379,10 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="60" filename="$USER_HOME$/source/uyun/monitor/config.py" />
-      <jump line="383" column="61" filename="$USER_HOME$/source/uyun/monitor/config.py" />
-      <jump line="384" column="11" filename="$USER_HOME$/source/uyun/monitor/config.py" />
-      <jump line="750" column="35" filename="$USER_HOME$/source/uyun/monitor/config.py" />
       <jump line="237" column="13" filename="$USER_HOME$/source/uyun/monitor/util.py" />
       <jump line="558" column="12" filename="$USER_HOME$/source/uyun/monitor/util.py" />
       <jump line="12" column="39" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
@@ -479,46 +487,50 @@
       <jump line="213" column="18" filename="$USER_HOME$/source/crowd/wlcf/wlcf/WebContent/WEB-INF/lib/spring-orm-3.2.6.RELEASE.jar!/org/springframework/orm/ibatis/SqlMapClientTemplate.class" />
       <jump line="216" column="32" filename="$USER_HOME$/source/crowd/wlcf/wlcf/WebContent/WEB-INF/lib/spring-orm-3.2.6.RELEASE.jar!/org/springframework/orm/ibatis/SqlMapClientTemplate.class" />
       <jump line="209" column="18" filename="$USER_HOME$/source/crowd/wlcf/wlcf/WebContent/WEB-INF/lib/spring-orm-3.2.6.RELEASE.jar!/org/springframework/orm/ibatis/SqlMapClientTemplate.class" />
+      <jump line="3" column="0" filename="$USER_HOME$/source/uyun/agentless/probe/bin/setup_ant.sh" />
+      <jump line="21" column="20" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
+      <jump line="33" column="3" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
+      <jump line="6" column="27" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uyun.ant.agent.api.service.AgentService</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
       </register>
-      <register name="0" type="4">
-        <text>uyun.ant.agent.api.service.AgentService</text>
+      <register name="0" type="2">
+        <text encoding="base64">QkFTRV9IT01FPWBwd2RgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGFnZW50TGlzdC5zaXplKCkgPiAwKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFnZW50PiBhZ2VudExpc3QgPSBzZXJ2aWNlLmxpc3RBZ2VudChNb2R1bGVDb2RlLkxvY2FsTW9uaXRvciwgVEVOQU5USUQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEFnZW50U2VydmljZSBzZXJ2aWNlID0gKEFnZW50U2VydmljZSkgY29udGV4dC5nZXRCZWFuKCJhZ2VudFNlcnZpY2UiKTsKICAgIExpc3Q8QWdlbnQ+IGFnZW50TGlzdCA9IHNlcnZpY2UubGlzdEFnZW50KE1vZHVsZUNvZGUuTG9jYWxNb25pdG9yLCBURU5BTlRJRCk7CiAgICBhc3NlcnRUcnVlKGFnZW50TGlzdC5zaXplKCkgPiAwKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBZ2VudFNlcnZpY2Ugc2VydmljZSA9IChBZ2VudFNlcnZpY2UpIGNvbnRleHQuZ2V0QmVhbigiYWdlbnRTZXJ2aWNlIik7CiAgICAgICAgQWdlbnQgYWdlbnQgPSBzZXJ2aWNlLmdldEFnZW50KCJiYmQ0N2Q1MzFmNzBjMjljZGNiNTI0NmIyN2FmYjY1NiIsIFRFTkFOVElEKTsKICAgICAgICBhc3NlcnRFcXVhbHMoYWdlbnQuZ2V0SWQoKSwgImJiZDQ3ZDUzMWY3MGMyOWNkY2I1MjQ2YjI3YWZiNjU2Iik7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdEdldEFnZW50TGlzdEJ5TW9kdWxlKCkKICAgIHsKICAgICAgICBBZ2VudFNlcnZpY2Ugc2VydmljZSA9IChBZ2VudFNlcnZpY2UpIGNvbnRleHQuZ2V0QmVhbigiYWdlbnRTZXJ2aWNlIik7CiAgICAgICAgTGlzdDxBZ2VudD4gYWdlbnRMaXN0ID0gc2VydmljZS5saXN0QWdlbnQoTW9kdWxlQ29kZS5Mb2NhbE1vbml0b3IsIFRFTkFOVElEKTsKICAgICAgICBhc3NlcnRUcnVlKGFnZW50TGlzdC5zaXplKCkgPiAwKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdEdldExvY2FsUmVtb3RlTW9uaXRvcigpCiAgICB7CiAgICAgICAgTG9jYWxSZW1vdGVBdXRvbWF0aW9uU2VydmljZSBzZXJ2aWNlID0gKExvY2FsUmVtb3RlQXV0b21hdGlvblNlcnZpY2UpIGNvbnRleHQuZ2V0QmVhbigiYXV0b21hdGlvblNlcnZpY2UiKTsKICAgICAgICBMaXN0PFJlbW90ZUF1dG9tYXRpb25JbmZvPiBpbmZvcyA9IHNlcnZpY2UuZ2V0UmVtb3RlQXV0b21hdGlvbkJ5VGVuYW50SWQoVEVOQU5USUQpOwogICAgICAgIGFzc2VydFRydWUoaW5mb3Muc2l6ZSgpID4gMCk7CiAgICB9CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdEdldExvY2FsQXV0b21hdGlvblJlc291cmNlRGV0YWlsKCkKICAgIHsKICAgICAgICBMb2NhbFJlbW90ZUF1dG9tYXRpb25TZXJ2aWNlIHNlcnZpY2UgPSAoTG9jYWxSZW1vdGVBdXRvbWF0aW9uU2VydmljZSkgY29udGV4dC5nZXRCZWFuKCJhdXRvbWF0aW9uU2VydmljZSIpOwogICAgICAgIExpc3Q8UmVtb3RlQXV0b21hdGlvbkluZm8+IGluZm9zID0gc2VydmljZS5nZXRSZW1vdGVBdXRvbWF0aW9uQnlUZW5hbnRJZChURU5BTlRJRCk7CiAgICAgICAgQ29tcHV0ZU9iamVjdEluZm9EVE8gbG9jYWxJbmZvTGlzdCA9IHNlcnZpY2UuZ2V0UmVzb3VyY2VMaXN0KGluZm9zLmdldCgwKS5nZXRBZ2VudElkKCksIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsCiAgICAgICAgICAgICAgICBudWxsLCBudWxsLG51bGwsIG51bGwsIFRFTkFOVElEKTsKICAgICAgICBMaXN0PENvbXB1dGVPYmplY3RJbmZvPiBjb21wdXRMaXN0ID0gbG9jYWxJbmZvTGlzdC5nZXRDb21wdXRlT2JqZWN0SW5mb3MoKTsKICAgICAgICBDb21wdXRlT2JqZWN0SW5mbyBjb21wdXRlID0gc2VydmljZS5nZXRSZXNvdXJjZURldGFpbChjb21wdXRMaXN0LmdldCgwKS5nZXRJZCgpLCBURU5BTlRJRCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGNvbXB1dGUuZ2V0SWQoKSwgY29tcHV0TGlzdC5nZXQoMCkuZ2V0SWQoKSk7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">UjE0LjEwICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c291cmNlICRCQVNFX0hPTUUvYmluL3V0aWwuc2gK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c291cmNlICRCQVNFX0hPTUUvYmluL3V0aWwuc2gK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dW1hc2sgMDc3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHV5dW4uYW50LmFnZW50LmFwaS5lbnRpdHkuKjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHV5dW4uYW50LmFnZW50LmFwaS5zZXJ2aWNlLkxvY2FsUmVtb3RlQXV0b21hdGlvblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Y2htb2RfZGlyICQoZGlybmFtZSAiJFBXRCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5zdXBwb3J0LkNsYXNzUGF0aFhtbEFwcGxpY2F0aW9uQ29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
