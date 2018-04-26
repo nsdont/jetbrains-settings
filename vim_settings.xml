@@ -98,11 +98,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524729923080">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524731228938">
         <mark key="'" line="834" column="42" />
-        <mark key="[" line="859" column="0" />
-        <mark key="]" line="859" column="12" />
-        <mark key="." line="859" column="12" />
+        <mark key="[" line="856" column="67" />
+        <mark key="]" line="856" column="90" />
+        <mark key="." line="856" column="67" />
+        <mark key="^" line="856" column="114" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -299,17 +300,17 @@
       <jump line="834" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGlmIHN0cihpKVswXS5pc2RpZ2l0KCk=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>run_cmd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VhcmNoX3Jlc3VsdFttZXRyaWNdWydtZXRob2QnXSA9PSAnTWVhbic6CiAgICAgICAgICAgICAgICB2YWx1ZSA9IHN1bShbaSBmb3IgaSBpbiBzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddXSkgLyBmbG9hdChsZW4oc2VhcmNoX3Jlc3VsdFttZXRyaWNdWyd2YWx1ZXMnXSkpCiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS57fScuZm9ybWF0KG1ldHJpYyksIElQLCB2YWx1ZSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGlmIHN0cihpKVswXS5pc2RpZ2l0KCk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWFyY2hfcmVzdWx0W21ldHJpY11bJ3ZhbHVlcyddOgo=</text>
