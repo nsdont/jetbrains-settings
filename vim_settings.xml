@@ -55,6 +55,10 @@
         <mark key="." line="0" column="62" />
         <mark key="^" line="0" column="62" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/InfoHandler.ts" timestamp="1524728554105">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="39" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/logging.ts" timestamp="1524225672994">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -227,7 +231,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">L2Rpc2NvbmYvYXBpL2NvbmZpZy9maWxlP2FwcD11eXVuJmVudj1yZCZ2ZXJzaW9uPTJfMF8wJmtleT1jb21tb24ucHJvcGVydGllcw==</text>
+        <text>InfoHandler</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -236,7 +240,7 @@
         <text encoding="base64">XDxiZWZvcmVTdGFydFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">L2Rpc2NvbmYvYXBpL2NvbmZpZy9maWxlP2FwcD11eXVuJmVudj1yZCZ2ZXJzaW9uPTJfMF8wJmtleT1jb21tb24ucHJvcGVydGllcw==</text>
+        <text>InfoHandler</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXNsCg==</text>
