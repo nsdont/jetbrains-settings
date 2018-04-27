@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
-        <mark key="'" line="146" column="62" />
+        <mark key="'" line="157" column="62" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/setup_ping_check.sh" timestamp="1522742074382">
         <mark key="[" line="1" column="0" />
@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524225296372">
         <mark key="'" line="270" column="2" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1524796668494">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="14" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1524812841493">
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="147" />
+        <mark key="." line="8" column="147" />
       </file>
       <file name="/JavaScript Console" timestamp="1524796489530">
         <mark key="[" line="0" column="0" />
@@ -241,16 +241,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>npm</text>
+        <text>report.xml</text>
       </register>
       <register name="-" type="4">
-        <text>npm</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWZvcmVTdGFydFw+</text>
       </register>
       <register name="0" type="4">
-        <text>node/lib/node_modules/npm/bin/npm-cli.js</text>
+        <text>report.xml</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXNsCg==</text>
