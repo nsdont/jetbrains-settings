@@ -15,12 +15,12 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524807583099">
-        <mark key="'" line="125" column="4" />
-        <mark key="[" line="117" column="55" />
-        <mark key="]" line="117" column="54" />
-        <mark key="." line="117" column="54" />
-        <mark key="^" line="117" column="54" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524810573006">
+        <mark key="'" line="134" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -82,16 +82,19 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/.gitignore" timestamp="1524810812493">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="106" column="4" />
+        <mark key="^" line="106" column="4" />
+        <mark key="." line="106" column="4" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524225296372">
         <mark key="'" line="237" column="2" />
         <mark key="[" line="143" column="41" />
         <mark key="]" line="143" column="40" />
         <mark key="." line="143" column="40" />
         <mark key="^" line="143" column="40" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1524214938815">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/config.yaml" timestamp="1523989959079">
         <mark key="[" line="16" column="25" />
@@ -203,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="281" column="46" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="348" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="396" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -303,61 +305,61 @@
       <jump line="161" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="1" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="116" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/source/uyun/scripts/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, exc_info=1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHF1b3RlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, exc_info=1</text>
+        <text encoding="base64">ICsgMjQgKiA2MCAqIDYwICogMTAwMA==</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdbY2hlY2tdIGNhdGNoIGVycm9yOiB7fScuZm9ybWF0KGlwKSwgZXhjX2luZm89MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChpdGVtc1tpbmRleF1bMF0pCiAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKGl0ZW1zW2luZGV4ICsgMV1bMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdbY2hlY2tdIGNhdGNoIGVycm9yOiB7fScuZm9ybWF0KGlwKSwgZXhjX2luZm89MSkK</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHF1b3RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMSkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMikK</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKG1ldHJpY3NbaW5kZXhdWzBdIC8gMTAwMCkKICAgICAgICAgICAgICAgIGVuZF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChtZXRyaWNzW2luZGV4ICsgMV1bMF0gLyAxMDAwKQogICAgICAgICAgICAgICAgIyBwcmludChzdGFydF90aW1lLCBlbmRfdGltZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhJykK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ1snRElTQ09ORl9IT1NUJ10gPSAnMTAuMS4xMC4yMTknCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXAsIGl0ZW1zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdiJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>idea</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>idea</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>split</entry>
         <entry>total</entry>
         <entry>count</entry>
         <entry>mem</entry>
@@ -377,6 +379,7 @@
         <entry>print</entry>
         <entry>range</entry>
         <entry>check</entry>
+        <entry>idea</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
