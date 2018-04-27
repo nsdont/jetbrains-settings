@@ -15,11 +15,10 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524800134797">
-        <mark key="[" line="157" column="45" />
-        <mark key="]" line="158" column="19" />
-        <mark key="^" line="158" column="19" />
-        <mark key="." line="158" column="19" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524801315235">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -304,44 +303,44 @@
       <jump line="84" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.format(response.status_code))</text>
       </register>
       <register name="/" type="4">
         <text>q\.</text>
       </register>
-      <register name="0" type="4">
-        <text>monitor_dist_compress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCByZXN1bHQ6IHt9Jy5mb3JtYXQocmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5yZWFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaHR0cF9jbGllbnQuZmV0Y2gocCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2luaXRdIHN0YXJ0LicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdbbWFpbl0gcmVhZHkgcnVuJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBnZW4uc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRG9pbmcgd29yayBvbiAlcycgJSBpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaHR0cF9jbGllbnQuZmV0Y2gocCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpAZ2VuLmNvcm91dGluZQpkZWYgcmFuZ2VfaXBfZmV0Y2hfa2Fpcm9zZGIoKToKICAgIHBhc3M=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBnZW4uc2xlZXAoMC4wMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
