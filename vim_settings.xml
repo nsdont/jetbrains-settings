@@ -109,12 +109,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524816521561">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524817699789">
         <mark key="'" line="138" column="14" />
-        <mark key="[" line="420" column="21" />
-        <mark key="]" line="420" column="30" />
-        <mark key="^" line="420" column="30" />
-        <mark key="." line="420" column="30" />
+        <mark key="[" line="422" column="72" />
+        <mark key="]" line="422" column="72" />
+        <mark key="^" line="422" column="27" />
+        <mark key="." line="422" column="74" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -315,16 +315,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>discovery</text>
+        <text>gateway</text>
       </register>
       <register name="-" type="4">
-        <text>discovery</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuZGlzY292ZXJ5JzoKICAgICAgICAnaHR0cDovL21hc3Rlci5jbWEuY24vZGlzY292ZXJ5LyMvJywK</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYW50X2dhdGV3YXlfaGVhbHRoJzogJ2h0dHA6Ly9tYXN0ZXIuY21hLmNuL2FudC9tYW5hZ2VyL2dhdGV3YXkvYXBpL3YxL2hlYWx0aC1jaGVjay8nLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkK</text>
