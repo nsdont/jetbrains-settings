@@ -15,10 +15,12 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524801315235">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524802604625">
+        <mark key="'" line="160" column="14" />
+        <mark key="[" line="158" column="37" />
+        <mark key="]" line="158" column="43" />
+        <mark key="." line="158" column="43" />
+        <mark key="^" line="158" column="43" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -201,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="340" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="355" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="356" column="23" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -301,13 +302,14 @@
       <jump line="102" column="12" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="912" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="84" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="161" column="14" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>body</text>
       </register>
       <register name="-" type="4">
-        <text>.format(response.status_code))</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text>q\.</text>
@@ -316,31 +318,31 @@
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCByZXN1bHQ6IHt9Jy5mb3JtYXQocmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxfaXAgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5yZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhbGxfaXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2luaXRdIHN0YXJ0LicpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCByZXN1bHQ6IHt9Jy5mb3JtYXQocmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdbbWFpbl0gcmVhZHkgcnVuJykK</text>
+        <text encoding="base64">ICAgIHByaW50KHVybCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0geWllbGQgaHR0cF9jbGllbnQuZmV0Y2godXJsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaHR0cF9jbGllbnQuZmV0Y2gocCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5yZWFkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2luaXRdIHN0YXJ0LicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBnZW4uc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdbbWFpbl0gcmVhZHkgcnVuJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
