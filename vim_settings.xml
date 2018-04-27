@@ -106,12 +106,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524792256557">
-        <mark key="'" line="84" column="10" />
-        <mark key="[" line="911" column="21" />
-        <mark key="]" line="920" column="74" />
-        <mark key="." line="920" column="74" />
-        <mark key="^" line="920" column="74" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524814162269">
+        <mark key="'" line="926" column="26" />
+        <mark key="[" line="926" column="55" />
+        <mark key="]" line="926" column="59" />
+        <mark key="^" line="926" column="59" />
+        <mark key="." line="926" column="59" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -206,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="46" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="348" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="396" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="165" column="9" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -306,61 +305,61 @@
       <jump line="1" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="116" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="24" column="4" filename="$USER_HOME$/source/uyun/scripts/.gitignore" />
+      <jump line="926" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHF1b3RlCg==</text>
+      <register name="&quot;" type="4">
+        <text>metric_result_{}.txt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMjQgKiA2MCAqIDYwICogMTAwMA==</text>
+        <text>metric_result_{}.txt</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>tgz</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChpdGVtc1tpbmRleF1bMF0pCiAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKGl0ZW1zW2luZGV4ICsgMV1bMF0pCg==</text>
+      <register name="0" type="4">
+        <text>{}/logs/{}_{}.tgz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHF1b3RlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHF1b3RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8K</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKG1ldHJpY3NbaW5kZXhdWzBdIC8gMTAwMCkKICAgICAgICAgICAgICAgIGVuZF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChtZXRyaWNzW2luZGV4ICsgMV1bMF0gLyAxMDAwKQogICAgICAgICAgICAgICAgIyBwcmludChzdGFydF90aW1lLCBlbmRfdGltZSkK</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ1snRElTQ09ORl9IT1NUJ10gPSAnMTAuMS4xMC4yMTknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKG1ldHJpY3NbaW5kZXhdWzBdIC8gMTAwMCkKICAgICAgICAgICAgICAgIGVuZF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChtZXRyaWNzW2luZGV4ICsgMV1bMF0gLyAxMDAwKQogICAgICAgICAgICAgICAgIyBwcmludChzdGFydF90aW1lLCBlbmRfdGltZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljcykK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ1snRElTQ09ORl9IT1NUJ10gPSAnMTAuMS4xMC4yMTknCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXAsIGl0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXAsIGl0ZW1zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search>tgz</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern>tgz</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>total</entry>
         <entry>count</entry>
         <entry>mem</entry>
         <entry encoding="base64">XDxJU19XSU5ET1dTXD4=</entry>
@@ -380,6 +379,7 @@
         <entry>range</entry>
         <entry>check</entry>
         <entry>idea</entry>
+        <entry>tgz</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
