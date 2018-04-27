@@ -15,12 +15,11 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524786226668">
-        <mark key="'" line="96" column="16" />
-        <mark key="[" line="109" column="16" />
-        <mark key="]" line="123" column="31" />
-        <mark key="." line="123" column="31" />
-        <mark key="^" line="123" column="31" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524787779155">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="69" />
+        <mark key="^" line="25" column="69" />
+        <mark key="." line="25" column="69" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -103,12 +102,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524739246214">
-        <mark key="'" line="863" column="4" />
-        <mark key="[" line="891" column="71" />
-        <mark key="]" line="891" column="72" />
-        <mark key="." line="891" column="72" />
-        <mark key="^" line="886" column="102" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524792256557">
+        <mark key="'" line="84" column="10" />
+        <mark key="[" line="911" column="21" />
+        <mark key="]" line="920" column="74" />
+        <mark key="." line="920" column="74" />
+        <mark key="^" line="920" column="74" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -203,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="73" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="333" column="81" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="337" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="340" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="355" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -303,46 +300,48 @@
       <jump line="206" column="22" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="95" column="21" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="102" column="12" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
+      <jump line="912" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="84" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>check</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>check</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>q\.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6CiAgICAgICAgaXRlbSA9IHlpZWxkIGNoZWNrX3EuZ2V0KCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoJ1tjaGVja10gY2F0Y2ggZXJyb3I6IHt9Jy5mb3JtYXQoaXRlbSksIGV4Y19pbmZvPTEpCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgY2hlY2tfcS50YXNrX2RvbmUoKQo=</text>
+      <register name="0" type="4">
+        <text>monitor_dist_compress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBnZW4uc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRG9pbmcgd29yayBvbiAlcycgJSBpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaHR0cF9jbGllbnQuZmV0Y2gocCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgpAZ2VuLmNvcm91dGluZQpkZWYgcmFuZ2VfaXBfZmV0Y2hfa2Fpcm9zZGIoKToKICAgIHBhc3M=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfcmVzcG9uc2UocmVzcG9uc2UpOgogICAgICAgIHBhc3MK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBnZW4uc2xlZXAoMC4wMSkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnRG9pbmcgd29yayBvbiAlcycgJSBpdGVtKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgpAZ2VuLmNvcm91dGluZQpkZWYgcmFuZ2VfaXBfZmV0Y2hfa2Fpcm9zZGIoKToKICAgIHBhc3M=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGh0dHBfY2xpZW50ID0gaHR0cGNsaWVudC5Bc3luY0hUVFBDbGllbnQoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
