@@ -109,12 +109,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524818387478">
-        <mark key="'" line="138" column="14" />
-        <mark key="[" line="427" column="88" />
-        <mark key="]" line="427" column="105" />
-        <mark key="^" line="427" column="105" />
-        <mark key="." line="427" column="105" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524821318040">
+        <mark key="'" line="420" column="42" />
+        <mark key="[" line="374" column="27" />
+        <mark key="]" line="374" column="53" />
+        <mark key="^" line="420" column="37" />
+        <mark key="." line="420" column="37" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="93" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="272" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="394" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -312,19 +311,20 @@
       <jump line="136" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="137" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="138" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="420" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>serviceapi</text>
+        <text>netstat -s | grep -i listen</text>
       </register>
       <register name="-" type="4">
-        <text>serviceapi</text>
+        <text>agentless</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>socket</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmhlYWx0aC5tb25pdG9yX2dhdGV3YXlfc2VydmljZWFwaSc6ICdodHRwOi8vbWFzdGVyLmNtYS5jbi9tb25pdG9yL3NlcnZpY2VhcGkvdjIvaGVhbHRoY2hlY2svc3RhdHVzJywK</text>
+      <register name="0" type="4">
+        <text>netstat -s | grep -i listen</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkK</text>
@@ -358,15 +358,14 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>socket</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>socket</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mem</entry>
         <entry encoding="base64">XDxJU19XSU5ET1dTXD4=</entry>
         <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
         <entry>run_cmd</entry>
@@ -386,6 +385,7 @@
         <entry>idea</entry>
         <entry>tgz</entry>
         <entry>http</entry>
+        <entry>socket</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
