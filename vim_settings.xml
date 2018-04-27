@@ -15,12 +15,12 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524805101684">
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524806221491">
         <mark key="'" line="164" column="14" />
-        <mark key="[" line="109" column="18" />
-        <mark key="]" line="109" column="18" />
-        <mark key="." line="109" column="18" />
-        <mark key="^" line="109" column="18" />
+        <mark key="[" line="191" column="11" />
+        <mark key="]" line="191" column="19" />
+        <mark key="." line="191" column="19" />
+        <mark key="^" line="191" column="19" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -306,43 +306,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item</text>
+        <text>spawn_callback</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>spawn_callback</text>
       </register>
       <register name="/" type="4">
         <text>iem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCczJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhwYXlsb2FkKSkK</text>
+        <text encoding="base64">ICAgIGlvbG9vcC5zcGF3bl9jYWxsYmFjayhyYW5nZV9pcF9mZXRjaF9rYWlyb3NkYikKICAgIGlvbG9vcC5zcGF3bl9jYWxsYmFjayhjaGVja19kYXRhX2lzX3NlcXVlbmNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfaXAgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkpCg==</text>
+        <text encoding="base64">ICAgIGlvbG9vcC5zdGFydCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhbGxfaXApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhwYXlsb2FkKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCByZXN1bHQ6IHt9Jy5mb3JtYXQocmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfaXAgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVybCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhbGxfaXApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0geWllbGQgaHR0cF9jbGllbnQuZmV0Y2godXJsKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCByZXN1bHQ6IHt9Jy5mb3JtYXQocmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVybCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5yZWFkCg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0geWllbGQgaHR0cF9jbGllbnQuZmV0Y2godXJsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2luaXRdIHN0YXJ0LicpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
