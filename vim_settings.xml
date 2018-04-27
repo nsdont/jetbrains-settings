@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1523989656050">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
         <mark key="'" line="157" column="62" />
         <mark key="[" line="126" column="38" />
@@ -106,12 +109,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524815129373">
-        <mark key="'" line="926" column="26" />
-        <mark key="[" line="918" column="44" />
-        <mark key="]" line="918" column="55" />
-        <mark key="^" line="918" column="55" />
-        <mark key="." line="918" column="55" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524816521561">
+        <mark key="'" line="138" column="14" />
+        <mark key="[" line="420" column="21" />
+        <mark key="]" line="420" column="30" />
+        <mark key="^" line="420" column="30" />
+        <mark key="." line="420" column="30" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -137,6 +140,9 @@
         <mark key="]" line="39" column="3" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524816293993">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
         <mark key="'" line="63" column="34" />
@@ -206,16 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="396" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="165" column="9" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="403" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="15" column="6" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="136" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="401" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="438" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="398" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="93" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="272" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -306,19 +302,29 @@
       <jump line="116" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="24" column="4" filename="$USER_HOME$/source/uyun/scripts/.gitignore" />
       <jump line="926" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="889" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="130" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="131" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="132" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="133" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="134" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="135" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="136" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="137" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="138" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>metric_result_{}.txt</text>
+        <text>discovery</text>
       </register>
       <register name="-" type="4">
-        <text>metric_result_{}.txt</text>
+        <text>discovery</text>
       </register>
       <register name="/" type="4">
-        <text>tgz</text>
+        <text>http</text>
       </register>
-      <register name="0" type="4">
-        <text>{}/logs/{}_{}.tgz</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuZGlzY292ZXJ5JzoKICAgICAgICAnaHR0cDovL21hc3Rlci5jbWEuY24vZGlzY292ZXJ5LyMvJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkK</text>
@@ -352,15 +358,14 @@
       </register>
     </registers>
     <search>
-      <last-search>tgz</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>tgz</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>mem</entry>
         <entry encoding="base64">XDxJU19XSU5ET1dTXD4=</entry>
         <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
@@ -380,6 +385,7 @@
         <entry>check</entry>
         <entry>idea</entry>
         <entry>tgz</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
