@@ -15,12 +15,12 @@
         <mark key="]" line="73" column="63" />
         <mark key="o" line="114" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524806221491">
-        <mark key="'" line="164" column="14" />
-        <mark key="[" line="191" column="11" />
-        <mark key="]" line="191" column="19" />
-        <mark key="." line="191" column="19" />
-        <mark key="^" line="191" column="19" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524807583099">
+        <mark key="'" line="125" column="4" />
+        <mark key="[" line="117" column="55" />
+        <mark key="]" line="117" column="54" />
+        <mark key="." line="117" column="54" />
+        <mark key="^" line="117" column="54" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -203,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="355" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="356" column="23" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="143" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="164" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="281" column="46" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="348" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -266,7 +262,6 @@
       <jump line="70" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="75" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="88" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="116" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="145" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="169" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="197" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
@@ -302,64 +297,66 @@
       <jump line="102" column="12" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="912" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="84" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="161" column="14" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="116" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>spawn_callback</text>
+        <text>, exc_info=1</text>
       </register>
       <register name="-" type="4">
-        <text>spawn_callback</text>
+        <text>, exc_info=1</text>
       </register>
       <register name="/" type="4">
-        <text>iem</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCczJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdbY2hlY2tdIGNhdGNoIGVycm9yOiB7fScuZm9ybWF0KGlwKSwgZXhjX2luZm89MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlvbG9vcC5zcGF3bl9jYWxsYmFjayhyYW5nZV9pcF9mZXRjaF9rYWlyb3NkYikKICAgIGlvbG9vcC5zcGF3bl9jYWxsYmFjayhjaGVja19kYXRhX2lzX3NlcXVlbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdbY2hlY2tdIGNhdGNoIGVycm9yOiB7fScuZm9ybWF0KGlwKSwgZXhjX2luZm89MSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlvbG9vcC5zdGFydCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhwYXlsb2FkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfaXAgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhbGxfaXApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoMykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCByZXN1bHQ6IHt9Jy5mb3JtYXQocmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdhJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVybCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0geWllbGQgaHR0cF9jbGllbnQuZmV0Y2godXJsKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdjJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2ZldGNoXSBmZXRjaCBzdGFydCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdiJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iem</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>iem</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>disk</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>split</entry>
         <entry>total</entry>
         <entry>count</entry>
@@ -377,6 +374,9 @@
         <entry encoding="base64">XDx1cHN0cmVhbVw+</entry>
         <entry>q\.</entry>
         <entry>iem</entry>
+        <entry>print</entry>
+        <entry>range</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
