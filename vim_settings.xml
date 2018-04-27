@@ -109,8 +109,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524824973204">
-        <mark key="'" line="420" column="42" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524830031434">
+        <mark key="'" line="466" column="55" />
         <mark key="[" line="381" column="34" />
         <mark key="]" line="381" column="40" />
         <mark key="^" line="381" column="40" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="272" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="394" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="395" column="52" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -312,6 +311,7 @@
       <jump line="137" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="138" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="420" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="466" column="55" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -321,7 +321,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>socket</text>
+        <text>mem</text>
       </register>
       <register name="0" type="4">
         <text>netstat -s | grep -i listen</text>
@@ -358,15 +358,14 @@
       </register>
     </registers>
     <search>
-      <last-search>socket</last-search>
+      <last-search>mem</last-search>
       <last-offset />
-      <last-pattern>socket</last-pattern>
+      <last-pattern>mem</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJU19XSU5ET1dTXD4=</entry>
         <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
         <entry>run_cmd</entry>
         <entry encoding="base64">XDxtb25pdG9yX2Rpc3RcPg==</entry>
@@ -386,6 +385,7 @@
         <entry>tgz</entry>
         <entry>http</entry>
         <entry>socket</entry>
+        <entry>mem</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
