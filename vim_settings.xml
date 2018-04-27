@@ -109,12 +109,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524824098398">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524824973204">
         <mark key="'" line="420" column="42" />
-        <mark key="[" line="919" column="0" />
-        <mark key="]" line="919" column="76" />
-        <mark key="^" line="420" column="37" />
-        <mark key="." line="919" column="0" />
+        <mark key="[" line="381" column="34" />
+        <mark key="]" line="381" column="40" />
+        <mark key="^" line="381" column="40" />
+        <mark key="." line="381" column="40" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -314,11 +314,11 @@
       <jump line="420" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBydW5fY21kKCdybSB7fS9sb2dzL21ldHJpY19yZXN1bHRfe30udHh0Jy5mb3JtYXQoQkFTRV9ESVIsIG5vd19zdHIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>agentless</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>socket</text>
