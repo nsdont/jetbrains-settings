@@ -109,12 +109,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524833005522">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1524837979251">
         <mark key="'" line="497" column="16" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="52" />
-        <mark key="^" line="494" column="51" />
-        <mark key="." line="497" column="0" />
+        <mark key="[" line="421" column="56" />
+        <mark key="]" line="421" column="95" />
+        <mark key="^" line="416" column="52" />
+        <mark key="." line="416" column="53" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -141,7 +141,7 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524816293993">
+      <file name="/Dummy.txt" timestamp="1524838044415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
@@ -314,17 +314,17 @@
       <jump line="497" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bW1hcnlfdG90YWxbJ2luZGV4J10gPSBpbmRleF90b3RhbAo=</text>
+      <register name="&quot;" type="4">
+        <text>monitor/serviceapi/v2/healthcheck/status</text>
       </register>
       <register name="-" type="4">
-        <text>'{}/logs/es_total.json'.format(BASE_DIR))</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bW1hcnlfdG90YWxbJ2luZGV4J10gPSBpbmRleF90b3RhbAo=</text>
+      <register name="0" type="4">
+        <text>monitor/serviceapi/v2/healthcheck/status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
