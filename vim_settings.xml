@@ -73,7 +73,8 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="68" column="12" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1524813660089">
+      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1524886406701">
+        <mark key="'" line="12" column="54" />
         <mark key="[" line="8" column="67" />
         <mark key="]" line="8" column="111" />
         <mark key="^" line="8" column="111" />
@@ -217,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="36" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="103" column="7" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="210" column="66" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="225" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
@@ -317,6 +317,7 @@
       <jump line="70" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="63" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="129" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="12" column="54" filename="$USER_HOME$/source/uyun/dispatcher/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -326,7 +327,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBydW5fY21kKCdtdiB7fS9sb2dzL21ldHJpY19yZXN1bHQudHh0IHt9L2xvZ3MvbWV0cmljX3Jlc3VsdF97fS5sb2dzJy5mb3JtYXQoQkFTRV9ESVIsIEJBU0VfRElSLCBub3cuc3RyZnRpbWUoJyVZLSVtLSVkLSVILSVNJykpKQo=</text>
@@ -364,16 +365,14 @@
       </register>
     </registers>
     <search>
-      <last-search>lock</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQbGF0UmFuZFw+</entry>
-        <entry>axios</entry>
         <entry encoding="base64">XDxSZXF1ZXN0SW5pdFw+</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDxheGlvc1w+</entry>
@@ -392,6 +391,8 @@
         <entry>hello</entry>
         <entry encoding="base64">XDxiZWZvcmVTdGFydFw+</entry>
         <entry>lock</entry>
+        <entry>nodes</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
