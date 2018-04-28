@@ -340,7 +340,7 @@
         <text>await parse_value(value)</text>
       </register>
       <register name="/" type="4">
-        <text>msgId</text>
+        <text>kill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRhdGEuY29uZmlnW2tleV0gPSBhd2FpdCBwYXJzZV92YWx1ZSh2YWx1ZSk7Cg==</text>
@@ -377,15 +377,14 @@
       </register>
     </registers>
     <search>
-      <last-search>msgId</last-search>
+      <last-search>kill</last-search>
       <last-offset />
-      <last-pattern>msgId</last-pattern>
+      <last-pattern>kill</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry encoding="base64">XDxheGlvc1w+</entry>
         <entry encoding="base64">XDxJV2ViaG9va01lc3NhZ2VUYXNrTG9nXD4=</entry>
         <entry encoding="base64">XDxnZXRNc2dTbWFsbE1zZ1w+</entry>
@@ -405,6 +404,7 @@
         <entry encoding="base64">XDxnZXRNc2dTbWFsbFN0clw+</entry>
         <entry encoding="base64">XDxkZWxheVJlQ2hlY2tNZXNzYWdlXD4=</entry>
         <entry>msgId</entry>
+        <entry>kill</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
