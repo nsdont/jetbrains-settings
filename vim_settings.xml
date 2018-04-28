@@ -108,6 +108,12 @@
         <mark key="[" line="33" column="13" />
         <mark key="]" line="33" column="16" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/disconf.ts" timestamp="1524902645424">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="39" />
+        <mark key="." line="37" column="39" />
+        <mark key="^" line="37" column="39" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
       </file>
@@ -328,43 +334,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wait for send message(${waitTime[retryTime]})</text>
+        <text>await parse_value(value)</text>
       </register>
       <register name="-" type="4">
-        <text>wait for send message(${waitTime[retryTime]})</text>
+        <text>await parse_value(value)</text>
       </register>
       <register name="/" type="4">
         <text>msgId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgW3NtZ10gU2VuZE1lc3NhZ2Ugd2FpdCBmb3Igc2VuZCBtZXNzYWdlKCR7d2FpdFRpbWVbcmV0cnlUaW1lXX0pYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEuY29uZmlnW2tleV0gPSBhd2FpdCBwYXJzZV92YWx1ZSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBtc2dJZCA9IGAke21zZy5wYXlsb2FkLnRhc2tfaWR9LSR7bXNnLnNlcX1gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEuY29uZmlnW2tleV0gPSBhd2FpdCBwYXJzZV92YWx1ZSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBtc2dfc3RyID0gZ2V0TXNnU21hbGxTdHIobXNnKTsK</text>
+        <text encoding="base64">ICBjb25zdCBtc2dJZCA9IGAke21zZy5wYXlsb2FkLnRhc2tfaWR9LSR7bXNnLnNlcX1gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBtc2dJZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCBtc2dfc3RyID0gZ2V0TXNnU21hbGxTdHIobXNnKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCBtc2dJZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnW3NtdF0gc2VuZE1lc3NhZ2U6IHNlbmRSZXF1ZXN0IHN1Y2Nlc3MnKTsK</text>
+        <text encoding="base64">ICBjb25zdCBtc2dfc3RyID0gZ2V0TXNnU21hbGxTdHIobXNnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
