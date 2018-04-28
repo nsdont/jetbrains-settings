@@ -107,6 +107,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agentless/probe/conf/config.properties.template" timestamp="1524905963399">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/source/uyun/manager/agent-api/src/main/java/uyun/ant/agent/api/entity/ComputeObjectInfoDTO.java" timestamp="1522312366171">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="55" />
@@ -127,6 +133,7 @@
       <file name="$USER_HOME$/source/crowd/wlcf/wlcf/WebContent/WEB-INF/lib/spring-orm-3.2.6.RELEASE.jar!/org/springframework/orm/ibatis/SqlMapClientTemplate.class" timestamp="1524671504256">
         <mark key="'" line="209" column="18" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agentless/probe/conf/config.properties" timestamp="1524905960322" />
       <file name="$USER_HOME$/source/uyun/manager_dubbo/.editorconfig" timestamp="1522043600752">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="19" column="3" />
