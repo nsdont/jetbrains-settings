@@ -73,6 +73,13 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="68" column="12" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524900830742">
+        <mark key="'" line="119" column="3" />
+        <mark key="[" line="126" column="34" />
+        <mark key="]" line="126" column="59" />
+        <mark key="." line="126" column="59" />
+        <mark key="^" line="126" column="59" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1524899583147">
         <mark key="'" line="12" column="54" />
         <mark key="[" line="8" column="67" />
@@ -218,12 +225,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="7" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="210" column="66" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="225" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="226" column="36" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="89" column="89" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="92" column="8" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="269" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="234" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
@@ -318,73 +320,74 @@
       <jump line="63" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="129" column="24" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
       <jump line="12" column="54" filename="$USER_HOME$/source/uyun/dispatcher/package.json" />
+      <jump line="196" column="45" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="198" column="45" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="57" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="89" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="118" column="3" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wait for send message(${waitTime[retryTime]})</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>wait for send message(${waitTime[retryTime]})</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>msgId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW5fY21kKCdtdiB7fS9sb2dzL21ldHJpY19yZXN1bHQudHh0IHt9L2xvZ3MvbWV0cmljX3Jlc3VsdF97fS5sb2dzJy5mb3JtYXQoQkFTRV9ESVIsIEJBU0VfRElSLCBub3cuc3RyZnRpbWUoJyVZLSVtLSVkLSVILSVNJykpKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgW3NtZ10gU2VuZE1lc3NhZ2Ugd2FpdCBmb3Igc2VuZCBtZXNzYWdlKCR7d2FpdFRpbWVbcmV0cnlUaW1lXX0pYCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtc2dJZCA9IGAke21zZy5wYXlsb2FkLnRhc2tfaWR9LSR7bXNnLnNlcX1gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlcnJvci5yZXNwb25zZS5oZWFkZXJzWydzZXQtY29va2llJ11bMF07Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtc2dfc3RyID0gZ2V0TXNnU21hbGxTdHIobXNnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>finally {
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aW1lcikgewogICAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgfQogICAgdHJ5IHsKICAgICAgaWYgKGxvY2spIHsKICAgICAgICBsb2NrLnVubG9jaygpOwogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2dnZXIuZXJyb3IoYFtzbXRdIEVycm9yIHdoaWxlIHVubG9ja2luZzogJHtKU09OLnN0cmluZ2lmeShtc2cpfWAsIGVycm9yLnN0YWNrKTsKICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCBtc2dJZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBtc2dfc3RyID0gZ2V0TXNnU21hbGxTdHIobXNnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnW3NtdF0gc2VuZE1lc3NhZ2U6IHNlbmRSZXF1ZXN0IHN1Y2Nlc3MnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>msgId</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>msgId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXF1ZXN0SW5pdFw+</entry>
         <entry>logger</entry>
         <entry encoding="base64">XDxheGlvc1w+</entry>
         <entry encoding="base64">XDxJV2ViaG9va01lc3NhZ2VUYXNrTG9nXD4=</entry>
         <entry encoding="base64">XDxnZXRNc2dTbWFsbE1zZ1w+</entry>
-        <entry encoding="base64">XDxnZXRNc2dTbWFsbFN0clw+</entry>
         <entry>126</entry>
         <entry>receive</entry>
         <entry>feed</entry>
         <entry>feed message</entry>
         <entry>handleMsg</entry>
-        <entry encoding="base64">XDxkZWxheVJlQ2hlY2tNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlQ2hlY2tBbmRTZW5kXD4=</entry>
         <entry>redis</entry>
         <entry>dist.tar</entry>
@@ -393,6 +396,9 @@
         <entry>lock</entry>
         <entry>nodes</entry>
         <entry>node</entry>
+        <entry encoding="base64">XDxnZXRNc2dTbWFsbFN0clw+</entry>
+        <entry encoding="base64">XDxkZWxheVJlQ2hlY2tNZXNzYWdlXD4=</entry>
+        <entry>msgId</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
