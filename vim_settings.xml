@@ -34,11 +34,12 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525070062080">
-        <mark key="'" line="57" column="14" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525071389724">
+        <mark key="'" line="62" column="14" />
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="99" column="18" />
+        <mark key="." line="99" column="18" />
+        <mark key="^" line="99" column="18" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -292,44 +293,44 @@
       <jump line="57" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnNDEnKSkKICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMTEnKSkK</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMScpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ1tleHBvcnRdIGZhaWxlZCB3aXRoJywgZXhjX2luZm89MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnNDEnKSkKICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMTEnKSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyb3Jjb25uZWN0aW9uLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydF91c2VyKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzcGVlZF9leHBvcnQoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZSgnc2hvdyBkYXRhYmFzZXM7JykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpdGgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnNDEnKSkKICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMTEnKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyb3Jjb25uZWN0aW9uLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
