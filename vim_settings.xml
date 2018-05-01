@@ -34,12 +34,12 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525187109736">
-        <mark key="'" line="77" column="22" />
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="82" column="37" />
-        <mark key="^" line="82" column="37" />
-        <mark key="." line="82" column="37" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525191747304">
+        <mark key="'" line="151" column="68" />
+        <mark key="[" line="187" column="39" />
+        <mark key="]" line="188" column="43" />
+        <mark key="^" line="188" column="43" />
+        <mark key="." line="188" column="43" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -129,7 +129,7 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525066154673">
+      <file name="/Dummy.txt" timestamp="1525188385431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/batch_ping_agent.py" timestamp="1522639738853">
@@ -191,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="59" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="62" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="16" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="911" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -291,55 +289,57 @@
       <jump line="0" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="57" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="76" column="22" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="141" column="25" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="145" column="68" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>card</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIOebruWJjeeahOi/h+a7pCBOb25l77yM5oCV5Y+vIG51bGwg6Z2e56m66ZmQ5Yi2Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>card</text>
+        <text>user_info</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9zZXhfZnJvbV9pZF9jYXJkKGlkX2NhcmQpOgogICAgaWYgaWRfY2FyZDoKICAgICAgICBpZiBsZW4oaWRfY2FyZCkgPT0gMTU6CiAgICAgICAgICAgIHZhbHVlID0gaWRfY2FyZFstMV0KICAgICAgICBlbHNlOgogICAgICAgICAgICB2YWx1ZSA9IGlkX2NhcmRbLTJdCiAgICAgICAgcmV0dXJuICcyJyBpZiBpbnQodmFsdWUpICUgMiA9PSAwIGVsc2UgJzEnCiAgICByZXR1cm4gJzAnCg==</text>
+        <text encoding="base64">ICAgIGZvciB1c2VyX2luZm8gaW4gbmV3X3N5c3RlbV91c2VyX2luZm86CiAgICAgICAgIyDnm67liY3nmoTov4fmu6QgTm9uZe+8jOaAleWPryBudWxsIOmdnuepuumZkOWItgogICAgICAgIGtleXMgPSBba2V5IGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHZhbHVlcyA9IFt1c2VyX2luZm9ba2V5XSBmb3Iga2V5IGluIHVzZXJfaW5mbyBpZiB1c2VyX2luZm9ba2V5XV0KICAgICAgICBzcWwgPSAnaW5zZXJ0IGludG8gYHVzZXJgICh7fSkgdmFsdWVzIChcJ3t9XCcpJy5mb3JtYXQoJywnLmpvaW4oa2V5cyksICdcJyxcJycuam9pbih2YWx1ZXMpKQogICAgICAgIHNxbF9saXN0LmFwcGVuZChzcWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJzInIGlmIGludCh2YWx1ZSkgJSAyID09IDAgZWxzZSAnMScK</text>
+        <text encoding="base64">ICAgICAgICAjIOebruWJjeeahOi/h+a7pCBOb25l77yM5oCV5Y+vIG51bGwg6Z2e56m66ZmQ5Yi2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJzInIGlmIGludCh2YWx1ZSkgJSAyID09IDAgZWxzZSAnMScK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGJhbmtfY2FyZF9pbmZvKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5ld19zeXN0ZW1fdXNlcl9pbmZvKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVlZF9leHBvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZSgnc2hvdyBkYXRhYmFzZXM7JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc2V4JzogaVsnYWNjb3VudF9pZCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnNDEnKSkKICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMTEnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJUFw+</entry>
         <entry encoding="base64">XDxnZXRfc29ja2V0X21ldHJpY1w+</entry>
         <entry>disconf</entry>
         <entry>f</entry>
@@ -367,6 +366,7 @@
         <entry>memory</entry>
         <entry>write</entry>
         <entry>index</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
