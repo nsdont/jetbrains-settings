@@ -84,10 +84,6 @@
         <mark key="^" line="240" column="48" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager/agent-api/src/main/java/uyun/ant/agent/api/service/AgentService.java" timestamp="1522308282163">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="39" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/datamonitor.conf" timestamp="1517542463538">
         <mark key="'" line="242" column="0" />
         <mark key="[" line="17" column="10" />
@@ -105,10 +101,6 @@
         <mark key="^" line="194" column="68" />
         <mark key="." line="194" column="68" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/libs/wmi/sampler.py" timestamp="1521601834309">
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="34" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/manifest.yaml" timestamp="1517381567416">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="14" />
@@ -120,10 +112,6 @@
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager/agent-api/src/main/java/uyun/ant/agent/api/entity/ComputeObjectInfoDTO.java" timestamp="1522312366171">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="55" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/framework/config.py" timestamp="1516881248939">
         <mark key="'" line="978" column="55" />
@@ -209,6 +197,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/sqlmap/Extra-sqlmap-mapping.xml" timestamp="1525160831858" />
       <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1521528050829">
         <mark key="'" line="604" column="35" />
         <mark key="[" line="180" column="50" />
@@ -334,10 +323,6 @@
       <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/AbstractTaskExecutor.java" timestamp="1522226787493">
         <mark key="'" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/job.ts" timestamp="1522204612678">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="53" />
-      </file>
       <file name="/Dummy.txt" timestamp="1524907535297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -351,15 +336,18 @@
         <mark key="^" line="14" column="80" />
         <mark key="." line="14" column="80" />
       </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/dal/dataobject/LoanDemandDO.java" timestamp="1525160694591">
+        <mark key="[" line="113" column="19" />
+        <mark key="]" line="113" column="34" />
+      </file>
       <file name="$USER_HOME$/source/uyun/manager_dubbo_test/src/main/resources/META-INF/spring/dubbo-consumer.xml" timestamp="1522317895163">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="70" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/bin/setup.sh" timestamp="1522301823255">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="40" />
+      <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/service/trade/impl/TradeBizProcessServiceImpl.java" timestamp="1525160455278">
+        <mark key="'" line="1189" column="92" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1522059309239">
         <mark key="'" line="44" column="18" />
@@ -379,10 +367,6 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/resources/dubbo-gateway-consumer.xml" timestamp="1522306473659">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="53" />
-      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1517577160814">
         <mark key="[" line="233" column="38" />
         <mark key="]" line="233" column="38" />
@@ -394,10 +378,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/manager/manager-i18n/pom.xml" timestamp="1522309164942">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="41" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/sqlserver.py" timestamp="1521450153296">
         <mark key="'" line="29" column="0" />
@@ -415,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="57" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="276" column="0" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="295" column="24" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="173" column="44" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
@@ -515,10 +494,11 @@
       <jump line="497" column="38" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
       <jump line="494" column="15" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
       <jump line="106" column="19" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="1189" column="92" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/service/trade/impl/TradeBizProcessServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xsb</text>
+        <text>repayDivisionWay</text>
       </register>
       <register name="-" type="4">
         <text>conf</text>
@@ -527,7 +507,7 @@
         <text encoding="base64">XDxsb2FuQml6VHlwZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>xsb</text>
+        <text>repayDivisionWay</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
