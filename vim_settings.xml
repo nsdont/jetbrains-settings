@@ -34,12 +34,12 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525071389724">
-        <mark key="'" line="62" column="14" />
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="18" />
-        <mark key="." line="99" column="18" />
-        <mark key="^" line="99" column="18" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525187109736">
+        <mark key="'" line="77" column="22" />
+        <mark key="[" line="82" column="33" />
+        <mark key="]" line="82" column="37" />
+        <mark key="^" line="82" column="37" />
+        <mark key="." line="82" column="37" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="834" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="21" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="59" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="62" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -291,46 +290,47 @@
       <jump line="60" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="0" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="57" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="76" column="22" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>card</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>card</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ1tleHBvcnRdIGZhaWxlZCB3aXRoJywgZXhjX2luZm89MSkK</text>
+        <text encoding="base64">ZGVmIGdldF9zZXhfZnJvbV9pZF9jYXJkKGlkX2NhcmQpOgogICAgaWYgaWRfY2FyZDoKICAgICAgICBpZiBsZW4oaWRfY2FyZCkgPT0gMTU6CiAgICAgICAgICAgIHZhbHVlID0gaWRfY2FyZFstMV0KICAgICAgICBlbHNlOgogICAgICAgICAgICB2YWx1ZSA9IGlkX2NhcmRbLTJdCiAgICAgICAgcmV0dXJuICcyJyBpZiBpbnQodmFsdWUpICUgMiA9PSAwIGVsc2UgJzEnCiAgICByZXR1cm4gJzAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzInIGlmIGludCh2YWx1ZSkgJSAyID09IDAgZWxzZSAnMScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVlZF9leHBvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzInIGlmIGludCh2YWx1ZSkgJSAyID09IDAgZWxzZSAnMScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZSgnc2hvdyBkYXRhYmFzZXM7JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnNDEnKSkKICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMTEnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzcGVlZF9leHBvcnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZSgnc2hvdyBkYXRhYmFzZXM7JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyb3Jjb25uZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgIHdpdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnNDEnKSkKICAgICAgICBwcmludChnZXRfc2V4X2Zyb21faWRfY2FyZCgnMTEnKSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
