@@ -35,6 +35,10 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/enums/LoanBizTypeEnum.java" timestamp="1525158006096">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="11" />
+      </file>
       <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/dal/dataobject/UserBaseInfoDO.java" timestamp="1524671442980">
         <mark key="'" line="42" column="19" />
       </file>
@@ -47,6 +51,10 @@
       </file>
       <file name="$USER_HOME$/source/uyun/manager/manager-gateway/src/main/java/uyun/ant/manager/gateway/job/executor/ModuleInstallationTaskExecutor.java" timestamp="1522226735246">
         <mark key="'" line="101" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/sqlmap/RecommendProject-sqlmap-mapping.xml" timestamp="1525157802130">
+        <mark key="[" line="50" column="43" />
+        <mark key="]" line="50" column="50" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1522204513235">
         <mark key="'" line="4" column="26" />
@@ -133,7 +141,6 @@
       <file name="$USER_HOME$/source/crowd/wlcf/wlcf/WebContent/WEB-INF/lib/spring-orm-3.2.6.RELEASE.jar!/org/springframework/orm/ibatis/SqlMapClientTemplate.class" timestamp="1524671504256">
         <mark key="'" line="209" column="18" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agentless/probe/conf/config.properties" timestamp="1524905960322" />
       <file name="$USER_HOME$/source/uyun/manager_dubbo/.editorconfig" timestamp="1522043600752">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="19" column="3" />
@@ -279,6 +286,9 @@
       <file name="$USER_HOME$/source/uyun/manager/manager-entity-state/src/main/java/uyun/ant/manager/state/constants/AgentState.java" timestamp="1522612055428">
         <mark key="'" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" timestamp="1525158072733">
+        <mark key="'" line="106" column="19" />
+      </file>
       <file name="$USER_HOME$/source/uyun/manager_dubbo/tsconfig.json" timestamp="1522043704053">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="19" />
@@ -405,14 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="39" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
-      <jump line="132" column="17" filename="$USER_HOME$/source/uyun/monitor/checks/libs/win/winpdh.py" />
-      <jump line="126" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/libs/win/winpdh.py" />
-      <jump line="23" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/libs/win/winpdh.py" />
-      <jump line="18" column="38" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="273" column="42" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="120" column="25" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
-      <jump line="128" column="17" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="227" column="57" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="276" column="0" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="295" column="24" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
@@ -505,19 +507,27 @@
       <jump line="6" column="27" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
       <jump line="15" column="32" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
       <jump line="4" column="7" filename="$USER_HOME$/source/uyun/agentless/probe/bin/install.py" />
+      <jump line="109" column="19" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="522" column="13" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="521" column="36" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="518" column="15" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="498" column="13" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="497" column="38" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="494" column="15" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
+      <jump line="106" column="19" filename="$USER_HOME$/source/crowd/wlcf/wlcf/src/com/yjf/yrd/ws/service/query/order/QueryLoanTradeOrder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conf</text>
+        <text>xsb</text>
       </register>
       <register name="-" type="4">
         <text>conf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJwcm9jZXNzXD4=</text>
+        <text encoding="base64">XDxsb2FuQml6VHlwZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QkFTRV9IT01FPWBwd2RgCg==</text>
+      <register name="0" type="4">
+        <text>xsb</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -548,16 +558,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJwcm9jZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FuQml6VHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJwcm9jZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FuQml6VHlwZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry encoding="base64">XDxzcWxfbmFtZVw+</entry>
         <entry encoding="base64">XDxJTlNUQU5DRVNfUVVFUllcPg==</entry>
         <entry encoding="base64">XDxWQUxVRV9BTkRfQkFTRV9RVUVSWVw+</entry>
         <entry encoding="base64">XDxNZW1vcnlcPg==</entry>
@@ -576,6 +584,8 @@
         <entry encoding="base64">XDxsb2dQYXNzd29yZFw+</entry>
         <entry>insert</entry>
         <entry encoding="base64">XDxzdWJwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxub0JpelR5cGVcPg==</entry>
+        <entry encoding="base64">XDxsb2FuQml6VHlwZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
