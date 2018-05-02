@@ -103,12 +103,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525250625453">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525256712699">
         <mark key="'" line="367" column="27" />
-        <mark key="[" line="404" column="16" />
-        <mark key="]" line="404" column="35" />
-        <mark key="^" line="416" column="52" />
-        <mark key="." line="434" column="49" />
+        <mark key="[" line="425" column="108" />
+        <mark key="]" line="425" column="108" />
+        <mark key="^" line="425" column="108" />
+        <mark key="." line="425" column="108" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
