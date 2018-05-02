@@ -34,12 +34,12 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525193663503">
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525276393200">
         <mark key="'" line="203" column="70" />
-        <mark key="[" line="103" column="29" />
-        <mark key="]" line="103" column="29" />
-        <mark key="." line="103" column="29" />
-        <mark key="^" line="103" column="29" />
+        <mark key="[" line="203" column="71" />
+        <mark key="]" line="203" column="75" />
+        <mark key="." line="203" column="75" />
+        <mark key="^" line="203" column="75" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -307,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://master.cma.cn</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGpbMV0gPT0gJzEwLjQwLjEzMi4yMScgYW5kIA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXN0c1w+</text>
