@@ -103,12 +103,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525232332294">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525250625453">
         <mark key="'" line="367" column="27" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="424" column="91" />
+        <mark key="[" line="404" column="16" />
+        <mark key="]" line="404" column="35" />
         <mark key="^" line="416" column="52" />
-        <mark key="." line="416" column="53" />
+        <mark key="." line="434" column="49" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
         <mark key="[" line="33" column="13" />
@@ -306,8 +306,8 @@
       <jump line="367" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAucXhqY29uZmlnJzogJ3t9L3F4amNvbmZpZy9pbmRleC5odG1sIy9wcm9jZXNzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5pbnRlcmZhY2UnOiAne30vcGxhdGZvcm1JbnRlcmZhY2UvaW5kZXguaHRtbCMvJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5taXN0cy0xJzogJ3t9L21pc3RzL2luZGV4Lmh0bWw/dHlwZT0xJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5taXN0cy0yJzogJ3t9L21pc3RzL2luZGV4Lmh0bWw/dHlwZT0yJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5taXN0cy00JzogJ3t9L21pc3RzL2luZGV4Lmh0bWw/dHlwZT00Jy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5zaG93JzogJ3t9L3Nob3cvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5odHRwLmFudCc6ICd7fS9hbnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5odHRwLm1vbml0b3InOiAne30vbW9uaXRvci8jLycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmh0dHAuZGlzY292ZXJ5JzogJ3t9L2Rpc2NvdmVyeS8jLycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5hbnRfZGFvJzogJ3t9L2FudC9tYW5hZ2VyL2Rhby9hcGkvdjEvaGVhbHRoLWNoZWNrJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaGVhbHRoLmFudF9nYXRld2F5JzogJ3t9L2FudC9tYW5hZ2VyL2FwaS92MS9oZWFsdGgtY2hlY2snLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5oZWFsdGguYW50X2xzcyc6ICd7fS9hbnQvbWFuYWdlci9sc3MvYXBpL3YxL2hlYWx0aC1jaGVjaycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5hbnRfZGlzcGF0Y2hlcic6ICd7fS9hbnQvZGlzcGF0Y2hlci9zdGF0dXMvY2hlY2snLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5oZWFsdGgubW9uaXRvcl9nYXRld2F5X2FnZW50JzogJ3t9L21vbml0b3IvYXBpL3YyL2dhdGV3YXkvZGQtYWdlbnQvaGVhbHRoY2hlY2svc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaGVhbHRoLm1vbml0b3JfZ2F0ZXdheV9vcGVuYXBpJzogJ3t9L21vbml0b3Ivb3BlbmFwaS92Mi9oZWFsdGhjaGVjay9zdGF0dXMnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5oZWFsdGgubW9uaXRvcl9nYXRld2F5X3NlcnZpY2VhcGknOiAne30vbW9uaXRvci9zZXJ2aWNlYXBpL3YyL2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5tb25pdG9yX2dhdGV3YXlfYWdlbnRsZXNzJzogJ3t9L21vbml0b3IvYXBpL3YyL2dhdGV3YXkvYWdlbnRsZXNzL2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5tb25pdG9yX3dlYl9hcGknOiAne30vbW9uaXRvci9hcGkvdjIvaGVhbHRoY2hlY2svc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaGVhbHRoLmRpc2NvdmVyeV9zZXJ2ZXInOiAne30vZGlzY292ZXJ5L2FwaS9oZWFsdGgvc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>http://master.cma.cn</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGpbMV0gPT0gJzEwLjQwLjEzMi4yMScgYW5kIA==</text>
@@ -315,8 +315,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtaXN0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAucXhqY29uZmlnJzogJ3t9L3F4amNvbmZpZy9pbmRleC5odG1sIy9wcm9jZXNzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5pbnRlcmZhY2UnOiAne30vcGxhdGZvcm1JbnRlcmZhY2UvaW5kZXguaHRtbCMvJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5taXN0cy0xJzogJ3t9L21pc3RzL2luZGV4Lmh0bWw/dHlwZT0xJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5taXN0cy0yJzogJ3t9L21pc3RzL2luZGV4Lmh0bWw/dHlwZT0yJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5taXN0cy00JzogJ3t9L21pc3RzL2luZGV4Lmh0bWw/dHlwZT00Jy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaHR0cC5zaG93JzogJ3t9L3Nob3cvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5odHRwLmFudCc6ICd7fS9hbnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5odHRwLm1vbml0b3InOiAne30vbW9uaXRvci8jLycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmh0dHAuZGlzY292ZXJ5JzogJ3t9L2Rpc2NvdmVyeS8jLycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5hbnRfZGFvJzogJ3t9L2FudC9tYW5hZ2VyL2Rhby9hcGkvdjEvaGVhbHRoLWNoZWNrJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaGVhbHRoLmFudF9nYXRld2F5JzogJ3t9L2FudC9tYW5hZ2VyL2FwaS92MS9oZWFsdGgtY2hlY2snLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5oZWFsdGguYW50X2xzcyc6ICd7fS9hbnQvbWFuYWdlci9sc3MvYXBpL3YxL2hlYWx0aC1jaGVjaycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5hbnRfZGlzcGF0Y2hlcic6ICd7fS9hbnQvZGlzcGF0Y2hlci9zdGF0dXMvY2hlY2snLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5oZWFsdGgubW9uaXRvcl9nYXRld2F5X2FnZW50JzogJ3t9L21vbml0b3IvYXBpL3YyL2dhdGV3YXkvZGQtYWdlbnQvaGVhbHRoY2hlY2svc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaGVhbHRoLm1vbml0b3JfZ2F0ZXdheV9vcGVuYXBpJzogJ3t9L21vbml0b3Ivb3BlbmFwaS92Mi9oZWFsdGhjaGVjay9zdGF0dXMnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3N5c3RlbS5oZWFsdGgubW9uaXRvcl9nYXRld2F5X3NlcnZpY2VhcGknOiAne30vbW9uaXRvci9zZXJ2aWNlYXBpL3YyL2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5tb25pdG9yX2dhdGV3YXlfYWdlbnRsZXNzJzogJ3t9L21vbml0b3IvYXBpL3YyL2dhdGV3YXkvYWdlbnRsZXNzL2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc3lzdGVtLmhlYWx0aC5tb25pdG9yX3dlYl9hcGknOiAne30vbW9uaXRvci9hcGkvdjIvaGVhbHRoY2hlY2svc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzeXN0ZW0uaGVhbHRoLmRpc2NvdmVyeV9zZXJ2ZXInOiAne30vZGlzY292ZXJ5L2FwaS9oZWFsdGgvc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAo=</text>
+      <register name="0" type="4">
+        <text>http://master.cma.cn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
