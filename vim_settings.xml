@@ -169,12 +169,12 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525332407485">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525334314620">
         <mark key="'" line="1" column="11" />
-        <mark key="[" line="67" column="26" />
-        <mark key="]" line="67" column="37" />
-        <mark key="^" line="67" column="37" />
-        <mark key="." line="67" column="37" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/HelloWorld.vue" timestamp="1525332032175">
         <mark key="'" line="65" column="66" />
@@ -329,11 +329,11 @@
       <jump line="1" column="11" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRhKCkge30sCg==</text>
+      <register name="&quot;" type="4">
+        <text>vue-Echarts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>vue-Echarts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2hhcnRcPg==</text>
