@@ -50,11 +50,6 @@
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/setup_ping_check.sh" timestamp="1522742074382">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/agent/circle/process.py" timestamp="1524709832264">
         <mark key="'" line="226" column="11" />
       </file>
@@ -63,11 +58,6 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
         <mark key="^" line="0" column="62" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/logging.ts" timestamp="1524225672994">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/message/MessageReactor.ts" timestamp="1524216858366">
         <mark key="[" line="21" column="65" />
@@ -179,6 +169,26 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525332407485">
+        <mark key="'" line="1" column="11" />
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="37" />
+        <mark key="^" line="67" column="37" />
+        <mark key="." line="67" column="37" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/HelloWorld.vue" timestamp="1525332032175">
+        <mark key="'" line="65" column="66" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="65" column="68" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/main.js" timestamp="1525331904186">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/config.ts" timestamp="1523979271274">
         <mark key="'" line="38" column="3" />
       </file>
@@ -189,6 +199,11 @@
         <mark key="'" line="30" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="378" column="43" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" timestamp="1525332469495">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
@@ -212,13 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="47" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="93" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="272" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="394" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="395" column="52" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="397" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="399" column="79" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="314" column="60" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="383" column="59" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="384" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -312,62 +320,67 @@
       <jump line="136" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="137" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="138" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/HelloWorld.vue" />
+      <jump line="65" column="66" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/HelloWorld.vue" />
+      <jump line="28" column="19" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="71" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="65" column="47" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="66" column="63" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="1" column="11" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gateway</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkYXRhKCkge30sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>gateway</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text encoding="base64">XDxlY2hhcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYW50X2dhdGV3YXlfaGVhbHRoJzogJ2h0dHA6Ly9tYXN0ZXIuY21hLmNuL2FudC9tYW5hZ2VyL2dhdGV3YXkvYXBpL3YxL2hlYWx0aC1jaGVjay8nLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tMicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkK</text>
+        <text encoding="base64">ICBkYXRhKCkge30sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHF1b3RlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tMicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8K</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0X3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKG1ldHJpY3NbaW5kZXhdWzBdIC8gMTAwMCkKICAgICAgICAgICAgICAgIGVuZF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChtZXRyaWNzW2luZGV4ICsgMV1bMF0gLyAxMDAwKQogICAgICAgICAgICAgICAgIyBwcmludChzdGFydF90aW1lLCBlbmRfdGltZSkK</text>
+        <text encoding="base64">PCEtLSBBZGQgInNjb3BlZCIgYXR0cmlidXRlIHRvIGxpbWl0IENTUyB0byB0aGlzIGNvbXBvbmVudCBvbmx5IC0tPgpzdHlsZSBzY29wZWQ+Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ1snRElTQ09ORl9IT1NUJ10gPSAnMTAuMS4xMC4yMTknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljcykK</text>
+      <register name="8" type="4">
+        <text encoding="base64">PHN0eWxlPgojYXBwIHsKICBmb250LWZhbWlseTogJ0F2ZW5pcicsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7CiAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgY29sb3I6ICMyYzNlNTA7CiAgbWFyZ2luLXRvcDogNjBweDsKfQo8L3N0eWxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXAsIGl0ZW1zKQo=</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search encoding="base64">XDxlY2hhcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxlY2hhcnRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mem</entry>
-        <entry encoding="base64">XDxJU19XSU5ET1dTXD4=</entry>
         <entry encoding="base64">XDxCQVNFX0RJUlw+</entry>
         <entry>run_cmd</entry>
         <entry encoding="base64">XDxtb25pdG9yX2Rpc3RcPg==</entry>
@@ -386,6 +399,8 @@
         <entry>idea</entry>
         <entry>tgz</entry>
         <entry>http</entry>
+        <entry>get</entry>
+        <entry encoding="base64">XDxlY2hhcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
