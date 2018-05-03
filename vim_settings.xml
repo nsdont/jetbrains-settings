@@ -154,12 +154,12 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525339766398">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525341851403">
         <mark key="'" line="48" column="14" />
-        <mark key="[" line="102" column="17" />
-        <mark key="]" line="103" column="41" />
-        <mark key="^" line="103" column="41" />
-        <mark key="." line="103" column="41" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="101" column="4" />
+        <mark key="^" line="104" column="50" />
+        <mark key="." line="104" column="50" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
@@ -307,8 +307,8 @@
       <jump line="457" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10.40.132.35</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlwcyA9IFsKICAgICAgICAgJzEwLjIwLjY5LjE0MScsCiAgICAgICAgICcxMC4yMC42OS4xNDInLAogICAgICAgICAnMTAuMjAuNjkuMTQzJywKICAgICAgICAgJzEwLjIwLjY5LjE0NScsCiAgICAgICAgICcxMC4yMC42OS4xNDYnLAogICAgICAgICAnMTAuNDAuMTMyLjIxJywKICAgICAgICAgJzEwLjQwLjEzMi4yMicsCiAgICAgICAgICcxMC40MC4xMzIuMjMnLAogICAgICAgICAnMTAuNDAuMTMyLjI0JywKICAgICAgICAgJzEwLjQwLjEzMi4yNScsCiAgICAgICAgICcxMC40MC4xMzIuMjYnLAogICAgICAgICAnMTAuNDAuMTMyLjI3JywKICAgICAgICAgJzEwLjQwLjEzMi4yOCcsCiAgICAgICAgICcxMC40MC4xMzIuMjknLAogICAgICAgICAnMTAuNDAuMTMyLjMwJywKICAgICAgICAgJzEwLjQwLjEzMi4zMScsCiAgICAgICAgICcxMC40MC4xMzIuMzInLAogICAgICAgICAnMTAuNDAuMTMyLjMzJywKICAgICAgICAgJzEwLjQwLjEzMi4zNCcsCiAgICAgICAgICcxMC40MC4xMzIuMzUnLAogICAgICAgICAnMTAuNDAuMTMyLjM2JywKICAgICAgICAgJzEwLjQwLjEzMi4zNycsCiAgICAgICAgICcxMC40MC4xMzIuMzgnCiAgICBdCg==</text>
       </register>
       <register name="-" type="4">
         <text>10.40.132.35</text>
@@ -317,7 +317,7 @@
         <text>compress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJ1bl9jbWQoY21kLCB0aW1lb3V0PTEyMCk6CiAgICBwID0gUG9wZW4oY21kLCBzaGVsbD1UcnVlLCBzdGRpbj1QSVBFLCBzdGRvdXQ9UElQRSwgc3RkZXJyPVNURE9VVCkKICAgIG91dHB1dCA9IHt9CgogICAgZGVmIHRhcmdldCgpOgogICAgICAgIHN0ZG91dCwgXyA9IHAuY29tbXVuaWNhdGUoKQogICAgICAgIG91dHB1dFsnc3Rkb3V0J10gPSBzdGRvdXQKCiAgICB0aHJlYWQgPSB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD10YXJnZXQpCiAgICB0aHJlYWQuc3RhcnQoKQoKICAgIHRocmVhZC5qb2luKHRpbWVvdXQpCiAgICBpZiB0aHJlYWQuaXNfYWxpdmUoKToKICAgICAgICBwLnRlcm1pbmF0ZSgpCiAgICAgICAgdGhyZWFkLmpvaW4oKQoKICAgIHJldHVybiBvdXRwdXRbJ3N0ZG91dCddCg==</text>
+        <text encoding="base64">ICAgIGlwcyA9IFsKICAgICAgICAgJzEwLjIwLjY5LjE0MScsCiAgICAgICAgICcxMC4yMC42OS4xNDInLAogICAgICAgICAnMTAuMjAuNjkuMTQzJywKICAgICAgICAgJzEwLjIwLjY5LjE0NScsCiAgICAgICAgICcxMC4yMC42OS4xNDYnLAogICAgICAgICAnMTAuNDAuMTMyLjIxJywKICAgICAgICAgJzEwLjQwLjEzMi4yMicsCiAgICAgICAgICcxMC40MC4xMzIuMjMnLAogICAgICAgICAnMTAuNDAuMTMyLjI0JywKICAgICAgICAgJzEwLjQwLjEzMi4yNScsCiAgICAgICAgICcxMC40MC4xMzIuMjYnLAogICAgICAgICAnMTAuNDAuMTMyLjI3JywKICAgICAgICAgJzEwLjQwLjEzMi4yOCcsCiAgICAgICAgICcxMC40MC4xMzIuMjknLAogICAgICAgICAnMTAuNDAuMTMyLjMwJywKICAgICAgICAgJzEwLjQwLjEzMi4zMScsCiAgICAgICAgICcxMC40MC4xMzIuMzInLAogICAgICAgICAnMTAuNDAuMTMyLjMzJywKICAgICAgICAgJzEwLjQwLjEzMi4zNCcsCiAgICAgICAgICcxMC40MC4xMzIuMzUnLAogICAgICAgICAnMTAuNDAuMTMyLjM2JywKICAgICAgICAgJzEwLjQwLjEzMi4zNycsCiAgICAgICAgICcxMC40MC4xMzIuMzgnCiAgICBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
