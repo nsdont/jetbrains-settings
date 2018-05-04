@@ -115,12 +115,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525241962272">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="14" column="78" />
-        <mark key="]" line="14" column="91" />
-        <mark key="^" line="14" column="91" />
-        <mark key="." line="14" column="91" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525414194715">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="3" column="54" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" timestamp="1523992442493">
         <mark key="'" line="15" column="33" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="202" column="6" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="207" column="5" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="212" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
@@ -305,13 +304,14 @@
       <jump line="457" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="115" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="126" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>monitor_dist</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>monitor_dist</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
