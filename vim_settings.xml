@@ -115,12 +115,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525419573281">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="15" column="83" />
-        <mark key="]" line="15" column="81" />
-        <mark key="^" line="15" column="81" />
-        <mark key="." line="15" column="81" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525421148747">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" timestamp="1523992442493">
         <mark key="'" line="15" column="33" />
@@ -308,43 +308,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>and j[2] == 0</text>
+        <text>'10.40.132.22', '10.40.132.23'</text>
       </register>
       <register name="-" type="4">
-        <text>and j[2] == 0</text>
+        <text>'10.40.132.22', '10.40.132.23'</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwgPSB1J2luc2VydCBpbnRvIGBiYW5rX2NhcmRgICh7fSkgdmFsdWVzICgoe30pLCBcJ3t9XCcpOycuZm9ybWF0KCcsJy5qb2luKGtleXMpLCB1c2VyX2lkX3N1Yl9xdWVyeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnXCcsXCcnLmpvaW4odmFsdWVzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgalsxXSBpbiAoJzEwLjQwLjEzMi4yMScsICcxMC40MC4xMzIuMjInLCAnMTAuNDAuMTMyLjIzJykgYW5kIChqWzBdLnN0YXJ0c3dpdGgoJ3N5c3RlbS5odHRwJykgb3IKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpbMF0uc3RhcnRzd2l0aCgnc3lzdGVtLmhlYWx0aCcpKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmluZF9jYXJkX3RpbWUnOiBpWydyb3dfYWRkX3RpbWUnXSwK</text>
+        <text encoding="base64">ICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgaW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmluZF9jYXJkX3RpbWUnOiBpWydyb3dfYWRkX3RpbWUnXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm93ID0gZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
