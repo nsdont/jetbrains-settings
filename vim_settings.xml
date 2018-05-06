@@ -34,12 +34,11 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525370466680">
-        <mark key="'" line="126" column="30" />
-        <mark key="[" line="234" column="66" />
-        <mark key="]" line="234" column="66" />
-        <mark key="." line="234" column="66" />
-        <mark key="^" line="114" column="38" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525620181438">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="298" column="19" />
+        <mark key="]" line="298" column="47" />
+        <mark key="." line="298" column="19" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -204,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="5" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="212" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="230" column="17" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="235" column="17" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
@@ -304,46 +302,47 @@
       <jump line="126" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="19" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
       <jump line="30" column="23" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>show_source</text>
+        <text>export user</text>
       </register>
       <register name="-" type="4">
-        <text>, '10.40.132.23'</text>
+        <text>export user</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
       <register name="0" type="4">
-        <text>show_source</text>
+        <text>export project, trade, repay</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2V4cG9ydCBwcm9qZWN0LCB0cmFkZSwgcmVwYXldIHN0YXJ0IHJ1bi4uLicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBvcnRfcmVjaGFyZ2VfYW5kX3dpdGhkcmF3KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgaW50KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmluZF9jYXJkX3RpbWUnOiBpWydyb3dfYWRkX3RpbWUnXSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmluZF9jYXJkX3RpbWUnOiBpWydyb3dfYWRkX3RpbWUnXSwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
