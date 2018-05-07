@@ -150,12 +150,10 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525664175745">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="84" column="50" />
-        <mark key="]" line="84" column="61" />
-        <mark key="." line="84" column="61" />
-        <mark key="^" line="84" column="61" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525664759175">
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="66" column="13" />
+        <mark key="." line="66" column="13" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
@@ -313,11 +311,11 @@
       <jump line="20" column="23" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXN1bHRfY2FsbGJhY2soc2VsZi5zdGF0dXNfbXNnLCBzZWxmLnN0ZG91dF9tc2csIHNlbGYuc3RkZXJyX21zZywgc2VsZi5pc190aW1lb3V0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FsbGJhY2ssIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lb3V0XD4=</text>
