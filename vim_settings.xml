@@ -34,12 +34,12 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525646974942">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="103" column="54" />
-        <mark key="]" line="103" column="55" />
-        <mark key="." line="103" column="55" />
-        <mark key="^" line="103" column="24" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525650367923">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="362" column="85" />
+        <mark key="]" line="362" column="77" />
+        <mark key="." line="362" column="77" />
+        <mark key="^" line="362" column="77" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -307,43 +307,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>with_bank_info</text>
+        <text>repaying</text>
       </register>
       <register name="-" type="4">
-        <text>with_bank_info</text>
+        <text>repaying</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
-      <register name="0" type="4">
-        <text>export project, trade, repay</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA4OiAncHVibGljJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxlY3RfYWxsX2JpKCk6CiAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGN1cnNvcjoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoU1FMX01BUFsnU0VMRUNUX0ZVTkRfVVNFUiddKQogICAgICAgICAgICByZXN1bHQgPSBjdXJzb3IuZmV0Y2hhbGwoKQogICAgICAgICAgICByZXR1cm4gW2lbJ2FjY291bnRfaWQnXSBmb3IgaSBpbiByZXN1bHRdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnW2V4cG9ydCBwcm9qZWN0LCB0cmFkZSwgcmVwYXldIHN0YXJ0IHJ1bi4uLicpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnRfcmVjaGFyZ2VfYW5kX3dpdGhkcmF3KCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBjb252ZXJ0X2Jpel90eXBlKF90eXBlKToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29kZSc6IGlbJ2FjY291bnRfaWQnXSwKICAgICAgICAgICAgICAgICAgICAnc2V4JzogZ2V0X3NleF9mcm9tX2lkX2NhcmQoaVsnY2VydF9ubyddKSwKICAgICAgICAgICAgICAgICAgICAnYmlydGhkYXknOiBnZXRfYmlydGhkYXlfZnJvbV9pZF9jYXJkKGlbJ2NlcnRfbm8nXSksCiAgICAgICAgICAgICAgICAgICAgJ3JlYWxfbmFtZSc6IGlbJ3JlYWxfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICdlbWFpbCc6IGlbJ21haWwnXSwKICAgICAgICAgICAgICAgICAgICAncGFzc3dvcmQnOiBpWydsb2dfcGFzc3dvcmQnXSwKICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogJ25vcm1hbCcsCiAgICAgICAgICAgICAgICAgICAgJ2NyZWF0ZV90aW1lJzogZm9ybWF0X2RhdGV0aW1lKGlbJ3Jvd19hZGRfdGltZSddKSwKICAgICAgICAgICAgICAgICAgICAnY2VydF9udW0nOiBpWydjZXJ0X25vJ10sCiAgICAgICAgICAgICAgICAgICAgJ2xvZ2luX3R5cGUnOiAnd3gnLAogICAgICAgICAgICAgICAgICAgICdpc19tYWlsX3ZlcmlmeSc6IDEgaWYgaVsnbWFpbCddIGVsc2UgMCwKICAgICAgICAgICAgICAgICAgICAnaXNfYmluZF9iYW5rX2NhcmQnOiAxIGlmIGlbJ2NlcnRfbm8nXSBlbHNlIDAsCiAgICAgICAgICAgICAgICAgICAgJ2JpbmRfY2FyZF90aW1lJzogaVsncm93X2FkZF90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ2JhbmtfY2FyZCc6IGlbJ2JhbmtfY2FyZF9ubyddLAogICAgICAgICAgICAgICAgICAgICdpc19mdW5kJzogaVsnYWNjb3VudF9pZCddIGluIGZ1bmRfdXNlcnMsCiAgICAgICAgICAgICAgICAgICAgJ2Vycm9yX2NvdW50JzogMCwKICAgICAgICAgICAgICAgICAgICAnaXNfbHVuYXJfY2FsZW5kYXInOiAwLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlbGVjdF9hbGxfdXNlcl93aXRoX2JhbmtfaW5mbyhuZXdfc3lzdGVtX3VzZXJfbGlzdCwgbmV3X3N5c3RlbV9iYW5rX2NhcmRfbGlzdCwgZnVuZF91c2VyX2lkcykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ICAgIG5ld19zeXN0ZW1fYmFua19jYXJkX2xpc3QgPSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZ1bmRfdXNlcl9pZHMgPSBzZWxlY3RfZnVuZF91c2VyKCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
+      <register name="9" type="4">
+        <text>('select c.account_id,c.mobile,a.repay_division_way,b.trade_code, b.trade_name, '
+                         'a.period_count,a.period_no,a.status,a.amount,a.repay_principal_amount,'
+                         'a.repay_user_real_name, a.actual_repay_user_real_name, a.raw_add_time, a.repay_date, '
+                         'a.actual_repay_date from repay_plan as a left join trade as b on a.trade_id = b.trade_id '
+                         'left join user_base_info as c on a.repay_user_id = c.user_id left join loan_demand as d on '
+                         'b.demand_id = d.demand_id;')</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
