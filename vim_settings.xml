@@ -18,11 +18,6 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1524538159805">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="63" />
-        <mark key="o" line="114" column="19" />
-      </file>
       <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1524810573006">
         <mark key="'" line="134" column="4" />
         <mark key="[" line="23" column="0" />
@@ -152,12 +147,11 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525419785498">
-        <mark key="'" line="48" column="14" />
-        <mark key="[" line="67" column="43" />
-        <mark key="]" line="67" column="44" />
-        <mark key="^" line="104" column="50" />
-        <mark key="." line="67" column="44" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525661846666">
+        <mark key="'" line="146" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
@@ -176,7 +170,16 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1525595215674" />
+      <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1525661547685">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="25" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1525661689202">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/config.ts" timestamp="1523979271274">
         <mark key="'" line="38" column="3" />
       </file>
@@ -204,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="2" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="230" column="17" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="235" column="17" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="238" column="19" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="241" column="19" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
@@ -304,69 +305,64 @@
       <jump line="19" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
       <jump line="30" column="23" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
       <jump line="155" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="149" column="22" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
+      <jump line="146" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>repaying</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLnByb2Nlc3MgaW1wb3J0IFN1YnByb2Nlc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>repaying</text>
+        <text>Raise</text>
       </register>
       <register name="/" type="4">
-        <text>21</text>
+        <text encoding="base64">XDxzcGxpdF93b3JrZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA4OiAncHVibGljJywK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLnByb2Nlc3MgaW1wb3J0IFN1YnByb2Nlc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnc3BsaXQgZmlsZSBpcDoge30nLmZvcm1hdChpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBydW5fY21kKCdjZCB7fTsgY2F0IGEgfCBncmVwIHt9ID4ge31fbWV0cmljJy5mb3JtYXQoT1VUUFVUX0RJUiwgaSwgaSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb252ZXJ0X2Jpel90eXBlKF90eXBlKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29kZSc6IGlbJ2FjY291bnRfaWQnXSwKICAgICAgICAgICAgICAgICAgICAnc2V4JzogZ2V0X3NleF9mcm9tX2lkX2NhcmQoaVsnY2VydF9ubyddKSwKICAgICAgICAgICAgICAgICAgICAnYmlydGhkYXknOiBnZXRfYmlydGhkYXlfZnJvbV9pZF9jYXJkKGlbJ2NlcnRfbm8nXSksCiAgICAgICAgICAgICAgICAgICAgJ3JlYWxfbmFtZSc6IGlbJ3JlYWxfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICdlbWFpbCc6IGlbJ21haWwnXSwKICAgICAgICAgICAgICAgICAgICAncGFzc3dvcmQnOiBpWydsb2dfcGFzc3dvcmQnXSwKICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogJ25vcm1hbCcsCiAgICAgICAgICAgICAgICAgICAgJ2NyZWF0ZV90aW1lJzogZm9ybWF0X2RhdGV0aW1lKGlbJ3Jvd19hZGRfdGltZSddKSwKICAgICAgICAgICAgICAgICAgICAnY2VydF9udW0nOiBpWydjZXJ0X25vJ10sCiAgICAgICAgICAgICAgICAgICAgJ2xvZ2luX3R5cGUnOiAnd3gnLAogICAgICAgICAgICAgICAgICAgICdpc19tYWlsX3ZlcmlmeSc6IDEgaWYgaVsnbWFpbCddIGVsc2UgMCwKICAgICAgICAgICAgICAgICAgICAnaXNfYmluZF9iYW5rX2NhcmQnOiAxIGlmIGlbJ2NlcnRfbm8nXSBlbHNlIDAsCiAgICAgICAgICAgICAgICAgICAgJ2JpbmRfY2FyZF90aW1lJzogaVsncm93X2FkZF90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ2JhbmtfY2FyZCc6IGlbJ2JhbmtfY2FyZF9ubyddLAogICAgICAgICAgICAgICAgICAgICdpc19mdW5kJzogaVsnYWNjb3VudF9pZCddIGluIGZ1bmRfdXNlcnMsCiAgICAgICAgICAgICAgICAgICAgJ2Vycm9yX2NvdW50JzogMCwKICAgICAgICAgICAgICAgICAgICAnaXNfbHVuYXJfY2FsZW5kYXInOiAwLAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdF9hbGxfdXNlcl93aXRoX2JhbmtfaW5mbyhuZXdfc3lzdGVtX3VzZXJfbGlzdCwgbmV3X3N5c3RlbV9iYW5rX2NhcmRfbGlzdCwgZnVuZF91c2VyX2lkcykK</text>
+        <text encoding="base64">ICAgIHNwbGl0X3EgPSBxdWV1ZXMuUXVldWUoKQoKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgc3BsaXRfZmlsZSgpOgogICAgICAgIGlwID0geWllbGQgcS5nZXQoKQogICAgICAgIHRyeToKICAgICAgICAgICAgcHJpbnQoJ3NwbGl0IGZpbGUgaXA6IHt9Jy5mb3JtYXQoaXApKQogICAgICAgICAgICBydW5fY21kKCdjZCB7fTsgY2F0IGEgfCBncmVwIHt9ID4ge31fbWV0cmljJy5mb3JtYXQoT1VUUFVUX0RJUiwgaSwgaSkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgnc3BsaXQgZmFpbGVkIHt9Ont9Jy5mb3JtYXQoaXAsIGUpKQogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIHEudGFza19kb25lKCkKCiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIHNwbGl0X3dvcmtlcigpOgogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHlpZWxkIHNwbGl0X2ZpbGUoKQoKICAgIGlwcyA9IFsKICAgICAgICAgJzEwLjIwLjY5LjE0MScsCiAgICAgICAgICcxMC4yMC42OS4xNDInLAogICAgICAgICAnMTAuMjAuNjkuMTQzJywKICAgICAgICAgJzEwLjIwLjY5LjE0NScsCiAgICAgICAgICcxMC4yMC42OS4xNDYnLAogICAgICAgICAnMTAuNDAuMTMyLjIxJywKICAgICAgICAgJzEwLjQwLjEzMi4yMicsCiAgICAgICAgICcxMC40MC4xMzIuMjMnLAogICAgICAgICAnMTAuNDAuMTMyLjI0JywKICAgICAgICAgJzEwLjQwLjEzMi4yNScsCiAgICAgICAgICcxMC40MC4xMzIuMjYnLAogICAgICAgICAnMTAuNDAuMTMyLjI3JywKICAgICAgICAgJzEwLjQwLjEzMi4yOCcsCiAgICAgICAgICcxMC40MC4xMzIuMjknLAogICAgICAgICAnMTAuNDAuMTMyLjMwJywKICAgICAgICAgJzEwLjQwLjEzMi4zMScsCiAgICAgICAgICcxMC40MC4xMzIuMzInLAogICAgICAgICAnMTAuNDAuMTMyLjMzJywKICAgICAgICAgJzEwLjQwLjEzMi4zNCcsCiAgICAgICAgICcxMC40MC4xMzIuMzUnLAogICAgICAgICAnMTAuNDAuMTMyLjM2JywKICAgICAgICAgJzEwLjQwLjEzMi4zNycsCiAgICAgICAgICcxMC40MC4xMzIuMzgnCiAgICBdCgoKICAgIGZvciBpIGluIGlwczoKICAgICAgICBwcmludCgnc3BsaXQgZmlsZSBpcDoge30nLmZvcm1hdChpKSkKICAgICAgICBydW5fY21kKCdjZCB7fTsgY2F0IGEgfCBncmVwIHt9ID4ge31fbWV0cmljJy5mb3JtYXQoT1VUUFVUX0RJUiwgaSwgaSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ld19zeXN0ZW1fYmFua19jYXJkX2xpc3QgPSBbXQo=</text>
+        <text encoding="base64">ICAgIHJ1bl9jbWQoJ2NkIHt9O2ZvciBkaXIgaW4gKjsgZG8gY2F0ICRkaXIvcm9vdC9xeGpfbW9uaXRvci9sb2dzLyogPj4gYTsgZG9uZScuZm9ybWF0KE9VVFBVVF9ESVIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bmRfdXNlcl9pZHMgPSBzZWxlY3RfZnVuZF91c2VyKCkK</text>
+        <text encoding="base64">ICAgIHRnel9maWxlX2NvdW50ID0gMAoKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgdW5jb21wcmVzcygpOgogICAgICAgIG5vdyA9IHRpbWUudGltZSgpCiAgICAgICAgZGlyX25hbWUgPSAne317fScuZm9ybWF0KG5vdywgcmFuZG9tLmNob2ljZSgnQUJDREVERkhHSicpKQogICAgICAgIGZpbGVuYW1lID0geWllbGQgcS5nZXQoKQogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCB0YXJmaWxlLm9wZW4oZmlsZW5hbWUpIGFzIHRhcjoKICAgICAgICAgICAgICAgIHRhci5leHRyYWN0YWxsKG9zLnBhdGguam9pbihPVVRQVVRfRElSLCBkaXJfbmFtZSkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgndW5jb21wcmVzcyBmYWlsZWQge306e30nLmZvcm1hdChmaWxlbmFtZSwgZSkpCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgcS50YXNrX2RvbmUoKQoKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgd29ya2VyKCk6CiAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgeWllbGQgdW5jb21wcmVzcygpCgogICAgZm9yIGkgaW4gb3MubGlzdGRpcihESVNUX0RJUik6CiAgICAgICAgaWYgaS5lbmRzd2l0aCgndGd6Jyk6CiAgICAgICAgICAgIGZpbGVfZGF0ZSA9IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKGkuc3BsaXQoJ18nKVsxXS5zcGxpdCgnLicpWzBdLCAnJVktJW0tJWQtJUgtJU0nKQogICAgICAgICAgICBpZiAodG9kYXkgLSBmaWxlX2RhdGUpLmRheXMgPD0gNzoKICAgICAgICAgICAgICAgIHRnel9maWxlX2NvdW50ICs9IDEKICAgICAgICAgICAgICAgIHlpZWxkIHEucHV0KG9zLnBhdGguam9pbihESVNUX0RJUiwgaSkpCgogICAgIyBTdGFydCB3b3JrZXJzLCB0aGVuIHdhaXQgZm9yIHRoZSB3b3JrIHF1ZXVlIHRvIGJlIGVtcHR5LgogICAgZm9yIF8gaW4gcmFuZ2UoY29uY3VycmVuY3kpOgogICAgICAgIHdvcmtlcigpCiAgICB5aWVsZCBxLmpvaW4oKQogICAgcHJpbnQoJ3VuY29tcHJlc3Mge30gdGd6IGZpbGUnLmZvcm1hdCh0Z3pfZmlsZV9jb3VudCkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>('select c.account_id,c.mobile,a.repay_division_way,b.trade_code, b.trade_name, '
-                         'a.period_count,a.period_no,a.status,a.amount,a.repay_principal_amount,'
-                         'a.repay_user_real_name, a.actual_repay_user_real_name, a.raw_add_time, a.repay_date, '
-                         'a.actual_repay_date from repay_plan as a left join trade as b on a.trade_id = b.trade_id '
-                         'left join user_base_info as c on a.repay_user_id = c.user_id left join loan_demand as d on '
-                         'b.demand_id = d.demand_id;')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>21</last-search>
+      <last-search encoding="base64">XDxzcGxpdF93b3JrZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>21</last-pattern>
+      <last-pattern encoding="base64">XDxzcGxpdF93b3JrZXJcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>range</entry>
-        <entry>check</entry>
         <entry>idea</entry>
         <entry>tgz</entry>
         <entry>socket</entry>
@@ -385,6 +381,8 @@
         <entry>compress</entry>
         <entry>print</entry>
         <entry>21</entry>
+        <entry encoding="base64">XDxwdXRcPg==</entry>
+        <entry encoding="base64">XDxzcGxpdF93b3JrZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
