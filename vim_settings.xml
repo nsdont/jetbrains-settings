@@ -98,8 +98,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525678050634">
-        <mark key="'" line="457" column="41" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525679745640">
+        <mark key="'" line="423" column="21" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
@@ -207,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
-      <jump line="178" column="14" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="206" column="22" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="95" column="21" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="102" column="12" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
@@ -307,6 +305,8 @@
       <jump line="316" column="8" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
       <jump line="572" column="6" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
       <jump line="460" column="19" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="417" column="61" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="423" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -316,7 +316,7 @@
         <text>master@YY1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIHNzaC5jb25uZWN0KCcxMC40MC4xMzIuMjEnLCB1c2VybmFtZT0ncm9vdCcsIHBhc3N3b3JkPSdtYXN0ZXJAWVkxJykK</text>
@@ -353,17 +353,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>break</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxtaXN0c1w+</entry>
         <entry>schme</entry>
@@ -383,6 +382,7 @@
         <entry encoding="base64">XDxfb25fbWVzc2FnZV9jYWxsYmFja1w+</entry>
         <entry>on_pong</entry>
         <entry encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
