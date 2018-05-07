@@ -116,6 +116,9 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="28" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" timestamp="1525675431402">
+        <mark key="'" line="460" column="19" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525422832306">
         <mark key="[" line="13" column="54" />
         <mark key="]" line="13" column="54" />
@@ -204,13 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="120" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="23" column="22" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="111" column="158" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="96" column="16" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="10" column="11" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="178" column="14" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
       <jump line="206" column="22" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
@@ -304,6 +300,13 @@
       <jump line="149" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="54" column="12" filename="$USER_HOME$/source/uyun/agent/agent/ipc/client.py" />
       <jump line="49" column="8" filename="$USER_HOME$/source/uyun/agent/agent/ipc/client.py" />
+      <jump line="1179" column="22" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="1140" column="11" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="1048" column="13" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="310" column="24" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="316" column="8" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="572" column="6" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
+      <jump line="460" column="19" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -313,7 +316,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbl9tZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnLTEnKQo=</text>
@@ -352,9 +355,9 @@ os.mkdir(OUTPUT_DIR)</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbl9tZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbl9tZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -362,10 +365,6 @@ os.mkdir(OUTPUT_DIR)</text>
     </search>
     <history>
       <history-search>
-        <entry>memory</entry>
-        <entry>write</entry>
-        <entry>index</entry>
-        <entry>time</entry>
         <entry>break</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxtaXN0c1w+</entry>
@@ -382,6 +381,10 @@ os.mkdir(OUTPUT_DIR)</text>
         <entry>print</entry>
         <entry>broken</entry>
         <entry encoding="base64">XDxvbl9tZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxvbl9tZXNzYWdlX2NhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxfb25fbWVzc2FnZV9jYWxsYmFja1w+</entry>
+        <entry>on_pong</entry>
+        <entry encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
