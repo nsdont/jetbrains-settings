@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525760483607">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525761539544">
         <mark key="'" line="180" column="17" />
-        <mark key="[" line="142" column="37" />
-        <mark key="]" line="142" column="88" />
-        <mark key="." line="142" column="37" />
-        <mark key="^" line="142" column="36" />
+        <mark key="[" line="138" column="100" />
+        <mark key="]" line="138" column="100" />
+        <mark key="." line="138" column="100" />
+        <mark key="^" line="138" column="92" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1525661547685">
         <mark key="[" line="142" column="0" />
@@ -330,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.metricData['10.40.132.21#system.cpu.cpuGuest']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
