@@ -98,8 +98,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525679745640">
-        <mark key="'" line="423" column="21" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525746613967">
+        <mark key="'" line="163" column="23" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
@@ -119,9 +119,10 @@
       <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" timestamp="1525675431402">
         <mark key="'" line="460" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525422832306">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="54" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525746876901">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="35" />
         <mark key="." line="13" column="54" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" timestamp="1523992442493">
@@ -210,17 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="116" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/source/uyun/scripts/.gitignore" />
-      <jump line="926" column="26" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="889" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="135" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="136" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="137" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="138" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="420" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="466" column="55" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -310,19 +300,30 @@
       <jump line="248" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="394" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="303" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="949" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="952" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="955" column="91" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="964" column="56" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="11" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="141" column="51" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="164" column="35" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="163" column="23" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="26" column="9" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdzZXJpZXMnOiBsaXN0KHNlcmllcy52YWx1ZXMoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</text>
+        <text encoding="base64">XDxsb2FkX21ldHJpY3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmlkX2lkJzogY29udmVydF90cmFkZV9jb2RlX3NxbChpWyd0cmFkZSddKSwK</text>
+        <text encoding="base64">ICAgICdzZXJpZXMnOiBsaXN0KHNlcmllcy52YWx1ZXMoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -356,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkX21ldHJpY3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX21ldHJpY3NcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -366,9 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
-        <entry>compress</entry>
-        <entry>21</entry>
         <entry encoding="base64">XDxwdXRcPg==</entry>
         <entry encoding="base64">XDxzcGxpdF93b3JrZXJcPg==</entry>
         <entry encoding="base64">XDx1bmNvbXByZXNzX3Rhc2tcPg==</entry>
@@ -386,6 +384,9 @@
         <entry>platform</entry>
         <entry>cir</entry>
         <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</entry>
+        <entry>IP</entry>
+        <entry encoding="base64">XDxtZXRyaWNfbmFtZVw+</entry>
+        <entry encoding="base64">XDxsb2FkX21ldHJpY3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
