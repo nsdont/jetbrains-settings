@@ -179,12 +179,11 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525761539544">
-        <mark key="'" line="180" column="17" />
-        <mark key="[" line="138" column="100" />
-        <mark key="]" line="138" column="100" />
-        <mark key="." line="138" column="100" />
-        <mark key="^" line="138" column="92" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525765676169">
+        <mark key="[" line="95" column="12" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+        <mark key="^" line="95" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1525661547685">
         <mark key="[" line="142" column="0" />
@@ -227,11 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="120" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="23" column="22" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="111" column="158" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="96" column="16" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="10" column="11" filename="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" />
@@ -327,64 +321,69 @@
       <jump line="68" column="18" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
       <jump line="186" column="13" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
       <jump line="173" column="17" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="170" column="52" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="5" column="23" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="7" column="27" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="216" column="3" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="192" column="32" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text encoding="base64">XDxzZWFyY2hNZXRyaWNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>self.metricData['10.40.132.21#system.cpu.cpuGuest']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZWdlbmREYXRhID0gdGhpcy5zZWxlY3RlZE1ldHJpY3M7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>function (value) {
+              return max + 1;
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhLCBiKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wdGlvbi5sZWdlbmQuZGF0YSA9IHRoaXMuc2VsZWN0ZWRNZXRyaWNzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wdGlvbi5sZWdlbmQuZGF0YSA9IHRoaXMuc2VsZWN0ZWRNZXRyaWNzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhWzBdLCBiKQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vcHRpb24ubGVnZW5kLmRhdGEgPSB0aGlzLnNlbGVjdGVkTWV0cmljczsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tJywgc2VsZi5zZWFyY2hNZXRyaWMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3B0aW9uID0gewogICAgICAgIHRpdGxlOiB7CiAgICAgICAgICB0ZXh0OiAn5pWw5o2u55uR5o6nJywKICAgICAgICB9LAogICAgICAgIHRvb2x0aXA6IHsKICAgICAgICAgIHRyaWdnZXI6ICdheGlzJywKICAgICAgICB9LAogICAgICAgIGxlZ2VuZDogewogICAgICAgICAgZGF0YTogdGhpcy5zZWxlY3RlZE1ldHJpY3MsCiAgICAgICAgfSwKICAgICAgICBncmlkOiB7CiAgICAgICAgICBsZWZ0OiAnMyUnLAogICAgICAgICAgcmlnaHQ6ICc0JScsCiAgICAgICAgICBib3R0b206ICczJScsCiAgICAgICAgICBjb250YWluTGFiZWw6IHRydWUsCiAgICAgICAgfSwKICAgICAgICB0b29sYm94OiB7CiAgICAgICAgICBmZWF0dXJlOiB7CiAgICAgICAgICAgIHNhdmVBc0ltYWdlOiB7fSwKICAgICAgICAgICAgZGF0YVpvb206IHsKICAgICAgICAgICAgICBzaG93OiB0cnVlLAogICAgICAgICAgICB9LAogICAgICAgICAgICBtYXJrOiB7CiAgICAgICAgICAgICAgc2hvdzogdHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZGF0YVZpZXc6IHsKICAgICAgICAgICAgICBzaG93OiB0cnVlLAogICAgICAgICAgICB9LAogICAgICAgICAgICByZXN0b3JlOiB7CiAgICAgICAgICAgICAgc2hvdzogdHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICBkYXRhWm9vbTogewogICAgICAgICAgc2hvdzogdHJ1ZSwKICAgICAgICAgIHJlYWx0aW1lOiB0cnVlLAogICAgICAgIH0sCiAgICAgICAgeEF4aXM6IHsKICAgICAgICAgIHR5cGU6ICd0aW1lJywKICAgICAgICAgIGJvdW5kYXJ5R2FwOiBmYWxzZSwKICAgICAgICB9LAogICAgICAgIHlBeGlzOiB7CiAgICAgICAgICB0eXBlOiAndmFsdWUnLAogICAgICAgIH0sCiAgICAgICAgc2VyaWVzOiBPYmplY3QudmFsdWVzKHRoaXMubWV0cmljTGlzdCksCiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vcHRpb24uc2VyaWVzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0nLCBzZWxmLnNlYXJjaE1ldHJpYykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vcHRpb24ubGVnZW5kLnZhbHVlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0nLCBzZWxmLnNlYXJjaE1ldHJpYykKICAgICAgICB0aGlzLm1ldHJpY1NlbGVjdC5mb3JFYWNoKChpdGVtKSA9PiB7CiAgICAgICAgICBpZiAoaXRlbS5pbmRleG9mKHNlbGYuc2VhcmNoTWV0cmljKSAhPT0gLTEpIHsKICAgICAgICAgICAgc2VyaWVzLnB1c2goc2VsZi5tZXRyaWNMaXN0W2l0ZW1dKTsKICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RydWUvdHJ1ZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hNZXRyaWNcPg==</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hNZXRyaWNcPg==</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>True</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
-        <entry>index</entry>
         <entry>time</entry>
         <entry>break</entry>
         <entry>http</entry>
@@ -403,6 +402,8 @@
         <entry>'</entry>
         <entry>True</entry>
         <entry>sort</entry>
+        <entry encoding="base64">XDxzZWFyY2hCdG5cPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hNZXRyaWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
