@@ -179,11 +179,11 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525750976190">
-        <mark key="[" line="185" column="27" />
-        <mark key="]" line="185" column="32" />
-        <mark key="^" line="185" column="32" />
-        <mark key="." line="185" column="32" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525757661928">
+        <mark key="[" line="161" column="76" />
+        <mark key="]" line="161" column="76" />
+        <mark key="^" line="161" column="66" />
+        <mark key="." line="161" column="76" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1525661547685">
         <mark key="[" line="142" column="0" />
@@ -329,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.selectedMetrics</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>this.selectedMetrics</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>True</text>
