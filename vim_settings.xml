@@ -35,13 +35,13 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525874155844">
-        <mark key="'" line="428" column="55" />
-        <mark key="x" line="314" column="46" />
-        <mark key="[" line="472" column="55" />
-        <mark key="]" line="472" column="56" />
-        <mark key="^" line="421" column="21" />
-        <mark key="." line="472" column="56" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525876079311">
+        <mark key="'" line="447" column="78" />
+        <mark key="x" line="315" column="46" />
+        <mark key="[" line="447" column="84" />
+        <mark key="]" line="447" column="85" />
+        <mark key="^" line="95" column="27" />
+        <mark key="." line="447" column="85" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -216,20 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="949" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="952" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="955" column="91" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="964" column="56" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="11" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="141" column="51" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="164" column="35" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="163" column="23" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="26" column="9" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
-      <jump line="130" column="19" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="198" column="10" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="16" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="147" column="93" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="148" column="21" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
@@ -297,7 +283,6 @@
       <jump line="235" column="60" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="261" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="264" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="279" column="54" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="287" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="381" column="40" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="283" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -316,72 +301,77 @@
       <jump line="111" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="179" column="32" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="428" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="278" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="446" column="60" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="347" column="50" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="327" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="370" column="84" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="323" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="88" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="329" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="93" column="71" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="279" column="39" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="280" column="76" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="431" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="330" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="96" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="447" column="78" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>biz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgYS51c2VyX2lkLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>biz</text>
+        <text>account_id</text>
       </register>
       <register name="/" type="4">
-        <text>bid_type</text>
+        <text encoding="base64">XDxpc19mdW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzcWxfbGlzdC5hcHBlbmQoU1FMX01BUFsnQ1JFQVRFX0lOREVYX0lGX05PX0VYSVNUUyddLmZvcm1hdChzY2hlbWE9J3h3bGNmJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWJsZV9uYW1lPSd1c2VyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW49J2NvZGUnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgYS51c2VyX2lkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciB1c2VyX2luZm8gaW4gbmV3X3N5c3RlbV91c2VyX2xpc3Q6CiAgICAgICAgIyBGSVhNRSDnm67liY3nmoTov4fmu6QgTm9uZe+8jOaAleWPryBudWxsIOmdnuepuumZkOWItgogICAgICAgIGtleXMgPSBba2V5IGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHZhbHVlcyA9IFtmb3JtYXRfdmFsdWUodXNlcl9pbmZvW2tleV0pIGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYHVzZXJgICh7fSkgdmFsdWVzICh7fSk7Jy5mb3JtYXQoJywnLmpvaW4oa2V5cyksIHUnLCcuam9pbih2YWx1ZXMpKQogICAgICAgIHNxbF9saXN0LmFwcGVuZChzcWwpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gJycK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciB1c2VyX2luZm8gaW4gbmV3X3N5c3RlbV9iaXo6CiAgICAgICAgIyBGSVhNRSDnm67liY3nmoTov4fmu6QgTm9uZe+8jOaAleWPryBudWxsIOmdnuepuumZkOWItgogICAgICAgIGtleXMgPSBba2V5IGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHZhbHVlcyA9IFtmb3JtYXRfdmFsdWUodXNlcl9pbmZvW2tleV0pIGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYGJpemAgKHt9KSB2YWx1ZXMgKFwne31cJyk7Jy5mb3JtYXQoJywnLmpvaW4oa2V5cyksIHUnXCcsXCcnLmpvaW4odmFsdWVzKSkKICAgICAgICBzcWxfbGlzdC5hcHBlbmQoc3FsKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGRhdGFfbGlzdDoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciB1c2VyX2luZm8gaW4gbmV3X3N5c3RlbV91c2VyX2xpc3Q6CiAgICAgICAgIyBGSVhNRSDnm67liY3nmoTov4fmu6QgTm9uZe+8jOaAleWPryBudWxsIOmdnuepuumZkOWItgogICAgICAgIGtleXMgPSBba2V5IGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHZhbHVlcyA9IFtmb3JtYXRfdmFsdWUodXNlcl9pbmZvW2tleV0pIGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYHVzZXJgICh7fSkgdmFsdWVzICh7fSk7Jy5mb3JtYXQoJywnLmpvaW4oa2V5cyksIHUnLCcuam9pbih2YWx1ZXMpKQogICAgICAgIHNxbF9saXN0LmFwcGVuZChzcWwpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbHVlID0gJycK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciB1c2VyX2luZm8gaW4gbmV3X3N5c3RlbV9iaXo6CiAgICAgICAgIyBGSVhNRSDnm67liY3nmoTov4fmu6QgTm9uZe+8jOaAleWPryBudWxsIOmdnuepuumZkOWItgogICAgICAgIGtleXMgPSBba2V5IGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHZhbHVlcyA9IFtmb3JtYXRfdmFsdWUodXNlcl9pbmZvW2tleV0pIGZvciBrZXkgaW4gdXNlcl9pbmZvIGlmIHVzZXJfaW5mb1trZXldXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYGJpemAgKHt9KSB2YWx1ZXMgKFwne31cJyk7Jy5mb3JtYXQoJywnLmpvaW4oa2V5cyksIHUnXCcsXCcnLmpvaW4odmFsdWVzKSkKICAgICAgICBzcWxfbGlzdC5hcHBlbmQoc3FsKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGRhdGFfbGlzdDoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2NvZGUgPSBiYW5rX2NhcmQucG9wKCd1c2VyX2NvZGUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYWRlX2RldGFpbF9pZCwgdHlwZSh0cmFkZV9kZXRhaWxfaWQpLCB0cmFkZV9kZXRhaWxfaWQgaW4gQ0FDSEVfSU5URVJFU1QpCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2NvZGUgPSBiYW5rX2NhcmQucG9wKCd1c2VyX2NvZGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZG8gaScpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYWRlX2RldGFpbF9pZCwgdHlwZSh0cmFkZV9kZXRhaWxfaWQpLCB0cmFkZV9kZXRhaWxfaWQgaW4gQ0FDSEVfSU5URVJFU1QpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>bid_type</last-search>
+      <last-search encoding="base64">XDxpc19mdW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>bid_type</last-pattern>
+      <last-pattern encoding="base64">XDxpc19mdW5kXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fini</entry>
-        <entry>result</entry>
-        <entry encoding="base64">XDxzcGVlZF9leHBvcnRcPg==</entry>
-        <entry>print</entry>
-        <entry>CACHE</entry>
-        <entry>origin</entry>
-        <entry encoding="base64">XDxpbnRlcmVzdFw+</entry>
-        <entry>amount</entry>
-        <entry>if</entry>
-        <entry>125</entry>
         <entry>select</entry>
         <entry encoding="base64">XDxDUkVBVEVfSU5ERVhfSUZfTk9fRVhJU1RTXD4=</entry>
         <entry>code</entry>
@@ -392,6 +382,16 @@
         <entry>BIZ</entry>
         <entry>biz</entry>
         <entry>bid_type</entry>
+        <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</entry>
+        <entry>is_fund</entry>
+        <entry encoding="base64">XDxmdW5kX3VzZXJzXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RfYWxsX3VzZXJfd2l0aF9iYW5rX2luZm9cPg==</entry>
+        <entry encoding="base64">XDxmdW5kX3VzZXJfaWRzXD4=</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfRlVORF9VU0VSXD4=</entry>
+        <entry>plus</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</entry>
+        <entry>is_func</entry>
+        <entry encoding="base64">XDxpc19mdW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
