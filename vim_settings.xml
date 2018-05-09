@@ -32,12 +32,12 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525738604387">
-        <mark key="'" line="303" column="35" />
-        <mark key="[" line="417" column="40" />
-        <mark key="]" line="417" column="44" />
-        <mark key="^" line="417" column="44" />
-        <mark key="." line="417" column="44" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525829293266">
+        <mark key="'" line="292" column="0" />
+        <mark key="[" line="238" column="38" />
+        <mark key="]" line="238" column="38" />
+        <mark key="." line="238" column="38" />
+        <mark key="^" line="238" column="38" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -94,12 +94,6 @@
         <mark key="." line="143" column="40" />
         <mark key="^" line="143" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/package.json" timestamp="1525832453940">
-        <mark key="[" line="76" column="22" />
-        <mark key="]" line="76" column="24" />
-        <mark key="^" line="76" column="24" />
-        <mark key="." line="76" column="24" />
-      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/settings.py" timestamp="1524726354332">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
@@ -124,13 +118,6 @@
       </file>
       <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" timestamp="1525675431402">
         <mark key="'" line="460" column="19" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" timestamp="1525832666468">
-        <mark key="'" line="39" column="27" />
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="51" column="37" />
-        <mark key="^" line="51" column="37" />
-        <mark key="." line="59" column="37" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525765371503">
         <mark key="'" line="24" column="0" />
@@ -189,13 +176,6 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="198" column="19" />
-        <mark key="]" line="199" column="34" />
-        <mark key="^" line="199" column="34" />
-        <mark key="." line="199" column="34" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1525661547685">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="25" />
@@ -215,15 +195,6 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
-        <mark key="'" line="37" column="25" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" timestamp="1525834757013">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
         <mark key="[" line="288" column="0" />
@@ -240,6 +211,13 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="198" column="70" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
+      <jump line="886" column="32" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="902" column="15" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="130" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="131" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="134" column="19" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="133" column="19" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="132" column="19" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="367" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -326,76 +304,76 @@
       <jump line="122" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="38" column="18" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="123" column="34" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
-      <jump line="45" column="9" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" />
-      <jump line="39" column="27" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" />
-      <jump line="184" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
-      <jump line="185" column="6" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
-      <jump line="77" column="33" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" />
-      <jump line="107" column="25" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" />
-      <jump line="37" column="25" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" />
-      <jump line="150" column="29" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
-      <jump line="71" column="14" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
-      <jump line="85" column="10" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
-      <jump line="22" column="4" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
-      <jump line="31" column="4" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" />
-      <jump line="3" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" />
-      <jump line="8" column="22" filename="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" />
+      <jump line="477" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="524" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="225" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="294" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="523" column="20" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="237" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="291" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvYWRpbmdFbC5oaWRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChDQUNIRV9JTlRFUkVTVCkK</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>CA</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZXRyaWNTZWxlY3RcPg==</text>
+        <text>CACHE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9hZGluZ0VsLnNob3coKTsK</text>
+        <text encoding="base64">ICAgIHdpdGggY29ubmVjdGlvbi5jdXJzb3IoKSBhcyBjdXJzb3I6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvYWRpbmdFbC5oaWRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChDQUNIRV9JTlRFUkVTVCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbG9hZGluZ0VsID0gc2VsZi4kZWwucXVlcnlTZWxlY3RvcignI2xvYWRpbmcnKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9hZGluZ0VsLnNob3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9hZGluZ0VsKQo=</text>
+        <text encoding="base64">Q0FDSEVfSU5URVJFU1QgPSB7fQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoU1FMX01BUFsnU1VNX1RBUkdFVF9BTU9VTlQnXS5mb3JtYXQodHJhZGVfZGV0YWlsX2lkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuaXRlbSB7CiAgICB3aWR0aDogMjAwcHg7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdW1faW50ZXJlc3QoNjU1MzUpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNZXRyaWNTZWxlY3RcPg==</last-search>
+      <last-search>CACHE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZXRyaWNTZWxlY3RcPg==</last-pattern>
+      <last-pattern>CACHE</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry encoding="base64">XDxfb25fbWVzc2FnZV9jYWxsYmFja1w+</entry>
+        <entry>on_pong</entry>
+        <entry encoding="base64">XDxXZWJTb2NrZXRQcm90b2NvbDEzXD4=</entry>
+        <entry>show</entry>
+        <entry>dect</entry>
+        <entry>de</entry>
+        <entry>platform</entry>
         <entry>cir</entry>
         <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</entry>
         <entry>IP</entry>
@@ -406,16 +384,9 @@
         <entry>i</entry>
         <entry>fini</entry>
         <entry>result</entry>
-        <entry>21</entry>
-        <entry>31</entry>
-        <entry>re</entry>
-        <entry>watch</entry>
-        <entry>action</entry>
-        <entry>zoomData</entry>
-        <entry>data</entry>
-        <entry>datazoom</entry>
-        <entry>dataZoom</entry>
-        <entry encoding="base64">XDxNZXRyaWNTZWxlY3RcPg==</entry>
+        <entry encoding="base64">XDxzcGVlZF9leHBvcnRcPg==</entry>
+        <entry>print</entry>
+        <entry>CACHE</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
