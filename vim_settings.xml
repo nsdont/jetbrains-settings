@@ -35,13 +35,13 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525872332851">
-        <mark key="'" line="287" column="55" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525874155844">
+        <mark key="'" line="428" column="55" />
         <mark key="x" line="314" column="46" />
-        <mark key="[" line="376" column="0" />
-        <mark key="]" line="376" column="0" />
-        <mark key="^" line="375" column="53" />
-        <mark key="." line="376" column="0" />
+        <mark key="[" line="472" column="55" />
+        <mark key="]" line="472" column="56" />
+        <mark key="^" line="421" column="21" />
+        <mark key="." line="472" column="56" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -216,21 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="12" filename="$USER_HOME$/source/uyun/agent/agent/ipc/client.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/source/uyun/agent/agent/ipc/client.py" />
-      <jump line="1179" column="22" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="1140" column="11" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="1048" column="13" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="310" column="24" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="316" column="8" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="572" column="6" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="460" column="19" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="417" column="61" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="423" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="53" column="72" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
-      <jump line="56" column="4" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
-      <jump line="126" column="18" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
-      <jump line="248" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="303" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="949" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="952" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -298,7 +283,6 @@
       <jump line="314" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="304" column="56" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="313" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="17" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="19" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="23" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -314,18 +298,34 @@
       <jump line="261" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="264" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="279" column="54" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="283" column="53" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="287" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="381" column="40" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="283" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="421" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="453" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="472" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="508" column="17" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="511" column="32" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="514" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="515" column="25" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="519" column="46" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="406" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="413" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="467" column="75" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="111" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="179" column="32" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="428" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>biz</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>biz</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>bid_type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzcWxfbGlzdC5hcHBlbmQoU1FMX01BUFsnQ1JFQVRFX0lOREVYX0lGX05PX0VYSVNUUyddLmZvcm1hdChzY2hlbWE9J3h3bGNmJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWJsZV9uYW1lPSd1c2VyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW49J2NvZGUnKSkK</text>
@@ -362,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>bid_type</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>bid_type</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -372,9 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVfdXNlbGVzc19kaXJcPg==</entry>
-        <entry encoding="base64">XDxPVVRQVVRfRElSXD4=</entry>
-        <entry>i</entry>
         <entry>fini</entry>
         <entry>result</entry>
         <entry encoding="base64">XDxzcGVlZF9leHBvcnRcPg==</entry>
@@ -392,6 +389,9 @@
         <entry encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</entry>
         <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
         <entry>format</entry>
+        <entry>BIZ</entry>
+        <entry>biz</entry>
+        <entry>bid_type</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
