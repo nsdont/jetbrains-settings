@@ -32,8 +32,8 @@
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525790260204">
-        <mark key="'" line="336" column="35" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525825653785">
+        <mark key="'" line="477" column="19" />
         <mark key="[" line="476" column="30" />
         <mark key="]" line="477" column="19" />
         <mark key="^" line="477" column="19" />
@@ -211,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="60" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="0" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="57" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -311,6 +310,7 @@
       <jump line="122" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="38" column="18" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
       <jump line="123" column="34" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="477" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
