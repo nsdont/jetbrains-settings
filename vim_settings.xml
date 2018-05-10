@@ -65,12 +65,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525937310944">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525941274634">
         <mark key="'" line="166" column="0" />
-        <mark key="[" line="425" column="91" />
-        <mark key="]" line="425" column="34" />
-        <mark key="^" line="424" column="33" />
-        <mark key="." line="425" column="34" />
+        <mark key="[" line="411" column="41" />
+        <mark key="]" line="411" column="53" />
+        <mark key="^" line="411" column="53" />
+        <mark key="." line="411" column="53" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -352,17 +352,17 @@
       <jump line="166" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvd19zb3VyY2VfMic6ICdodHRwOi8vMTAuNDAuMTMyLjIxOjMwMDAxL2FwaS92MS91eXVuL3Nob3cvbmV0U2VjdXJpdHkvbmV0U2VjdXJpdHlDb3VudCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>job/</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvd19zb3VyY2VfMic6ICdodHRwOi8vMTAuNDAuMTMyLjIxOjMwMDAxL2FwaS92MS91eXVuL3Nob3cvbmV0U2VjdXJpdHkvbmV0U2VjdXJpdHlDb3VudCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvdyc6ICd7fS9zaG93LyMvJy5mb3JtYXQoQkFTRV9VUkwpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
