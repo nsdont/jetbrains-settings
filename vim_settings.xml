@@ -29,8 +29,8 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525962237546">
-        <mark key="'" line="569" column="8" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1525962950923">
+        <mark key="'" line="279" column="13" />
         <mark key="[" line="541" column="0" />
         <mark key="]" line="542" column="24" />
         <mark key="^" line="542" column="24" />
@@ -238,11 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="67" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="95" column="87" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="96" column="66" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="22904" column="56" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/user_and_bank.sql" />
-      <jump line="22830" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/user_and_bank.sql" />
       <jump line="105" column="25" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="10" column="11" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="40" column="31" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
@@ -338,6 +333,11 @@
       <jump line="524" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="322" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="568" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="390" column="46" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="427" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="283" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="287" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="279" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +347,7 @@
         <text>bid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBvcnRfcHJvamVjdF9hbmRfdHJhZGVfbG9nXD4=</text>
+        <text>(select</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNxbF9saXN0LmFwcGVuZCgnRFJPUCBpbmRleCBjb2RlIE9OIGJpZDsnKQo=</text>
@@ -384,19 +384,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBvcnRfcHJvamVjdF9hbmRfdHJhZGVfbG9nXD4=</last-search>
+      <last-search>(select</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBvcnRfcHJvamVjdF9hbmRfdHJhZGVfbG9nXD4=</last-pattern>
+      <last-pattern>(select</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVfdXNlbGVzc19kaXJcPg==</entry>
-        <entry encoding="base64">XDxPVVRQVVRfRElSXD4=</entry>
-        <entry>i</entry>
         <entry>fini</entry>
         <entry>result</entry>
         <entry>21</entry>
@@ -414,6 +411,9 @@
         <entry>index</entry>
         <entry encoding="base64">XDxDUkVBVEVfSU5ERVhfSUZfTk9fRVhJU1RTXD4=</entry>
         <entry encoding="base64">XDxleHBvcnRfcHJvamVjdF9hbmRfdHJhZGVfbG9nXD4=</entry>
+        <entry encoding="base64">XDxleHBvcnRfdXNlclw+</entry>
+        <entry>select</entry>
+        <entry>(select</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
