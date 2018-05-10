@@ -65,12 +65,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525746613967">
-        <mark key="'" line="163" column="23" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1525937310944">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="425" column="91" />
+        <mark key="]" line="425" column="34" />
+        <mark key="^" line="424" column="33" />
+        <mark key="." line="425" column="34" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" />
       <jump line="886" column="32" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="902" column="15" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="130" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -350,19 +349,20 @@
       <jump line="291" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="20" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/press_test.ts" />
       <jump line="184" column="19" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvd19zb3VyY2VfMic6ICdodHRwOi8vMTAuNDAuMTMyLjIxOjMwMDAxL2FwaS92MS91eXVuL3Nob3cvbmV0U2VjdXJpdHkvbmV0U2VjdXJpdHlDb3VudCcsCg==</text>
       </register>
       <register name="-" type="4">
         <text>job/</text>
       </register>
       <register name="/" type="4">
-        <text>7</text>
+        <text>http</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ewogIG1ldGhvZDogJ1BPU1QnLAogIHBhdGg6ICcvam9iLycsCiAgaGFuZGxlcjogYXN5bmMgKHJlcXVlc3Q6IGhhcGkuUmVxdWVzdCwgcmVwbHk6IGhhcGkuUmVwbHlOb0NvbnRpbnVlKSA9PiB7CiAgICBjb25zdCByZXNwb25zZV9ib2R5ID0gewogICAgICBqb2JfaWQ6ICcnLAogICAgICBlcnJvcl9jb2RlOiBjb25zdGFudC5TVUNDRVNTX0VSUk9SX0NPREUsCiAgICAgIG1zZzogJ+WIm+W7uuaIkOWKnycsCiAgICAgIHN0YXR1c19jb2RlOiAyMDAsCiAgICAgIHRhc2tfaWRzOiB7fSBhcyBhbnksCiAgICAgIGVycm9yX21zZzogJycsCiAgICB9OwogICAgY29uc3QgYXBpS2V5ID0gcmVxdWVzdC5xdWVyeS5hcGlrZXk7CiAgICBjb25zdCBwYXlsb2FkOiBJSm9iT3B0aW9ucyA9IHJlcXVlc3QucGF5bG9hZDsKCiAgICBsb2dnZXIuaW5mbyhgW2NvbnRyb2xsZXIgam9iXSBwYXlsb2FkOiAke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QucGF5bG9hZCl9YCk7CiAgICB0cnkgewogICAgICBjb25zdCBkYXRhID0gYXdhaXQgbWFuYWdlci5jcmVhdGVKb2IocGF5bG9hZCwgYXBpS2V5KTsKICAgICAgcmVzcG9uc2VfYm9keS5qb2JfaWQgPSBkYXRhLmpvYl9pZDsKICAgICAgcmVzcG9uc2VfYm9keS50YXNrX2lkcyA9IGRhdGEudGFza19pZHM7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2dnZXIuZXJyb3IoYHBvc3Qgam9iIGNhdGNoIGVycm9yOmAsIGVycm9yLnN0YWNrKTsKICAgICAgcmVzcG9uc2VfYm9keS5lcnJvcl9jb2RlID0gZXJyb3IuZXJyb3JDb2RlIHx8IGNvbnN0YW50LlVOREVGSU5FRF9FUlJPUl9DT0RFOwogICAgICByZXNwb25zZV9ib2R5Lm1zZyA9ICfliJvlu7rlpLHotKUnOwogICAgICByZXNwb25zZV9ib2R5LnN0YXR1c19jb2RlID0gNDAwOwogICAgICByZXNwb25zZV9ib2R5LmVycm9yX21zZyA9IGVycm9yLm1lc3NhZ2U7CiAgICB9CgogICAgcmVwbHkocmVzcG9uc2VfYm9keSkuY29kZShyZXNwb25zZV9ib2R5LnN0YXR1c19jb2RlKTsKICB9LAp9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvd19zb3VyY2VfMic6ICdodHRwOi8vMTAuNDAuMTMyLjIxOjMwMDAxL2FwaS92MS91eXVuL3Nob3cvbmV0U2VjdXJpdHkvbmV0U2VjdXJpdHlDb3VudCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -396,9 +396,9 @@
       </register>
     </registers>
     <search>
-      <last-search>7</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>7</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfaWRfc3FsXD4=</entry>
         <entry>IP</entry>
         <entry encoding="base64">XDxtZXRyaWNfbmFtZVw+</entry>
         <entry encoding="base64">XDxsb2FkX21ldHJpY3NcPg==</entry>
@@ -426,6 +425,7 @@
         <entry>dataZoom</entry>
         <entry encoding="base64">XDxNZXRyaWNTZWxlY3RcPg==</entry>
         <entry>7</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
