@@ -65,12 +65,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526007565814">
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="429" column="47" />
-        <mark key="]" line="429" column="47" />
-        <mark key="^" line="429" column="47" />
-        <mark key="." line="429" column="47" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526010098512">
+        <mark key="'" line="403" column="37" />
+        <mark key="[" line="556" column="33" />
+        <mark key="]" line="556" column="39" />
+        <mark key="^" line="556" column="39" />
+        <mark key="." line="556" column="39" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -238,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="14" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
       <jump line="457" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="115" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="126" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -338,19 +337,20 @@
       <jump line="963" column="60" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="964" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="11" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="403" column="37" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bid</text>
+        <text>gateay</text>
       </register>
       <register name="-" type="4">
-        <text>bid</text>
+        <text>gateay</text>
       </register>
       <register name="/" type="4">
         <text>es</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNxbF9saXN0LmFwcGVuZCgnRFJPUCBpbmRleCBjb2RlIE9OIGJpZDsnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ1tlc10gZmV0Y2ggaGVhbHRoIGZhaWxlZCcsIGV4Y19pbmZvPTEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
