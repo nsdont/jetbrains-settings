@@ -29,12 +29,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526016653236">
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526017777104">
         <mark key="'" line="198" column="5" />
-        <mark key="[" line="249" column="44" />
-        <mark key="]" line="249" column="45" />
+        <mark key="[" line="238" column="87" />
+        <mark key="]" line="238" column="87" />
         <mark key="^" line="248" column="78" />
-        <mark key="." line="249" column="45" />
+        <mark key="." line="238" column="87" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -347,11 +347,11 @@
       <jump line="198" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybignW3NwZWVkIGV4cG9ydF0gYWxyZWFkeSBzcGVlZCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>recharge_flow</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDUkVBVEVfSU5ERVhfSUZfTk9fRVhJU1RTXD4=</text>
