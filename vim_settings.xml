@@ -65,8 +65,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526019381396">
-        <mark key="'" line="61" column="13" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526020892719">
+        <mark key="'" line="190" column="8" />
         <mark key="[" line="47" column="13" />
         <mark key="]" line="47" column="20" />
         <mark key="^" line="985" column="55" />
@@ -245,32 +245,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="191" column="4" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="107" column="12" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="127" column="4" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="139" column="12" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="142" column="12" filename="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" />
-      <jump line="54" column="12" filename="$USER_HOME$/source/uyun/agent/agent/ipc/client.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/source/uyun/agent/agent/ipc/client.py" />
-      <jump line="1179" column="22" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="1140" column="11" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="1048" column="13" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="310" column="24" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="316" column="8" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="572" column="6" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="460" column="19" filename="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" />
-      <jump line="417" column="61" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="423" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="53" column="72" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
-      <jump line="56" column="4" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
       <jump line="126" column="18" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
       <jump line="248" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="394" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="303" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="949" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="952" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="955" column="91" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="83" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="141" column="51" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="164" column="35" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -331,7 +311,6 @@
       <jump line="962" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="963" column="60" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="964" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="11" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="403" column="37" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="103" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/.gitignore" />
       <jump line="545" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -345,6 +324,27 @@
       <jump line="41" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="48" column="13" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="61" column="13" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="81" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="85" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="106" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="15" column="11" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="985" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="971" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="970" column="64" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="969" column="43" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="968" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="965" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="955" column="19" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="937" column="50" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="936" column="50" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="935" column="48" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="932" column="9" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="169" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="243" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="558" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="190" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -354,7 +354,7 @@
         <text>ionfo</text>
       </register>
       <register name="/" type="4">
-        <text>backup</text>
+        <text>fielddata</text>
       </register>
       <register name="0" type="4">
         <text>maxBytes</text>
@@ -391,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>backup</last-search>
+      <last-search>fielddata</last-search>
       <last-offset />
-      <last-pattern>backup</last-pattern>
+      <last-pattern>fielddata</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -401,10 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>21</entry>
-        <entry>31</entry>
-        <entry>re</entry>
-        <entry>watch</entry>
         <entry>action</entry>
         <entry>zoomData</entry>
         <entry>data</entry>
@@ -418,9 +414,13 @@
         <entry encoding="base64">XDxleHBvcnRfdXNlclw+</entry>
         <entry>select</entry>
         <entry>(select</entry>
-        <entry>es</entry>
         <entry encoding="base64">XDxDUkVBVEVfSU5ERVhfSUZfTk9fRVhJU1RTXD4=</entry>
         <entry>backup</entry>
+        <entry>es</entry>
+        <entry>es(</entry>
+        <entry>es()</entry>
+        <entry>head</entry>
+        <entry>fielddata</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
