@@ -65,8 +65,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526020892719">
-        <mark key="'" line="190" column="8" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526021706882">
+        <mark key="'" line="457" column="7" />
         <mark key="[" line="47" column="13" />
         <mark key="]" line="47" column="20" />
         <mark key="^" line="985" column="55" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="18" filename="$USER_HOME$/source/uyun/agent/framework/actions/install.py" />
       <jump line="248" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="394" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="303" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -345,16 +344,17 @@
       <jump line="243" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="558" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="190" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="457" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>maxBytes</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>ionfo</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>fielddata</text>
+        <text>field</text>
       </register>
       <register name="0" type="4">
         <text>maxBytes</text>
@@ -391,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fielddata</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>fielddata</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>action</entry>
         <entry>zoomData</entry>
         <entry>data</entry>
         <entry>datazoom</entry>
@@ -421,6 +420,7 @@
         <entry>es()</entry>
         <entry>head</entry>
         <entry>fielddata</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
