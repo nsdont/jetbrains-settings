@@ -29,23 +29,23 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526121713967">
-        <mark key="'" line="571" column="8" />
-        <mark key="[" line="574" column="8" />
-        <mark key="]" line="574" column="11" />
-        <mark key="^" line="574" column="11" />
-        <mark key="." line="574" column="11" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526122850523">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="572" column="11" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" timestamp="1526088237288">
+      <file name="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" timestamp="1526122565231">
         <mark key="'" line="128" column="7" />
         <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="11" />
-        <mark key="." line="42" column="11" />
-        <mark key="^" line="42" column="11" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1523992085527">
         <mark key="'" line="55" column="15" />
@@ -190,6 +190,13 @@
       <file name="$USER_HOME$/.virtualenvs/agent-kjoIUHFC/lib/python2.7/site-packages/tornado/websocket.py" timestamp="1525675431402">
         <mark key="'" line="460" column="19" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" timestamp="1526122648763">
+        <mark key="'" line="173" column="31" />
+        <mark key="[" line="159" column="52" />
+        <mark key="]" line="159" column="51" />
+        <mark key="." line="159" column="51" />
+        <mark key="^" line="159" column="51" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525765371503">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="82" column="9" />
@@ -252,20 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="291" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/press_test.ts" />
-      <jump line="95" column="3" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
-      <jump line="109" column="26" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
-      <jump line="113" column="17" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
-      <jump line="319" column="7" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="318" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="530" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="524" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="322" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="568" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="390" column="46" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="427" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="283" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="287" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -323,7 +316,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" />
       <jump line="382" column="15" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" />
       <jump line="237" column="15" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" />
-      <jump line="128" column="7" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" />
       <jump line="563" column="32" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="239" column="67" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="248" column="67" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -352,55 +344,70 @@
       <jump line="198" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="33" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="570" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="127" column="17" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" />
+      <jump line="128" column="7" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" />
+      <jump line="414" column="39" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="145" column="8" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="132" column="8" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="74" column="40" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="251" column="21" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="235" column="49" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="228" column="21" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="223" column="29" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="193" column="33" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="178" column="8" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="172" column="31" filename="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/cursors.py" />
+      <jump line="460" column="51" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>connection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGIudHJhZGVfaWQgbm90IGluICgxMjUsIDEyOCkK</text>
       </register>
       <register name="-" type="4">
-        <text>connection</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>not in</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uID0gcHlteXNxbC5jb25uZWN0KGhvc3Q9J2xvY2FsaG9zdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPSdyb290JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkPScnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGI9J3dsY2YnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhcnNldD0ndXRmOG1iNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJzb3JjbGFzcz1weW15c3FsLmN1cnNvcnMuRGljdEN1cnNvcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGIudHJhZGVfaWQgbm90IGluICgxMjUsIDEyOCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCiAgICAgICAgZXhwb3J0X3VzZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgYi50cmFkZV9pZCBub3QgaW4gKDEyNSwgMTI4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybignW3NwZWVkIGV4cG9ydF0gYWxyZWFkeSBzcGVlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCiAgICAgICAgZXhwb3J0X3VzZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZlci5jb25uZWN0aW9uKHtob3N0OiAnMC4wLjAuMCcsIHBvcnQ6ICcxMDA4Nid9KTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybignW3NwZWVkIGV4cG9ydF0gYWxyZWFkeSBzcGVlZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFwaUtleSA9IHJlcXVlc3QucXVlcnkuYXBpa2V5OwogICAgY29uc3QgcGF5bG9hZDogSUpvYk9wdGlvbnMgPSByZXF1ZXN0LnBheWxvYWQ7CgogICAgbG9nZ2VyLmluZm8oYFtjb250cm9sbGVyIGpvYl0gcGF5bG9hZDogJHtKU09OLnN0cmluZ2lmeShyZXF1ZXN0LnBheWxvYWQpfWApOwogICAgdHJ5IHsKICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IG1hbmFnZXIuY3JlYXRlSm9iKHBheWxvYWQsIGFwaUtleSk7CiAgICAgIHJlc3BvbnNlX2JvZHkuam9iX2lkID0gZGF0YS5qb2JfaWQ7CiAgICAgIHJlc3BvbnNlX2JvZHkudGFza19pZHMgPSBkYXRhLnRhc2tfaWRzOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgbG9nZ2VyLmVycm9yKGBwb3N0IGpvYiBjYXRjaCBlcnJvcjpgLCBlcnJvci5zdGFjayk7CiAgICAgIHJlc3BvbnNlX2JvZHkuZXJyb3JfY29kZSA9IGVycm9yLmVycm9yQ29kZSB8fCBjb25zdGFudC5VTkRFRklORURfRVJST1JfQ09ERTsKICAgICAgcmVzcG9uc2VfYm9keS5tc2cgPSAn5Yib5bu65aSx6LSlJzsKICAgICAgcmVzcG9uc2VfYm9keS5zdGF0dXNfY29kZSA9IDQwMDsKICAgICAgcmVzcG9uc2VfYm9keS5lcnJvcl9tc2cgPSBlcnJvci5tZXNzYWdlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>not in</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>not in</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -408,10 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBvcnRfdXNlclw+</entry>
-        <entry>select</entry>
-        <entry>(select</entry>
-        <entry>backup</entry>
         <entry>es</entry>
         <entry>es(</entry>
         <entry>es()</entry>
@@ -420,14 +423,18 @@
         <entry>field</entry>
         <entry>log</entry>
         <entry>print</entry>
-        <entry>DEBUG</entry>
         <entry encoding="base64">XDxERUJVR1w+</entry>
         <entry>func_name</entry>
         <entry encoding="base64">XDxDUkVBVEVfSU5ERVhfSUZfTk9fRVhJU1RTXD4=</entry>
         <entry>index</entry>
         <entry>INDEX</entry>
-        <entry>debug</entry>
         <entry>logger</entry>
+        <entry>debug</entry>
+        <entry>DEBUG</entry>
+        <entry>execture</entry>
+        <entry>cur</entry>
+        <entry encoding="base64">XDxleGVjdXRlXD4=</entry>
+        <entry>not in</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
