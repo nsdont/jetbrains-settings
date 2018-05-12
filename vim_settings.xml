@@ -29,12 +29,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526092472565">
-        <mark key="'" line="197" column="12" />
-        <mark key="[" line="199" column="59" />
-        <mark key="]" line="199" column="58" />
-        <mark key="^" line="199" column="58" />
-        <mark key="." line="199" column="58" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526121713967">
+        <mark key="'" line="571" column="8" />
+        <mark key="[" line="574" column="8" />
+        <mark key="]" line="574" column="11" />
+        <mark key="^" line="574" column="11" />
+        <mark key="." line="574" column="11" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -252,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="523" column="20" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="237" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="291" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="20" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/press_test.ts" />
@@ -352,19 +350,21 @@
       <jump line="398" column="82" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="553" column="41" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="198" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="33" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="570" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wlcf.</text>
+        <text>connection</text>
       </register>
       <register name="-" type="4">
-        <text>wlcf.</text>
+        <text>connection</text>
       </register>
       <register name="/" type="4">
-        <text>INDEX</text>
+        <text>logger</text>
       </register>
-      <register name="0" type="4">
-        <text>ALTER TABLE wlcf.user_base_info MODIFY COLUMN row_add_time default null;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uID0gcHlteXNxbC5jb25uZWN0KGhvc3Q9J2xvY2FsaG9zdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPSdyb290JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkPScnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGI9J3dsY2YnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhcnNldD0ndXRmOG1iNCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJzb3JjbGFzcz1weW15c3FsLmN1cnNvcnMuRGljdEN1cnNvcikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
@@ -398,9 +398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>INDEX</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>INDEX</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -408,8 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
-        <entry encoding="base64">XDxleHBvcnRfcHJvamVjdF9hbmRfdHJhZGVfbG9nXD4=</entry>
         <entry encoding="base64">XDxleHBvcnRfdXNlclw+</entry>
         <entry>select</entry>
         <entry>(select</entry>
@@ -428,6 +426,8 @@
         <entry encoding="base64">XDxDUkVBVEVfSU5ERVhfSUZfTk9fRVhJU1RTXD4=</entry>
         <entry>index</entry>
         <entry>INDEX</entry>
+        <entry>debug</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
