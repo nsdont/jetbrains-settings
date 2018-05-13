@@ -29,12 +29,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526184563066">
-        <mark key="'" line="233" column="11" />
-        <mark key="[" line="521" column="72" />
-        <mark key="]" line="521" column="72" />
-        <mark key="^" line="521" column="72" />
-        <mark key="." line="521" column="72" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526187959914">
+        <mark key="'" line="524" column="36" />
+        <mark key="[" line="581" column="33" />
+        <mark key="]" line="582" column="15" />
+        <mark key="^" line="582" column="15" />
+        <mark key="." line="582" column="15" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -115,7 +115,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/invest_log.sql" timestamp="1526183837291">
-        <mark key="'" line="44117" column="13" />
+        <mark key="'" line="27411" column="13" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
@@ -262,10 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="467" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="468" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="496" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="480" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="392" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="367" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -362,58 +358,62 @@
       <jump line="519" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="514" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="233" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="548" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="584" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="570" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="524" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZShTUUxfTUFQWydTRUxFQ1RfQUxMX1NIQVJFJ10pCiAgICAgICAgICAgIGZvciBpIGluIGN1cnNvcjoKICAgICAgICAgICAgICAgIHRtcCA9IHsKICAgICAgICAgICAgICAgICAgICAnbmFtZSc6IE5BTUVfTUFQWydzaGFyZSddLAogICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJzogY29udmVydF9hY2NvdW50X25hbWVfc3FsKGlbJ3VzZXJfaWQnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ2RlcG9zaXQnLAogICAgICAgICAgICAgICAgICAgICdhbW91bnQnOiBpWydhbW91bnQnXSAvIDEwMCwKICAgICAgICAgICAgICAgICAgICAnbW9kZSc6ICdhZGQnLAogICAgICAgICAgICAgICAgICAgICdjcmVhdGVfdGltZSc6IGlbJ2NyZWF0ZV90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cyc6ICdzdWNjZXNzJywKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF9saXN0LmFwcGVuZCh0bXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>数据</text>
       </register>
       <register name="/" type="4">
-        <text>trade_id</text>
+        <text encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>convert_invest_code_sql</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgY3Vyc29yOgogICAgICAgICAgICBjdXJzb3IuZXhlY3V0ZShTUUxfTUFQWydTRUxFQ1RfQUxMX1NIQVJFJ10pCiAgICAgICAgICAgIGZvciBpIGluIGN1cnNvcjoKICAgICAgICAgICAgICAgIHRtcCA9IHsKICAgICAgICAgICAgICAgICAgICAnbmFtZSc6IE5BTUVfTUFQWydzaGFyZSddLAogICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJzogY29udmVydF9hY2NvdW50X25hbWVfc3FsKGlbJ3VzZXJfaWQnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ2RlcG9zaXQnLAogICAgICAgICAgICAgICAgICAgICdhbW91bnQnOiBpWydhbW91bnQnXSAvIDEwMCwKICAgICAgICAgICAgICAgICAgICAnbW9kZSc6ICdhZGQnLAogICAgICAgICAgICAgICAgICAgICdjcmVhdGVfdGltZSc6IGlbJ2NyZWF0ZV90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cyc6ICdzdWNjZXNzJywKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF9saXN0LmFwcGVuZCh0bXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogU1RBVFVTX01BUFtpWydzdGF0dXMnXV0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZV9pbmRleChzcWxfbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogU1RBVFVTX01BUFtpWydzdGF0dXMnXV0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYWdlbnRfaWQnOiBpWydhZ2VudF9pZCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGlbJ3VzZXJfaWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAnd2l0aGRyYXcnOiAn5o+Q546wJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmlkX25hbWUnOiBpWyd0cmFkZV9uYW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ3JlYWxfbmFtZSc6IGlbJ29yaWdpbmFsX3JlYWxfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJzogY29udmVydF9hY2NvdW50X25hbWVfc3FsKGlbJ3VzZXJfaWQnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAogICAgICAgICAgICAgICAgICAgICdhZ2VudF9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhZ2VudF9pZCddLCBwbHVzPSdhbmQgaXNfYmluZF9iYW5rX2NhcmQgPSAxJyksCiAgICAgICAgICAgICAgICAgICAgJ3RyYWRlX2lkJzogY29udmVydF9pbnZlc3RfY29kZV9zcWwoaVsndGJsX2Jhc2VfaWQnXSksCiAgICAgICAgICAgICAgICAgICAgJ3RyYWRlX2Ftb3VudCc6IGlbJ29yaWdpbmFsX2Ftb3VudCddIC8gMTAwLAogICAgICAgICAgICAgICAgICAgICdjcmVhdGVfdGltZSc6IGlbJ2NyZWF0ZV90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RyYWRlX3RpbWUnOiBpWyd0cmFkZV90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgJ2Ftb3VudCc6IGlbJ2Ftb3VudCddIC8gMTAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5hbW91bnQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW1vdW50JzogaVsnYW1vdW50J10gLyAxMDAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5hbW91bnQsCg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZV9pbmRleChzcWxfbGlzdCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>trade_id</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</last-search>
       <last-offset />
-      <last-pattern>trade_id</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -436,8 +436,8 @@
         <entry>USER</entry>
         <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfbmFtZV9zcWxcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
         <entry>trade_id</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
