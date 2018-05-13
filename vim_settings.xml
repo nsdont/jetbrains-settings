@@ -29,8 +29,8 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526190995243">
-        <mark key="'" line="757" column="4" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526191955040">
+        <mark key="'" line="381" column="33" />
         <mark key="[" line="293" column="33" />
         <mark key="]" line="293" column="33" />
         <mark key="." line="293" column="33" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="573" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="556" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="425" column="79" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="540" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -359,6 +358,7 @@
       <jump line="757" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="756" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="755" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="381" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,7 +368,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>generate</text>
+        <text>tyj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGVmdCBqb2luIHVzZXJfYmFzZV9pbmZvIGFzIGcgb24gZy51c2VyX2lkID0gZi51c2VyX2lkCg==</text>
@@ -405,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>generate</last-search>
+      <last-search>tyj</last-search>
       <last-offset />
-      <last-pattern>generate</last-pattern>
+      <last-pattern>tyj</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plus</entry>
         <entry encoding="base64">XDxTVEFUVVNfTUFQXD4=</entry>
         <entry encoding="base64">XDxleHBvcnRfcHJvamVjdF9hbmRfdHJhZGVfbG9nXD4=</entry>
         <entry>day_limit</entry>
@@ -435,6 +434,7 @@
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX1dJVEhEUkFXXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0dJRlRcPg==</entry>
         <entry>generate</entry>
+        <entry>tyj</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
