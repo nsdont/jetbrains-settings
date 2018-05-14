@@ -75,8 +75,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526269262221">
-        <mark key="'" line="254" column="16" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526277966193">
+        <mark key="'" line="42" column="16" />
         <mark key="[" line="984" column="0" />
         <mark key="]" line="984" column="0" />
         <mark key="^" line="983" column="53" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="34" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="172" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="194" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="223" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -362,6 +361,7 @@
       <jump line="741" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="143" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="547" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="42" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -371,7 +371,7 @@
         <text>IP, now_str</text>
       </register>
       <register name="/" type="4">
-        <text>bid</text>
+        <text>for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQU5EIGIudHJhZGVfc3RhdHVzIElOICggMiwgMyApCg==</text>
@@ -408,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bid</last-search>
+      <last-search>for</last-search>
       <last-offset />
-      <last-pattern>bid</last-pattern>
+      <last-pattern>for</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -418,7 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGFyZV9iZW5lZml0XD4=</entry>
         <entry>USER</entry>
         <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfbmFtZV9zcWxcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
@@ -438,6 +437,7 @@
         <entry>`repay`</entry>
         <entry encoding="base64">XDxyZXBheV9kYXRlXD4=</entry>
         <entry>bid</entry>
+        <entry>for</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
