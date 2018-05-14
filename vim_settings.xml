@@ -210,12 +210,12 @@
       <file name="/Dummy.txt" timestamp="1526200146836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525780113054">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526262567972">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
+        <mark key="[" line="119" column="42" />
+        <mark key="]" line="119" column="43" />
         <mark key="^" line="119" column="40" />
-        <mark key="." line="120" column="0" />
+        <mark key="." line="119" column="43" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/templates/bootstrap.py" timestamp="1524468543207">
         <mark key="[" line="23" column="44" />
