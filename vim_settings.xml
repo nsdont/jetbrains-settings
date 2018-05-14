@@ -29,12 +29,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526272223255">
-        <mark key="'" line="547" column="27" />
-        <mark key="[" line="165" column="12" />
-        <mark key="]" line="165" column="8" />
-        <mark key="." line="165" column="8" />
-        <mark key="^" line="165" column="8" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526280955781">
+        <mark key="'" line="105" column="10" />
+        <mark key="[" line="465" column="16" />
+        <mark key="]" line="465" column="7" />
+        <mark key="." line="465" column="53" />
+        <mark key="^" line="465" column="7" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -262,13 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="194" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="223" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="473" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="206" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="530" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="544" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="560" column="72" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="610" column="88" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="612" column="95" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -362,6 +355,13 @@
       <jump line="143" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="547" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="42" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="491" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="627" column="67" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="701" column="93" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="724" column="93" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="103" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="104" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="105" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -371,7 +371,7 @@
         <text>IP, now_str</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>bank</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQU5EIGIudHJhZGVfc3RhdHVzIElOICggMiwgMyApCg==</text>
@@ -408,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>bank</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>bank</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -418,7 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>USER</entry>
         <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfbmFtZV9zcWxcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
         <entry>trade_id</entry>
@@ -427,7 +426,6 @@
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX1dJVEhEUkFXXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0dJRlRcPg==</entry>
-        <entry>generate</entry>
         <entry>update</entry>
         <entry>tyj</entry>
         <entry>deposit</entry>
@@ -438,6 +436,8 @@
         <entry encoding="base64">XDxyZXBheV9kYXRlXD4=</entry>
         <entry>bid</entry>
         <entry>for</entry>
+        <entry>generate</entry>
+        <entry>bank</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
