@@ -75,12 +75,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526287564722">
-        <mark key="'" line="772" column="12" />
-        <mark key="[" line="166" column="34" />
-        <mark key="]" line="166" column="33" />
-        <mark key="^" line="166" column="33" />
-        <mark key="." line="166" column="33" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526289946421">
+        <mark key="'" line="528" column="16" />
+        <mark key="[" line="794" column="65" />
+        <mark key="]" line="794" column="75" />
+        <mark key="^" line="794" column="75" />
+        <mark key="." line="794" column="75" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -268,14 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="791" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="757" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="756" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="755" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="381" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="502" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="474" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="503" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="504" column="38" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="496" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="253" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -341,13 +333,11 @@
       <jump line="243" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="242" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="241" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="795" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="777" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="775" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="771" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="548" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="538" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="502" column="90" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="99" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="100" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -368,13 +358,23 @@
       <jump line="737" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="757" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="772" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="794" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="776" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="774" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="770" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="547" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="539" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="538" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="537" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="528" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.replace('.', '_')</text>
+        <text>IP</text>
       </register>
       <register name="-" type="4">
-        <text>.replace('.', '_')</text>
+        <text>IP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</text>
