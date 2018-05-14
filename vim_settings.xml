@@ -72,12 +72,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526021706882">
-        <mark key="'" line="457" column="7" />
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="20" />
-        <mark key="^" line="985" column="55" />
-        <mark key="." line="985" column="55" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526269262221">
+        <mark key="'" line="254" column="16" />
+        <mark key="[" line="984" column="0" />
+        <mark key="]" line="984" column="0" />
+        <mark key="^" line="983" column="53" />
+        <mark key="." line="984" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -210,7 +210,7 @@
       <file name="/Dummy.txt" timestamp="1526200146836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526262567972">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526268687193">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="119" column="42" />
         <mark key="]" line="119" column="43" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="630" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="629" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="340" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -359,46 +358,47 @@
       <jump line="503" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="504" column="38" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="496" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="253" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>IP, now_str</text>
       </register>
       <register name="/" type="4">
         <text>deposit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCBqb2luIHVzZXJfYmFzZV9pbmZvIGFzIGcgb24gZy51c2VyX2lkID0gZi51c2VyX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3NoID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKICAgICAgICAgICAgc3NoLnNldF9taXNzaW5nX2hvc3Rfa2V5X3BvbGljeShwYXJhbWlrby5BdXRvQWRkUG9saWN5KCkpCiAgICAgICAgICAgICMgc3NoLmNvbm5lY3QoJzEwLjQwLjEzMi4yMScsIHVzZXJuYW1lPSdyb290JywgcGFzc3dvcmQ9J21hc3RlckBZWTEnKQogICAgICAgICAgICBzc2guY29ubmVjdCgnMTAuMS4xMDAuMTMnLCB1c2VybmFtZT0ncm9vdCcsIHBhc3N3b3JkPSdhbnQxMjM0NTYnKQogICAgICAgICAgICBzc2guZXhlY19jb21tYW5kKCdta2RpciAtcCAvcm9vdC9tb25pdG9yX2Rpc3QnKQogICAgICAgICAgICBzZnRwID0gcGFyYW1pa28uU0ZUUENsaWVudC5mcm9tX3RyYW5zcG9ydChzc2guZ2V0X3RyYW5zcG9ydCgpKQogICAgICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkKICAgICAgICAgICAgcnVuX2NtZCgncm0ge30vbG9ncy97fV97fS50Z3onLmZvcm1hdChCQVNFX0RJUiwgSVAsIG5vd19zdHIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g5b6F5bCP6LCi5Zue5aSN5piv5ZCm6KaB6L+H5ruk5aSx6LSl55qE5o+Q546w5ZKM5oqV6LWECg==</text>
+        <text encoding="base64">X3NmdHAgPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbW9kZSc6ICdzdWInLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX3NmdHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIF9zZnRwOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoU1FMX01BUFsnU0VMRUNUX0FMTF9XSVRIRFJBVyddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoU1FMX01BUFsnU0VMRUNUX0FMTF9ERVBPU0lUJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogU1RBVFVTX01BUFtpWydzdGF0dXMnXV0sCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgc3NoID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKICAgICAgICAgICAgc3NoLnNldF9taXNzaW5nX2hvc3Rfa2V5X3BvbGljeShwYXJhbWlrby5BdXRvQWRkUG9saWN5KCkpCiAgICAgICAgICAgICMgc3NoLmNvbm5lY3QoJzEwLjQwLjEzMi4yMScsIHVzZXJuYW1lPSdyb290JywgcGFzc3dvcmQ9J21hc3RlckBZWTEnKQogICAgICAgICAgICBzc2guY29ubmVjdCgnMTAuMS4xMDAuMTMnLCB1c2VybmFtZT0ncm9vdCcsIHBhc3N3b3JkPSdhbnQxMjM0NTYnKQogICAgICAgICAgICBzc2guZXhlY19jb21tYW5kKCdta2RpciAtcCAvcm9vdC9tb25pdG9yX2Rpc3QnKQogICAgICAgICAgICBzZnRwID0gcGFyYW1pa28uU0ZUUENsaWVudC5mcm9tX3RyYW5zcG9ydChzc2guZ2V0X3RyYW5zcG9ydCgpKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogU1RBVFVTX01BUFtpWydzdGF0dXMnXV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3NoID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKICAgICAgICAgICAgc3NoLnNldF9taXNzaW5nX2hvc3Rfa2V5X3BvbGljeShwYXJhbWlrby5BdXRvQWRkUG9saWN5KCkpCiAgICAgICAgICAgICMgc3NoLmNvbm5lY3QoJzEwLjQwLjEzMi4yMScsIHVzZXJuYW1lPSdyb290JywgcGFzc3dvcmQ9J21hc3RlckBZWTEnKQogICAgICAgICAgICBzc2guY29ubmVjdCgnMTAuMS4xMDAuMTMnLCB1c2VybmFtZT0ncm9vdCcsIHBhc3N3b3JkPSdhbnQxMjM0NTYnKQogICAgICAgICAgICBzc2guZXhlY19jb21tYW5kKCdta2RpciAtcCAvcm9vdC9tb25pdG9yX2Rpc3QnKQogICAgICAgICAgICBzZnRwID0gcGFyYW1pa28uU0ZUUENsaWVudC5mcm9tX3RyYW5zcG9ydChzc2guZ2V0X3RyYW5zcG9ydCgpKQogICAgICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkKICAgICAgICAgICAgcnVuX2NtZCgncm0ge30vbG9ncy97fV97fS50Z3onLmZvcm1hdChCQVNFX0RJUiwgSVAsIG5vd19zdHIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
