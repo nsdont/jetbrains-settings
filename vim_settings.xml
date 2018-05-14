@@ -75,12 +75,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526277966193">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="984" column="0" />
-        <mark key="]" line="984" column="0" />
-        <mark key="^" line="983" column="53" />
-        <mark key="." line="984" column="0" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526282246603">
+        <mark key="'" line="463" column="12" />
+        <mark key="[" line="163" column="40" />
+        <mark key="]" line="163" column="38" />
+        <mark key="^" line="163" column="38" />
+        <mark key="." line="163" column="38" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -210,7 +210,7 @@
         <mark key="[" line="20" column="6" />
         <mark key="]" line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526200146836">
+      <file name="/Dummy.txt" timestamp="1526281582139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526268687193">
@@ -262,19 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="560" column="72" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="610" column="88" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="612" column="95" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="342" column="43" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="210" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="513" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="222" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="486" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="700" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="224" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="581" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="178" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="122" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="616" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="343" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="702" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -362,68 +349,75 @@
       <jump line="103" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="104" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="105" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="57" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="82" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="154" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="624" column="42" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="960" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="976" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="950" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="160" column="34" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="327" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="465" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="508" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="463" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIGIudHJhZGVfc3RhdHVzIElOICggMiwgMyApCg==</text>
+      <register name="&quot;" type="4">
+        <text>json.dumps(</text>
       </register>
       <register name="-" type="4">
-        <text>IP, now_str</text>
+        <text>json.dumps(</text>
       </register>
       <register name="/" type="4">
-        <text>bank</text>
+        <text encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQU5EIGIudHJhZGVfc3RhdHVzIElOICggMiwgMyApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRyaWNfbmFtZSwgdGFnX25hbWUsIHZhbHVlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X3NmdHAgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gX3NmdHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIF9zZnRwOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X3NmdHAgPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX3NmdHAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc3NoID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKICAgICAgICAgICAgc3NoLnNldF9taXNzaW5nX2hvc3Rfa2V5X3BvbGljeShwYXJhbWlrby5BdXRvQWRkUG9saWN5KCkpCiAgICAgICAgICAgICMgc3NoLmNvbm5lY3QoJzEwLjQwLjEzMi4yMScsIHVzZXJuYW1lPSdyb290JywgcGFzc3dvcmQ9J21hc3RlckBZWTEnKQogICAgICAgICAgICBzc2guY29ubmVjdCgnMTAuMS4xMDAuMTMnLCB1c2VybmFtZT0ncm9vdCcsIHBhc3N3b3JkPSdhbnQxMjM0NTYnKQogICAgICAgICAgICBzc2guZXhlY19jb21tYW5kKCdta2RpciAtcCAvcm9vdC9tb25pdG9yX2Rpc3QnKQogICAgICAgICAgICBzZnRwID0gcGFyYW1pa28uU0ZUUENsaWVudC5mcm9tX3RyYW5zcG9ydChzc2guZ2V0X3RyYW5zcG9ydCgpKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIF9zZnRwOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3NoID0gcGFyYW1pa28uU1NIQ2xpZW50KCkKICAgICAgICAgICAgc3NoLnNldF9taXNzaW5nX2hvc3Rfa2V5X3BvbGljeShwYXJhbWlrby5BdXRvQWRkUG9saWN5KCkpCiAgICAgICAgICAgICMgc3NoLmNvbm5lY3QoJzEwLjQwLjEzMi4yMScsIHVzZXJuYW1lPSdyb290JywgcGFzc3dvcmQ9J21hc3RlckBZWTEnKQogICAgICAgICAgICBzc2guY29ubmVjdCgnMTAuMS4xMDAuMTMnLCB1c2VybmFtZT0ncm9vdCcsIHBhc3N3b3JkPSdhbnQxMjM0NTYnKQogICAgICAgICAgICBzc2guZXhlY19jb21tYW5kKCdta2RpciAtcCAvcm9vdC9tb25pdG9yX2Rpc3QnKQogICAgICAgICAgICBzZnRwID0gcGFyYW1pa28uU0ZUUENsaWVudC5mcm9tX3RyYW5zcG9ydChzc2guZ2V0X3RyYW5zcG9ydCgpKQogICAgICAgICAgICBzZnRwLnB1dCgne30vbG9ncy97fScuZm9ybWF0KEJBU0VfRElSLCB0Z3pfZmlsZW5hbWUpLCAnL3Jvb3QvbW9uaXRvcl9kaXN0L3t9Jy5mb3JtYXQodGd6X2ZpbGVuYW1lKSkKICAgICAgICAgICAgcnVuX2NtZCgncm0ge30vbG9ncy97fV97fS50Z3onLmZvcm1hdChCQVNFX0RJUiwgSVAsIG5vd19zdHIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>bank</last-search>
+      <last-search encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>bank</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfbmFtZV9zcWxcPg==</entry>
-        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
-        <entry>trade_id</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
-        <entry encoding="base64">XDw6XD4=</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX1dJVEhEUkFXXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0dJRlRcPg==</entry>
         <entry>update</entry>
@@ -438,6 +432,12 @@
         <entry>for</entry>
         <entry>generate</entry>
         <entry>bank</entry>
+        <entry>IP</entry>
+        <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry encoding="base64">XDx3cml0ZV9tb25pdG9yX3Jlc3VsdFw+</entry>
+        <entry encoding="base64">XDxtZXRyaWNfZGF0YVw+</entry>
+        <entry>write</entry>
+        <entry encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
