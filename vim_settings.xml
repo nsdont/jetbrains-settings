@@ -75,12 +75,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526286186358">
-        <mark key="'" line="448" column="27" />
-        <mark key="[" line="400" column="23" />
-        <mark key="]" line="400" column="33" />
-        <mark key="^" line="400" column="33" />
-        <mark key="." line="400" column="33" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526287564722">
+        <mark key="'" line="772" column="12" />
+        <mark key="[" line="166" column="34" />
+        <mark key="]" line="166" column="33" />
+        <mark key="^" line="166" column="33" />
+        <mark key="." line="166" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -268,9 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="602" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="475" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="628" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="791" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="757" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="756" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -368,16 +365,19 @@
       <jump line="474" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="454" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="448" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="737" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="757" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="772" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>master.cma.cn</text>
+        <text>.replace('.', '_')</text>
       </register>
       <register name="-" type="4">
-        <text>master.cma.cn</text>
+        <text>.replace('.', '_')</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgQkFTRV9VUkwgPSAnaHR0cDovL21hc3Rlci5jbWEuY24nCg==</text>
@@ -414,18 +414,16 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>`repay`</entry>
-        <entry encoding="base64">XDxyZXBheV9kYXRlXD4=</entry>
         <entry>bid</entry>
         <entry>for</entry>
         <entry>generate</entry>
@@ -438,12 +436,14 @@
         <entry encoding="base64">XDxtZXRyaWNfZGF0YVw+</entry>
         <entry>trun</entry>
         <entry>TR</entry>
-        <entry encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</entry>
         <entry>system.disk</entry>
         <entry>system.disk.{}</entry>
         <entry>system.{}</entry>
         <entry>write</entry>
         <entry>http</entry>
+        <entry>append</entry>
+        <entry>append_</entry>
+        <entry encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
