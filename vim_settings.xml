@@ -219,8 +219,8 @@
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
         <mark key="'" line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1526351328663">
-        <mark key="'" line="147" column="36" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1526355744785">
+        <mark key="'" line="158" column="3" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
@@ -238,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="19" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="367" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="7558" column="20" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/user_and_bank.sql" />
       <jump line="23647" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/user_and_bank.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/user_and_bank.sql" />
@@ -336,8 +334,10 @@
       <jump line="109" column="26" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
       <jump line="113" column="17" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
       <jump line="69" column="17" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
-      <jump line="98" column="39" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
       <jump line="147" column="36" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
+      <jump line="98" column="39" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
+      <jump line="122" column="0" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
+      <jump line="158" column="3" filename="$USER_HOME$/source/uyun/dispatcher/install.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -347,7 +347,7 @@
         <text>job/</text>
       </register>
       <register name="/" type="4">
-        <text>module</text>
+        <text>dispatcher</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ewogIG1ldGhvZDogJ1BPU1QnLAogIHBhdGg6ICcvam9iLycsCiAgaGFuZGxlcjogYXN5bmMgKHJlcXVlc3Q6IGhhcGkuUmVxdWVzdCwgcmVwbHk6IGhhcGkuUmVwbHlOb0NvbnRpbnVlKSA9PiB7CiAgICBjb25zdCByZXNwb25zZV9ib2R5ID0gewogICAgICBqb2JfaWQ6ICcnLAogICAgICBlcnJvcl9jb2RlOiBjb25zdGFudC5TVUNDRVNTX0VSUk9SX0NPREUsCiAgICAgIG1zZzogJ+WIm+W7uuaIkOWKnycsCiAgICAgIHN0YXR1c19jb2RlOiAyMDAsCiAgICAgIHRhc2tfaWRzOiB7fSBhcyBhbnksCiAgICAgIGVycm9yX21zZzogJycsCiAgICB9OwogICAgY29uc3QgYXBpS2V5ID0gcmVxdWVzdC5xdWVyeS5hcGlrZXk7CiAgICBjb25zdCBwYXlsb2FkOiBJSm9iT3B0aW9ucyA9IHJlcXVlc3QucGF5bG9hZDsKCiAgICBsb2dnZXIuaW5mbyhgW2NvbnRyb2xsZXIgam9iXSBwYXlsb2FkOiAke0pTT04uc3RyaW5naWZ5KHJlcXVlc3QucGF5bG9hZCl9YCk7CiAgICB0cnkgewogICAgICBjb25zdCBkYXRhID0gYXdhaXQgbWFuYWdlci5jcmVhdGVKb2IocGF5bG9hZCwgYXBpS2V5KTsKICAgICAgcmVzcG9uc2VfYm9keS5qb2JfaWQgPSBkYXRhLmpvYl9pZDsKICAgICAgcmVzcG9uc2VfYm9keS50YXNrX2lkcyA9IGRhdGEudGFza19pZHM7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBsb2dnZXIuZXJyb3IoYHBvc3Qgam9iIGNhdGNoIGVycm9yOmAsIGVycm9yLnN0YWNrKTsKICAgICAgcmVzcG9uc2VfYm9keS5lcnJvcl9jb2RlID0gZXJyb3IuZXJyb3JDb2RlIHx8IGNvbnN0YW50LlVOREVGSU5FRF9FUlJPUl9DT0RFOwogICAgICByZXNwb25zZV9ib2R5Lm1zZyA9ICfliJvlu7rlpLHotKUnOwogICAgICByZXNwb25zZV9ib2R5LnN0YXR1c19jb2RlID0gNDAwOwogICAgICByZXNwb25zZV9ib2R5LmVycm9yX21zZyA9IGVycm9yLm1lc3NhZ2U7CiAgICB9CgogICAgcmVwbHkocmVzcG9uc2VfYm9keSkuY29kZShyZXNwb25zZV9ib2R5LnN0YXR1c19jb2RlKTsKICB9LAp9</text>
@@ -384,9 +384,9 @@
       </register>
     </registers>
     <search>
-      <last-search>module</last-search>
+      <last-search>dispatcher</last-search>
       <last-offset />
-      <last-pattern>module</last-pattern>
+      <last-pattern>dispatcher</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -394,9 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IP</entry>
-        <entry encoding="base64">XDxtZXRyaWNfbmFtZVw+</entry>
-        <entry encoding="base64">XDxsb2FkX21ldHJpY3NcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVfdXNlbGVzc19kaXJcPg==</entry>
         <entry encoding="base64">XDxPVVRQVVRfRElSXD4=</entry>
         <entry>i</entry>
@@ -414,6 +411,9 @@
         <entry encoding="base64">XDxNZXRyaWNTZWxlY3RcPg==</entry>
         <entry>node</entry>
         <entry>module</entry>
+        <entry>ln</entry>
+        <entry>dispath</entry>
+        <entry>dispatcher</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
