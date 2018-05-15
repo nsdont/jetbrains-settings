@@ -75,12 +75,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526289946421">
-        <mark key="'" line="528" column="16" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526350889227">
+        <mark key="'" line="153" column="20" />
         <mark key="[" line="794" column="65" />
         <mark key="]" line="794" column="75" />
         <mark key="^" line="794" column="75" />
-        <mark key="." line="794" column="75" />
+        <mark key="." line="419" column="34" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="627" column="67" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="701" column="93" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="724" column="93" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -368,6 +367,7 @@
       <jump line="778" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="504" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="720" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="153" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -377,7 +377,7 @@
         <text>os.path.join(OUTPUT_DIR, 'all.sql')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eWpcPg==</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgQkFTRV9VUkwgPSAnaHR0cDovL21hc3Rlci5jbWEuY24nCg==</text>
@@ -414,18 +414,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0eWpcPg==</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eWpcPg==</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZV9tb25pdG9yX3Jlc3VsdFw+</entry>
-        <entry encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</entry>
         <entry>_</entry>
         <entry encoding="base64">XDxtZXRyaWNfZGF0YVw+</entry>
         <entry>trun</entry>
@@ -433,7 +431,6 @@
         <entry>system.disk</entry>
         <entry>system.disk.{}</entry>
         <entry>system.{}</entry>
-        <entry>http</entry>
         <entry>append</entry>
         <entry>append_</entry>
         <entry encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</entry>
@@ -444,6 +441,9 @@
         <entry encoding="base64">XDx3cml0ZV90b19maWxlXD4=</entry>
         <entry>tyj</entry>
         <entry encoding="base64">XDx0eWpcPg==</entry>
+        <entry>alert</entry>
+        <entry>ALERT</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
