@@ -29,12 +29,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526347627257">
-        <mark key="'" line="720" column="21" />
-        <mark key="[" line="791" column="0" />
-        <mark key="]" line="791" column="0" />
-        <mark key="." line="791" column="0" />
-        <mark key="^" line="782" column="28" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526357740880">
+        <mark key="'" line="669" column="36" />
+        <mark key="[" line="130" column="25" />
+        <mark key="]" line="131" column="29" />
+        <mark key="." line="131" column="29" />
+        <mark key="^" line="131" column="29" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -268,8 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="67" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="701" column="93" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="724" column="93" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="103" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="104" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -299,7 +297,6 @@
       <jump line="721" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="463" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="464" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="465" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="456" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="449" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="446" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -368,19 +365,22 @@
       <jump line="504" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="720" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="153" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="286" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="465" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="668" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uID0gbXlzcWwuY29ubmVjdG9yLmNvbm5lY3QoaG9zdD0nbG9jYWxob3N0JywgdXNlcj0ncm9vdCcsIHBhc3N3b3JkPScnLCBkYj0nd2xjZicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>loan_purpose</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(OUTPUT_DIR, 'all.sql')</text>
+        <text>loan_purpose</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQkFTRV9VUkwgPSAnaHR0cDovL21hc3Rlci5jbWEuY24nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3VtbWFyeSc6IGlbJ2xvYW5fcHVycG9zZSddLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25uID0gbXlzcWwuY29ubmVjdG9yLmNvbm5lY3QoaG9zdD0nbG9jYWxob3N0JywgdXNlcj0ncm9vdCcsIHBhc3N3b3JkPScnLCBkYj0nd2xjZicpCg==</text>
@@ -414,19 +414,16 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_</entry>
-        <entry encoding="base64">XDxtZXRyaWNfZGF0YVw+</entry>
-        <entry>trun</entry>
         <entry>TR</entry>
         <entry>system.disk</entry>
         <entry>system.disk.{}</entry>
@@ -444,6 +441,9 @@
         <entry>alert</entry>
         <entry>ALERT</entry>
         <entry>http</entry>
+        <entry encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</entry>
+        <entry>summary</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
