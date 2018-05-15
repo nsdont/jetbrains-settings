@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526398679962">
-        <mark key="'" line="368" column="29" />
-        <mark key="[" line="781" column="0" />
-        <mark key="]" line="781" column="0" />
-        <mark key="." line="781" column="0" />
-        <mark key="^" line="784" column="16" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526423256903">
+        <mark key="'" line="712" column="75" />
+        <mark key="[" line="699" column="64" />
+        <mark key="]" line="700" column="33" />
+        <mark key="." line="700" column="33" />
+        <mark key="^" line="700" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -268,9 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="950" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="160" column="34" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="327" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="465" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="508" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="463" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -368,6 +365,9 @@
       <jump line="683" column="45" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="131" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="368" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="688" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="693" column="72" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="711" column="75" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -377,7 +377,7 @@
         <text>removev</text>
       </register>
       <register name="/" type="4">
-        <text>bid</text>
+        <text>plus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAudGVuYW50X3VzZXInOiAne30vdGVuYW50L2FwaS92MS91c2VyL2Nyb3NzX2RvbWFpbi9nZXRfdXNlcicuZm9ybWF0KEJBU0VfVVJMKSwK</text>
@@ -414,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bid</last-search>
+      <last-search>plus</last-search>
       <last-offset />
-      <last-pattern>bid</last-pattern>
+      <last-pattern>plus</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -424,7 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>append</entry>
         <entry>append_</entry>
         <entry encoding="base64">XDxhcHBlbmRfbWV0cmljX2l0ZW1cPg==</entry>
         <entry>write</entry>
@@ -444,6 +443,7 @@
         <entry>alert</entry>
         <entry>progressBarAmount</entry>
         <entry>bid</entry>
+        <entry>plus</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
