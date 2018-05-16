@@ -75,8 +75,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526438703609">
-        <mark key="'" line="504" column="82" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526442069154">
+        <mark key="'" line="169" column="16" />
         <mark key="[" line="526" column="12" />
         <mark key="]" line="526" column="11" />
         <mark key="^" line="526" column="11" />
@@ -275,9 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="51" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="820" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="107" column="17" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="789" column="29" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="127" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="831" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -375,6 +372,9 @@
       <jump line="761" column="26" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="762" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="763" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="115" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="251" column="28" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="169" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -384,7 +384,7 @@
         <text>_list</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text encoding="base64">XDxub3dfdGltZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZWplY3RfZGF0YSkK</text>
@@ -421,19 +421,16 @@
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search encoding="base64">XDxub3dfdGltZVw+</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern encoding="base64">XDxub3dfdGltZVw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pop_channel</entry>
-        <entry>sum</entry>
-        <entry encoding="base64">XDxleHBlcmlcPg==</entry>
         <entry encoding="base64">XDxmaXJzdFw+</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxjcmVhdGVfdGltZVw+</entry>
@@ -451,6 +448,9 @@
         <entry>index_re</entry>
         <entry>append</entry>
         <entry>redis</entry>
+        <entry>NOW</entry>
+        <entry>now</entry>
+        <entry encoding="base64">XDxub3dfdGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
