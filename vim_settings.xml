@@ -75,12 +75,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526464161134">
-        <mark key="'" line="129" column="19" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="382" column="96" />
-        <mark key="^" line="382" column="84" />
-        <mark key="." line="382" column="84" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526466199124">
+        <mark key="'" line="77" column="9" />
+        <mark key="[" line="431" column="0" />
+        <mark key="]" line="431" column="125" />
+        <mark key="." line="431" column="123" />
+        <mark key="^" line="431" column="123" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -269,26 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="781" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="545" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="534" column="38" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="525" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="514" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="474" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="454" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="448" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="737" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="757" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="772" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="794" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="776" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="774" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="770" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="547" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="539" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="538" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="537" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="528" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="781" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="303" column="47" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -310,7 +290,6 @@
       <jump line="168" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="82" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="775" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="245" column="73" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="328" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="407" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -369,66 +348,83 @@
       <jump line="810" column="20" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="714" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="129" column="19" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="792" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="789" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="784" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="778" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="529" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="523" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="514" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="507" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="498" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="446" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="442" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="432" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="393" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="58" column="22" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="51" column="22" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="45" column="22" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="8" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="78" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="77" column="9" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ292ZXJmbG93ZWQnIGluIGw6CiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS50Y3BfbGlzdGVuLm92ZXJmbG93ZWQnLCB7J2hvc3QnOiBJUH0sIGwuc3BsaXQoKVswXSkKICAgICAgICAgICAgaWYgJ2Ryb3BwZWQnIGluIGwgb3IgJ2lnbm9yZWQnIGluIGw6CiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS50Y3BfbGlzdGVuLnNvY2tldF9pZ25vcmUnLCB7J2hvc3QnOiBJUH0sIGwuc3BsaXQoKVswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKHUnW2h0dHBdIHJlcXVlc3QgdXJsKHt9KSBmYWlsZWQ6IHt9LXt9Jy5mb3JtYXQodXJsc1trZXldLCByZXNwb25zZS5zdGF0dXNfY29kZSwgcmVzcG9uc2UuY29udGVudCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>socket_info[1]</text>
       </register>
       <register name="/" type="4">
-        <text>interface</text>
+        <text encoding="base64">XDxsb2dnaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ292ZXJmbG93ZWQnIGluIGw6CiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS50Y3BfbGlzdGVuLm92ZXJmbG93ZWQnLCB7J2hvc3QnOiBJUH0sIGwuc3BsaXQoKVswXSkKICAgICAgICAgICAgaWYgJ2Ryb3BwZWQnIGluIGwgb3IgJ2lnbm9yZWQnIGluIGw6CiAgICAgICAgICAgICAgICBhcHBlbmRfbWV0cmljX2l0ZW0oJ3N5c3RlbS50Y3BfbGlzdGVuLnNvY2tldF9pZ25vcmUnLCB7J2hvc3QnOiBJUH0sIGwuc3BsaXQoKVswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKHUnW2h0dHBdIHJlcXVlc3QgdXJsKHt9KSBmYWlsZWQ6IHt9LXt9Jy5mb3JtYXQodXJsc1trZXldLCByZXNwb25zZS5zdGF0dXNfY29kZSwgcmVzcG9uc2UuY29udGVudCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gZmlsdGVyKGxhbWJkYSBpOiBpWydob3N0J10gPT0gSVAsIGRhdGFfbGlzdClbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gZmlsdGVyKGxhbWJkYSBpOiBpWydob3N0J10gPT0gSVAsIGRhdGFfbGlzdClbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWplY3RfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBoZWFsdGhfcmVzcG9uc2UuY29udGVudC5zcGxpdGxpbmVzKClbMTpdOgogICAgICAgICAgICB2YWx1ZXMgPSBpdGVtLnNwbGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZWplY3RfZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFsdGhfcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoJ2h0dHA6Ly97fTo5MjAwL19jYXQvaGVhbHRoP3YnLmZvcm1hdChJUCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBoZWFsdGhfcmVzcG9uc2UuY29udGVudC5zcGxpdGxpbmVzKClbMTpdOgogICAgICAgICAgICB2YWx1ZXMgPSBpdGVtLnNwbGl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX3Jlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KCdodHRwOi8ve306OTIwMC9fY2F0L25vZGVzP3YnLmZvcm1hdChJUCkpCiAgICAgICAgZm9yIGl0ZW0gaW4gaW5mb19yZXNwb25zZS5jb250ZW50LnNwbGl0bGluZXMoKVsxOl06CiAgICAgICAgICAgIHZhbHVlcyA9IGl0ZW0uc3BsaXQoKQogICAgICAgICAgICBpZiB2YWx1ZXNbMV0gPT0gSVA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFsdGhfcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoJ2h0dHA6Ly97fTo5MjAwL19jYXQvaGVhbHRoP3YnLmZvcm1hdChJUCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaXNfc3VibWl0JzogMCwK</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX3Jlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KCdodHRwOi8ve306OTIwMC9fY2F0L25vZGVzP3YnLmZvcm1hdChJUCkpCiAgICAgICAgZm9yIGl0ZW0gaW4gaW5mb19yZXNwb25zZS5jb250ZW50LnNwbGl0bGluZXMoKVsxOl06CiAgICAgICAgICAgIHZhbHVlcyA9IGl0ZW0uc3BsaXQoKQogICAgICAgICAgICBpZiB2YWx1ZXNbMV0gPT0gSVA6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBtZW1vcnlfcmVzcG9uc2UuY29udGVudC5zcGxpdGxpbmVzKClbMTpdOgogICAgICAgICAgICB2YWx1ZXMgPSBpdGVtLnN0cmlwKCkuc3BsaXQoKQogICAgICAgICAgICBpZiB2YWx1ZXNbMl0gPT0gSVA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaXNfc3VibWl0JzogMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vcnlfcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoJ2h0dHA6Ly97fTo5MjAwL19jYXQvZmllbGRkYXRhP3YnLmZvcm1hdChJUCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBtZW1vcnlfcmVzcG9uc2UuY29udGVudC5zcGxpdGxpbmVzKClbMTpdOgogICAgICAgICAgICB2YWx1ZXMgPSBpdGVtLnN0cmlwKCkuc3BsaXQoKQogICAgICAgICAgICBpZiB2YWx1ZXNbMl0gPT0gSVA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>interface</last-search>
+      <last-search encoding="base64">XDxsb2dnaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>interface</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnaW5nXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfdGltZVw+</entry>
-        <entry>share</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
-        <entry>ALL_BID</entry>
         <entry>format</entry>
         <entry>TRU</entry>
         <entry encoding="base64">XDxUUlVOQ0FURVw+</entry>
@@ -445,6 +441,10 @@
         <entry encoding="base64">XDxub3dfdGltZVw+</entry>
         <entry>repay</entry>
         <entry>interface</entry>
+        <entry>http</entry>
+        <entry encoding="base64">XDxtZXRyaWNfbG9nZ2VyXD4=</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
