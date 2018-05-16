@@ -64,12 +64,11 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
         <mark key="'" line="2116" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524225296372">
-        <mark key="'" line="237" column="2" />
-        <mark key="[" line="143" column="41" />
-        <mark key="]" line="143" column="40" />
-        <mark key="." line="143" column="40" />
-        <mark key="^" line="143" column="40" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1526440205923">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="120" column="40" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/settings.py" timestamp="1524726354332">
         <mark key="[" line="4" column="0" />
@@ -127,6 +126,12 @@
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1526440114538">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="198" column="19" />
@@ -142,9 +147,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1525931791349">
-        <mark key="'" line="113" column="17" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
@@ -223,8 +225,13 @@
         <mark key="[" line="20" column="6" />
         <mark key="]" line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526425223611">
+      <file name="/Dummy.txt" timestamp="1526440253466">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1526440095680">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526268687193">
         <mark key="'" line="122" column="0" />
@@ -275,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="928" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="163" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="961" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -375,10 +381,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/clean_and_import_sql.py" />
       <jump line="791" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="486" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/source/uyun/dispatcher/module.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bank_card</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
       </register>
       <register name="-" type="4">
         <text>bank_card</text>
@@ -390,31 +397,31 @@
         <text encoding="base64">IG9yIGJhbmtfY2FyZFtrZXldID09IDA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3VicHJvY2Vzcy5jaGVja19vdXRwdXQoJycpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGxvZ2dlci5pbmZvKGBbc210XSBzZXEoJHttc2cuc2VxfSkgPiBpbmRleCgke2luZGV4fSkgKyAxLCDmo4Dmn6XliLDlj5HpgIHlpLHotKVrZXnvvIzlrZjlhaUgcGVuZGluZywg5YGc5q2i5pON5L2cKCR7bXNnX3N0cn0pYCk7CiAgICB9IGVsc2UgewogICAgICBsb2dnZXIuaW5mbyhgW3NtdF0gc2VxKCR7bXNnLnNlcX0pID4gaW5kZXgoJHtpbmRleH0pICsgMSwg5bu26L+f5aSE55CG5q2k5raI5oGvKCR7bXNnX3N0cn0pYCk7CiAgICAgIGRlbGF5UmVDaGVja01lc3NhZ2UobXNnKTsKICAgIH0KICB9IGVsc2UgaWYgKG1zZy5zZXEgPT09IGluZGV4ICsgMSkgewogICAgbG9nZ2VyLmluZm8oYFtzbXRdIHNlcSgke21zZy5zZXF9KSA9PT0gaW5kZXgoJHtpbmRleH0pICsgMSwg5aSE55CG5q2k5raI5oGvKCR7bXNnX3N0cn0pYCk7CiAgICBhd2FpdCBzZW5kTWVzc2FnZShtc2csIHBlbmRpbmdLZXksIGluZGV4S2V5KTsKICB9IGVsc2UgaWYgKG1zZy5zZXEgPT09IDApIHsKICAgIGxvZ2dlci5pbmZvKGBbc210XSBzZXEoJHttc2cuc2VxfSkgPT09IDAsIOebtOaOpeWPkemAgSgke21zZ19zdHJ9KWApOwogICAgYXdhaXQgc2VuZE1lc3NhZ2UobXNnLCBwZW5kaW5nS2V5LCBpbmRleEtleSk7CiAgfSBlbHNlIHsKICAgIGxvZ2dlci5pbmZvKGBbc210XSBzZXEoJHttc2cuc2VxfSkgPCBpbmRleCgke2luZGV4fSkgKyAxLCDkuKLlvIPmraTmtojmga8oJHttc2dfc3RyfSlgKTsKPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoYWxsX3NxbCk6CiAgICBvcy5yZW1vdmUoYWxsX3NxbCkKdHJ5Ogo=</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzaHV0aWwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgY29uc3QgbXNnX3N0ciA9IGdldE1zZ1NtYWxsU3RyKG1zZyk7CgogIGxvZ2dlci5pbmZvKGBbc210XSBkbyBjaGVjayBhbmQgc2VuZDogKCR7aW5kZXhLZXl9KS0oJHtpbmRleH0pLSgke2luZGV4VmFsdWV9KS0oJHttc2dfc3RyfSlgKTsKPT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWxlcnQnOiAne30vYWxlcnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWx0ZXInOiAnaHR0cDovLzEwLjQwLjEzMi4yMTozMDAwMS9hcGkvdjEvdXl1bi9zaG93L25ldFNlY3VyaXR5L25ldFNlY3VyaXR5Q291bnQnLAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBsb2dnZXIuZXJyb3IoYFtzbXRdIGRlbGF5UmVDaGVja01lc3NhZ2UgZmFpbGVkOiAke21zZ19zdHJ9YCwgZXJyb3Iuc3RhY2spOwo9PT09PT09Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1ldHJpY19kYXRhKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgYXdhaXQgZGVsYXkoMzAgKiAxMDAwKTsKICBjb25zdCBpbmRleEtleSA9IGAke2NvbnN0YW50LkFOVF9XRUJIT09LX1RBU0tfSU5ERVh9OiR7bXNnLnBheWxvYWQudGFza19pZH1gOwogIGNvbnN0IHBlbmRpbmdLZXkgPSBgJHtjb25zdGFudC5BTlRfV0VCSE9PS19UQVNLX1BFTkRJTkd9OiR7bXNnLnBheWxvYWQudGFza19pZH1gOwogIGNvbnN0IG1zZ19zdHIgPSBnZXRNc2dTbWFsbFN0cihtc2cpOwo9PT09PT09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdkYXRlJzogbm93X3N0ciwK</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
