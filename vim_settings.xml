@@ -114,12 +114,11 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/clean_and_import_sql.py" timestamp="1526426093223">
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/clean_and_import_sql.py" timestamp="1526430658779">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="35" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="35" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
@@ -377,8 +376,8 @@
       <jump line="752" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info4字段</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoJ3RpbWUgbXlzcWwgLXUgcm9vdCAtcHh3IHh3bGNmIDwge30nLmZvcm1hdChhbGxfc3FsKSwgc2hlbGw9VHJ1ZSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>info4字段</text>
@@ -390,31 +389,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29udHJhY3RfaW5mbyc6ICcvY29tbW9uLWNvbnRyYWN0JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZCc6IGlbJ3RyYWRlX2NyZWF0ZV9kYXRlJ10sCg==</text>
+        <text encoding="base64">cHJpbnQoc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoJ3RpbWUgbXlzcWwgLXUgcm9vdCAtcHh3IHh3bGNmIDwge30nLmZvcm1hdChhbGxfc3FsKSwgc2hlbGw9VHJ1ZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHJhZnRfdXNlcic6ICdAQ2hlbkx1JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZCc6IGlbJ3RyYWRlX2NyZWF0ZV9kYXRlJ10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHJhZnRfdXNlcic6ICdAQ2hlbkx1JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3VicHJvY2Vzcy5jaGVja19vdXRwdXQoJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoYWxsX3NxbCk6CiAgICBvcy5yZW1vdmUoYWxsX3NxbCkKdHJ5Ogo=</text>
+        <text encoding="base64">c3VicHJvY2Vzcy5jaGVja19vdXRwdXQoJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzaHV0aWwK</text>
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoYWxsX3NxbCk6CiAgICBvcy5yZW1vdmUoYWxsX3NxbCkKdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWxlcnQnOiAne30vYWxlcnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzaHV0aWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWx0ZXInOiAnaHR0cDovLzEwLjQwLjEzMi4yMTozMDAwMS9hcGkvdjEvdXl1bi9zaG93L25ldFNlY3VyaXR5L25ldFNlY3VyaXR5Q291bnQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWxlcnQnOiAne30vYWxlcnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1ldHJpY19kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWx0ZXInOiAnaHR0cDovLzEwLjQwLjEzMi4yMTozMDAwMS9hcGkvdjEvdXl1bi9zaG93L25ldFNlY3VyaXR5L25ldFNlY3VyaXR5Q291bnQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
