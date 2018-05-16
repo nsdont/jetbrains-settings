@@ -22,19 +22,19 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1525780133443">
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526375724906">
         <mark key="'" line="123" column="34" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="11" column="77" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="150" column="38" />
+        <mark key="]" line="150" column="38" />
+        <mark key="^" line="150" column="38" />
+        <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526200133912">
-        <mark key="'" line="496" column="9" />
-        <mark key="[" line="714" column="22" />
-        <mark key="]" line="714" column="23" />
-        <mark key="." line="714" column="23" />
-        <mark key="^" line="714" column="29" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526425204984">
+        <mark key="'" line="486" column="18" />
+        <mark key="[" line="405" column="52" />
+        <mark key="]" line="405" column="55" />
+        <mark key="^" line="405" column="55" />
+        <mark key="." line="405" column="55" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
         <mark key="[" line="23" column="0" />
@@ -61,6 +61,9 @@
         <mark key="^" line="106" column="4" />
         <mark key="." line="106" column="4" />
       </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
+        <mark key="'" line="2116" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1524225296372">
         <mark key="'" line="237" column="2" />
         <mark key="[" line="143" column="41" />
@@ -72,12 +75,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526021706882">
-        <mark key="'" line="457" column="7" />
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="20" />
-        <mark key="^" line="985" column="55" />
-        <mark key="." line="985" column="55" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526378879607">
+        <mark key="'" line="408" column="21" />
+        <mark key="[" line="413" column="42" />
+        <mark key="]" line="413" column="42" />
+        <mark key="^" line="413" column="72" />
+        <mark key="." line="413" column="42" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
         <mark key="[" line="38" column="0" />
@@ -111,6 +114,13 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/clean_and_import_sql.py" timestamp="1526425349849">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="29" column="77" />
+        <mark key="]" line="29" column="88" />
+        <mark key="." line="29" column="88" />
+        <mark key="^" line="29" column="88" />
+      </file>
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,6 +152,12 @@
         <mark key="]" line="289" column="47" />
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
+      </file>
+      <file name="/Python Console" timestamp="1526284341906">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
         <mark key="[" line="25" column="24" />
@@ -207,15 +223,15 @@
         <mark key="[" line="20" column="6" />
         <mark key="]" line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526200146836">
+      <file name="/Dummy.txt" timestamp="1526425223611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1525780113054">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526268687193">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
+        <mark key="[" line="119" column="42" />
+        <mark key="]" line="119" column="43" />
         <mark key="^" line="119" column="40" />
-        <mark key="." line="120" column="0" />
+        <mark key="." line="119" column="43" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/templates/bootstrap.py" timestamp="1524468543207">
         <mark key="[" line="23" column="44" />
@@ -259,182 +275,182 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="630" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="629" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="340" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="341" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="97" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="129" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="138" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="148" column="34" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="172" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="194" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="223" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="473" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="206" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="530" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="544" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="560" column="72" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="610" column="88" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="612" column="95" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="342" column="43" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="210" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="513" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="222" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="486" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="700" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="224" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="581" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="178" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="122" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="616" column="55" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="343" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="702" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="123" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="126" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="128" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="241" column="32" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="336" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="353" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="637" column="20" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="88" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="92" column="24" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="95" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="133" column="60" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="160" column="56" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="161" column="58" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="188" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="227" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="236" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="238" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="243" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="398" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="420" column="34" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="440" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="443" column="89" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="459" column="80" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="108" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="27469" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/invest_log.sql" />
-      <jump line="27468" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/invest_log.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/invest_log.sql" />
-      <jump line="44117" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/output/invest_log.sql" />
-      <jump line="515" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="86" column="17" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="93" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="396" column="48" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="402" column="47" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="345" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="643" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="641" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="608" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="591" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="520" column="32" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="499" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="481" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="429" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="519" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="514" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="233" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="548" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="584" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="570" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="524" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="207" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="542" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="488" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="192" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="525" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="602" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="475" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="628" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="791" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="757" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="756" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="755" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="381" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="502" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="474" column="12" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="503" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="504" column="38" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="496" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="166" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="928" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="163" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="961" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="721" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="463" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="464" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="456" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="449" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="446" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="392" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="391" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="383" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="381" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="366" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="365" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="364" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="354" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="308" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="305" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="295" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="247" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="244" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="243" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="242" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="241" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="795" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="777" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="771" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="548" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="502" column="90" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="99" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="100" column="7" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="356" column="51" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="820" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="107" column="17" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="789" column="29" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="127" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="831" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="781" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="545" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="534" column="38" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="525" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="514" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="474" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="454" column="39" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="448" column="27" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="737" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="757" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="772" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="794" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="776" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="774" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="770" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="547" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="539" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="538" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="537" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="528" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="781" column="23" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="303" column="47" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="641" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="402" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="429" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="772" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="643" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="485" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="778" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="504" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="720" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="153" column="20" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="286" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="465" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="668" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="782" column="96" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="779" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="168" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="82" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="775" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="245" column="73" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="328" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="407" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="408" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="683" column="45" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="131" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="368" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="688" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="693" column="72" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="711" column="75" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="707" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="703" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="295" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="406" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="298" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/clean_and_import_sql.py" />
+      <jump line="791" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="486" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>bank_card</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>bank_card</text>
       </register>
       <register name="/" type="4">
-        <text>deposit</text>
+        <text encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCBqb2luIHVzZXJfYmFzZV9pbmZvIGFzIGcgb24gZy51c2VyX2lkID0gZi51c2VyX2lkCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG9yIGJhbmtfY2FyZFtrZXldID09IDA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">c3VicHJvY2Vzcy5jaGVja19vdXRwdXQoJycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g5b6F5bCP6LCi5Zue5aSN5piv5ZCm6KaB6L+H5ruk5aSx6LSl55qE5o+Q546w5ZKM5oqV6LWECg==</text>
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoYWxsX3NxbCk6CiAgICBvcy5yZW1vdmUoYWxsX3NxbCkKdHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbW9kZSc6ICdzdWInLAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzaHV0aWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWxlcnQnOiAne30vYWxlcnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoU1FMX01BUFsnU0VMRUNUX0FMTF9XSVRIRFJBVyddKQo=</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuYWx0ZXInOiAnaHR0cDovLzEwLjQwLjEzMi4yMTozMDAwMS9hcGkvdjEvdXl1bi9zaG93L25ldFNlY3VyaXR5L25ldFNlY3VyaXR5Q291bnQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoU1FMX01BUFsnU0VMRUNUX0FMTF9ERVBPU0lUJ10pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1ldHJpY19kYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogU1RBVFVTX01BUFtpWydzdGF0dXMnXV0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogU1RBVFVTX01BUFtpWydzdGF0dXMnXV0sCg==</text>
+        <text encoding="base64">ICAgICdkYXRlJzogbm93X3N0ciwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>deposit</last-search>
+      <last-search encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern>deposit</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>day_limit</entry>
-        <entry encoding="base64">XDx0aW1lX2xpbWl0X3VuaXRcPg==</entry>
-        <entry>ivnest</entry>
-        <entry>invest</entry>
-        <entry>user_id</entry>
-        <entry>creta</entry>
-        <entry encoding="base64">XDxzaGFyZV9iZW5lZml0XD4=</entry>
-        <entry>USER</entry>
-        <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfbmFtZV9zcWxcPg==</entry>
-        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
-        <entry>trade_id</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
-        <entry encoding="base64">XDw6XD4=</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1dJVEhEUkFXXD4=</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0dJRlRcPg==</entry>
-        <entry>generate</entry>
-        <entry>update</entry>
+        <entry>rm</entry>
+        <entry>shutil</entry>
+        <entry encoding="base64">XDx3cml0ZV90b19maWxlXD4=</entry>
         <entry>tyj</entry>
-        <entry>deposit</entry>
+        <entry encoding="base64">XDx0eWpcPg==</entry>
+        <entry>ALERT</entry>
+        <entry>summary</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
+        <entry encoding="base64">XDxub3dfc3RyXD4=</entry>
+        <entry>now_str</entry>
+        <entry>http</entry>
+        <entry>alert</entry>
+        <entry>progressBarAmount</entry>
+        <entry>bid</entry>
+        <entry>plus</entry>
+        <entry encoding="base64">XDx2aXJ0dWFsX3VuaXRcPg==</entry>
+        <entry>format_value</entry>
+        <entry>trun</entry>
+        <entry>TRU</entry>
+        <entry encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
