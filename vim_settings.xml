@@ -22,6 +22,9 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/app.ts" timestamp="1526543238497">
+        <mark key="'" line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526375724906">
         <mark key="'" line="123" column="34" />
         <mark key="[" line="150" column="38" />
@@ -64,11 +67,8 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
         <mark key="'" line="2116" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1526440205923">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
-        <mark key="^" line="120" column="40" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1526542767474">
+        <mark key="'" line="204" column="17" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526539212141">
         <mark key="[" line="9" column="0" />
@@ -137,6 +137,9 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" timestamp="1526543418095">
+        <mark key="'" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
@@ -267,6 +270,9 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/message.ts" timestamp="1526543471901">
+        <mark key="'" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1525661689202">
         <mark key="[" line="12" column="72" />
         <mark key="]" line="12" column="1" />
@@ -288,22 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="928" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="163" column="24" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="961" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="721" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="463" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="464" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="456" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="449" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="446" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="392" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="391" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="383" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="381" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="366" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="365" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="364" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="354" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="308" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="305" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -388,6 +378,22 @@
       <jump line="791" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="486" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="57" column="0" filename="$USER_HOME$/source/uyun/dispatcher/module.yaml" />
+      <jump line="10" column="11" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
+      <jump line="48" column="28" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
+      <jump line="47" column="5" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
+      <jump line="120" column="21" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="9" column="12" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="235" column="27" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="230" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="229" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="204" column="17" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
+      <jump line="12" column="11" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
+      <jump line="56" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
+      <jump line="51" column="16" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
+      <jump line="31" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
+      <jump line="30" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
+      <jump line="14" column="12" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
+      <jump line="4" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/message.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -397,7 +403,7 @@
         <text>bank_card</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</text>
+        <text encoding="base64">XDxicm9hZGNhc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJ0ZXN0X2NvdmVyYWdlX3htbCI6Ik5PREVfRU5WPXRlc3QgSlVOSVRfUkVQT1JUX1BBVEg9cmVwb3J0LnhtbCAuL25vZGVfbW9kdWxlcy8uYmluL255YyAtLXJlcG9ydGVyPWNvYmVydHVyYSAuL25vZGVfbW9kdWxlcy8uYmluL21vY2hhIC0tY29sb3JzIC0tcmVwb3J0ZXIgbW9jaGEtamVua2lucy1yZXBvcnRlciAtLXJlY3Vyc2l2ZSBcIi4vc3JjLyoqLyoudGVzdC5qc1wiIiwK</text>
@@ -434,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</last-search>
+      <last-search encoding="base64">XDxicm9hZGNhc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxicm9hZGNhc3RcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -444,12 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rm</entry>
-        <entry>shutil</entry>
-        <entry encoding="base64">XDx3cml0ZV90b19maWxlXD4=</entry>
-        <entry>tyj</entry>
-        <entry encoding="base64">XDx0eWpcPg==</entry>
-        <entry>ALERT</entry>
         <entry>summary</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
         <entry encoding="base64">XDxub3dfc3RyXD4=</entry>
@@ -464,6 +464,12 @@
         <entry>trun</entry>
         <entry>TRU</entry>
         <entry encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxjb21tYW5kZXJcPg==</entry>
+        <entry>redis</entry>
+        <entry encoding="base64">XDxzdWJzY3JpYmVyXD4=</entry>
+        <entry encoding="base64">XDxzdWJBbnRNc2dcPg==</entry>
+        <entry encoding="base64">XDxyZWRpc1w+</entry>
+        <entry encoding="base64">XDxicm9hZGNhc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
