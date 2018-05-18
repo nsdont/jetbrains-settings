@@ -15,7 +15,7 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1526607883426">
         <mark key="'" line="157" column="62" />
         <mark key="[" line="126" column="38" />
         <mark key="]" line="126" column="56" />
@@ -56,7 +56,7 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
         <mark key="'" line="2116" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526605909923">
+      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526607790565">
         <mark key="^" line="8" column="77" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526378879607">
@@ -221,6 +221,7 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/InfoHandler.ts" timestamp="1526607941790" />
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
       </file>
