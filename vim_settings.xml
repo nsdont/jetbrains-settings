@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1523989656050">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/scripts/a.py" timestamp="1525663651160">
         <mark key="'" line="33" column="34" />
       </file>
@@ -15,15 +12,12 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1526607883426">
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
         <mark key="'" line="157" column="62" />
         <mark key="[" line="126" column="38" />
         <mark key="]" line="126" column="56" />
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/app.ts" timestamp="1526543238497">
-        <mark key="'" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526375724906">
         <mark key="'" line="123" column="34" />
@@ -32,12 +26,16 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526425204984">
-        <mark key="'" line="486" column="18" />
-        <mark key="[" line="405" column="52" />
-        <mark key="]" line="405" column="55" />
-        <mark key="^" line="405" column="55" />
-        <mark key="." line="405" column="55" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1526564360615">
+        <mark key="'" line="312" column="61" />
+        <mark key="[" line="309" column="38" />
+        <mark key="]" line="309" column="37" />
+        <mark key="." line="309" column="37" />
+        <mark key="^" line="309" column="37" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" timestamp="1526122565231">
         <mark key="'" line="128" column="7" />
@@ -45,6 +43,13 @@
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1523992085527">
+        <mark key="'" line="55" column="15" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/.gitignore" timestamp="1524810812493">
         <mark key="'" line="24" column="4" />
@@ -56,15 +61,27 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
         <mark key="'" line="2116" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526607790565">
-        <mark key="^" line="8" column="77" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1526440205923">
+        <mark key="'" line="237" column="2" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526378879607">
-        <mark key="'" line="408" column="21" />
-        <mark key="[" line="413" column="42" />
-        <mark key="]" line="413" column="42" />
-        <mark key="^" line="413" column="72" />
-        <mark key="." line="413" column="42" />
+      <file name="$USER_HOME$/source/uyun/agent/framework/settings.py" timestamp="1524726354332">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526550975340">
+        <mark key="'" line="409" column="21" />
+        <mark key="[" line="427" column="38" />
+        <mark key="]" line="427" column="88" />
+        <mark key="^" line="427" column="88" />
+        <mark key="." line="427" column="88" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" timestamp="1525832666468">
         <mark key="'" line="39" column="27" />
@@ -101,9 +118,6 @@
         <mark key="." line="29" column="88" />
         <mark key="^" line="29" column="88" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1522826815895">
         <mark key="'" line="423" column="35" />
       </file>
@@ -112,9 +126,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" timestamp="1526543418095">
-        <mark key="'" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
@@ -132,6 +143,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1525931791349">
+        <mark key="'" line="113" column="17" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
         <mark key="[" line="288" column="0" />
@@ -144,6 +158,14 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="76" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/ioloop.py" timestamp="1522725309284">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523980788186">
         <mark key="'" line="158" column="2" />
@@ -174,8 +196,9 @@
         <mark key="^" line="76" column="24" />
         <mark key="." line="76" column="24" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" timestamp="1526545845441">
-        <mark key="'" line="43" column="23" />
+      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="16" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
@@ -196,8 +219,13 @@
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/job.ts" timestamp="1525836963406">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="50" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1526440253466">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1526440095680">
         <mark key="[" line="25" column="0" />
@@ -211,6 +239,10 @@
         <mark key="^" line="119" column="40" />
         <mark key="." line="119" column="43" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agent/templates/bootstrap.py" timestamp="1524468543207">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="60" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" timestamp="1523498271696">
         <mark key="'" line="148" column="44" />
         <mark key="[" line="148" column="106" />
@@ -221,12 +253,8 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/InfoHandler.ts" timestamp="1526607941790" />
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/message.ts" timestamp="1526543471901">
-        <mark key="'" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1525661689202">
         <mark key="[" line="12" column="72" />
@@ -249,6 +277,8 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="241" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="795" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="777" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="771" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="548" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -288,7 +318,6 @@
       <jump line="402" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="429" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="772" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="643" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="485" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="778" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="504" column="9" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -322,49 +351,48 @@
       <jump line="791" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="486" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="57" column="0" filename="$USER_HOME$/source/uyun/dispatcher/module.yaml" />
-      <jump line="10" column="11" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
-      <jump line="48" column="28" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
-      <jump line="47" column="5" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
-      <jump line="120" column="21" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="9" column="12" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="235" column="27" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="230" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="229" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="204" column="17" filename="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" />
-      <jump line="12" column="11" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
-      <jump line="56" column="4" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
-      <jump line="51" column="16" filename="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" />
-      <jump line="31" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
-      <jump line="30" column="2" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
-      <jump line="14" column="12" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
-      <jump line="4" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/message.ts" />
-      <jump line="49" column="46" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="1" column="28" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="8" column="6" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="9" column="14" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="10" column="19" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="21" column="6" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="23" column="10" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="24" column="10" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
-      <jump line="6" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" />
-      <jump line="66" column="8" filename="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" />
-      <jump line="43" column="23" filename="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" />
+      <jump line="239" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="553" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="564" column="48" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="730" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="732" column="54" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="739" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="740" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="754" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="801" column="48" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="807" column="85" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="832" column="89" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="833" column="75" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="834" column="53" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="835" column="46" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="563" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="567" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="580" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="585" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="600" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="603" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="615" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="629" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="643" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="657" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="644" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="312" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>, Decimal</text>
       </register>
       <register name="-" type="4">
-        <text>bank_card</text>
+        <text>, Decimal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tYW5kZXJcPg==</text>
+        <text encoding="base64">XDxST1VORF9ET1dOXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0X2NvdmVyYWdlX3htbCI6Ik5PREVfRU5WPXRlc3QgSlVOSVRfUkVQT1JUX1BBVEg9cmVwb3J0LnhtbCAuL25vZGVfbW9kdWxlcy8uYmluL255YyAtLXJlcG9ydGVyPWNvYmVydHVyYSAuL25vZGVfbW9kdWxlcy8uYmluL21vY2hhIC0tY29sb3JzIC0tcmVwb3J0ZXIgbW9jaGEtamVua2lucy1yZXBvcnRlciAtLXJlY3Vyc2l2ZSBcIi4vc3JjLyoqLyoudGVzdC5qc1wiIiwK</text>
+      <register name="0" type="4">
+        <text>Decimal('100.0')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAxMDAuMAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlL1YyLjAuUjE0LngK</text>
@@ -395,9 +423,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tYW5kZXJcPg==</last-search>
+      <last-search encoding="base64">XDxST1VORF9ET1dOXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tYW5kZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxST1VORF9ET1dOXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -405,33 +433,33 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
-        <entry encoding="base64">XDxub3dfc3RyXD4=</entry>
-        <entry>now_str</entry>
+        <entry>interface</entry>
         <entry>http</entry>
-        <entry>alert</entry>
-        <entry>progressBarAmount</entry>
-        <entry>bid</entry>
-        <entry>plus</entry>
-        <entry encoding="base64">XDx2aXJ0dWFsX3VuaXRcPg==</entry>
-        <entry>format_value</entry>
-        <entry>trun</entry>
-        <entry>TRU</entry>
-        <entry encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</entry>
-        <entry encoding="base64">XDxzdWJzY3JpYmVyXD4=</entry>
-        <entry encoding="base64">XDxzdWJBbnRNc2dcPg==</entry>
-        <entry encoding="base64">XDxyZWRpc1w+</entry>
-        <entry encoding="base64">XDxicm9hZGNhc3RcPg==</entry>
-        <entry>redis</entry>
-        <entry>commander</entry>
-        <entry encoding="base64">XDxjb21tYW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxtZXRyaWNfbG9nZ2VyXD4=</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
+        <entry encoding="base64">XDx0cmFkZV9zdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxyZXBheV9zdGF0dXNfbWFwXD4=</entry>
+        <entry>generate</entry>
+        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
+        <entry>index</entry>
+        <entry>create</entry>
+        <entry>create_index</entry>
+        <entry encoding="base64">XDxjcmVhdGVfaW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfRklSRU5EX0lOVklURVw+</entry>
+        <entry>IP</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
+        <entry>100</entry>
+        <entry>share_</entry>
+        <entry encoding="base64">XDxST1VORF9ET1dOXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2dldC9n</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L3NlYXJjaC9n</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
