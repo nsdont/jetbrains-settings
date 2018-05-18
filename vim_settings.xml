@@ -46,13 +46,6 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1526545496630">
-        <mark key="'" line="24" column="10" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/scripts/.gitignore" timestamp="1524810812493">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="103" column="12" />
@@ -63,14 +56,8 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
         <mark key="'" line="2116" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1526542767474">
-        <mark key="'" line="204" column="17" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526539212141">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526605909923">
         <mark key="^" line="8" column="77" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526378879607">
         <mark key="'" line="408" column="21" />
