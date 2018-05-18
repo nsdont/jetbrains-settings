@@ -12,12 +12,8 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
-        <mark key="'" line="157" column="62" />
-        <mark key="[" line="126" column="38" />
-        <mark key="]" line="126" column="56" />
-        <mark key="." line="127" column="62" />
-        <mark key="^" line="127" column="62" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/app.ts" timestamp="1526543238497">
+        <mark key="'" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526375724906">
         <mark key="'" line="123" column="34" />
@@ -30,12 +26,8 @@
         <mark key="'" line="312" column="61" />
         <mark key="[" line="309" column="38" />
         <mark key="]" line="309" column="37" />
-        <mark key="." line="309" column="37" />
         <mark key="^" line="309" column="37" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/bin/ant.py" timestamp="1524552031866">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="25" />
+        <mark key="." line="309" column="37" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/wlcf_transfer/lib/python2.7/site-packages/pymysql/connections.py" timestamp="1526122565231">
         <mark key="'" line="128" column="7" />
@@ -68,9 +60,8 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/settings.py" timestamp="1524726354332">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="28" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/package.json" timestamp="1526607790565">
+        <mark key="^" line="8" column="77" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526550975340">
         <mark key="'" line="409" column="21" />
@@ -78,10 +69,6 @@
         <mark key="]" line="427" column="88" />
         <mark key="^" line="427" column="88" />
         <mark key="." line="427" column="88" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/__init__.py" timestamp="1522744315211">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" timestamp="1525832666468">
         <mark key="'" line="39" column="27" />
@@ -127,6 +114,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" timestamp="1526543418095">
+        <mark key="'" line="51" column="16" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="198" column="19" />
@@ -159,14 +149,6 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/ssh.py" timestamp="1524734397342">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="76" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/ioloop.py" timestamp="1522725309284">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523980788186">
         <mark key="'" line="158" column="2" />
         <mark key="[" line="25" column="5" />
@@ -196,9 +178,11 @@
         <mark key="^" line="76" column="24" />
         <mark key="." line="76" column="24" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1524538208950">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="16" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" timestamp="1526545845441">
+        <mark key="'" line="43" column="23" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/HeartbeatHandler.ts" timestamp="1526634108227">
+        <mark key="'" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
@@ -219,10 +203,6 @@
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/job.ts" timestamp="1525836963406">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="50" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1526440253466">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="9" />
@@ -239,10 +219,6 @@
         <mark key="^" line="119" column="40" />
         <mark key="." line="119" column="43" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/templates/bootstrap.py" timestamp="1524468543207">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="60" />
-      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" timestamp="1523498271696">
         <mark key="'" line="148" column="44" />
         <mark key="[" line="148" column="106" />
@@ -253,8 +229,12 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/InfoHandler.ts" timestamp="1526607941790" />
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/message.ts" timestamp="1526543471901">
+        <mark key="'" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1525661689202">
         <mark key="[" line="12" column="72" />
@@ -277,8 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="795" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="777" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="771" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="548" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -377,6 +355,8 @@
       <jump line="657" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="644" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="312" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="31" column="27" filename="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/HeartbeatHandler.ts" />
+      <jump line="19" column="41" filename="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/HeartbeatHandler.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -386,7 +366,7 @@
         <text>, Decimal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxST1VORF9ET1dOXD4=</text>
+        <text>llen</text>
       </register>
       <register name="0" type="4">
         <text>Decimal('100.0')</text>
@@ -423,43 +403,43 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxST1VORF9ET1dOXD4=</last-search>
+      <last-search>llen</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxST1VORF9ET1dOXD4=</last-pattern>
+      <last-pattern>llen</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>interface</entry>
+        <entry encoding="base64">XDxub3dfc3RyXD4=</entry>
+        <entry>now_str</entry>
         <entry>http</entry>
-        <entry encoding="base64">XDxtZXRyaWNfbG9nZ2VyXD4=</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
-        <entry encoding="base64">XDx0cmFkZV9zdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxyZXBheV9zdGF0dXNfbWFwXD4=</entry>
-        <entry>generate</entry>
-        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
-        <entry>index</entry>
-        <entry>create</entry>
-        <entry>create_index</entry>
-        <entry encoding="base64">XDxjcmVhdGVfaW5kZXhcPg==</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfRklSRU5EX0lOVklURVw+</entry>
-        <entry>IP</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
-        <entry>100</entry>
-        <entry>share_</entry>
-        <entry encoding="base64">XDxST1VORF9ET1dOXD4=</entry>
+        <entry>alert</entry>
+        <entry>progressBarAmount</entry>
+        <entry>bid</entry>
+        <entry>plus</entry>
+        <entry encoding="base64">XDx2aXJ0dWFsX3VuaXRcPg==</entry>
+        <entry>format_value</entry>
+        <entry>trun</entry>
+        <entry>TRU</entry>
+        <entry encoding="base64">XDxmb3JtYXRfdmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxzdWJzY3JpYmVyXD4=</entry>
+        <entry encoding="base64">XDxzdWJBbnRNc2dcPg==</entry>
+        <entry encoding="base64">XDxyZWRpc1w+</entry>
+        <entry encoding="base64">XDxicm9hZGNhc3RcPg==</entry>
+        <entry>redis</entry>
+        <entry>commander</entry>
+        <entry encoding="base64">XDxjb21tYW5kZXJcPg==</entry>
+        <entry>llen</entry>
       </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2dldC9n</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L3NlYXJjaC9n</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
