@@ -145,6 +145,13 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1525931791349">
         <mark key="'" line="113" column="17" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb_prod.py" timestamp="1526894474777">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="35" />
+        <mark key="." line="121" column="35" />
+        <mark key="^" line="121" column="35" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
         <mark key="[" line="288" column="0" />
@@ -270,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="782" column="96" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="779" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="168" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="82" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -370,55 +376,56 @@
       <jump line="85" column="8" filename="$USER_HOME$/source/uyun/monitor/transaction.py" />
       <jump line="207" column="13" filename="$USER_HOME$/source/uyun/monitor/transaction.py" />
       <jump line="60" column="6" filename="$USER_HOME$/source/uyun/monitor/transaction.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb_prod.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnW3pqd10gcGF5bG9hZCB7fScuZm9ybWF0KHBvc3RfZGF0YSkpCiAgICAgICAgbG9nLmluZm8oJ1t6anddIHJlc3BvbnNlIHt9Jy5mb3JtYXQocmVzcG9uc2UuY29kZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>cehck</text>
       </register>
       <register name="-" type="4">
-        <text>response.code</text>
+        <text>cehck</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmFuc2FjdGlvbk1hbmFnZXJcPg==</text>
+        <text encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnW3pqd10gcmVzcG9uc2UgIHt9Jy5mb3JtYXQocmVzcG9uc2UuY29kZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChtZXRyaWNzW2luZGV4XVswXSAvIDEwMDApCiAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKG1ldHJpY3NbaW5kZXggKyAxXVswXSAvIDEwMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnW3pqd10gcGF5bG9hZCB7fScuZm9ybWF0KHBvc3RfZGF0YSkpCiAgICAgICAgbG9nLmluZm8oJ1t6anddIHJlc3BvbnNlIHt9Jy5mb3JtYXQocmVzcG9uc2UuY29kZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c3RhcnRfYWJzb2x1dGUgPSB0b2RheV90aW1lc3RhbXAgKiAxMDAwIC0gMTE1MjAwMDAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGthaXJvc2RiX2lwID0gc3lzLmFyZ3ZbMV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnW3pqd10gcGF5bG9hZCB7fScuZm9ybWF0KHBvc3RfZGF0YSkpCiAgICAgICAgbG9nLmluZm8oJ1t6anddIHJlc3BvbnNlIHt9Jy5mb3JtYXQocmVzcG9uc2UuY29kZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1t6anddIHN0YXJ0IGZsdXNoLi4uLicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01ldHJpY3M6IHt9Jy5mb3JtYXQoY2hlY2suZ2V0X21ldHJpY3MoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgxMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1t6anddIHN0YXJ0IGZsdXNoLi4uLicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiB4cmFuZ2UoMjAwKToKICAgICAgICAgICAgcHJpbnQgIkxvb3AgJWQiICUgaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUcmFuc2FjdGlvbk1hbmFnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmFuc2FjdGlvbk1hbmFnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -426,7 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxST1VORF9ET1dOXD4=</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxnZXRfY2hlY2tcPg==</entry>
         <entry>exclude</entry>
@@ -446,6 +452,7 @@
         <entry encoding="base64">XDxmbHVzaF9uZXh0XD4=</entry>
         <entry encoding="base64">XDxwcmludF9xdWV1ZV9zdGF0c1w+</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvbk1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
