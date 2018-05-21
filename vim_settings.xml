@@ -19,8 +19,8 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526872666705">
-        <mark key="'" line="57" column="9" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526886515742">
+        <mark key="'" line="88" column="23" />
         <mark key="[" line="150" column="38" />
         <mark key="]" line="150" column="38" />
         <mark key="^" line="150" column="38" />
@@ -260,12 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="789" column="29" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="127" column="14" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="831" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="781" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="545" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="534" column="38" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="525" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="514" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="474" column="41" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -360,6 +354,12 @@
       <jump line="107" column="8" filename="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" />
       <jump line="85" column="19" filename="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" />
       <jump line="57" column="9" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="112" column="13" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="159" column="12" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="160" column="47" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="174" column="15" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="88" column="23" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -369,7 +369,7 @@
         <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>cpu</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tc3RhcnQge30nLmZvcm1hdChwYXJ0KSkK</text>
@@ -406,9 +406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cpu</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>cpu</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -416,7 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFkZV9zdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxyZXBheV9zdGF0dXNfbWFwXD4=</entry>
         <entry>generate</entry>
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
@@ -436,6 +435,7 @@
         <entry encoding="base64">XDxfZXhjbHVkZV9kaXNrXD4=</entry>
         <entry>def check</entry>
         <entry>cpu</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
