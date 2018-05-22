@@ -37,12 +37,12 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1526635666460">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1526957941258">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="8" />
+        <mark key="." line="63" column="8" />
+        <mark key="^" line="63" column="8" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/.gitignore" timestamp="1524810812493">
         <mark key="'" line="24" column="4" />
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="772" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="794" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="776" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -330,46 +328,48 @@
       <jump line="2" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
       <jump line="94" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" />
+      <jump line="63" column="46" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbnRyb2xsZXJzL2pvYic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>apikey</text>
       </register>
       <register name="-" type="4">
-        <text>commander</text>
+        <text>apikey</text>
       </register>
       <register name="/" type="4">
         <text>hea</text>
       </register>
       <register name="0" type="4">
-        <text>Decimal('100.0')</text>
+        <text>realGetPlatRand</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbnRyb2xsZXJzL2pvYic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgcmVjb3JkSGVhcnRiZWF0KHJhbmRvbUFnZW50SWQsIG1zZy5hcGlLZXksIG1zZy5wYXJlbnRJZCwgbXNnLmJvZHkpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVjb3JkSGVhcnRiZWF0IH0gZnJvbSAnLi9IZWFydGJlYXRIYW5kbGVyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYWdlbnQgZnJvbSAnLi4vLi4vdXRpbHMvYWdlbnQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBIRUFSVEJFQVRfQUxMID0gJ2FudDpoZWFydGJlYXQ6YWxsJywK</text>
+        <text encoding="base64">aW1wb3J0ICcuL2NvbnRyb2xsZXJzL2pvYic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzY2hlZHVsZS5ydW4oaGVhcnRiZWF0LmV4ZWN1dGUsIDQ1ICogMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgcmVjb3JkSGVhcnRiZWF0KHJhbmRvbUFnZW50SWQsIG1zZy5hcGlLZXksIG1zZy5wYXJlbnRJZCwgbXNnLmJvZHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgaGVhcnRiZWF0IGZyb20gJy4vc2NoZWR1bGUvaGVhcnRiZWF0JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVjb3JkSGVhcnRiZWF0IH0gZnJvbSAnLi9IZWFydGJlYXRIYW5kbGVyJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgaHR0cHMgZnJvbSAnaHR0cHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYWdlbnQgZnJvbSAnLi4vLi4vdXRpbHMvYWdlbnQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
