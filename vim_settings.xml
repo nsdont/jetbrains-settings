@@ -37,12 +37,12 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1526957941258">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="8" />
-        <mark key="." line="63" column="8" />
-        <mark key="^" line="63" column="8" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" timestamp="1526959819545">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="45" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/.gitignore" timestamp="1524810812493">
         <mark key="'" line="24" column="4" />
@@ -137,8 +137,8 @@
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1526956902437">
-        <mark key="'" line="94" column="0" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1526958562269">
+        <mark key="'" line="108" column="44" />
         <mark key="[" line="25" column="5" />
         <mark key="]" line="25" column="5" />
         <mark key="." line="25" column="5" />
@@ -209,9 +209,9 @@
         <mark key="." line="148" column="109" />
         <mark key="^" line="148" column="109" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/InfoHandler.ts" timestamp="1526635776572">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/message/handlers/InfoHandler.ts" timestamp="1526958570710">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/message.ts" timestamp="1526635653773">
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="794" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="776" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="774" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="770" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -330,46 +328,48 @@
       <jump line="94" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" />
       <jump line="63" column="46" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
+      <jump line="108" column="44" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/tenant.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>apikey</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgLS0tLTItJHt2YWx1ZX0tYCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>apikey</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>hea</text>
       </register>
       <register name="0" type="4">
-        <text>realGetPlatRand</text>
+        <text>tenant/api/v1/tenant/selectByApikey</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgLS0tLTItJHt2YWx1ZX0tYCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jCg==</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoYC0tLS0tLSR7dmFsdWV9LWApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoYC0tLS0zLSR7dmFsdWV9LWApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgLS1lcnItLS0tLSR7ZXJyb3J9LWApCiAgICBsb2dnZXIuZGVidWcoYC0tZXJyLS0tLS0ke2Vycm9yLnJlc3BvbnNlfS1gKQogICAgbG9nZ2VyLmRlYnVnKGAtLWVyci0tLS0tJHtKU09OLnN0cmluZ2lmeShlcnJvci5yZXNwb25zZS5oZWFkZXJzKX0tYCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgLS1lcnItLS0tLSR7ZXJyb3J9LWApCiAgICBsb2dnZXIuZGVidWcoYC0tZXJyLS0tLS0ke2Vycm9yLnJlc3BvbnNlfS1gKQogICAgbG9nZ2VyLmRlYnVnKGAtLWVyci0tLS0tJHtKU09OLnN0cmluZ2lmeShlcnJvci5yZXNwb25zZS5oZWFkZXJzKX0tYCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2NvbnRyb2xsZXJzL2pvYic7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgcmVjb3JkSGVhcnRiZWF0KHJhbmRvbUFnZW50SWQsIG1zZy5hcGlLZXksIG1zZy5wYXJlbnRJZCwgbXNnLmJvZHkpOwo=</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoYC0tLS0tLSR7fWApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVjb3JkSGVhcnRiZWF0IH0gZnJvbSAnLi9IZWFydGJlYXRIYW5kbGVyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYWdlbnQgZnJvbSAnLi4vLi4vdXRpbHMvYWdlbnQnOwo=</text>
+        <text encoding="base64">ICBsb2cK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
