@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
+        <mark key="'" line="157" column="62" />
+        <mark key="[" line="126" column="38" />
+        <mark key="]" line="126" column="56" />
+        <mark key="." line="127" column="62" />
+        <mark key="^" line="127" column="62" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/app.ts" timestamp="1526635810627">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="4" column="0" />
@@ -130,8 +137,8 @@
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523980788186">
-        <mark key="'" line="158" column="2" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1526956902437">
+        <mark key="'" line="94" column="0" />
         <mark key="[" line="25" column="5" />
         <mark key="]" line="25" column="5" />
         <mark key="." line="25" column="5" />
@@ -223,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="737" column="25" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="757" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="772" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="164" column="4" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -323,6 +329,7 @@
       <jump line="73" column="10" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" />
       <jump line="2" column="9" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/app.ts" />
+      <jump line="94" column="0" filename="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -332,7 +339,7 @@
         <text>commander</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tYW5kZXJcPg==</text>
+        <text>hea</text>
       </register>
       <register name="0" type="4">
         <text>Decimal('100.0')</text>
@@ -369,17 +376,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tYW5kZXJcPg==</last-search>
+      <last-search>hea</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tYW5kZXJcPg==</last-pattern>
+      <last-pattern>hea</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
         <entry>alert</entry>
         <entry>progressBarAmount</entry>
         <entry>bid</entry>
@@ -399,6 +405,7 @@
         <entry encoding="base64">XDxyZWNvcmRIZWFydGJlYXRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVBZ2VudEhlYXJ0YmVhdFw+</entry>
         <entry encoding="base64">XDxjb21tYW5kZXJcPg==</entry>
+        <entry>hea</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
