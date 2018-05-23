@@ -124,19 +124,12 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/datamonitor.py" timestamp="1526869864269" />
       <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1526890156342">
         <mark key="'" line="571" column="17" />
         <mark key="[" line="505" column="0" />
         <mark key="]" line="505" column="0" />
         <mark key="." line="505" column="0" />
         <mark key="^" line="505" column="51" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1526440114538">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
@@ -151,12 +144,6 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" timestamp="1525834757013">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1525931791349">
         <mark key="'" line="113" column="17" />
       </file>
@@ -166,6 +153,9 @@
         <mark key="]" line="147" column="37" />
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527073001304">
+        <mark key="'" line="459" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
@@ -180,7 +170,6 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks.d/vsphere.py" timestamp="1526622999081" />
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1526627852761">
         <mark key="'" line="88" column="19" />
         <mark key="[" line="82" column="34" />
@@ -220,7 +209,7 @@
         <mark key="^" line="76" column="24" />
         <mark key="." line="76" column="24" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1526897167485" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks.d/agent_metrics.py" timestamp="1527072916543" />
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
       </file>
@@ -234,20 +223,9 @@
         <mark key="." line="159" column="51" />
         <mark key="^" line="159" column="51" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525765371503">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="82" column="9" />
-        <mark key="]" line="82" column="11" />
-        <mark key="." line="13" column="54" />
-      </file>
       <file name="/Dummy.txt" timestamp="1526440253466">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1526440095680">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526268687193">
         <mark key="'" line="122" column="0" />
@@ -293,10 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="779" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="168" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="82" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="775" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="78" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="245" column="73" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="328" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -393,6 +367,10 @@
       <jump line="207" column="13" filename="$USER_HOME$/source/uyun/monitor/transaction.py" />
       <jump line="60" column="6" filename="$USER_HOME$/source/uyun/monitor/transaction.py" />
       <jump line="30" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb_prod.py" />
+      <jump line="432" column="34" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="134" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="467" column="34" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="459" column="33" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -402,7 +380,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</text>
+        <text encoding="base64">XDxlbWl0X2R1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGFydF9yZWxhdGl2ZSc6CiAgICAgICAgICAgICAgICAgICAgeyd2YWx1ZSc6IDIsCiAgICAgICAgICAgICAgICAgICAgICd1bml0JzogJ2hvdXJzJ30sCg==</text>
@@ -439,9 +417,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</last-search>
+      <last-search encoding="base64">XDxlbWl0X2R1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxlbWl0X2R1cmF0aW9uXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -449,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
         <entry encoding="base64">XDxnZXRfY2hlY2tcPg==</entry>
         <entry>exclude</entry>
         <entry encoding="base64">XDxfZXhjbHVkZV9kaXNrXD4=</entry>
@@ -469,6 +446,7 @@
         <entry encoding="base64">XDxwcmludF9xdWV1ZV9zdGF0c1w+</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvbk1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</entry>
+        <entry encoding="base64">XDxlbWl0X2R1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
