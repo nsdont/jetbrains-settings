@@ -67,12 +67,12 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1526872637556">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527041658611">
         <mark key="'" line="409" column="21" />
-        <mark key="[" line="427" column="38" />
-        <mark key="]" line="427" column="88" />
-        <mark key="^" line="427" column="88" />
-        <mark key="." line="427" column="88" />
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="407" column="71" />
+        <mark key="^" line="407" column="51" />
+        <mark key="." line="407" column="51" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" timestamp="1525832666468">
         <mark key="'" line="39" column="27" />
@@ -380,17 +380,17 @@
       <jump line="30" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb_prod.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cehck</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvd19hcGknOiAne30vc2hvdy9hcGkvd2luZG93LycuZm9ybWF0KEJBU0VfVVJMKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>cehck</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydF90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChtZXRyaWNzW2luZGV4XVswXSAvIDEwMDApCiAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKG1ldHJpY3NbaW5kZXggKyAxXVswXSAvIDEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAnc3lzdGVtLmh0dHAuc2hvd19hcGknOiAne30vc2hvdy9hcGkvd2luZG93LycuZm9ybWF0KEJBU0VfVVJMKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
