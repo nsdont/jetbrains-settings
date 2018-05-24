@@ -22,10 +22,10 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1526886515742">
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1527168885520">
         <mark key="'" line="88" column="23" />
-        <mark key="[" line="150" column="38" />
-        <mark key="]" line="150" column="38" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="32" />
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
@@ -124,6 +124,25 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1527169643520">
+        <mark key="'" line="595" column="28" />
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="." line="563" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1526440114538">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527169912383">
+        <mark key="'" line="344" column="7" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="198" column="19" />
@@ -136,6 +155,12 @@
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" timestamp="1525834757013">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1525931791349">
         <mark key="'" line="113" column="17" />
@@ -216,9 +241,11 @@
         <mark key="." line="159" column="51" />
         <mark key="^" line="159" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526440253466">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525765371503">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="82" column="11" />
+        <mark key="." line="13" column="54" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1526268687193">
         <mark key="'" line="122" column="0" />
@@ -252,6 +279,12 @@
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
         <mark key="'" line="37" column="25" />
       </file>
+      <file name="$USER_HOME$/source/uyun/monitor/requirements.txt" timestamp="1527169883145">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1526622988055">
         <mark key="'" line="556" column="10" />
       </file>
@@ -264,54 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="73" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="407" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="408" column="21" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="683" column="45" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="131" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="368" column="29" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="688" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="693" column="72" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="711" column="75" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="707" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="703" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="295" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="406" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="298" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/clean_and_import_sql.py" />
-      <jump line="791" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="486" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/source/uyun/dispatcher/module.yaml" />
-      <jump line="239" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="553" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="564" column="48" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="730" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="732" column="54" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="739" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="740" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="754" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="801" column="48" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="807" column="85" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="832" column="89" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="833" column="75" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="834" column="53" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="835" column="46" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="563" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="567" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="580" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="585" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="600" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="603" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="615" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="629" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="643" column="44" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="657" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="644" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="312" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="261" column="33" filename="$USER_HOME$/source/uyun/monitor/checks/__init__.py" />
-      <jump line="270" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/__init__.py" />
-      <jump line="363" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/__init__.py" />
       <jump line="45" column="4" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="556" column="10" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="208" column="43" filename="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" />
@@ -340,7 +325,6 @@
       <jump line="2" column="30" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="4" column="11" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="7" column="7" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="33" column="36" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="47" column="0" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="48" column="6" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
       <jump line="120" column="16" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
@@ -364,75 +348,111 @@
       <jump line="467" column="34" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="459" column="33" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="41" column="6" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="120" column="68" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="142" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="333" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="3" column="22" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="344" column="40" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="56" column="25" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="301" column="34" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="2" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="6" column="11" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="8" column="7" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="299" column="27" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="308" column="71" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="286" column="57" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="310" column="25" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="311" column="26" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="316" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="317" column="30" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="16" column="32" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="17" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="68" column="19" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="98" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="122" column="25" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="173" column="12" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="48" column="6" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="346" column="54" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="278" column="34" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="273" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="106" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="130" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="258" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="349" column="8" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="73" column="19" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="161" column="51" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="162" column="27" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="201" column="18" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="206" column="14" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="259" column="14" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="267" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="341" column="7" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="14" column="11" filename="$USER_HOME$/source/uyun/monitor/requirements.txt" />
+      <jump line="21" column="0" filename="$USER_HOME$/source/uyun/monitor/requirements.txt" />
+      <jump line="33" column="26" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="598" column="33" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="599" column="17" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="595" column="28" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/source/uyun/monitor/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGFydF9hYnNvbHV0ZSc6CiAgICAgICAgICAgICAgICBzdGFydF9hYnNvbHV0ZSwKICAgICAgICAgICAgICAgICdlbmRfYWJzb2x1dGUnOgogICAgICAgICAgICAgICAgZW5kX2Fic29sdXRlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZ2VudFBheWxvYWRcPg==</text>
+        <text>tor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGFydF9yZWxhdGl2ZSc6CiAgICAgICAgICAgICAgICAgICAgeyd2YWx1ZSc6IDIsCiAgICAgICAgICAgICAgICAgICAgICd1bml0JzogJ2hvdXJzJ30sCg==</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLnF1ZXVlcyBpbXBvcnQgUXVldWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGFydF9hYnNvbHV0ZSc6CiAgICAgICAgICAgICAgICBzdGFydF9hYnNvbHV0ZSwKICAgICAgICAgICAgICAgICdlbmRfYWJzb2x1dGUnOgogICAgICAgICAgICAgICAgZW5kX2Fic29sdXRlLAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1t6anddIHN0YXJ0IGZsdXNoLi4uLicpCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhcnRfYWJzb2x1dGUgPSB0b2RheV90aW1lc3RhbXAgKiAxMDAwIC0gMTE1MjAwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cud2FybignJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGthaXJvc2RiX2lwID0gc3lzLmFyZ3ZbMV0K</text>
+        <text encoding="base64">ICAgICAgICBzeXMuZXhpdChtYWluKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygnW3pqd10gcGF5bG9hZCB7fScuZm9ybWF0KHBvc3RfZGF0YSkpCiAgICAgICAgbG9nLmluZm8oJ1t6anddIHJlc3BvbnNlIHt9Jy5mb3JtYXQocmVzcG9uc2UuY29kZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpb2xvb3AgPSB0b3JuYWRvLklPCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGFydF9hYnNvbHV0ZSc6CiAgICAgICAgICAgICAgICBzdGFydF9hYnNvbHV0ZSwKICAgICAgICAgICAgICAgICdlbmRfYWJzb2x1dGUnOgogICAgICAgICAgICAgICAgZW5kX2Fic29sdXRlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ1t6anddIHN0YXJ0IGZsdXNoLi4uLicpCg==</text>
+        <text encoding="base64">c3RhcnRfYWJzb2x1dGUgPSB0b2RheV90aW1lc3RhbXAgKiAxMDAwIC0gMTE1MjAwMDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZ2VudFBheWxvYWRcPg==</last-search>
+      <last-search>tor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZ2VudFBheWxvYWRcPg==</last-pattern>
+      <last-pattern>tor</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exclude</entry>
-        <entry encoding="base64">XDxfZXhjbHVkZV9kaXNrXD4=</entry>
-        <entry>def check</entry>
-        <entry>cpu</entry>
-        <entry>request</entry>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry>logging</entry>
-        <entry>Skip</entry>
-        <entry>flushes done</entry>
-        <entry>flushes</entry>
-        <entry encoding="base64">XDxNZXRyaWNUcmFuc2FjdGlvblw+</entry>
-        <entry encoding="base64">XDxfcG9zdEFnZW50SW5mb1RvU2VydmVyXD4=</entry>
         <entry encoding="base64">XDxiYXNlX2h0dHBcPg==</entry>
         <entry encoding="base64">XDxmbHVzaF9uZXh0XD4=</entry>
         <entry encoding="base64">XDxwcmludF9xdWV1ZV9zdGF0c1w+</entry>
@@ -440,6 +460,19 @@
         <entry encoding="base64">XDxzdGFydF9hYnNvbHV0ZVw+</entry>
         <entry encoding="base64">XDxlbWl0X2R1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxBZ2VudFBheWxvYWRcPg==</entry>
+        <entry>io</entry>
+        <entry>ioloop</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry>log</entry>
+        <entry>run</entry>
+        <entry>Collect</entry>
+        <entry encoding="base64">XDxBZ2VudFw+</entry>
+        <entry>start</entry>
+        <entry>start(</entry>
+        <entry>tornado</entry>
+        <entry>io_loop</entry>
+        <entry encoding="base64">XDxHcmFwaGl0ZVNlcnZlclw+</entry>
+        <entry>tor</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
