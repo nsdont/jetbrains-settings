@@ -124,13 +124,6 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1526890156342">
-        <mark key="'" line="571" column="17" />
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="505" column="0" />
-        <mark key="." line="505" column="0" />
-        <mark key="^" line="505" column="51" />
-      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="198" column="19" />
@@ -155,7 +148,7 @@
         <mark key="^" line="121" column="35" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527073001304">
-        <mark key="'" line="459" column="33" />
+        <mark key="'" line="460" column="33" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
