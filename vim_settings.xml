@@ -79,10 +79,10 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527129058516">
-        <mark key="'" line="409" column="21" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="71" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527236035380">
+        <mark key="'" line="81" column="8" />
+        <mark key="[" line="130" column="19" />
+        <mark key="]" line="130" column="23" />
         <mark key="^" line="407" column="51" />
         <mark key="." line="407" column="51" />
       </file>
@@ -141,11 +141,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527224168525">
-        <mark key="'" line="352" column="26" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527234512492">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="186" column="16" />
+        <mark key="]" line="186" column="21" />
+        <mark key="." line="186" column="21" />
+        <mark key="^" line="186" column="21" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
@@ -154,8 +155,12 @@
         <mark key="^" line="199" column="34" />
         <mark key="." line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1526889085949">
-        <mark key="'" line="71" column="11" />
+      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1527234804204">
+        <mark key="'" line="41" column="19" />
+        <mark key="[" line="116" column="29" />
+        <mark key="]" line="116" column="29" />
+        <mark key="." line="116" column="29" />
+        <mark key="^" line="116" column="29" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
@@ -176,12 +181,12 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527217933002">
-        <mark key="'" line="98" column="8" />
-        <mark key="[" line="428" column="39" />
-        <mark key="]" line="429" column="47" />
-        <mark key="." line="429" column="47" />
-        <mark key="^" line="429" column="47" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527234391196">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="119" column="16" />
+        <mark key="]" line="119" column="11" />
+        <mark key="." line="119" column="11" />
+        <mark key="^" line="119" column="11" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
@@ -202,6 +207,12 @@
         <mark key="]" line="82" column="35" />
         <mark key="^" line="82" column="35" />
         <mark key="." line="82" column="35" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_filter.py" timestamp="1527236297880">
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="40" column="50" />
+        <mark key="." line="40" column="50" />
+        <mark key="^" line="40" column="50" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/manager.ts" timestamp="1523980788186">
         <mark key="'" line="158" column="2" />
@@ -244,6 +255,19 @@
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1527234482800">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" timestamp="1527237651800">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="35" column="79" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/node_modules/@types/node-fetch/index.d.ts" timestamp="1523983894059">
         <mark key="'" line="109" column="60" />
@@ -322,12 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="6" column="11" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="8" column="7" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="299" column="27" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="308" column="71" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="310" column="25" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="311" column="26" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="316" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="317" column="30" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -381,10 +399,6 @@
       <jump line="406" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="336" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="210" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="240" column="28" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="214" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="213" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="151" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="126" column="13" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="70" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="69" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -422,55 +436,65 @@
       <jump line="522" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="98" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="39" column="0" filename="$USER_HOME$/source/uyun/monitor/datamonitor_template" />
+      <jump line="240" column="28" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="214" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="213" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="151" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="186" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="26" column="20" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="86" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
+      <jump line="40" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
+      <jump line="81" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="30" column="19" filename="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZ2VuLnNsZWVwKDMwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>%.1f</text>
+        <text>end_time</text>
       </register>
       <register name="/" type="4">
-        <text>proxy</text>
+        <text>mi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nLmluZm8oIkVtaXQgdGltZSAocykgaXMgaGlnaDogJS4xZiwgbWV0cmljcyBjb3VudDogJWQsIGV2ZW50cyBjb3VudDogJWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0X3RpbWUsIGxlbihwYXlsb2FkWydtZXRyaWNzJ10pLCBsZW4ocGF5bG9hZFsnZXZlbnRzJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShpWydkYXRlJ10sICclWS0lbS0lZCAlSDolTTolUycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgZ2VuLnNsZWVwKDMwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWl0X3RpbWUnOiBzZWxmLmVtaXRfZHVyYXRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIENvbGxlY3RvclN0YXR1cyhbXSwgZW1pdF9zdGF0dXNlcywgY29sbGVjdG9yLmhvc3RuYW1lX21ldGFkYXRhX2NhY2hlKS5wZXJzaXN0KCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBsb2cuZXhjZXB0aW9uKCJFcnJvciBwZXJzaXN0aW5nIGNvbGxlY3RvciBlbWl0IHN0YXR1cyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRfdGltZSA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdG9yU3RhdHVzKGNoZWNrX3N0YXR1c2VzLCBbXSwgc2VsZi5ob3N0bmFtZV9tZXRhZGF0YV9jYWNoZSkucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShpWydkYXRlJ10sICclWS0lbS0lZCAlSDolTTolUycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdG9yU3RhdHVzKGNoZWNrX3N0YXR1c2VzLCBbXSwgc2VsZi5ob3N0bmFtZV9tZXRhZGF0YV9jYWNoZSkucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbWl0dGVyX3N0YXR1c2VzID0gcGF5bG9hZC5lbWl0KGxvZywgc2VsZi5hZ2VudENvbmZpZywgc2VsZi5lbWl0dGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY29udGludWVfcnVubmluZykKICAgICAgICBzZWxmLmVtaXRfZHVyYXRpb24gPSB0aW1lci5zdGVwKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygnW2ZvcndhcmRfbWV0cmljXSBFbWl0IHJ1biAje307IEVtaXQgdGltZToge30nLmZvcm1hdChtZXRyaWNfaW5kZXgsIGVtaXRfZHVyYXRpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRfdGltZSA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbWV0cmljX2luZGV4ID09IEZMVVNIX0xPR0dJTkdfSU5JVElBTDoKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJGaXJzdCBmbHVzaGVzIGRvbmUsIG5leHQgZmx1c2hlcyB3aWxsIGJlIGxvZ2dlZCBldmVyeSAlcyBmbHVzaGVzLiIKICAgICAgICAgICAgICAgICAgICAlIEZMVVNIX0xPR0dJTkdfUEVSSU9EKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>proxy</last-search>
+      <last-search>mi</last-search>
       <last-offset />
-      <last-pattern>proxy</last-pattern>
+      <last-pattern>mi</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -478,10 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
-        <entry>Collect</entry>
-        <entry>start(</entry>
-        <entry>tornado</entry>
         <entry>io_loop</entry>
         <entry encoding="base64">XDxHcmFwaGl0ZVNlcnZlclw+</entry>
         <entry>tor</entry>
@@ -494,10 +514,14 @@
         <entry encoding="base64">XDxpc19teV9wcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxjb250aW51ZV9ydW5uaW5nXD4=</entry>
         <entry encoding="base64">XDxGTFVTSF9MT0dHSU5HX1BFUklPRFw+</entry>
-        <entry encoding="base64">XDxjb2xsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxNQVhfRU1JVF9USU1FXD4=</entry>
         <entry>emit</entry>
         <entry>proxy</entry>
+        <entry encoding="base64">XDxjb2xsZWN0b3JcPg==</entry>
+        <entry encoding="base64">XDxhc3luY19odHRwX2VtaXR0ZXJcPg==</entry>
+        <entry encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</entry>
+        <entry encoding="base64">XDxodHRwX2NsaWVudFw+</entry>
+        <entry>mi</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
