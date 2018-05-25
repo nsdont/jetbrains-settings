@@ -277,6 +277,9 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/source/uyun/monitor/datamonitor_template" timestamp="1527218814218">
+        <mark key="'" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
       </file>
@@ -310,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="2" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="6" column="11" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="8" column="7" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -410,6 +412,7 @@
       <jump line="521" column="16" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="522" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="98" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/source/uyun/monitor/datamonitor_template" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -419,7 +422,7 @@
         <text>%.1f</text>
       </register>
       <register name="/" type="4">
-        <text>emit</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nLmluZm8oIkVtaXQgdGltZSAocykgaXMgaGlnaDogJS4xZiwgbWV0cmljcyBjb3VudDogJWQsIGV2ZW50cyBjb3VudDogJWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0X3RpbWUsIGxlbihwYXlsb2FkWydtZXRyaWNzJ10pLCBsZW4ocGF5bG9hZFsnZXZlbnRzJ10pKQo=</text>
@@ -456,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>emit</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>emit</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>run</entry>
         <entry>Collect</entry>
         <entry>start(</entry>
@@ -486,6 +488,7 @@
         <entry encoding="base64">XDxjb2xsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxNQVhfRU1JVF9USU1FXD4=</entry>
         <entry>emit</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
