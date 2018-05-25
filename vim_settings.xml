@@ -79,10 +79,10 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527236035380">
-        <mark key="'" line="81" column="8" />
-        <mark key="[" line="130" column="19" />
-        <mark key="]" line="130" column="23" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527240435020">
+        <mark key="'" line="436" column="36" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="161" column="70" />
         <mark key="^" line="407" column="51" />
         <mark key="." line="407" column="51" />
       </file>
@@ -195,12 +195,6 @@
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="/Python Console" timestamp="1526872621732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1526627852761">
         <mark key="'" line="88" column="19" />
         <mark key="[" line="82" column="34" />
@@ -262,7 +256,7 @@
         <mark key="." line="43" column="9" />
         <mark key="^" line="43" column="9" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" timestamp="1527239628621">
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" timestamp="1527240253455">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -346,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="26" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="316" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="317" column="30" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="16" column="32" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -446,19 +439,20 @@
       <jump line="40" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="81" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="30" column="19" filename="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" />
+      <jump line="436" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIGZyb20gaW5mbHV4ZGIgaW1wb3J0IEluZmx1eERCQ2xpZW50CiAgICBjbGllbnQgPSBJbmZsdXhEQkNsaWVudCgnMTAuMS4xMDAuMTMnLCA4MDg2LCAncm9vdCcsICdyb290JywgJ2FudCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>end_time</text>
       </register>
       <register name="/" type="4">
-        <text>mi</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShpWydkYXRlJ10sICclWS0lbS0lZCAlSDolTTolUycpCg==</text>
+        <text encoding="base64">ICAgIGZyb20gaW5mbHV4ZGIgaW1wb3J0IEluZmx1eERCQ2xpZW50CiAgICBjbGllbnQgPSBJbmZsdXhEQkNsaWVudCgnMTAuMS4xMDAuMTMnLCA4MDg2LCAncm9vdCcsICdyb290JywgJ2FudCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
@@ -492,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mi</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>mi</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>io_loop</entry>
         <entry encoding="base64">XDxHcmFwaGl0ZVNlcnZlclw+</entry>
         <entry>tor</entry>
         <entry encoding="base64">XDxjaGVja19xXD4=</entry>
@@ -522,6 +515,7 @@
         <entry encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxodHRwX2NsaWVudFw+</entry>
         <entry>mi</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
