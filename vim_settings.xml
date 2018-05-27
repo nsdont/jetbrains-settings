@@ -86,6 +86,9 @@
         <mark key="^" line="407" column="51" />
         <mark key="." line="407" column="51" />
       </file>
+      <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527435515792">
+        <mark key="'" line="424" column="70" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/IPSelect.vue" timestamp="1525832666468">
         <mark key="'" line="39" column="27" />
         <mark key="[" line="59" column="29" />
@@ -346,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="25" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="173" column="12" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="48" column="6" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="278" column="34" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="273" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -446,6 +447,8 @@
       <jump line="28" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="27" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="8" column="0" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
+      <jump line="428" column="8" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
+      <jump line="424" column="70" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,7 +458,7 @@
         <text>10</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUSU1FT1VUXD4=</text>
+        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZyb20gaW5mbHV4ZGIgaW1wb3J0IEluZmx1eERCQ2xpZW50CiAgICBjbGllbnQgPSBJbmZsdXhEQkNsaWVudCgnMTAuMS4xMDAuMTMnLCA4MDg2LCAncm9vdCcsICdyb290JywgJ2FudCcpCg==</text>
@@ -492,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUSU1FT1VUXD4=</last-search>
+      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUSU1FT1VUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -502,8 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tor</entry>
-        <entry encoding="base64">XDxjaGVja19xXD4=</entry>
         <entry encoding="base64">XDxBZ2VudFBheWxvYWRcPg==</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxBZ2VudFw+</entry>
@@ -522,6 +523,8 @@
         <entry>mi</entry>
         <entry>write</entry>
         <entry encoding="base64">XDxUSU1FT1VUXD4=</entry>
+        <entry encoding="base64">XDxkYWVtb25cPg==</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
