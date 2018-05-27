@@ -195,6 +195,9 @@
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
       </file>
+      <file name="/Python Console" timestamp="1527404286269">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1526627852761">
         <mark key="'" line="88" column="19" />
         <mark key="[" line="82" column="34" />
@@ -250,11 +253,11 @@
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1527234482800">
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="9" />
-        <mark key="." line="43" column="9" />
-        <mark key="^" line="43" column="9" />
+      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1527404518238">
+        <mark key="[" line="58" column="29" />
+        <mark key="]" line="58" column="34" />
+        <mark key="." line="58" column="34" />
+        <mark key="^" line="58" column="34" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" timestamp="1527240253455">
         <mark key="'" line="32" column="19" />
@@ -281,6 +284,9 @@
         <mark key="[" line="82" column="9" />
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527404313236">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1526440095680">
         <mark key="[" line="25" column="0" />
@@ -442,11 +448,11 @@
       <jump line="436" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gaW5mbHV4ZGIgaW1wb3J0IEluZmx1eERCQ2xpZW50CiAgICBjbGllbnQgPSBJbmZsdXhEQkNsaWVudCgnMTAuMS4xMDAuMTMnLCA4MDg2LCAncm9vdCcsICdyb290JywgJ2FudCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>end_time</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>write</text>
