@@ -79,12 +79,12 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527240435020">
-        <mark key="'" line="436" column="36" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="161" column="70" />
-        <mark key="^" line="407" column="51" />
-        <mark key="." line="407" column="51" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527504798039">
+        <mark key="'" line="458" column="12" />
+        <mark key="[" line="166" column="26" />
+        <mark key="]" line="173" column="5" />
+        <mark key="^" line="439" column="54" />
+        <mark key="." line="439" column="54" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527435515792">
         <mark key="'" line="424" column="70" />
@@ -198,7 +198,7 @@
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="/Python Console" timestamp="1527404286269">
+      <file name="/Python Console" timestamp="1527503488504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1526627852761">
@@ -288,6 +288,11 @@
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527504885603">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1527404313236">
         <mark key="[" line="0" column="0" />
       </file>
@@ -349,11 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="6" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="278" column="34" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="273" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="106" column="29" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="130" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="258" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="349" column="8" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="73" column="19" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -449,55 +449,67 @@
       <jump line="8" column="0" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="428" column="8" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="424" column="70" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
+      <jump line="396" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="734" column="16" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
+      <jump line="434" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="458" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
+        <text encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyb20gaW5mbHV4ZGIgaW1wb3J0IEluZmx1eERCQ2xpZW50CiAgICBjbGllbnQgPSBJbmZsdXhEQkNsaWVudCgnMTAuMS4xMDAuMTMnLCA4MDg2LCAncm9vdCcsICdyb290JywgJ2FudCcpCg==</text>
+      <register name="0" type="4">
+        <text>.append({
+        'measurement': metric_name,
+        'tags': tags,
+        'time': now_time,
+        'fields': {
+            'value': value
+        }
+    })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLXpqdy17fScuZm9ybWF0KGNvbmZpZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9kYXRhID0gJycK</text>
+        <text encoding="base64">cHJpbnQoJy0tLS0nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBoZWFkZXJzLmdldCgnQ29udGVudC1FbmNvZGluZycpID09ICdkZWZsYXRlJzoK</text>
+        <text encoding="base64">bWFueV9tZXRyaWNzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludF9kYXRhID0gZGF0YQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmRfdGltZSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBpWyd2YWwnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kX3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShpWydkYXRlJ10sICclWS0lbS0lZCAlSDolTTolUycpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYW55X21ldHJpY3MuYXBwZW5kKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
+      <last-search encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -505,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZ2VudFBheWxvYWRcPg==</entry>
-        <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxBZ2VudFw+</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxhdXRvcmVzdGFydFw+</entry>
@@ -521,10 +531,12 @@
         <entry encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxodHRwX2NsaWVudFw+</entry>
         <entry>mi</entry>
-        <entry>write</entry>
         <entry encoding="base64">XDxUSU1FT1VUXD4=</entry>
         <entry encoding="base64">XDxkYWVtb25cPg==</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
+        <entry>influxdb</entry>
+        <entry>write</entry>
+        <entry encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
