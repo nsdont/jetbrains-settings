@@ -79,10 +79,10 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527504798039">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527519827710">
         <mark key="'" line="458" column="12" />
-        <mark key="[" line="166" column="26" />
-        <mark key="]" line="173" column="5" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="172" column="8" />
         <mark key="^" line="439" column="54" />
         <mark key="." line="439" column="54" />
       </file>
@@ -457,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbWVhc3VyZW1lbnQnOiBtZXRyaWNfbmFtZSwKICAgICAgICAndGFncyc6IHRhZ3MsCiAgICAgICAgJ3RpbWUnOiBub3dfdGltZSwKICAgICAgICAnZmllbGRzJzogewogICAgICAgICAgICAndmFsdWUnOiB2YWx1ZQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>value</text>
@@ -465,15 +465,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>.append({
-        'measurement': metric_name,
-        'tags': tags,
-        'time': now_time,
-        'fields': {
-            'value': value
-        }
-    })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnbWVhc3VyZW1lbnQnOiBtZXRyaWNfbmFtZSwKICAgICAgICAndGFncyc6IHRhZ3MsCiAgICAgICAgJ3RpbWUnOiBub3dfdGltZSwKICAgICAgICAnZmllbGRzJzogewogICAgICAgICAgICAndmFsdWUnOiB2YWx1ZQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
