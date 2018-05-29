@@ -79,9 +79,10 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527575164183">
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="439" column="58" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527580103301">
+        <mark key="'" line="433" column="40" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="43" />
         <mark key="^" line="128" column="32" />
         <mark key="." line="128" column="32" />
       </file>
@@ -250,6 +251,12 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="88" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" timestamp="1527580118903">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1527223757688">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="22" />
@@ -287,10 +294,10 @@
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527575356396">
+      <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527579466790">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="47" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1527404313236">
@@ -333,6 +340,10 @@
       <file name="$USER_HOME$/source/uyun/dispatcher/src/config.ts" timestamp="1523979271274">
         <mark key="'" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_filter_influx.py" timestamp="1527579008668">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="37" column="19" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
         <mark key="'" line="37" column="25" />
       </file>
@@ -354,9 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="8" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="73" column="19" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="161" column="51" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="162" column="27" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="201" column="18" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="206" column="14" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -454,64 +462,65 @@
       <jump line="434" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="458" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="8" column="0" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" />
+      <jump line="373" column="50" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="433" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
+      <register name="&quot;" type="4">
+        <text>ate</text>
       </register>
       <register name="-" type="4">
-        <text>10.1.100.13</text>
+        <text>ate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</text>
+        <text>time.time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHMgPSByZXF1ZXN0cy5TZXNzaW9uKCkKICAgICMgQkFTRV9VUkwgPSAnaHR0cDovL21hc3Rlci5jbWEuY24nCiAgICBCQVNFX1VSTCA9ICdodHRwOi8vMTAuMS42MS4xMDEnCiAgICB1cmxzID0gewogICAgICAgICdxeGpjb25maWcnOiAne30vcXhqY29uZmlnL2luZGV4Lmh0bWwjL3Byb2Nlc3MnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ2ludGVyZmFjZSc6ICd7fS9wbGF0Zm9ybUludGVyZmFjZS9pbmRleC5odG1sIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ21pc3RzLTEnOiAne30vbWlzdHMvaW5kZXguaHRtbD90eXBlPTEnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ21pc3RzLTInOiAne30vbWlzdHMvaW5kZXguaHRtbD90eXBlPTInLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ21pc3RzLTQnOiAne30vbWlzdHMvaW5kZXguaHRtbD90eXBlPTQnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3Nob3cnOiAne30vc2hvdy8jLycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnc2hvd19hcGknOiAne30vc2hvdy9hcGkvd2luZG93LycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnYWxlcnQnOiAne30vYWxlcnQvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ2FsZXJ0X2FsbF92aWV3JzogJ3t9L2FsZXJ0L2FwaS92Mi90aWxlVmlldy9nZXRBbGxWaWV3Jy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdhbnQnOiAne30vYW50LyMvJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdtb25pdG9yJzogJ3t9L21vbml0b3IvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ2Rpc2NvdmVyeSc6ICd7fS9kaXNjb3ZlcnkvIy8nLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3RlbmFudF91c2VyJzogJ3t9L3RlbmFudC9hcGkvdjEvdXNlci9jcm9zc19kb21haW4vZ2V0X3VzZXInLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ3RlbmFudF9wcm9kdWN0JzogJ3t9L3RlbmFudC9hcGkvdjEvcHJvZHVjdC9saXN0QWxsJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdhbnRfZGFvJzogJ3t9L2FudC9tYW5hZ2VyL2Rhby9hcGkvdjEvaGVhbHRoLWNoZWNrJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdhbnRfZ2F0ZXdheSc6ICd7fS9hbnQvbWFuYWdlci9hcGkvdjEvaGVhbHRoLWNoZWNrJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdhbnRfbHNzJzogJ3t9L2FudC9tYW5hZ2VyL2xzcy9hcGkvdjEvaGVhbHRoLWNoZWNrJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdhbnRfZGlzcGF0Y2hlcic6ICd7fS9hbnQvZGlzcGF0Y2hlci9zdGF0dXMvY2hlY2snLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ21vbml0b3JfZ2F0ZXdheV9hZ2VudCc6ICd7fS9tb25pdG9yL2FwaS92Mi9nYXRld2F5L2RkLWFnZW50L2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnbW9uaXRvcl9nYXRld2F5X29wZW5hcGknOiAne30vbW9uaXRvci9vcGVuYXBpL3YyL2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnbW9uaXRvcl9nYXRld2F5X3NlcnZpY2VhcGknOiAne30vbW9uaXRvci9zZXJ2aWNlYXBpL3YyL2hlYWx0aGNoZWNrL3N0YXR1cycuZm9ybWF0KEJBU0VfVVJMKSwKICAgICAgICAnbW9uaXRvcl9nYXRld2F5X2FnZW50bGVzcyc6ICd7fS9tb25pdG9yL2FwaS92Mi9nYXRld2F5L2FnZW50bGVzcy9oZWFsdGhjaGVjay9zdGF0dXMnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ21vbml0b3Jfd2ViX2FwaSc6ICd7fS9tb25pdG9yL2FwaS92Mi9oZWFsdGhjaGVjay9zdGF0dXMnLmZvcm1hdChCQVNFX1VSTCksCiAgICAgICAgJ2Rpc2NvdmVyeV9zZXJ2ZXInOiAne30vZGlzY292ZXJ5L2FwaS9oZWFsdGgvc3RhdHVzJy5mb3JtYXQoQkFTRV9VUkwpLAogICAgICAgICdzaG93X3NvdXJjZV8xJzogJ2h0dHA6Ly8xMC40MC4xMzIuMjE6MzAwMDEvYXBpL3YxL3V5dW4vc2hvdy9uZXRTZWN1cml0eS9uZXRTZWN1cml0eUNvdW50JywKICAgICAgICAnc2hvd19zb3VyY2VfMic6ICdodHRwOi8vMTAuNDAuMTMyLjIxOjMwMDAxL2FwaS92MS91eXVuL3Nob3cvZ2V0UG9ydExpc3QnLAogICAgICAgICdzaG93X3NvdXJjZV8zJzogJ2h0dHA6Ly8xMC40MC4xMzIuMjE6MzAwMDEvYXBpL3YxL3V5dW4vc2hvdy9namovdnBuMScsCiAgICB9CiAgICBzLnBvc3QoJ3t9L3RlbmFudC9hcGkvdjEvdXNlci9sb2dpbicuZm9ybWF0KEJBU0VfVVJMKSwganNvbj17InBhc3N3ZCI6ICJBZG1pbkAxMjMiLCAiZW1haWwiOiAiYWRtaW5AdXl1bi5jbiJ9KQogICAgZm9yIGtleSBpbiB1cmxzOgogICAgICAgIHRhZ3MgPSB7J2hvc3QnOiBJUCwgJ3N5c3RlbSc6IGtleX0KICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlc3BvbnNlID0gcy5nZXQodXJsc1trZXldLCB0aW1lb3V0PTUpCiAgICAgICAgICAgIGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlICE9IDIwMDoKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKHUnW2h0dHBdIHJlcXVlc3QgdXJsKHt9KSBmYWlsZWQ6IHt9LXt9Jy5mb3JtYXQodXJsc1trZXldLCByZXNwb25zZS5zdGF0dXNfY29kZSwgcmVzcG9uc2UuY29udGVudCkpCiAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLnVzYWJpbGl0eScsIHRhZ3MsIDEgaWYgMjAwIDw9IHJlc3BvbnNlLnN0YXR1c19jb2RlIDwgMzAwIGVsc2UgMCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoJ1todHRwXSByZXF1ZXN0IHVybCh7fSkgZmFpbGVkLicuZm9ybWF0KHVybHNba2V5XSksIGV4Y19pbmZvPTEpCiAgICAgICAgICAgIGFwcGVuZF9tZXRyaWNfaXRlbSgnc3lzdGVtLnVzYWJpbGl0eScsIHRhZ3MsIDApCg==</text>
+        <text encoding="base64">bm93X3RpbWUgPSBpbnQodGltZS50aW1lKCkgKiAxMDAwKSAqIDEwMDAwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYW55X21ldHJpY3MpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlbJ25hbWUnXSwgbmFtZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBmOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lID0gaVsnbmFtZSddW2lbJ25hbWUnXS5yaW5kZXgoJy4nKSArIDE6XQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBqIGluIGRhdGFbJ21ldHJpY3MnXToKICAgICAgICAgICAgICAgICAgICBpZiBmaWx0ZXJfaHR0cF9tZXRyaWMoalswXSk6CiAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dF9kYXRhWydtZXRyaWNzJ10uYXBwZW5kKGopCiAgICAgICAgICAgICAgICBvdXRwdXRfZGF0YV9saXN0LmFwcGVuZChvdXRwdXRfZGF0YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFueV9tZXRyaWNzID0gW10K</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9kYXRhID0gewogICAgICAgICAgICAgICAgICAgICdkYXRlJzogZGF0YVsnZGF0ZSddLAogICAgICAgICAgICAgICAgICAgICdpcCc6IGRhdGFbJ2lwJ10sCiAgICAgICAgICAgICAgICAgICAgJ21ldHJpY3MnOiBbXQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</last-search>
+      <last-search>time.time</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</last-pattern>
+      <last-pattern>time.time</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZ2VudFw+</entry>
-        <entry>start</entry>
         <entry encoding="base64">XDxhdXRvcmVzdGFydFw+</entry>
         <entry encoding="base64">XDxpc19teV9wcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxjb250aW51ZV9ydW5uaW5nXD4=</entry>
@@ -530,6 +539,8 @@
         <entry>influxdb</entry>
         <entry>write</entry>
         <entry encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</entry>
+        <entry>time</entry>
+        <entry>time.time</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
