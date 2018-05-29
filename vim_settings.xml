@@ -251,11 +251,11 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="88" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" timestamp="1527582588448">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="41" column="71" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" timestamp="1527583337697">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1527223757688">
         <mark key="[" line="29" column="21" />
@@ -467,11 +467,11 @@
       <jump line="433" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zm9yIGlwIGluIFsnMTAuNDAuMTMyLjIyJ106Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$USER_HOME$/Downloads/qxj</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>$USER_HOME$/Downloads/qxj</text>
       </register>
       <register name="/" type="4">
         <text>time.time</text>
