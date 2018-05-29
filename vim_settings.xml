@@ -251,11 +251,11 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="88" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" timestamp="1527580118903">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="39" />
-        <mark key="." line="30" column="39" />
-        <mark key="^" line="30" column="39" />
+      <file name="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" timestamp="1527582588448">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="41" column="71" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/config.py" timestamp="1527223757688">
         <mark key="[" line="29" column="21" />
@@ -467,44 +467,44 @@
       <jump line="433" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9yIGlwIGluIFsnMTAuNDAuMTMyLjIyJ106Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ate</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>time.time</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bm93X3RpbWUgPSBpbnQodGltZS50aW1lKCkgKiAxMDAwKSAqIDEwMDAwMDAK</text>
+      <register name="0" type="4">
+        <text>many_metrics[i * 100:((i + 1) * 100)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGlwIGluIFsnMTAuNDAuMTMyLjIyJ106Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBmOgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LndyaXRlX3BvaW50cyhtYW55X21ldHJpY3MpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNsaWVudC53cml0ZV9wb2ludHMobWFueV9tZXRyaWNzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lID0gaVsnbmFtZSddW2lbJ25hbWUnXS5yaW5kZXgoJy4nKSArIDE6XQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYW55X21ldHJpY3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBqIGluIGRhdGFbJ21ldHJpY3MnXToKICAgICAgICAgICAgICAgICAgICBpZiBmaWx0ZXJfaHR0cF9tZXRyaWMoalswXSk6CiAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dF9kYXRhWydtZXRyaWNzJ10uYXBwZW5kKGopCiAgICAgICAgICAgICAgICBvdXRwdXRfZGF0YV9saXN0LmFwcGVuZChvdXRwdXRfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG1hbnlfbWV0cmljcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9kYXRhID0gewogICAgICAgICAgICAgICAgICAgICdkYXRlJzogZGF0YVsnZGF0ZSddLAogICAgICAgICAgICAgICAgICAgICdpcCc6IGRhdGFbJ2lwJ10sCiAgICAgICAgICAgICAgICAgICAgJ21ldHJpY3MnOiBbXQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
