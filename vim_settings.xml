@@ -286,10 +286,12 @@
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527504885603">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527565679052">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1527404313236">
         <mark key="[" line="0" column="0" />
@@ -352,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="349" column="8" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="73" column="19" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="161" column="51" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -452,13 +453,14 @@
       <jump line="0" column="8" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
       <jump line="434" column="33" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="458" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnbWVhc3VyZW1lbnQnOiBtZXRyaWNfbmFtZSwKICAgICAgICAndGFncyc6IHRhZ3MsCiAgICAgICAgJ3RpbWUnOiBub3dfdGltZSwKICAgICAgICAnZmllbGRzJzogewogICAgICAgICAgICAndmFsdWUnOiB2YWx1ZQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50KGlbJ25hbWUnXSwgbmFtZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>10.1.100.13</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</text>
@@ -467,31 +469,31 @@
         <text encoding="base64">ICAgICAgICAnbWVhc3VyZW1lbnQnOiBtZXRyaWNfbmFtZSwKICAgICAgICAndGFncyc6IHRhZ3MsCiAgICAgICAgJ3RpbWUnOiBub3dfdGltZSwKICAgICAgICAnZmllbGRzJzogewogICAgICAgICAgICAndmFsdWUnOiB2YWx1ZQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGlbJ25hbWUnXSwgbmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0nKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFueV9tZXRyaWNzID0gW10K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoJy0tLS0nKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bWFueV9tZXRyaWNzID0gW10K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpWyd2YWwnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYW55X21ldHJpY3MuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpWyd2YWwnXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
