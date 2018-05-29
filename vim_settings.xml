@@ -79,6 +79,11 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527563750584">
+        <mark key="]" line="128" column="32" />
+        <mark key="^" line="128" column="32" />
+        <mark key="." line="128" column="32" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527435515792">
         <mark key="'" line="424" column="70" />
       </file>
