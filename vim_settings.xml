@@ -148,8 +148,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527653123046">
-        <mark key="'" line="240" column="46" />
+      <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527660526490">
+        <mark key="'" line="213" column="16" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -188,8 +188,8 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527234391196">
-        <mark key="'" line="100" column="8" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527660593891">
+        <mark key="'" line="50" column="4" />
         <mark key="[" line="119" column="16" />
         <mark key="]" line="119" column="11" />
         <mark key="." line="119" column="11" />
@@ -373,8 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="6" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="286" column="21" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="117" column="15" filename="$USER_HOME$/source/uyun/monitor/daemon.py" />
       <jump line="221" column="21" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="313" column="11" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -426,8 +424,6 @@
       <jump line="522" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="98" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="39" column="0" filename="$USER_HOME$/source/uyun/monitor/datamonitor_template" />
-      <jump line="214" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="213" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="151" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="186" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="26" column="20" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -469,10 +465,14 @@
       <jump line="165" column="26" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="255" column="0" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="210" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="243" column="76" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="48" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="259" column="12" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="240" column="46" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="243" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="240" column="28" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="214" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="213" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="122" column="61" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,7 +482,7 @@
         <text>metric</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</text>
+        <text encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>metrics_aggregator</text>
@@ -519,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</last-search>
+      <last-search encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -529,10 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwX2NsaWVudFw+</entry>
-        <entry>mi</entry>
-        <entry encoding="base64">XDxUSU1FT1VUXD4=</entry>
-        <entry encoding="base64">XDxkYWVtb25cPg==</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry>influxdb</entry>
         <entry>write</entry>
@@ -549,6 +545,10 @@
         <entry>endpoint</entry>
         <entry>emit</entry>
         <entry encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</entry>
+        <entry encoding="base64">XDxjb2xsZWN0b3JcPg==</entry>
+        <entry>payload</entry>
+        <entry>Payload</entry>
+        <entry encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
