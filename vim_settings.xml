@@ -86,8 +86,8 @@
         <mark key="." line="432" column="28" />
         <mark key="^" line="432" column="28" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527652514024">
-        <mark key="'" line="255" column="0" />
+      <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527661407275">
+        <mark key="'" line="109" column="6" />
         <mark key="[" line="256" column="18" />
         <mark key="]" line="257" column="30" />
         <mark key="^" line="257" column="30" />
@@ -136,8 +136,8 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1527169643520">
-        <mark key="'" line="595" column="28" />
+      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1527662356857">
+        <mark key="'" line="367" column="14" />
         <mark key="[" line="563" column="0" />
         <mark key="]" line="563" column="0" />
         <mark key="." line="563" column="0" />
@@ -162,8 +162,8 @@
         <mark key="^" line="199" column="34" />
         <mark key="." line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1527409114927">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1527661754972">
+        <mark key="'" line="13" column="4" />
         <mark key="[" line="78" column="58" />
         <mark key="]" line="78" column="58" />
         <mark key="." line="78" column="58" />
@@ -266,11 +266,11 @@
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1527408991604">
-        <mark key="[" line="61" column="31" />
-        <mark key="]" line="61" column="33" />
-        <mark key="." line="61" column="33" />
-        <mark key="^" line="61" column="33" />
+      <file name="$USER_HOME$/source/uyun/monitor/emitter.py" timestamp="1527661708539">
+        <mark key="[" line="60" column="68" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+        <mark key="^" line="61" column="37" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" timestamp="1527240253455">
         <mark key="'" line="32" column="19" />
@@ -339,7 +339,7 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1525661689202">
+      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1527661929417">
         <mark key="[" line="12" column="72" />
         <mark key="]" line="12" column="1" />
         <mark key="^" line="12" column="1" />
@@ -373,18 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="15" filename="$USER_HOME$/source/uyun/monitor/daemon.py" />
-      <jump line="221" column="21" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="313" column="11" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="288" column="61" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="253" column="4" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="354" column="14" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="36" column="26" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="455" column="26" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="160" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="106" column="23" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="448" column="45" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="406" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="336" column="24" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="210" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="126" column="13" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -473,6 +461,18 @@
       <jump line="213" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="122" column="61" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="50" column="4" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="109" column="6" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
+      <jump line="164" column="35" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="251" column="12" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="252" column="52" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="253" column="55" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="368" column="18" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="379" column="14" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="380" column="18" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="340" column="14" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="341" column="18" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="367" column="14" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,7 +482,7 @@
         <text>metric</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</text>
+        <text>self.req</text>
       </register>
       <register name="0" type="4">
         <text>metrics_aggregator</text>
@@ -519,21 +519,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</last-search>
+      <last-search>self.req</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</last-pattern>
+      <last-pattern>self.req</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
-        <entry>influxdb</entry>
-        <entry>write</entry>
-        <entry encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</entry>
-        <entry>time</entry>
         <entry>time.time</entry>
         <entry>socket</entry>
         <entry encoding="base64">XDxmb3J3YXJkX3VkcF9zb2NrXD4=</entry>
@@ -549,6 +544,11 @@
         <entry>payload</entry>
         <entry>Payload</entry>
         <entry encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</entry>
+        <entry encoding="base64">XDxSZXBvcnRlclw+</entry>
+        <entry encoding="base64">XDxwcmludF9sb2dcPg==</entry>
+        <entry>gen.sleep</entry>
+        <entry>request</entry>
+        <entry>self.req</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
