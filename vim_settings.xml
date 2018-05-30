@@ -79,12 +79,12 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527580103301">
-        <mark key="'" line="433" column="40" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="43" />
-        <mark key="^" line="128" column="32" />
-        <mark key="." line="128" column="32" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527650095989">
+        <mark key="'" line="443" column="40" />
+        <mark key="[" line="443" column="63" />
+        <mark key="]" line="443" column="78" />
+        <mark key="." line="443" column="78" />
+        <mark key="^" line="443" column="78" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527435515792">
         <mark key="'" line="424" column="70" />
@@ -468,43 +468,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/Downloads/qxj</text>
+        <text>urls[key]</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Downloads/qxj</text>
+        <text>urls[key]</text>
       </register>
       <register name="/" type="4">
         <text>time.time</text>
       </register>
-      <register name="0" type="4">
-        <text>many_metrics[i * 100:((i + 1) * 100)]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcy5nZXQodXJsc1trZXldLCB0aW1lb3V0PTUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9yIGlwIGluIFsnMTAuNDAuMTMyLjIyJ106Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcy5nZXQodXJsc1trZXldLCB0aW1lb3V0PTUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gZ2V0YXR0cihzLCB1cmxzW2tleV1bJ21ldGhvZCddKSh1cmxzW2tleV0sIHRpbWVvdXQ9NSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LndyaXRlX3BvaW50cyhtYW55X21ldHJpY3MpCg==</text>
+        <text encoding="base64">Zm9yIGlwIGluIFsnMTAuNDAuMTMyLjIyJ106Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsaWVudC53cml0ZV9wb2ludHMobWFueV9tZXRyaWNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LndyaXRlX3BvaW50cyhtYW55X21ldHJpY3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYW55X21ldHJpY3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG1hbnlfbWV0cmljcykK</text>
+        <text encoding="base64">ICAgICAgICAjIGNsaWVudC53cml0ZV9wb2ludHMobWFueV9tZXRyaWNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYW55X21ldHJpY3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG1hbnlfbWV0cmljcykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
