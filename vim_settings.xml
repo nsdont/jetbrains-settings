@@ -100,8 +100,8 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" timestamp="1527781653986">
-        <mark key="'" line="102" column="24" />
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" timestamp="1527782747102">
+        <mark key="'" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" timestamp="1523992442493">
         <mark key="'" line="15" column="33" />
@@ -149,6 +149,9 @@
       <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527734690303">
         <mark key="'" line="17" column="85" />
         <mark key="^" line="17" column="98" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" timestamp="1527782824559">
+        <mark key="'" line="191" column="12" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/components/Chart.vue" timestamp="1525835991225">
         <mark key="'" line="8" column="22" />
@@ -367,11 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="28" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="27" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="428" column="8" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="424" column="70" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="396" column="10" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="734" column="16" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
@@ -467,6 +465,11 @@
       <jump line="51" column="26" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
       <jump line="52" column="34" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
       <jump line="102" column="24" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="18" column="40" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="95" column="31" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" />
+      <jump line="57" column="13" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" />
+      <jump line="191" column="12" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -525,9 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</entry>
-        <entry>queue</entry>
-        <entry encoding="base64">XDxhc3luY19odHRwX2VtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxnZW5cPg==</entry>
         <entry encoding="base64">XDx0b3JuYWRvXD4=</entry>
         <entry encoding="base64">XDxpb2xvb3BcPg==</entry>
@@ -544,6 +544,9 @@
         <entry>bank_id</entry>
         <entry encoding="base64">XDxuZnNcPg==</entry>
         <entry>ext</entry>
+        <entry>preupgrade</entry>
+        <entry>life</entry>
+        <entry>pre</entry>
         <entry>nfs</entry>
       </history-search>
       <history-cmd>
