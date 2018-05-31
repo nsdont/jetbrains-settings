@@ -15,7 +15,7 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1524216840859">
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/message.ts" timestamp="1527738091419">
         <mark key="'" line="157" column="62" />
         <mark key="[" line="126" column="38" />
         <mark key="]" line="126" column="56" />
@@ -246,6 +246,13 @@
         <mark key="^" line="76" column="24" />
         <mark key="." line="76" column="24" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" timestamp="1527751588041">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/agent_metrics.py" timestamp="1527217657316">
         <mark key="'" line="99" column="50" />
         <mark key="[" line="104" column="0" />
@@ -293,6 +300,9 @@
         <mark key="[" line="82" column="9" />
         <mark key="]" line="82" column="11" />
         <mark key="." line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/src/controllers/task.ts" timestamp="1527738245128">
+        <mark key="'" line="82" column="7" />
       </file>
       <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527579466790">
         <mark key="'" line="8" column="0" />
@@ -365,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="27" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="201" column="18" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="206" column="14" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="259" column="14" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="267" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -465,19 +473,21 @@
       <jump line="12" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" />
       <jump line="373" column="50" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="433" column="40" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="82" column="7" filename="$USER_HOME$/source/uyun/dispatcher/src/controllers/task.ts" />
+      <jump line="19" column="15" filename="$USER_HOME$/source/uyun/dispatcher/src/schedule/action.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urls[key]</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>urls[key]</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>time.time</text>
+        <text encoding="base64">XDxpbnN0YWxsQWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcy5nZXQodXJsc1trZXldLCB0aW1lb3V0PTUpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgW3V0aWxzL2FjdGlvbl0gaW5zdGFsbCBhY3Rpb24gcmVzdWx0OiAke0pTT04uc3RyaW5naWZ5KHJlc3VsdCl9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcy5nZXQodXJsc1trZXldLCB0aW1lb3V0PTUpCg==</text>
@@ -511,17 +521,16 @@
       </register>
     </registers>
     <search>
-      <last-search>time.time</last-search>
+      <last-search encoding="base64">XDxpbnN0YWxsQWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>time.time</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0YWxsQWN0aW9uXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvcmVzdGFydFw+</entry>
         <entry encoding="base64">XDxpc19teV9wcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxjb250aW51ZV9ydW5uaW5nXD4=</entry>
         <entry encoding="base64">XDxGTFVTSF9MT0dHSU5HX1BFUklPRFw+</entry>
@@ -541,6 +550,7 @@
         <entry encoding="base64">XDx3cml0ZV9zdW1tYXJ5X3RvX2ZpbGVcPg==</entry>
         <entry>time</entry>
         <entry>time.time</entry>
+        <entry encoding="base64">XDxpbnN0YWxsQWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
