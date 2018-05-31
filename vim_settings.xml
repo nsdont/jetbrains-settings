@@ -79,8 +79,8 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527650919923">
-        <mark key="'" line="443" column="40" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527769338067">
+        <mark key="'" line="513" column="16" />
         <mark key="[" line="432" column="28" />
         <mark key="]" line="432" column="28" />
         <mark key="." line="432" column="28" />
@@ -364,11 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/source/uyun/monitor/datamonitor_template" />
-      <jump line="151" column="17" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="186" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="26" column="20" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="86" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="40" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
@@ -464,6 +459,11 @@
       <jump line="200" column="26" filename="$USER_HOME$/source/uyun/scripts/kairosdb_two_hour.py" />
       <jump line="5" column="10" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="286" column="36" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="444" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="453" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="470" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="472" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
+      <jump line="513" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -473,7 +473,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd2luMzJfc3lzdGVtX2NoZWNrc1w+</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKG1ldHJpY3MpID09IDA6CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybignW2NoZWNrXSBpcDoge30gbm8gYW55IG1ldHJpYycuZm9ybWF0KGlwKSkK</text>
@@ -512,17 +512,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd2luMzJfc3lzdGVtX2NoZWNrc1w+</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd2luMzJfc3lzdGVtX2NoZWNrc1w+</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.req</entry>
         <entry>run</entry>
         <entry>collecter.run</entry>
         <entry>run(</entry>
@@ -542,6 +541,7 @@
         <entry encoding="base64">ZmV0Y2gg</entry>
         <entry>to fetch</entry>
         <entry encoding="base64">XDxfd2luMzJfc3lzdGVtX2NoZWNrc1w+</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
