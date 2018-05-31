@@ -100,6 +100,9 @@
         <mark key="^" line="51" column="37" />
         <mark key="." line="59" column="37" />
       </file>
+      <file name="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" timestamp="1527781653986">
+        <mark key="'" line="102" column="24" />
+      </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/webhook.ts" timestamp="1523992442493">
         <mark key="'" line="15" column="33" />
         <mark key="[" line="5" column="0" />
@@ -364,14 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="40" column="19" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="30" column="19" filename="$USER_HOME$/source/uyun/scripts/qxj/sla_calculate.py" />
-      <jump line="436" column="36" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="74" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="48" column="28" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
-      <jump line="47" column="28" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="31" column="8" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="28" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
       <jump line="27" column="11" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
@@ -464,6 +459,14 @@
       <jump line="472" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="513" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="104" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="174" column="27" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="5" column="7" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="44" column="22" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="46" column="16" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="51" column="26" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="52" column="34" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
+      <jump line="102" column="24" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -473,7 +476,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>bank_id</text>
+        <text>nfs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKG1ldHJpY3MpID09IDA6CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybignW2NoZWNrXSBpcDoge30gbm8gYW55IG1ldHJpYycuZm9ybWF0KGlwKSkK</text>
@@ -512,9 +515,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bank_id</last-search>
+      <last-search>nfs</last-search>
       <last-offset />
-      <last-pattern>bank_id</last-pattern>
+      <last-pattern>nfs</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -522,9 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>collecter.run</entry>
-        <entry>run(</entry>
-        <entry encoding="base64">XDxRdWV1ZVw+</entry>
         <entry encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</entry>
         <entry>queue</entry>
         <entry encoding="base64">XDxhc3luY19odHRwX2VtaXR0ZXJcPg==</entry>
@@ -542,6 +542,9 @@
         <entry encoding="base64">XDxfd2luMzJfc3lzdGVtX2NoZWNrc1w+</entry>
         <entry>write</entry>
         <entry>bank_id</entry>
+        <entry encoding="base64">XDxuZnNcPg==</entry>
+        <entry>ext</entry>
+        <entry>nfs</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
