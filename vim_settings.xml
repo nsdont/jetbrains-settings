@@ -175,8 +175,8 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527732071924">
-        <mark key="'" line="254" column="17" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527738259101">
+        <mark key="'" line="107" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="9" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="512" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="515" column="19" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="516" column="12" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
@@ -425,6 +424,7 @@
       <jump line="335" column="38" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="367" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="17" column="85" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
