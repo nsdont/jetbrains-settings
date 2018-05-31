@@ -172,12 +172,12 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527755440526">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/collector.py" timestamp="1527756558897">
+        <mark key="'" line="286" column="70" />
+        <mark key="[" line="298" column="29" />
+        <mark key="]" line="300" column="35" />
+        <mark key="." line="300" column="35" />
+        <mark key="^" line="300" column="35" />
       </file>
       <file name="$USER_HOME$/source/uyun/agent/bin/cassandra_check_ping.py" timestamp="1524785681046">
         <mark key="'" line="102" column="12" />
@@ -319,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="521" column="16" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="522" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="98" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="39" column="0" filename="$USER_HOME$/source/uyun/monitor/datamonitor_template" />
@@ -419,6 +418,7 @@
       <jump line="134" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb_two_hour.py" />
       <jump line="200" column="26" filename="$USER_HOME$/source/uyun/scripts/kairosdb_two_hour.py" />
       <jump line="5" column="10" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="286" column="70" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -428,7 +428,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19kYXRhX2lzX3NlcXVlbmNlXD4=</text>
+        <text>to fetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKG1ldHJpY3MpID09IDA6CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybignW2NoZWNrXSBpcDoge30gbm8gYW55IG1ldHJpYycuZm9ybWF0KGlwKSkK</text>
@@ -467,18 +467,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19kYXRhX2lzX3NlcXVlbmNlXD4=</last-search>
+      <last-search>to fetch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19kYXRhX2lzX3NlcXVlbmNlXD4=</last-pattern>
+      <last-pattern>to fetch</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmludF9sb2dcPg==</entry>
-        <entry>gen.sleep</entry>
         <entry>request</entry>
         <entry>self.req</entry>
         <entry>run</entry>
@@ -497,6 +495,8 @@
         <entry encoding="base64">XDxwcm9maWxlZFw+</entry>
         <entry encoding="base64">XDxyYW5nZV9pcF9mZXRjaF9rYWlyb3NkYlw+</entry>
         <entry encoding="base64">XDxjaGVja19kYXRhX2lzX3NlcXVlbmNlXD4=</entry>
+        <entry encoding="base64">ZmV0Y2gg</entry>
+        <entry>to fetch</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
