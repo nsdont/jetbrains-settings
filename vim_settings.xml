@@ -148,12 +148,12 @@
         <mark key="^" line="199" column="34" />
         <mark key="." line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1527733958894">
-        <mark key="'" line="20" column="40" />
-        <mark key="[" line="463" column="0" />
-        <mark key="]" line="463" column="28" />
-        <mark key="." line="463" column="28" />
-        <mark key="^" line="449" column="19" />
+      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1527746704121">
+        <mark key="'" line="458" column="19" />
+        <mark key="[" line="468" column="12" />
+        <mark key="]" line="468" column="15" />
+        <mark key="." line="468" column="15" />
+        <mark key="^" line="468" column="15" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1527661754972">
         <mark key="'" line="13" column="4" />
@@ -325,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="28" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="515" column="19" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="516" column="12" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="518" column="16" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="520" column="60" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
@@ -425,63 +423,64 @@
       <jump line="367" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="17" column="85" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="107" column="0" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
+      <jump line="345" column="11" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
+      <jump line="458" column="19" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9maWxlZCA9IEZhbHNlCiAgICAgICAgY29sbGVjdG9yX3Byb2ZpbGVkX3J1bnMgPSAwCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>forward</text>
+        <text encoding="base64">XDxwcm9maWxlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBxdWV1ZToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlZCA9IEZhbHNlCiAgICAgICAgY29sbGVjdG9yX3Byb2ZpbGVkX3J1bnMgPSAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlZCA9IEZhbHNlCiAgICAgICAgY29sbGVjdG9yX3Byb2ZpbGVkX3J1bnMgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmNvbmZpZ1snY2hlY2tfZnJlcSddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmNvbmZpZ1snY2hlY2tfZnJlcSddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLnF1ZXVlcyBpbXBvcnQgUXVldWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gcXVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLnF1ZXVlcyBpbXBvcnQgUXVldWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnF1ZXVlID0gcXVlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>forward</last-search>
+      <last-search encoding="base64">XDxwcm9maWxlZFw+</last-search>
       <last-offset />
-      <last-pattern>forward</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9maWxlZFw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Payload</entry>
         <entry encoding="base64">XDxDT01NT05fRU5EUE9JTlRcPg==</entry>
         <entry encoding="base64">XDxSZXBvcnRlclw+</entry>
         <entry encoding="base64">XDxwcmludF9sb2dcPg==</entry>
@@ -501,6 +500,7 @@
         <entry>collect</entry>
         <entry encoding="base64">XDxmb3J3YXJkX21ldHJpY1w+</entry>
         <entry>forward</entry>
+        <entry encoding="base64">XDxwcm9maWxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
