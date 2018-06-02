@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1527924863803">
-        <mark key="'" line="813" column="37" />
-        <mark key="[" line="559" column="0" />
-        <mark key="]" line="560" column="107" />
-        <mark key="." line="559" column="0" />
-        <mark key="^" line="843" column="56" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1527925891221">
+        <mark key="'" line="814" column="37" />
+        <mark key="[" line="344" column="54" />
+        <mark key="]" line="344" column="63" />
+        <mark key="." line="344" column="63" />
+        <mark key="^" line="344" column="63" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -472,17 +472,17 @@
       <jump line="813" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>trade_flow_code</text>
       </register>
       <register name="-" type="4">
-        <text>i['original_amount']</text>
+        <text>trade_flow_code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdW1faW50ZXJlc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbHVzPSdhbmQgKGlzX2JpbmRfYmFua19jYXJkID0gMSBvciBpc19mdW5kID0gMSknKSwK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3dsY2YnLCAndHJhZGVfZmxvd19jb2RlJywgJ3RyYWRlX2Zsb3dfY29kZScsICdmJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAo=</text>
