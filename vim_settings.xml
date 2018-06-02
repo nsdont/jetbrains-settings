@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1527914788849">
-        <mark key="'" line="677" column="87" />
-        <mark key="[" line="657" column="21" />
-        <mark key="]" line="657" column="27" />
-        <mark key="." line="657" column="27" />
-        <mark key="^" line="657" column="27" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1527916544510">
+        <mark key="'" line="440" column="36" />
+        <mark key="[" line="125" column="34" />
+        <mark key="]" line="126" column="21" />
+        <mark key="." line="126" column="21" />
+        <mark key="^" line="126" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -370,16 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="14" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="249" column="23" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="1" column="15" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="266" column="36" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="2" column="15" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="273" column="15" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="3" column="15" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="254" column="13" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="186" column="32" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
-      <jump line="170" column="34" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="165" column="26" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="255" column="0" filename="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" />
       <jump line="210" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -470,19 +460,29 @@
       <jump line="666" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="679" column="17" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="673" column="87" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="386" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="740" column="26" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="749" column="27" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="755" column="76" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="750" column="25" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="726" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="824" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="746" column="58" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="224" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="440" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>trade_effective_date</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>trade_effective_date</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdfc3lzdGVtX2Z1bmRfbG9nXD4=</text>
+        <text encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZSc6IGlbJ2dpZnRfbmFtZSddLAo=</text>
+      <register name="0" type="4">
+        <text>trade_effective_date</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -518,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdfc3lzdGVtX2Z1bmRfbG9nXD4=</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdfc3lzdGVtX2Z1bmRfbG9nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -528,12 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5nZV9pcF9mZXRjaF9rYWlyb3NkYlw+</entry>
-        <entry encoding="base64">XDxjaGVja19kYXRhX2lzX3NlcXVlbmNlXD4=</entry>
-        <entry encoding="base64">ZmV0Y2gg</entry>
-        <entry>to fetch</entry>
-        <entry encoding="base64">XDxfd2luMzJfc3lzdGVtX2NoZWNrc1w+</entry>
-        <entry>write</entry>
         <entry>bank_id</entry>
         <entry encoding="base64">XDxuZnNcPg==</entry>
         <entry>ext</entry>
@@ -544,10 +538,16 @@
         <entry>trans</entry>
         <entry encoding="base64">XDxnZXRfc3VtbWFyeVw+</entry>
         <entry encoding="base64">XDxsb2FuX3B1cnBvc2VcPg==</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
         <entry>info_4</entry>
         <entry>invest_log</entry>
         <entry encoding="base64">XDxuZXdfc3lzdGVtX2Z1bmRfbG9nXD4=</entry>
+        <entry encoding="base64">XDxjb252ZXJ0X3RyYWRlX2NvZGVfc3FsXD4=</entry>
+        <entry>time</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
+        <entry encoding="base64">XDxyZXBheV9kaXZpc2lvbl93YXlcPg==</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
