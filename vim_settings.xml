@@ -29,8 +29,8 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1527846868828">
-        <mark key="'" line="130" column="13" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1527913751657">
+        <mark key="'" line="722" column="36" />
         <mark key="[" line="721" column="0" />
         <mark key="]" line="721" column="0" />
         <mark key="." line="721" column="0" />
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="458" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="8" column="0" filename="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" />
       <jump line="12" column="8" filename="$USER_HOME$/source/uyun/scripts/qxj/influxdb_import.py" />
       <jump line="373" column="50" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -469,6 +468,7 @@
       <jump line="704" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="743" column="34" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="130" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="722" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -478,7 +478,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FuX3B1cnBvc2VcPg==</text>
+        <text encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKG1ldHJpY3MpID09IDA6CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybignW2NoZWNrXSBpcDoge30gbm8gYW55IG1ldHJpYycuZm9ybWF0KGlwKSkK</text>
@@ -517,9 +517,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FuX3B1cnBvc2VcPg==</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FuX3B1cnBvc2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -527,7 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>collect</entry>
         <entry encoding="base64">XDxmb3J3YXJkX21ldHJpY1w+</entry>
         <entry>forward</entry>
         <entry encoding="base64">XDxwcm9maWxlZFw+</entry>
@@ -547,6 +546,7 @@
         <entry>trans</entry>
         <entry encoding="base64">XDxnZXRfc3VtbWFyeVw+</entry>
         <entry encoding="base64">XDxsb2FuX3B1cnBvc2VcPg==</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
