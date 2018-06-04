@@ -79,12 +79,12 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1527769338067">
-        <mark key="'" line="513" column="16" />
-        <mark key="[" line="432" column="28" />
-        <mark key="]" line="432" column="28" />
-        <mark key="." line="432" column="28" />
-        <mark key="^" line="432" column="28" />
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1528105444224">
+        <mark key="'" line="514" column="16" />
+        <mark key="[" line="408" column="53" />
+        <mark key="]" line="408" column="53" />
+        <mark key="." line="408" column="53" />
+        <mark key="^" line="408" column="51" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/monitorstatsd.py" timestamp="1527661407275">
         <mark key="'" line="109" column="6" />
@@ -473,16 +473,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>show/</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>show/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3dsY2YnLCAndHJhZGVfZmxvd19jb2RlJywgJ3RyYWRlX2Zsb3dfY29kZScsICdmJykK</text>
+        <text encoding="base64">ICAgICAgICAnc2hvd19hcGknOiAne30vc2hvdy9hcGkvd2luZG93LycuZm9ybWF0KEJBU0VfVVJMKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAo=</text>
