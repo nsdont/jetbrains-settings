@@ -358,12 +358,12 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528183258704">
-        <mark key="'" line="782" column="10" />
-        <mark key="[" line="542" column="19" />
-        <mark key="]" line="542" column="19" />
-        <mark key="^" line="542" column="19" />
-        <mark key="." line="542" column="19" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528186730564">
+        <mark key="'" line="418" column="13" />
+        <mark key="[" line="269" column="54" />
+        <mark key="]" line="269" column="55" />
+        <mark key="^" line="269" column="55" />
+        <mark key="." line="269" column="55" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
@@ -374,8 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="57" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="254" column="17" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
       <jump line="34" column="34" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
       <jump line="440" column="10" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
       <jump line="469" column="8" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
@@ -474,19 +472,21 @@
       <jump line="509" column="118" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="510" column="120" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="511" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="493" column="17" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="418" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>process</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>process</text>
       </register>
       <register name="/" type="4">
-        <text>',</text>
+        <text encoding="base64">XDx3bWlfc2FtcGxlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQogICAgICAgICAgICBpZiBzZWxmLndtaV9lcnJvcl9jb3VudCA9PSA1OgogICAgICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYudXNlX3BkaCA9IFRydWUKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgJ1t3aW5kb3dzIGJhc2UgY2hlY2tdIHdtaSBjb2xsZWN0IG1lbSBpbmZvIGZvdW5kIDUgY29uc2VjdXRpdmUgZXJyb3JzLCBzbyBjaGFuZ2UgdG8gcGRoIG1ldGhvZCcsCiAgICAgICAgICAgICAgICAgICAgZXhjX2luZm89MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQogICAgICAgICAgICBpZiBzZWxmLndtaV9lcnJvcl9jb3VudCA9PSA1OgogICAgICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYudXNlX3BkaCA9IFRydWUKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgJ1t3aW5kb3dzIGJhc2UgY2hlY2tdIHdtaSBjb2xsZWN0IHByb2Nlc3MgaW5mbyBmb3VuZCA1IGNvbnNlY3V0aXZlIGVycm9ycywgc28gY2hhbmdlIHRvIHBkaCBtZXRob2QnLAogICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPTEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VfcGRoID0gRmFsc2UK</text>
@@ -520,17 +520,16 @@
       </register>
     </registers>
     <search>
-      <last-search>',</last-search>
+      <last-search encoding="base64">XDx3bWlfc2FtcGxlclw+</last-search>
       <last-offset />
-      <last-pattern>',</last-pattern>
+      <last-pattern encoding="base64">XDx3bWlfc2FtcGxlclw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb252ZXJ0X3RyYWRlX2NvZGVfc3FsXD4=</entry>
         <entry>time</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</entry>
@@ -550,6 +549,7 @@
         <entry>trun</entry>
         <entry>TRUN</entry>
         <entry>',</entry>
+        <entry encoding="base64">XDx3bWlfc2FtcGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
