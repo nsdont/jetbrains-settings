@@ -359,12 +359,12 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528188214363">
-        <mark key="'" line="427" column="42" />
-        <mark key="[" line="269" column="54" />
-        <mark key="]" line="269" column="55" />
-        <mark key="^" line="269" column="55" />
-        <mark key="." line="269" column="55" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528193795239">
+        <mark key="'" line="117" column="21" />
+        <mark key="[" line="88" column="24" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
+        <mark key="^" line="88" column="26" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
@@ -375,16 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="17" column="85" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="345" column="11" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="458" column="19" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="134" column="4" filename="$USER_HOME$/source/uyun/scripts/kairosdb_two_hour.py" />
-      <jump line="200" column="26" filename="$USER_HOME$/source/uyun/scripts/kairosdb_two_hour.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="286" column="36" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="444" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="453" column="0" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="470" column="12" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
       <jump line="472" column="18" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
@@ -475,63 +465,72 @@
       <jump line="425" column="43" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="427" column="42" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="355" column="0" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="88" column="20" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="74" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="513" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="500" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="312" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="299" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="269" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="256" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="130" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="117" column="21" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJSZXNwb25zZTogJXMiICUgcmVzcG9uc2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>wmi</text>
       </register>
       <register name="-" type="4">
-        <text>process</text>
+        <text>wmi</text>
       </register>
       <register name="/" type="4">
-        <text>Logical</text>
+        <text encoding="base64">XDx1c2VfcGRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJSZXNwb25zZTogJXMiICUgcmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdbd2luZG93cyBiYXNlIGNoZWNrXSB7fSB1c2Ugd21pIGNoZWNrJy5mb3JtYXQoc2VsZi5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VfcGRoID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZXRfbWV0cmljcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VfcGRoID0gRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZXRfbWV0cmljcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgICAgIHNlbGYuZ2F1Z2UoJ3N5c3RlbS5pby53a2JfcycpCiAgICAgICAgc2VsZi5nYXVnZSgnc3lzdGVtLmlvLndfcycpCiAgICAgICAgc2VsZi5nYXVnZSgnc3lzdGVtLmlvLnJrYl9zJykKICAgICAgICBzZWxmLmdhdWdlKCdzeXN0ZW0uaW8ucl9zJykKICAgICAgICBzZWxmLmdhdWdlKCdzeXN0ZW0uaW8uYXZnX3Ffc3onKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgICAgIHNlbGYuZ2F1Z2UoJ3N5c3RlbS5pby53a2JfcycpCiAgICAgICAgc2VsZi5nYXVnZSgnc3lzdGVtLmlvLndfcycpCiAgICAgICAgc2VsZi5nYXVnZSgnc3lzdGVtLmlvLnJrYl9zJykKICAgICAgICBzZWxmLmdhdWdlKCdzeXN0ZW0uaW8ucl9zJykKICAgICAgICBzZWxmLmdhdWdlKCdzeXN0ZW0uaW8uYXZnX3Ffc3onKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi53bWlfc2FtcGxlciA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwgIldpbjMyX1BlcmZSYXdEYXRhX1BlcmZEaXNrX0xvZ2ljYWxEaXNrIiwgWwogICAgICAgICAgICAgICAgIk5hbWUiLCAiRGlza1dyaXRlQnl0ZXNQZXJTZWMiLCAiRGlza1dyaXRlc1BlclNlYyIsCiAgICAgICAgICAgICAgICAiRGlza1JlYWRCeXRlc1BlclNlYyIsICJEaXNrUmVhZHNQZXJTZWMiLAogICAgICAgICAgICAgICAgIkN1cnJlbnREaXNrUXVldWVMZW5ndGgiCiAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDaGVjay5fX2luaXRfXyhzZWxmLCBsb2dnZXIpCg==</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi53bWlfc2FtcGxlciA9IFdNSVNhbXBsZXIoCiAgICAgICAgICAgIGxvZ2dlciwgIldpbjMyX1BlcmZSYXdEYXRhX1BlcmZEaXNrX0xvZ2ljYWxEaXNrIiwgWwogICAgICAgICAgICAgICAgIk5hbWUiLCAiRGlza1dyaXRlQnl0ZXNQZXJTZWMiLCAiRGlza1dyaXRlc1BlclNlYyIsCiAgICAgICAgICAgICAgICAiRGlza1JlYWRCeXRlc1BlclNlYyIsICJEaXNrUmVhZHNQZXJTZWMiLAogICAgICAgICAgICAgICAgIkN1cnJlbnREaXNrUXVldWVMZW5ndGgiCiAgICAgICAgICAgIF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBDaGVjay5fX2luaXRfXyhzZWxmLCBsb2dnZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsb2dnZXIpOgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>Logical</last-search>
+      <last-search encoding="base64">XDx1c2VfcGRoXD4=</last-search>
       <last-offset />
-      <last-pattern>Logical</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VfcGRoXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>repay</entry>
         <entry encoding="base64">XDxyZXBheV9kaXZpc2lvbl93YXlcPg==</entry>
         <entry>is_fund</entry>
         <entry>or</entry>
@@ -551,6 +550,7 @@
         <entry>Loccal</entry>
         <entry>IO</entry>
         <entry>Logical</entry>
+        <entry encoding="base64">XDx1c2VfcGRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
