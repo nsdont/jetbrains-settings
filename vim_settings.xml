@@ -358,8 +358,8 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528186730564">
-        <mark key="'" line="418" column="13" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528188214363">
+        <mark key="'" line="427" column="42" />
         <mark key="[" line="269" column="54" />
         <mark key="]" line="269" column="55" />
         <mark key="^" line="269" column="55" />
@@ -374,15 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="34" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="440" column="10" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="469" column="8" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="40" column="15" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="471" column="30" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="24" column="19" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="69" column="14" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="46" column="37" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
-      <jump line="20" column="40" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
       <jump line="335" column="38" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="367" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="17" column="85" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -474,6 +465,15 @@
       <jump line="511" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="493" column="17" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="418" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="94" column="29" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="429" column="43" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="431" column="42" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="433" column="41" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="503" column="68" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="516" column="52" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="419" column="48" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="425" column="43" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="427" column="42" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -483,7 +483,7 @@
         <text>process</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3bWlfc2FtcGxlclw+</text>
+        <text>Logical</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQogICAgICAgICAgICBpZiBzZWxmLndtaV9lcnJvcl9jb3VudCA9PSA1OgogICAgICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYudXNlX3BkaCA9IFRydWUKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgJ1t3aW5kb3dzIGJhc2UgY2hlY2tdIHdtaSBjb2xsZWN0IHByb2Nlc3MgaW5mbyBmb3VuZCA1IGNvbnNlY3V0aXZlIGVycm9ycywgc28gY2hhbmdlIHRvIHBkaCBtZXRob2QnLAogICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPTEpCg==</text>
@@ -520,19 +520,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3bWlfc2FtcGxlclw+</last-search>
+      <last-search>Logical</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3bWlfc2FtcGxlclw+</last-pattern>
+      <last-pattern>Logical</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX0JJRFw+</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</entry>
         <entry>repay</entry>
         <entry encoding="base64">XDxyZXBheV9kaXZpc2lvbl93YXlcPg==</entry>
         <entry>is_fund</entry>
@@ -550,6 +547,9 @@
         <entry>TRUN</entry>
         <entry>',</entry>
         <entry encoding="base64">XDx3bWlfc2FtcGxlclw+</entry>
+        <entry>Loccal</entry>
+        <entry>IO</entry>
+        <entry>Logical</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
