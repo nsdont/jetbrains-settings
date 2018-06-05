@@ -207,7 +207,7 @@
         <mark key="." line="71" column="90" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="/Python Console" timestamp="1527503488504">
+      <file name="/Python Console" timestamp="1528179742312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1526627852761">
@@ -358,8 +358,11 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1527734655438">
-        <mark key="'" line="800" column="10" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528180701582">
+        <mark key="'" line="805" column="10" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
@@ -472,46 +475,44 @@
       <jump line="511" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>collect</text>
       </register>
       <register name="/" type="4">
         <text>',</text>
       </register>
-      <register name="0" type="4">
-        <text>TRUNCATE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndtaV9lcnJvcl9jb3VudCA9IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlcmVzdCA9IGlbJ2Ftb3VudCddIC8gMTAwLjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3JlYXRlX3RpbWUnOiBpWydjcmVhdGVfZGF0ZSddLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmNsYXNzIFByb2Nlc3Nlc1BESChDaGVjayk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGxvZ2dlcik6CiAgICAgICAgQ2hlY2suX19pbml0X18oc2VsZiwgbG9nZ2VyKQoKICAgICAgICBzZWxmLmdhdWdlKCdzeXN0ZW0ucHJvYy5xdWV1ZV9sZW5ndGgnKQogICAgICAgIHNlbGYuZ2F1Z2UoJ3N5c3RlbS5wcm9jLmNvdW50JykKICAgICAgICBzZWxmLm51bXByb2NzID0gV2luUERIQ291bnRlcignU3lzdGVtJywgJ1Byb2Nlc3NlcycsIGxvZ2dlcikKICAgICAgICBzZWxmLnBxbCA9IFdpblBESENvdW50ZXIoJ1N5c3RlbScsICdQcm9jZXNzb3IgUXVldWUgTGVuZ3RoJywgbG9nZ2VyKQoKICAgIGRlZiBfY2hlY2soc2VsZiwgYWdlbnRfY29uZmlnKToKICAgICAgICBwcm9jZXNzb3JfcXVldWVfbGVuZ3RoID0gc2VsZi5wcWwuZ2V0X3NpbmdsZV92YWx1ZSgpCiAgICAgICAgcHJvY2Vzc2VzID0gc2VsZi5udW1wcm9jcy5nZXRfc2luZ2xlX3ZhbHVlKCkKCiAgICAgICAgaWYgcHJvY2Vzc29yX3F1ZXVlX2xlbmd0aCBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5zYXZlX3NhbXBsZSgnc3lzdGVtLnByb2MucXVldWVfbGVuZ3RoJywgcHJvY2Vzc29yX3F1ZXVlX2xlbmd0aCkKICAgICAgICBpZiBwcm9jZXNzZXMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYuc2F2ZV9zYW1wbGUoJ3N5c3RlbS5wcm9jLmNvdW50JywgcHJvY2Vzc2VzKQoKICAgICAgICByZXR1cm4gc2VsZi5nZXRfbWV0cmljcygpCgogICAgZGVmIGNoZWNrKHNlbGYsIGFnZW50X2NvbmZpZyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc2VsZi5fY2hlY2soYWdlbnRfY29uZmlnKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmVycm9yKAogICAgICAgICAgICAgICAgJ1t3aW5kb3dzIHN5c3RlbSBjaGVja10gY29sbGVjdCBwcm9jZXNzIGluZm8gZmFpbGVkJywKICAgICAgICAgICAgICAgIGV4Y19pbmZvPTEpCiAgICAgICAgICAgIHJldHVybiBbXQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfbGlzdC5hcHBlbmQoc3FsX3VwZGF0ZV91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxfdXBkYXRlX3VzZXIgPSAodSd1cGRhdGUgdXNlciBhICBsZWZ0IGpvaW4gYGJhbmtfY2FyZGAgYiBvbiBhLmlkID0gYi51c2VyX2lkIHNldCBhLmJhbmtfaWQ9Yi5pZCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgdScgd2hlcmUgYS5jb2RlID0gXCd7fVwnIDsnKS5mb3JtYXQodXNlcl9jb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>find break in {} ~ {}'.format(
-                    ip, start_time.strftime('%Y-%m-%d %H:%M:%S'),
-                    end_time.strftime('%Y-%m-%d %H:%M:%S')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
