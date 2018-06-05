@@ -134,11 +134,12 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1525065374488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1527662356857">
-        <mark key="'" line="367" column="14" />
-        <mark key="[" line="563" column="0" />
-        <mark key="]" line="563" column="0" />
-        <mark key="." line="563" column="0" />
+      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1528190048175">
+        <mark key="'" line="356" column="0" />
+        <mark key="[" line="277" column="58" />
+        <mark key="]" line="277" column="65" />
+        <mark key="." line="277" column="65" />
+        <mark key="^" line="277" column="65" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1526440114538">
         <mark key="'" line="53" column="0" />
@@ -167,12 +168,12 @@
         <mark key="." line="468" column="15" />
         <mark key="^" line="468" column="15" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1528164919666">
+      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1528189872524">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="56" column="48" />
-        <mark key="]" line="78" column="58" />
-        <mark key="." line="78" column="58" />
-        <mark key="^" line="78" column="58" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
@@ -374,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="38" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="367" column="31" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="17" column="85" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="107" column="0" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
@@ -474,10 +474,11 @@
       <jump line="419" column="48" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="425" column="43" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="427" column="42" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="355" column="0" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>process</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJSZXNwb25zZTogJXMiICUgcmVzcG9uc2UpCg==</text>
       </register>
       <register name="-" type="4">
         <text>process</text>
@@ -486,7 +487,7 @@
         <text>Logical</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQogICAgICAgICAgICBpZiBzZWxmLndtaV9lcnJvcl9jb3VudCA9PSA1OgogICAgICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYudXNlX3BkaCA9IFRydWUKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgJ1t3aW5kb3dzIGJhc2UgY2hlY2tdIHdtaSBjb2xsZWN0IHByb2Nlc3MgaW5mbyBmb3VuZCA1IGNvbnNlY3V0aXZlIGVycm9ycywgc28gY2hhbmdlIHRvIHBkaCBtZXRob2QnLAogICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJSZXNwb25zZTogJXMiICUgcmVzcG9uc2UpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VfcGRoID0gRmFsc2UK</text>
