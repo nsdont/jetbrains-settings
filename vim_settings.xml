@@ -359,8 +359,8 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528193795239">
-        <mark key="'" line="117" column="21" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528251005479">
+        <mark key="'" line="544" column="0" />
         <mark key="[" line="88" column="24" />
         <mark key="]" line="88" column="26" />
         <mark key="." line="88" column="26" />
@@ -375,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="16" filename="$USER_HOME$/source/uyun/scripts/monitor_os.py" />
-      <jump line="104" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="174" column="27" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
       <jump line="5" column="7" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
       <jump line="6" column="7" filename="$USER_HOME$/source/uyun/agent/framework/actions/module/install.py" />
@@ -475,6 +473,8 @@
       <jump line="367" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/__init__.py" />
       <jump line="275" column="13" filename="$USER_HOME$/source/uyun/monitor/checks/__init__.py" />
       <jump line="392" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/__init__.py" />
+      <jump line="5" column="19" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="544" column="0" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -484,7 +484,7 @@
         <text>wmi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfZXZlbnRzXD4=</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdbd2luZG93cyBiYXNlIGNoZWNrXSB7fSB1c2Ugd21pIGNoZWNrJy5mb3JtYXQoc2VsZi5fX2NsYXNzX18uX19uYW1lX18pKQo=</text>
@@ -521,18 +521,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfZXZlbnRzXD4=</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfZXZlbnRzXD4=</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>or</entry>
-        <entry encoding="base64">XDxjb252ZXJ0X2FjY291bnRfbmFtZV9zcWxcPg==</entry>
         <entry>or i</entry>
         <entry>os is</entry>
         <entry>or is</entry>
@@ -551,6 +549,8 @@
         <entry encoding="base64">XDx1c2VfcGRoXD4=</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDxnZXRfZXZlbnRzXD4=</entry>
+        <entry encoding="base64">XDxDaGVja1w+</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
