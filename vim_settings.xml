@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528389155716">
-        <mark key="'" line="149" column="5" />
-        <mark key="[" line="712" column="30" />
-        <mark key="]" line="712" column="58" />
-        <mark key="^" line="709" column="31" />
-        <mark key="." line="712" column="30" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528390162691">
+        <mark key="'" line="532" column="66" />
+        <mark key="[" line="848" column="67" />
+        <mark key="]" line="848" column="67" />
+        <mark key="^" line="848" column="81" />
+        <mark key="." line="848" column="67" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -362,8 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="841" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="836" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="835" column="39" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="830" column="52" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="152" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -449,8 +447,6 @@
       <jump line="776" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="817" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="811" column="22" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="533" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="532" column="26" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="816" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="905" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -462,16 +458,20 @@
       <jump line="708" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="701" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="149" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="921" column="25" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="533" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="937" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="532" column="66" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i['amount'] / Decimal('100.0')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i['amount'] / Decimal('100.0')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</text>
+        <text encoding="base64">XDwxMzY4NTcyNzU3NVw+</text>
       </register>
       <register name="0" type="4">
         <text>i['amount'] / 100.0 + amount</text>
@@ -508,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</last-search>
+      <last-search encoding="base64">XDwxMzY4NTcyNzU3NVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwxMzY4NTcyNzU3NVw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -518,8 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVfaW5kZXhcPg==</entry>
-        <entry encoding="base64">XDxiYW5rX2xpc3RcPg==</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxkZWNyeXB0ZWRcPg==</entry>
         <entry encoding="base64">XDxzZW5kX3JlcXVlc3RcPg==</entry>
@@ -528,9 +526,7 @@
         <entry encoding="base64">XDx2aXJ0dWFsX3VuaXRcPg==</entry>
         <entry encoding="base64">XDwxMDBcPg==</entry>
         <entry encoding="base64">XDxwcm9ncmVzc0JhckFtb3VudFw+</entry>
-        <entry encoding="base64">XDxDaGVuTHVcPg==</entry>
         <entry>chenlu</entry>
-        <entry>Chen</entry>
         <entry encoding="base64">XDxGYWtlclw+</entry>
         <entry encoding="base64">XDxmYWtlXD4=</entry>
         <entry>TODO</entry>
@@ -538,6 +534,10 @@
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
+        <entry>Chen</entry>
+        <entry>ChenLu</entry>
+        <entry encoding="base64">XDxDaGVuTHVcPg==</entry>
+        <entry encoding="base64">XDwxMzY4NTcyNzU3NVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
