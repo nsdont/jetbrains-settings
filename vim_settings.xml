@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528107760282">
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528336370361">
         <mark key="'" line="512" column="30" />
-        <mark key="[" line="512" column="17" />
-        <mark key="]" line="512" column="17" />
-        <mark key="." line="512" column="17" />
-        <mark key="^" line="512" column="17" />
+        <mark key="[" line="683" column="10" />
+        <mark key="]" line="683" column="15" />
+        <mark key="." line="683" column="15" />
+        <mark key="^" line="683" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -477,17 +477,17 @@
       <jump line="87" column="12" filename="$USER_HOME$/source/uyun/monitor/utils/send_request.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGEgYW5kIG5vdCBpc2luc3RhbmNlKGRhdGEsIGJhc2VzdHJpbmcpOgogICAgICAgIGZvcm1fZGF0YSA9IGpzb24uZHVtcHMoZGF0YSkK</text>
+      <register name="&quot;" type="4">
+        <text>值</text>
       </register>
       <register name="-" type="4">
-        <text>mem</text>
+        <text>值</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNvcmRfd21pX3J1bl9mYWlsZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIOWFheWAvOiusOW9lQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIGRhdGEgYW5kIG5vdCBpc2luc3RhbmNlKGRhdGEsIGJhc2VzdHJpbmcpOgogICAgICAgIGZvcm1fZGF0YSA9IGpzb24uZHVtcHMoZGF0YSkK</text>
