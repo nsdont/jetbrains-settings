@@ -141,12 +141,6 @@
         <mark key="." line="277" column="65" />
         <mark key="^" line="277" column="65" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/module.yaml" timestamp="1526440114538">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527734690303">
         <mark key="'" line="17" column="85" />
         <mark key="^" line="17" column="98" />
@@ -168,21 +162,15 @@
         <mark key="." line="468" column="15" />
         <mark key="^" line="468" column="15" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1528253234436">
-        <mark key="'" line="87" column="12" />
-        <mark key="[" line="109" column="81" />
-        <mark key="]" line="109" column="88" />
-        <mark key="." line="109" column="88" />
-        <mark key="^" line="109" column="88" />
+      <file name="$USER_HOME$/source/uyun/monitor/utils/send_request.py" timestamp="1528342222988">
+        <mark key="'" line="89" column="12" />
+        <mark key="[" line="69" column="49" />
+        <mark key="]" line="70" column="30" />
+        <mark key="." line="70" column="30" />
+        <mark key="^" line="70" column="30" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/src/App.vue" timestamp="1525834757013">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/install.sh" timestamp="1525931791349">
         <mark key="'" line="113" column="17" />
@@ -295,18 +283,6 @@
         <mark key="." line="159" column="51" />
         <mark key="^" line="159" column="51" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/qxj/find_http.py" timestamp="1525765371503">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="82" column="9" />
-        <mark key="]" line="82" column="11" />
-        <mark key="." line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/source/uyun/scripts/transfer_influxdb.py" timestamp="1527579466790">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1528253275445">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,6 +296,9 @@
       <file name="$USER_HOME$/.virtualenvs/monitor-kHKo3dhK/lib/python2.7/site-packages/tornado/web.py" timestamp="1527652348216">
         <mark key="[" line="193" column="8" />
         <mark key="]" line="193" column="17" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/monitor/checks.d/ntp.py" timestamp="1528342187198">
+        <mark key="'" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/bin/platform_ant_dispatcher.sh" timestamp="1523498271696">
         <mark key="'" line="148" column="44" />
@@ -353,12 +332,6 @@
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
         <mark key="'" line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/requirements.txt" timestamp="1527169883145">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-      </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1528252499991">
         <mark key="'" line="60" column="8" />
         <mark key="[" line="107" column="0" />
@@ -375,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="497" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="686" column="35" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="704" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="743" column="34" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -475,10 +447,11 @@
       <jump line="706" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="445" column="50" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="487" column="20" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/source/uyun/monitor/checks.d/ntp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3h3bGNmJywgJ3VzZXInLCAnY3JlYXRlX3RpbWUnLCAnYWEnKQogICAgY3JlYXRlX2luZGV4KHNxbF9saXN0LCAneHdsY2YnLCAndXNlcicsICdjb2RlJywgJ2EnKQogICAgY3JlYXRlX2luZGV4KHNxbF9saXN0LCAneHdsY2YnLCAnYWRkcmVzcycsICdjaXR5X2lkJywgJ2FkZHJlc3NfY2l0eScpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="-" type="4">
         <text>user_referee</text>
@@ -487,34 +460,34 @@
         <text encoding="base64">XDxiYW5rX2xpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlX3NxbChuZXdfc3lzdGVtX2ZyaWVuZF9saXN0LCBzcWxfbGlzdCwgJ3VzZXJfcmVmZXJlZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBoYXNhdHRyKGUsICdyZXNwb25zZScpIGFuZCBlLnJlc3BvbnNlOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3h3bGNmJywgJ3VzZXInLCAnY3JlYXRlX3RpbWUnLCAnYWEnKQogICAgY3JlYXRlX2luZGV4KHNxbF9saXN0LCAneHdsY2YnLCAndXNlcicsICdjb2RlJywgJ2EnKQogICAgY3JlYXRlX2luZGV4KHNxbF9saXN0LCAneHdsY2YnLCAnYWRkcmVzcycsICdjaXR5X2lkJywgJ2FkZHJlc3NfY2l0eScpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZS5yZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBiYW5rX2NhcmQgaW4gbmV3X3N5c3RlbV9iYW5rX2NhcmRfbGlzdDoKICAgICAgICAjIEZJWE1FIOebruWJjeeahOi/h+a7pCBOb25l77yM5oCV5Y+vIG51bGwg6Z2e56m66ZmQ5Yi2CiAgICAgICAga2V5cyA9IFtrZXkgZm9yIGtleSBpbiBiYW5rX2NhcmQgaWYgYmFua19jYXJkW2tleV0gb3IgYmFua19jYXJkW2tleV0gPT0gMF0KICAgICAgICB2YWx1ZXMgPSBbZm9ybWF0X3ZhbHVlKGJhbmtfY2FyZFtrZXldKSBmb3Iga2V5IGluIGJhbmtfY2FyZCBpZiBiYW5rX2NhcmRba2V5XSBvciBiYW5rX2NhcmRba2V5XSA9PSAwXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYGJhbmtfY2FyZGAgKHt9KSB2YWx1ZXMgKHt9KTsnLmZvcm1hdCgnLCcuam9pbihrZXlzKSwgdScsJy5qb2luKHZhbHVlcykpCiAgICAgICAgc3FsX2xpc3QuYXBwZW5kKHNxbCkK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3h3bGNmJywgJ3VzZXInLCAnY3JlYXRlX3RpbWUnLCAnYWEnKQogICAgY3JlYXRlX2luZGV4KHNxbF9saXN0LCAneHdsY2YnLCAndXNlcicsICdjb2RlJywgJ2EnKQogICAgY3JlYXRlX2luZGV4KHNxbF9saXN0LCAneHdsY2YnLCAnYWRkcmVzcycsICdjaXR5X2lkJywgJ2FkZHJlc3NfY2l0eScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBiYW5rX2NhcmQgaW4gbmV3X3N5c3RlbV9iYW5rX2NhcmRfbGlzdDoKICAgICAgICAjIEZJWE1FIOebruWJjeeahOi/h+a7pCBOb25l77yM5oCV5Y+vIG51bGwg6Z2e56m66ZmQ5Yi2CiAgICAgICAga2V5cyA9IFtrZXkgZm9yIGtleSBpbiBiYW5rX2NhcmQgaWYgYmFua19jYXJkW2tleV0gb3IgYmFua19jYXJkW2tleV0gPT0gMF0KICAgICAgICB2YWx1ZXMgPSBbZm9ybWF0X3ZhbHVlKGJhbmtfY2FyZFtrZXldKSBmb3Iga2V5IGluIGJhbmtfY2FyZCBpZiBiYW5rX2NhcmRba2V5XSBvciBiYW5rX2NhcmRba2V5XSA9PSAwXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYGJhbmtfY2FyZGAgKHt9KSB2YWx1ZXMgKHt9KTsnLmZvcm1hdCgnLCcuam9pbihrZXlzKSwgdScsJy5qb2luKHZhbHVlcykpCiAgICAgICAgc3FsX2xpc3QuYXBwZW5kKHNxbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2NvZGUgPSBiYW5rX2NhcmQucG9wKCd1c2VyX2NvZGUnKQo=</text>
+        <text encoding="base64">ICAgIGZvciBiYW5rX2NhcmQgaW4gbmV3X3N5c3RlbV9iYW5rX2NhcmRfbGlzdDoKICAgICAgICAjIEZJWE1FIOebruWJjeeahOi/h+a7pCBOb25l77yM5oCV5Y+vIG51bGwg6Z2e56m66ZmQ5Yi2CiAgICAgICAga2V5cyA9IFtrZXkgZm9yIGtleSBpbiBiYW5rX2NhcmQgaWYgYmFua19jYXJkW2tleV0gb3IgYmFua19jYXJkW2tleV0gPT0gMF0KICAgICAgICB2YWx1ZXMgPSBbZm9ybWF0X3ZhbHVlKGJhbmtfY2FyZFtrZXldKSBmb3Iga2V5IGluIGJhbmtfY2FyZCBpZiBiYW5rX2NhcmRba2V5XSBvciBiYW5rX2NhcmRba2V5XSA9PSAwXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYGJhbmtfY2FyZGAgKHt9KSB2YWx1ZXMgKHt9KTsnLmZvcm1hdCgnLCcuam9pbihrZXlzKSwgdScsJy5qb2luKHZhbHVlcykpCiAgICAgICAgc3FsX2xpc3QuYXBwZW5kKHNxbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3VzZXJfY29kZSc6IGlbJ2FjY291bnRfbmFtZSddLAo=</text>
+        <text encoding="base64">ICAgIGZvciBiYW5rX2NhcmQgaW4gbmV3X3N5c3RlbV9iYW5rX2NhcmRfbGlzdDoKICAgICAgICAjIEZJWE1FIOebruWJjeeahOi/h+a7pCBOb25l77yM5oCV5Y+vIG51bGwg6Z2e56m66ZmQ5Yi2CiAgICAgICAga2V5cyA9IFtrZXkgZm9yIGtleSBpbiBiYW5rX2NhcmQgaWYgYmFua19jYXJkW2tleV0gb3IgYmFua19jYXJkW2tleV0gPT0gMF0KICAgICAgICB2YWx1ZXMgPSBbZm9ybWF0X3ZhbHVlKGJhbmtfY2FyZFtrZXldKSBmb3Iga2V5IGluIGJhbmtfY2FyZCBpZiBiYW5rX2NhcmRba2V5XSBvciBiYW5rX2NhcmRba2V5XSA9PSAwXQogICAgICAgIHNxbCA9IHUnaW5zZXJ0IGludG8gYGJhbmtfY2FyZGAgKHt9KSB2YWx1ZXMgKHt9KTsnLmZvcm1hdCgnLCcuam9pbihrZXlzKSwgdScsJy5qb2luKHZhbHVlcykpCiAgICAgICAgc3FsX2xpc3QuYXBwZW5kKHNxbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGEgYW5kIG5vdCBpc2luc3RhbmNlKGRhdGEsIGJhc2VzdHJpbmcpOgogICAgICAgIGZvcm1fZGF0YSA9IGpzb24uZHVtcHMoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2NvZGUgPSBiYW5rX2NhcmQucG9wKCd1c2VyX2NvZGUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQogICAgICAgICAgICBpZiBzZWxmLndtaV9lcnJvcl9jb3VudCA9PSA1OgogICAgICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYudXNlX3BkaCA9IFRydWUKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgJ1t3aW5kb3dzIGJhc2UgY2hlY2tdIHdtaSBjb2xsZWN0IHByb2Nlc3MgaW5mbyBmb3VuZCA1IGNvbnNlY3V0aXZlIGVycm9ycywgc28gY2hhbmdlIHRvIHBkaCBtZXRob2QnLAogICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3VzZXJfY29kZSc6IGlbJ2FjY291bnRfbmFtZSddLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53bWlfZXJyb3JfY291bnQgKz0gMQogICAgICAgICAgICBpZiBzZWxmLndtaV9lcnJvcl9jb3VudCA9PSA1OgogICAgICAgICAgICAgICAgc2VsZi51c2Vfd21pID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYudXNlX3BkaCA9IFRydWUKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgJ1t3aW5kb3dzIGJhc2UgY2hlY2tdIHdtaSBjb2xsZWN0IHByb2Nlc3MgaW5mbyBmb3VuZCA1IGNvbnNlY3V0aXZlIGVycm9ycywgc28gY2hhbmdlIHRvIHBkaCBtZXRob2QnLAogICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPTEp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmIGRhdGEgYW5kIG5vdCBpc2luc3RhbmNlKGRhdGEsIGJhc2VzdHJpbmcpOgogICAgICAgIGZvcm1fZGF0YSA9IGpzb24uZHVtcHMoZGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
