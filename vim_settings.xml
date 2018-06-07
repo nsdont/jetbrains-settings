@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528386863738">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="814" column="61" />
-        <mark key="]" line="814" column="89" />
-        <mark key="^" line="814" column="89" />
-        <mark key="." line="814" column="89" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528389155716">
+        <mark key="'" line="149" column="5" />
+        <mark key="[" line="712" column="30" />
+        <mark key="]" line="712" column="58" />
+        <mark key="^" line="709" column="31" />
+        <mark key="." line="712" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -149,10 +149,6 @@
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/agent.py" timestamp="1527734690303">
-        <mark key="'" line="17" column="85" />
-        <mark key="^" line="17" column="98" />
-      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" timestamp="1527782824559">
         <mark key="'" line="191" column="12" />
       </file>
@@ -210,11 +206,11 @@
         <mark key="^" line="120" column="51" />
         <mark key="." line="120" column="51" />
       </file>
-      <file name="/Python Console" timestamp="1528386346149">
+      <file name="/Python Console" timestamp="1528388152375">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1528388356660">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" timestamp="1526627852761">
         <mark key="'" line="88" column="19" />
@@ -366,14 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="824" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="746" column="58" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="224" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="440" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="846" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="844" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="843" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="842" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="841" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="836" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="835" column="39" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -466,69 +454,70 @@
       <jump line="816" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="905" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="8" column="18" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="914" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="86" column="11" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="688" column="38" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="697" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="708" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="701" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="149" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>convert_trade_code_sql(i['trade_code'])</text>
+        <text>i['amount'] / Decimal('100.0')</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>i['amount'] / Decimal('100.0')</text>
       </register>
       <register name="/" type="4">
-        <text>Chen</text>
+        <text encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>convert_trade_code_sql(i['trade_code'])</text>
+        <text>i['amount'] / 100.0 + amount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOaKlei1hOiusOW9lQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmFrZS5waG9uZV9udW1iZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOi/mOasvuiusOW9lQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmFrZS1mYWN0b3J5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGEgYW5kIG5vdCBpc2luc3RhbmNlKGRhdGEsIGJhc2VzdHJpbmcpOgogICAgICAgIGZvcm1fZGF0YSA9IGpzb24uZHVtcHMoZGF0YSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29kZSc6IGlbJ2NvZGUnXSwKICAgICAgICAgICAgICAgICAgICAnYmlkX2lkJzogY29udmVydF90cmFkZV9jb2RlX3NxbChpWyd0cmFkZV9jb2RlJ10pLAogICAgICAgICAgICAgICAgICAgICdiaWRfbmFtZSc6IGlbJ3RyYWRlX25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCc6IGNvbnZlcnRfYWNjb3VudF9uYW1lX3NxbChpWydhY2NvdW50X25hbWUnXSwgcGx1cz0nYW5kIGlzX2JpbmRfYmFua19jYXJkID0gMScpLAogICAgICAgICAgICAgICAgICAgICdhbW91bnQnOiBpWydhbW91bnQnXSAvIDEwMC4wLAogICAgICAgICAgICAgICAgICAgICd1bml0JzogaVsnYW1vdW50J10sCiAgICAgICAgICAgICAgICAgICAgJ2NyZWF0ZV90aW1lJzogaVsnY3JlYXRlX2RhdGUnXSwKICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJzogY29udmVydF9vbGRfc3lzdGVtX2ludmVzdF9zdGF0dXMoaVsnc3RhdHVzJ10pLAogICAgICAgICAgICAgICAgICAgICdhcHBseV90aW1lJzogaVsndHJhZGVfZWZmZWN0aXZlX2RhdGUnXSwKICAgICAgICAgICAgICAgICAgICAndGFyZ2V0X3RpbWUnOiBpWyd0cmFkZV9leHBpcmVfZGF0ZSddLAogICAgICAgICAgICAgICAgICAgICd0YXJnZXRfYW1vdW50Jzogc3VtX2ludGVyZXN0KGlbJ3RyYWRlX2RldGFpbF9pZCddKSAvIERlY2ltYWwoMTAwLjApLAogICAgICAgICAgICAgICAgICAgICdkYXlfbGltaXQnOiBpWyd0aW1lX2xpbWl0J10gaWYgaVsndGltZV9saW1pdF91bml0J10gPT0gJ0QnIGVsc2UgaVsndGltZV9saW1pdCddICogMzAsCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiB0cmFuc2Zlcl9iaWRfdHlwZV9tYXBbaVsnYml6X3R5cGUnXV0sCiAgICAgICAgICAgICAgICAgICAgJ3JlYWxfbmFtZSc6IGlbJ3JlYWxfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICdtb2JpbGUnOiBpWydtb2JpbGUnXSwKICAgICAgICAgICAgICAgICAgICAndHlqJzogMCwKICAgICAgICAgICAgICAgICAgICAnanhxJzogMCwKICAgICAgICAgICAgICAgICAgICAndHpoYic6IDAsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmFrZS5waG9uZV9udW1iZXIoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZmFrZS1mYWN0b3J5Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZS5yZXMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>Chen</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</last-search>
       <last-offset />
-      <last-pattern>Chen</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZXZlbnRzXD4=</entry>
-        <entry encoding="base64">XDxDaGVja1w+</entry>
-        <entry>logger</entry>
-        <entry encoding="base64">XDx3bWlfZXJyb3JfY291bnRcPg==</entry>
-        <entry encoding="base64">XDxyZWNvcmRfd21pX3J1bl9mYWlsZWRcPg==</entry>
-        <entry encoding="base64">XDxmb3JtX2RhdGFcPg==</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1VTRVJcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxiYW5rX2xpc3RcPg==</entry>
         <entry>log</entry>
@@ -542,6 +531,13 @@
         <entry encoding="base64">XDxDaGVuTHVcPg==</entry>
         <entry>chenlu</entry>
         <entry>Chen</entry>
+        <entry encoding="base64">XDxGYWtlclw+</entry>
+        <entry encoding="base64">XDxmYWtlXD4=</entry>
+        <entry>TODO</entry>
+        <entry encoding="base64">XDx3aXRoZHJhd1w+</entry>
+        <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
+        <entry encoding="base64">XDxhbW91bnRcPg==</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
