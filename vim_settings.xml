@@ -325,7 +325,7 @@
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1528441976724">
+      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/centos64/manifest.yaml" timestamp="1528524277677">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="2" />
         <mark key="^" line="12" column="1" />
