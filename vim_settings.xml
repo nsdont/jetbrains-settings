@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528526198507">
-        <mark key="'" line="859" column="28" />
-        <mark key="[" line="726" column="57" />
-        <mark key="]" line="726" column="73" />
-        <mark key="." line="726" column="73" />
-        <mark key="^" line="726" column="73" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528528543435">
+        <mark key="'" line="755" column="21" />
+        <mark key="[" line="265" column="18" />
+        <mark key="]" line="262" column="12" />
+        <mark key="." line="262" column="12" />
+        <mark key="^" line="262" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -346,11 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="832" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="805" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="753" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="660" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="645" column="31" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="656" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="729" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="800" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -446,16 +441,21 @@
       <jump line="50" column="2" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="93" column="19" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="858" column="28" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="938" column="51" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="622" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="244" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="665" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="755" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>repay_date</text>
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>repay_date</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
-        <text>SELECT_ALL_GIFT_CASH</text>
+        <text encoding="base64">XDxuZXdfc3lzdGVtX3NoYXJlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncmVwYXknOiAn6L+Y5qy+JywK</text>
@@ -497,19 +497,16 @@
       </register>
     </registers>
     <search>
-      <last-search>SELECT_ALL_GIFT_CASH</last-search>
+      <last-search encoding="base64">XDxuZXdfc3lzdGVtX3NoYXJlXD4=</last-search>
       <last-offset />
-      <last-pattern>SELECT_ALL_GIFT_CASH</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdfc3lzdGVtX3NoYXJlXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGYWtlclw+</entry>
-        <entry encoding="base64">XDxmYWtlXD4=</entry>
-        <entry>TODO</entry>
         <entry encoding="base64">XDx3aXRoZHJhd1w+</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
@@ -527,6 +524,9 @@
         <entry>info</entry>
         <entry>info4</entry>
         <entry>SELECT_ALL_GIFT_CASH</entry>
+        <entry>status</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
+        <entry encoding="base64">XDxuZXdfc3lzdGVtX3NoYXJlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
