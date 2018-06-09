@@ -29,12 +29,12 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528529600212">
-        <mark key="'" line="577" column="36" />
-        <mark key="[" line="242" column="31" />
-        <mark key="]" line="242" column="31" />
-        <mark key="." line="242" column="31" />
-        <mark key="^" line="242" column="31" />
+      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528531638397">
+        <mark key="'" line="719" column="36" />
+        <mark key="[" line="719" column="63" />
+        <mark key="]" line="719" column="63" />
+        <mark key="." line="719" column="63" />
+        <mark key="^" line="719" column="63" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -346,12 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="13" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="609" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="813" column="37" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="355" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="366" column="14" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="827" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="144" column="60" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="147" column="22" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="507" column="108" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -422,7 +416,6 @@
       <jump line="708" column="33" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="701" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="149" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="921" column="25" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="533" column="49" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="937" column="59" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="532" column="66" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -446,19 +439,26 @@
       <jump line="244" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="632" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="577" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="714" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="713" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="920" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="718" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="151" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="921" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
+      <jump line="719" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>actual_repay_date</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</text>
+        <text encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmVwYXknOiAn6L+Y5qy+JywK</text>
+      <register name="0" type="4">
+        <text>actual_repay_date</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,9 +497,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</last-search>
+      <last-search encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -507,9 +507,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
-        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
         <entry>Chen</entry>
         <entry>ChenLu</entry>
         <entry encoding="base64">XDxDaGVuTHVcPg==</entry>
@@ -527,6 +525,8 @@
         <entry encoding="base64">XDxuZXdfc3lzdGVtX3NoYXJlXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX1NIQVJFXD4=</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0RFUE9TSVRcPg==</entry>
+        <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
+        <entry encoding="base64">XDxTRUxFQ1RfQUxMX1JFUEFZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
