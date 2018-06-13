@@ -296,6 +296,12 @@
         <mark key="." line="159" column="51" />
         <mark key="^" line="159" column="51" />
       </file>
+      <file name="$USER_HOME$/source/uyun/scripts/zgh/cassandra_check_ping.py" timestamp="1528872501896">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="301" column="22" />
+        <mark key="^" line="301" column="22" />
+        <mark key="." line="301" column="22" />
+      </file>
       <file name="/Dummy.txt" timestamp="1528356477988">
         <mark key="[" line="0" column="0" />
       </file>
