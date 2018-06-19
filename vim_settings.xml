@@ -144,7 +144,6 @@
         <mark key="." line="576" column="53" />
         <mark key="^" line="576" column="53" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/src/redis.ts" timestamp="1528718141033" />
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/module/config.py" timestamp="1527782824559">
         <mark key="'" line="191" column="12" />
       </file>
@@ -303,6 +302,7 @@
       <file name="/Dummy.txt" timestamp="1528356477988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1529394866607" />
       <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1527232786665">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="119" column="43" />
@@ -338,6 +338,7 @@
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
         <mark key="'" line="37" column="25" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/bin/ant.py" timestamp="1529395268290" />
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
         <mark key="[" line="74" column="18" />
