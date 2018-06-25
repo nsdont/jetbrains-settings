@@ -140,8 +140,8 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1529392007980">
-        <mark key="'" line="588" column="8" />
+      <file name="$USER_HOME$/source/uyun/monitor/monitoragent.py" timestamp="1529917456225">
+        <mark key="'" line="179" column="9" />
         <mark key="[" line="576" column="45" />
         <mark key="]" line="576" column="53" />
         <mark key="." line="576" column="53" />
@@ -164,12 +164,11 @@
         <mark key="^" line="199" column="34" />
         <mark key="." line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1529573481064">
-        <mark key="'" line="387" column="31" />
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="0" />
-        <mark key="^" line="465" column="53" />
-        <mark key="." line="467" column="0" />
+      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1529917896807">
+        <mark key="[" line="472" column="0" />
+        <mark key="]" line="472" column="0" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="472" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/yarn.lock" timestamp="1523982562051">
         <mark key="'" line="307" column="58" />
@@ -366,10 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="938" column="51" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="622" column="57" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="665" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="755" column="21" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="614" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="244" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="632" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -466,6 +461,10 @@
       <jump line="121" column="29" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="183" column="17" filename="$USER_HOME$/source/uyun/monitor/checks.d/tcp_check.py" />
       <jump line="12" column="4" filename="$USER_HOME$/source/uyun/monitor/checks.d/tcp_check.py" />
+      <jump line="566" column="30" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="179" column="9" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="536" column="51" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
+      <jump line="22" column="12" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -475,7 +474,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbWl0X3RocmVhZCA9IHRocmVhZGluZy5UaHJlYWQodGFyZ2V0PWZvcndhcmRfbWV0cmljLCBuYW1lPSdlbWl0X3RvX2ZvcndhcmRlcicpCiAgICAgICAgZW1pdF90aHJlYWQuc3RhcnQoKQo=</text>
@@ -512,17 +511,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gen.</entry>
         <entry>for</entry>
         <entry>metric</entry>
         <entry>emit</entry>
@@ -542,6 +540,7 @@
         <entry>use</entry>
         <entry>search</entry>
         <entry encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
