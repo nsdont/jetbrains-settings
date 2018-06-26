@@ -164,7 +164,8 @@
         <mark key="^" line="199" column="34" />
         <mark key="." line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1529917896807">
+      <file name="$USER_HOME$/source/uyun/monitor/win32/agent.py" timestamp="1529988068468">
+        <mark key="'" line="19" column="29" />
         <mark key="[" line="472" column="0" />
         <mark key="]" line="472" column="0" />
         <mark key="^" line="4" column="53" />
@@ -369,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="713" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="920" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="718" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="151" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -469,6 +469,7 @@
       <jump line="41" column="47" filename="$USER_HOME$/source/uyun/monitor/updater_process.py" />
       <jump line="44" column="47" filename="$USER_HOME$/source/uyun/monitor/updater_process.py" />
       <jump line="111" column="12" filename="$USER_HOME$/source/uyun/monitor/checks/updater.py" />
+      <jump line="19" column="29" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -478,7 +479,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text encoding="base64">XDxDb2xsZWN0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>client_file_v2</text>
@@ -515,17 +516,16 @@
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search encoding="base64">XDxDb2xsZWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern encoding="base64">XDxDb2xsZWN0b3JcPg==</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3luY19odHRwX2VtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</entry>
         <entry>async</entry>
         <entry>run</entry>
@@ -545,6 +545,7 @@
         <entry>client</entry>
         <entry>autosync</entry>
         <entry>open</entry>
+        <entry encoding="base64">XDxDb2xsZWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
