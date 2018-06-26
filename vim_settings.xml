@@ -299,10 +299,14 @@
         <mark key="^" line="301" column="22" />
         <mark key="." line="301" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528963307274">
+      <file name="/Dummy.txt" timestamp="1529889013637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1529394866607" />
+      <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1529889060649">
+        <mark key="'" line="25" column="69" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="31" column="48" />
+      </file>
       <file name="$USER_HOME$/source/uyun/scripts/qxj/uncompress.py" timestamp="1527232786665">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="119" column="43" />
@@ -338,7 +342,6 @@
       <file name="$USER_HOME$/source/uyun/scripts/qxj/charts/node_modules/echarts/index.js" timestamp="1525833501166">
         <mark key="'" line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/source/uyun/dispatcher/bin/ant.py" timestamp="1529395268290" />
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
         <mark key="[" line="74" column="18" />
@@ -348,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="52" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
-      <jump line="419" column="48" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="425" column="43" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="427" column="42" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
       <jump line="355" column="0" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
@@ -448,19 +449,21 @@
       <jump line="936" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="40" column="12" filename="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" />
       <jump line="378" column="6" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
+      <jump line="48" column="69" filename="$USER_HOME$/source/uyun/dispatcher/build.yaml" />
+      <jump line="25" column="69" filename="$USER_HOME$/source/uyun/dispatcher/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3h3bGNmJywgJ3VzZXInLCAnY29kZScsICdhJykK</text>
+        <text encoding="base64">ICAgIC0gcmVxdWlyZSBnaXRAZ2l0LnV5dW5zb2Z0LmNuOmFudG1hbi9hZ2VudC5naXQge3N9L2FnZW50IGJyYW5jaD17cHJvamVjdF9icmFuY2h9CiAgICAtIGNvcHkge3N9L2FnZW50L2ZyYW1ld29yayB7dH0KICAgIC0gY29weSB7c30vYWdlbnQvYmluL2luc3RhbGwuc2gge3R9L3JlcG8KICAgIC0gcmVtb3ZlIHt0fS9mcmFtZXdvcmsvYWN0aW9ucy91bmluc3RhbGwucHkKICAgIC0gcmVtb3ZlIHt0fS9mcmFtZXdvcmsvYWN0aW9ucy9ib290c3RyYXAucHkKICAgIC0gcGlwX2luc3RhbGwgcHl0aG9uLWxpbnV4LTY0IHtzfS9hZ2VudC9yZXF1aXJlbWVudHMvcHJvZHVjdGlvbi50eHQgdXNlX2NhY2hlPXt1c2VfY2FjaGV9CiAgICAtIGNoYW5fbW9kIHt0fSBzZW5zaXRpdmU9LnBlbSwua2V5LC5jb25mLC5jcnQK</text>
       </register>
       <register name="-" type="4">
         <text>user_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcGlDaGVja1J1bkhhbmRsZXJcPg==</text>
+        <text encoding="base64">XDxwcm9qZWN0X2JyYW5jaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9pbmRleChzcWxfbGlzdCwgJ3h3bGNmJywgJ3VzZXInLCAnY29kZScsICdhJykK</text>
+        <text encoding="base64">ICAgIC0gcmVxdWlyZSBnaXRAZ2l0LnV5dW5zb2Z0LmNuOmFudG1hbi9hZ2VudC5naXQge3N9L2FnZW50IGJyYW5jaD17cHJvamVjdF9icmFuY2h9CiAgICAtIGNvcHkge3N9L2FnZW50L2ZyYW1ld29yayB7dH0KICAgIC0gY29weSB7c30vYWdlbnQvYmluL2luc3RhbGwuc2gge3R9L3JlcG8KICAgIC0gcmVtb3ZlIHt0fS9mcmFtZXdvcmsvYWN0aW9ucy91bmluc3RhbGwucHkKICAgIC0gcmVtb3ZlIHt0fS9mcmFtZXdvcmsvYWN0aW9ucy9ib290c3RyYXAucHkKICAgIC0gcGlwX2luc3RhbGwgcHl0aG9uLWxpbnV4LTY0IHtzfS9hZ2VudC9yZXF1aXJlbWVudHMvcHJvZHVjdGlvbi50eHQgdXNlX2NhY2hlPXt1c2VfY2FjaGV9CiAgICAtIGNoYW5fbW9kIHt0fSBzZW5zaXRpdmU9LnBlbSwua2V5LC5jb25mLC5jcnQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQU5EIGEuc3RhdHVzID0gMQo=</text>
@@ -499,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcGlDaGVja1J1bkhhbmRsZXJcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9qZWN0X2JyYW5jaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcGlDaGVja1J1bkhhbmRsZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9qZWN0X2JyYW5jaFw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -509,7 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3R1YWxfcmVwYXlfZGF0ZVw+</entry>
         <entry encoding="base64">XDxTRUxFQ1RfQUxMX0lOVkVTVFw+</entry>
         <entry encoding="base64">XDxOQU1FX01BUFw+</entry>
         <entry>info</entry>
@@ -529,6 +531,7 @@
         <entry encoding="base64">XDxyZXBheV9zdGF0dXNfbWFwXD4=</entry>
         <entry>system.disk</entry>
         <entry encoding="base64">XDxBcGlDaGVja1J1bkhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxwcm9qZWN0X2JyYW5jaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
