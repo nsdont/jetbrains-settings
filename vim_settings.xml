@@ -299,7 +299,7 @@
         <mark key="^" line="301" column="22" />
         <mark key="." line="301" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529889013637">
+      <file name="/Dummy.txt" timestamp="1529992186256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/build.yaml" timestamp="1529889060649">
@@ -321,6 +321,7 @@
         <mark key="." line="148" column="109" />
         <mark key="^" line="148" column="109" />
       </file>
+      <file name="$USER_HOME$/source/uyun/dispatcher/config.template.yaml" timestamp="1529992174616" />
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/info.py" timestamp="1524468463618">
         <mark key="'" line="23" column="23" />
       </file>
