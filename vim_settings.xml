@@ -356,12 +356,12 @@
       <file name="$USER_HOME$/source/uyun/monitor/requirements.txt" timestamp="1529485412689">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1529994855363">
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1529996386965">
         <mark key="'" line="218" column="16" />
-        <mark key="[" line="215" column="32" />
-        <mark key="]" line="215" column="32" />
-        <mark key="." line="215" column="32" />
-        <mark key="^" line="119" column="46" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="26" />
+        <mark key="^" line="51" column="26" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
@@ -474,11 +474,11 @@
       <jump line="218" column="16" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdXBlclw+</text>
