@@ -356,11 +356,12 @@
       <file name="$USER_HOME$/source/uyun/monitor/requirements.txt" timestamp="1529485412689">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1529991045683">
-        <mark key="[" line="428" column="14" />
-        <mark key="]" line="428" column="15" />
-        <mark key="." line="428" column="15" />
-        <mark key="^" line="428" column="15" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" timestamp="1529994239238">
+        <mark key="'" line="401" column="8" />
+        <mark key="[" line="215" column="32" />
+        <mark key="]" line="215" column="32" />
+        <mark key="." line="215" column="32" />
+        <mark key="^" line="119" column="46" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/utils/smt.ts" timestamp="1523992633728">
         <mark key="'" line="85" column="33" />
@@ -371,13 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="920" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="718" column="36" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="151" column="5" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="966" column="16" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="451" column="15" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="457" column="61" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="630" column="8" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="758" column="4" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="1007" column="10" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
       <jump line="537" column="0" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
@@ -471,16 +465,23 @@
       <jump line="44" column="47" filename="$USER_HOME$/source/uyun/monitor/updater_process.py" />
       <jump line="111" column="12" filename="$USER_HOME$/source/uyun/monitor/checks/updater.py" />
       <jump line="19" column="29" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
+      <jump line="215" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="171" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="119" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="428" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
+      <jump line="401" column="8" filename="$USER_HOME$/source/uyun/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Memory</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>Memory</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb2xsZWN0b3JcPg==</text>
+        <text encoding="base64">XDxzdXBlclw+</text>
       </register>
       <register name="0" type="4">
         <text>qszcounter</text>
@@ -517,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb2xsZWN0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxzdXBlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb2xsZWN0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdXBlclw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -527,8 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwX2VtaXR0ZXJcPg==</entry>
-        <entry>async</entry>
         <entry>run</entry>
         <entry encoding="base64">XDx0aHJlYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxmb3J3YXJkX3F1ZXVlXD4=</entry>
@@ -547,6 +546,8 @@
         <entry>autosync</entry>
         <entry>open</entry>
         <entry encoding="base64">XDxDb2xsZWN0b3JcPg==</entry>
+        <entry encoding="base64">XDxpbml0X3BkaF9jaGVja1w+</entry>
+        <entry encoding="base64">XDxzdXBlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
