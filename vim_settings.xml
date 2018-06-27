@@ -22,16 +22,12 @@
         <mark key="." line="127" column="62" />
         <mark key="^" line="127" column="62" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1527169947874">
-        <mark key="'" line="161" column="18" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="32" />
+      <file name="$USER_HOME$/source/uyun/scripts/kairosdb.py" timestamp="1530090784648">
+        <mark key="'" line="171" column="25" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="109" column="20" />
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
-      </file>
-      <file name="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" timestamp="1528697023928">
-        <mark key="'" line="936" column="30" />
-        <mark key="^" line="673" column="66" />
       </file>
       <file name="/a.dummy" timestamp="1527062092717">
         <mark key="[" line="0" column="0" />
@@ -76,10 +72,10 @@
         <mark key="." line="193" column="0" />
         <mark key="^" line="120" column="40" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1528106534718">
+      <file name="$USER_HOME$/source/uyun/scripts/monitor_os.py" timestamp="1530089615705">
         <mark key="'" line="514" column="16" />
-        <mark key="[" line="408" column="53" />
-        <mark key="]" line="408" column="53" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="453" column="0" />
         <mark key="." line="408" column="53" />
         <mark key="^" line="408" column="51" />
       </file>
@@ -120,6 +116,12 @@
         <mark key="]" line="12" column="41" />
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" timestamp="1530091737152">
+        <mark key="'" line="15" column="69" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/tcp_check.py" timestamp="1529915531522">
         <mark key="'" line="12" column="4" />
@@ -315,9 +317,9 @@
       <file name="/Dummy.txt" timestamp="1530069606968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/install.py" timestamp="1530086313685">
-        <mark key="[" line="105" column="52" />
-        <mark key="]" line="107" column="61" />
+      <file name="$USER_HOME$/source/uyun/monitor/build/install.py" timestamp="1530090678797">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="107" column="62" />
         <mark key="." line="107" column="61" />
         <mark key="^" line="107" column="61" />
       </file>
@@ -378,17 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="936" column="30" filename="$USER_HOME$/source/crowd/wlcf/transfer/sql_transfer.py" />
-      <jump line="40" column="12" filename="$USER_HOME$/source/uyun/monitor/checks.d/disk.py" />
-      <jump line="378" column="6" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="563" column="12" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="590" column="45" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="588" column="8" filename="$USER_HOME$/source/uyun/monitor/monitoragent.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/source/uyun/monitor/requirements.txt" />
-      <jump line="21" column="0" filename="$USER_HOME$/source/uyun/monitor/requirements.txt" />
-      <jump line="273" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="379" column="55" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="24" column="20" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="30" column="27" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="223" column="5" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="244" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -478,66 +469,73 @@
       <jump line="57" column="21" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="78" column="30" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="94" column="26" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="825" column="9" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="824" column="8" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="791" column="4" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="2" column="30" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="108" column="9" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="172" column="85" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="171" column="25" filename="$USER_HOME$/source/uyun/scripts/kairosdb.py" />
+      <jump line="100" column="117" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
+      <jump line="15" column="69" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>ant/manager/api/v1/agent/module/uninstall</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text encoding="base64">XDx1cHN0cmVhbVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>qszcounter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVybCA9ICd7fS9hbnQvbWFuYWdlci9hcGkvdjEvYWdlbnQvbW9kdWxlL3VuaW5zdGFsbCcuZm9ybWF0KGRpc2NvbmZbJ3Vwc3RyZWFtJ10pCiAgICBwYXlsb2FkID0gewogICAgICAgICJtb2R1bGVzIjogWyJsb2NhbC1tb25pdG9yIl0sCiAgICAgICAgIm5vZGVJZHMiOiBnZXRfbm9kZWlkc19mcm9tX2lwcygpCiAgICB9CiAgICBzZXNzaW9uID0gZ2V0X3JlcXVlc3RzX3Nlc3Npb24oKQogICAgcmVzcG9uc2UgPSBzZXNzaW9uLnBvc3QodXJsLCBqc29uPXBheWxvYWQpCiAgICByZXN1bHQgPSByZXNwb25zZS5qc29uKCkKICAgIGxvZ2dlci5pbmZvKCdyZXF1ZXN0IHJlc3VsdDoge30nLmZvcm1hdChyZXN1bHQpKQogICAgbG9nZ2VyLmluZm8odSdyZXF1ZXN0IG1zZzoge30nLmZvcm1hdChyZXN1bHQuZ2V0KCdtZXNzYWdlJykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUVUUklDX1JFU1VMVF9QQVRIID0gb3MucGF0aC5qb2luKEJBU0VfRElSLCAnbWV0cmljX3Jlc3VsdC50eHQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlX2J5dGVzX2NvdW50ZXIgPSBXaW5QREhDb3VudGVyKCdNZW1vcnknLCAnQ2FjaGUgQnl0ZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIpCiAgICAgICAgc2VsZi5jb21taXR0ZWRfYnl0ZXNfY291bnRlciA9IFdpblBESENvdW50ZXIoJ01lbW9yeScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NvbW1pdHRlZCBCeXRlcycsIHNlbGYubG9nZ2VyKQogICAgICAgIHNlbGYucG9vbF9wYWdlZF9ieXRlc19jb3VudGVyID0gV2luUERIQ291bnRlcigKICAgICAgICAgICAgJ01lbW9yeScsICdQb29sIFBhZ2VkIEJ5dGVzJywgc2VsZi5sb2dnZXIpCiAgICAgICAgc2VsZi5wb29sX25vbl9wYWdlZF9ieXRlc19jb3VudGVyID0gV2luUERIQ291bnRlcigKICAgICAgICAgICAgJ01lbW9yeScsICdQb29sIE5vbnBhZ2VkIEJ5dGVzJywgc2VsZi5sb2dnZXIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdyZXN1bHQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmR3YnBzY291bnRlciA9IFdpblBESENvdW50ZXIoJ0xvZ2ljYWxEaXNrJywgJ0Rpc2sgV3JpdGUgQnl0ZXMvc2VjJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyKQogICAgICAgIHNlbGYuZHdwc2NvdW50ZXIgPSBXaW5QREhDb3VudGVyKCdMb2dpY2FsRGlzaycsICdEaXNrIFdyaXRlcy9zZWMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlcikKICAgICAgICBzZWxmLmRyYnBzY291bnRlciA9IFdpblBESENvdW50ZXIoJ0xvZ2ljYWxEaXNrJywgJ0Rpc2sgUmVhZCBCeXRlcy9zZWMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIpCiAgICAgICAgc2VsZi5kcnBzY291bnRlciA9IFdpblBESENvdW50ZXIoJ0xvZ2ljYWxEaXNrJywgJ0Rpc2sgUmVhZHMvc2VjJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIpCiAgICAgICAgc2VsZi5xc3pjb3VudGVyID0gV2luUERIQ291bnRlcignTG9naWNhbERpc2snLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0N1cnJlbnQgRGlzayBRdWV1ZSBMZW5ndGgnLCBsb2dnZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bXByb2NzID0gV2luUERIQ291bnRlcignU3lzdGVtJywgJ1Byb2Nlc3NlcycsIHNlbGYubG9nZ2VyKQogICAgICAgIHNlbGYucHFsID0gV2luUERIQ291bnRlcignU3lzdGVtJywgJ1Byb2Nlc3NvciBRdWV1ZSBMZW5ndGgnLCBzZWxmLmxvZ2dlcikK</text>
+        <text encoding="base64">ICAgICAgICAiQ29va2llIjogInRva2VuPTNkZjdhZmRhYzI1MjAzMDZjNGZmNmZiMTMzNGUxNWQ5ZTI5MGRiZjE2OGYyODEyZTk2OGQyMWNhMjY3OWY3NmMiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlX2J5dGVzX2NvdW50ZXIgPSBXaW5QREhDb3VudGVyKCdNZW1vcnknLCAnQ2FjaGUgQnl0ZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyKQogICAgICAgIHNlbGYuY29tbWl0dGVkX2J5dGVzX2NvdW50ZXIgPSBXaW5QREhDb3VudGVyKCdNZW1vcnknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdDb21taXR0ZWQgQnl0ZXMnLCBsb2dnZXIpCiAgICAgICAgc2VsZi5wb29sX3BhZ2VkX2J5dGVzX2NvdW50ZXIgPSBXaW5QREhDb3VudGVyKAogICAgICAgICAgICAnTWVtb3J5JywgJ1Bvb2wgUGFnZWQgQnl0ZXMnLCBsb2dnZXIpCiAgICAgICAgc2VsZi5wb29sX25vbl9wYWdlZF9ieXRlc19jb3VudGVyID0gV2luUERIQ291bnRlcigKICAgICAgICAgICAgJ01lbW9yeScsICdQb29sIE5vbnBhZ2VkIEJ5dGVzJywgbG9nZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBxbCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm51bXByb2NzID0gV2luUERIQ291bnRlcignU3lzdGVtJywgJ1Byb2Nlc3NlcycsIGxvZ2dlcikK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2luZGV4L21lcmdlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search encoding="base64">XDx1cHN0cmVhbVw+</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern encoding="base64">XDx1cHN0cmVhbVw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gen</entry>
-        <entry>tornado</entry>
-        <entry>gen\.</entry>
-        <entry>yield</entry>
         <entry>thread</entry>
         <entry>--use</entry>
         <entry>local</entry>
@@ -554,6 +552,10 @@
         <entry encoding="base64">XDxyZWNvcmRfd21pX3J1bl9mYWlsZWRcPg==</entry>
         <entry>excat</entry>
         <entry>search</entry>
+        <entry encoding="base64">XDxleHRyYV9mdW5jc1w+</entry>
+        <entry encoding="base64">XDxmdW5jX25hbWVcPg==</entry>
+        <entry>apikey</entry>
+        <entry encoding="base64">XDx1cHN0cmVhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
