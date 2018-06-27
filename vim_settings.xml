@@ -117,11 +117,12 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" timestamp="1530091737152">
+      <file name="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" timestamp="1530095387582">
         <mark key="'" line="15" column="69" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="122" column="42" />
+        <mark key="]" line="122" column="53" />
+        <mark key="." line="122" column="53" />
+        <mark key="^" line="122" column="53" />
       </file>
       <file name="$USER_HOME$/source/uyun/monitor/checks.d/tcp_check.py" timestamp="1529915531522">
         <mark key="'" line="12" column="4" />
@@ -482,17 +483,17 @@
       <jump line="15" column="69" filename="$USER_HOME$/source/uyun/scripts/general_ant/manager_cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>ant/manager/api/v1/agent/module/uninstall</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICd7fS9hbnQvbWFuYWdlci9hcGkvdjEvYWdlbnQvbW9kdWxlL3VuaW5zdGFsbCcuZm9ybWF0KGRpc2NvbmZbJ3Vwc3RyZWFtJ10pCiAgICBwYXlsb2FkID0gewogICAgICAgICJtb2R1bGVzIjogWyJsb2NhbC1tb25pdG9yIl0sCiAgICAgICAgIm5vZGVJZHMiOiBnZXRfbm9kZWlkc19mcm9tX2lwcygpCiAgICB9CiAgICBzZXNzaW9uID0gZ2V0X3JlcXVlc3RzX3Nlc3Npb24oKQogICAgcmVzcG9uc2UgPSBzZXNzaW9uLnBvc3QodXJsLCBqc29uPXBheWxvYWQpCiAgICByZXN1bHQgPSByZXNwb25zZS5qc29uKCkKICAgIGxvZ2dlci5pbmZvKCdyZXF1ZXN0IHJlc3VsdDoge30nLmZvcm1hdChyZXN1bHQpKQogICAgbG9nZ2VyLmluZm8odSdyZXF1ZXN0IG1zZzoge30nLmZvcm1hdChyZXN1bHQuZ2V0KCdtZXNzYWdlJykpKQo=</text>
+      <register name="0" type="4">
+        <text>?apikey=e10adc3949ba59abbe56e057f2gg88dd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICcnCg==</text>
