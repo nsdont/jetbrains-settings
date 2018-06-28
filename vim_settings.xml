@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/uyun/monitor/build.yaml" timestamp="1530173253814">
+      <file name="$USER_HOME$/source/uyun/monitor/build.yaml" timestamp="1530176809054">
         <mark key="'" line="370" column="40" />
-        <mark key="[" line="499" column="99" />
-        <mark key="]" line="499" column="100" />
-        <mark key="." line="499" column="100" />
-        <mark key="^" line="499" column="100" />
+        <mark key="[" line="411" column="63" />
+        <mark key="]" line="411" column="79" />
+        <mark key="." line="411" column="63" />
+        <mark key="^" line="411" column="62" />
       </file>
       <file name="/fragment.js" timestamp="1523989656050">
         <mark key="[" line="0" column="0" />
@@ -505,8 +505,8 @@
       <jump line="145" column="32" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nLmluZm8oIltwcm9jZXNzXSBzZWFyY2ggcHJvY2VzcyByZXN1bHQ6IHt9IHt9IHt9IHt9Ii5mb3JtYXQobmFtZSwgbWF0Y2hpbmdfcGlkcywgZm91bmQsIGZvdW5kX2FueSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>{build_version}.</text>
       </register>
       <register name="-" type="4">
         <text>search_string</text>
@@ -514,8 +514,8 @@
       <register name="/" type="4">
         <text>break</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZy5pbmZvKCJbcHJvY2Vzc10gc2VhcmNoIHByb2Nlc3MgcmVzdWx0OiB7fSB7fSB7fSB7fSIuZm9ybWF0KG5hbWUsIG1hdGNoaW5nX3BpZHMsIGZvdW5kLCBmb3VuZF9hbnkpKQo=</text>
+      <register name="0" type="4">
+        <text>{build_version}.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nLmluZm8oIltwcm9jZXNzXSBzZWFyY2ggcHJvY2VzcyByZXN1bHQ6IHt9IHt9IHt9IHt9Ii5mb3JtYXQobmFtZSwgbWF0Y2hpbmdfcGlkcywgZm91bmQsIGZvdW5kX2FueSkpCg==</text>
