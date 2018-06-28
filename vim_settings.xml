@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/output/project_and_trade.sql" timestamp="1526271082612">
         <mark key="'" line="2116" column="0" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/suse10_32/manifest.yaml" timestamp="1530173160996">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/source/uyun/monitor/build/linux_build/suse10_32/manifest.yaml" timestamp="1530175804899">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/source/uyun/dispatcher/src/smt.ts" timestamp="1528718127098">
         <mark key="'" line="237" column="2" />
