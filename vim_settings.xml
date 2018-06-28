@@ -134,8 +134,8 @@
         <mark key="." line="29" column="88" />
         <mark key="^" line="29" column="88" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks.d/process.py" timestamp="1530166597037">
-        <mark key="'" line="185" column="8" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks.d/process.py" timestamp="1530167932523">
+        <mark key="'" line="84" column="45" />
         <mark key="[" line="135" column="17" />
         <mark key="]" line="135" column="39" />
       </file>
@@ -383,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="177" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="268" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="320" column="12" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -483,6 +482,7 @@
       <jump line="232" column="20" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="21" column="5" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="185" column="8" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="84" column="45" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -492,7 +492,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</text>
+        <text encoding="base64">XDxleGFjdF9tYXRjaFw+</text>
       </register>
       <register name="0" type="4">
         <text>system.processes.status</text>
@@ -529,9 +529,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxleGFjdF9tYXRjaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxleGFjdF9tYXRjaFw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>-1</last-dir>
@@ -539,7 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>use</entry>
         <entry encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</entry>
         <entry>update</entry>
         <entry>client</entry>
@@ -559,6 +558,7 @@
         <entry>cpu.pct</entry>
         <entry encoding="base64">XDxjcHVcPg==</entry>
         <entry encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</entry>
+        <entry encoding="base64">XDxleGFjdF9tYXRjaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
