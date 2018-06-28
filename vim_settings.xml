@@ -134,8 +134,10 @@
         <mark key="." line="29" column="88" />
         <mark key="^" line="29" column="88" />
       </file>
-      <file name="$USER_HOME$/source/uyun/monitor/checks.d/process.py" timestamp="1530165308459">
-        <mark key="'" line="289" column="26" />
+      <file name="$USER_HOME$/source/uyun/monitor/checks.d/process.py" timestamp="1530166597037">
+        <mark key="'" line="185" column="8" />
+        <mark key="[" line="135" column="17" />
+        <mark key="]" line="135" column="39" />
       </file>
       <file name="$USER_HOME$/source/crowd/wlcf/transfer/requirements.txt" timestamp="1528386121290">
         <mark key="[" line="1" column="0" />
@@ -381,11 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="276" column="15" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="307" column="49" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="331" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="102" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="177" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="268" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -481,19 +478,24 @@
       <jump line="144" column="0" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="285" column="38" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="289" column="26" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="98" column="23" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="238" column="20" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="232" column="20" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="21" column="5" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="185" column="8" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>system.processes.status</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>?apikey=e10adc3949ba59abbe56e057f2gg88dd</text>
+        <text>system.processes.status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICcnCg==</text>
@@ -527,19 +529,16 @@
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>thread</entry>
-        <entry>--use</entry>
-        <entry>local</entry>
         <entry>use</entry>
         <entry encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</entry>
         <entry>update</entry>
@@ -557,6 +556,9 @@
         <entry>apikey</entry>
         <entry encoding="base64">XDx1cHN0cmVhbVw+</entry>
         <entry>search</entry>
+        <entry>cpu.pct</entry>
+        <entry encoding="base64">XDxjcHVcPg==</entry>
+        <entry encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
