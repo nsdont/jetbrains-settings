@@ -383,20 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="268" column="43" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="320" column="12" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="29" column="22" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="3" column="5" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="2" column="7" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="23" column="40" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="34" column="39" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="342" column="69" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
-      <jump line="54" column="15" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="145" column="20" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="124" column="12" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="126" column="12" filename="$USER_HOME$/source/uyun/monitor/checks/collector.py" />
-      <jump line="19" column="20" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="22" column="20" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="184" column="16" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="480" column="20" filename="$USER_HOME$/source/uyun/monitor/win32/agent.py" />
@@ -483,19 +469,33 @@
       <jump line="21" column="5" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="185" column="8" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
       <jump line="84" column="45" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="72" column="37" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="340" column="100" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="341" column="36" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="342" column="45" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="345" column="33" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="370" column="35" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="374" column="0" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="383" column="36" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="384" column="45" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="387" column="33" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="412" column="35" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="459" column="82" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="332" column="0" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
+      <jump line="382" column="42" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>system.processes.status</text>
+        <text>64</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGFjdF9tYXRjaFw+</text>
+        <text>suse10</text>
       </register>
-      <register name="0" type="4">
-        <text>system.processes.status</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3VzZTEwXzY0OgogIG5hbWU6IGxvY2FsLW1vbml0b3IKICBzdGVwczoKICAgIC0gbWFrZWRpcnMge3R9CiAgICAtIG1ha2VkaXJzIHt0fS9hZ2VudAogICAgLSBtYWtlZGlycyB7dH0vY29uZgogICAgLSBtYWtlZGlycyB7dH0vbG9ncwogICAgLSBtYWtlZGlycyB7dH0vcnVuCiAgICAtIGRvd25sb2FkIGh0dHA6Ly8xMC4xLjEwMC4xMDAvaW50ZXJwcmV0ZXIvcHl0aG9uL21vbml0b3ItcHl0aG9uLXN1c2UxMC02NC50Z3oge3N9L21vbml0b3ItcHl0aG9uLXN1c2UxMC02NC50Z3oKICAgIC0gdW5jb21wcmVzcyB7c30vbW9uaXRvci1weXRob24tc3VzZTEwLTY0LnRneiB7dH0KICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvc3VzZTEwLWJpbi50Z3oge3R9CiAgICAtIGNobW9kIDc1MCAtUiB7dH0vZW1iZWRkZWQvYmluCiAgICAtIGNvcHkge3N9L2J1aWxkL2luc3RhbGwucHkge3R9L2luc3RhbGwucHkKICAgIC0gY29weSB7c30vYnVpbGQvbGludXhfYnVpbGQvc3VzZTEwXzY0L21hbmlmZXN0LnlhbWwge3R9L21hbmlmZXN0LnlhbWwKICAgIC0gY29weSB7c30vY29uZi5kIHt0fQogICAgLSBjb3B5IHtzfS9jaGVja3MuZCB7dH0vYWdlbnQKICAgIC0gY29weSB7c30vY2hlY2tzIHt0fS9hZ2VudAogICAgLSBjb3B5IHtzfS9zY3JpcHRzIHt0fS9hZ2VudAogICAgLSBjb3B5IHtzfS91dGlscyB7dH0vYWdlbnQKICAgIC0gY29weSB7c30vZGF0YW1vbml0b3JfdGVtcGxhdGUge3R9L2NvbmYvZGF0YW1vbml0b3JfdGVtcGxhdGUKICAgIC0gY29weSB7c30vZGF0YW1vbml0b3ItY2VydC5wZW0ge3R9L2FnZW50L2RhdGFtb25pdG9yLWNlcnQucGVtCiAgICAtIGNvcHkge3N9L3NjcmlwdF9tb25pdG9yX3Byb2Nlc3MucHkge3R9L2FnZW50L3NjcmlwdF9tb25pdG9yX3Byb2Nlc3MucHkKICAgIC0gY29weSB7c30vdXBkYXRlcl9wcm9jZXNzLnB5IHt0fS9hZ2VudC91cGRhdGVyX3Byb2Nlc3MucHkKICAgIC0gY29weSB7c30vbW9uaXRvcnN0YXRzZC5weSB7dH0vYWdlbnQvbW9uaXRvcnN0YXRzZC5weQogICAgLSBjb3B5IHtzfS9tb25pdG9yYWdlbnQucHkge3R9L2FnZW50L21vbml0b3JhZ2VudC5weQogICAgLSBjb3B5IHtzfS90cmFuc2FjdGlvbi5weSB7dH0vYWdlbnQvdHJhbnNhY3Rpb24ucHkKICAgIC0gY29weSB7c30vYWdncmVnYXRvci5weSB7dH0vYWdlbnQvYWdncmVnYXRvci5weQogICAgLSBjb3B5IHtzfS9qbXhmZXRjaC5weSB7dH0vYWdlbnQvam14ZmV0Y2gucHkKICAgIC0gY29weSB7c30vZ3JhcGhpdGUucHkge3R9L2FnZW50L2dyYXBoaXRlLnB5CiAgICAtIGNvcHkge3N9L21vZHVsZXMucHkge3R9L2FnZW50L21vZHVsZXMucHkKICAgIC0gY29weSB7c30vZW1pdHRlci5weSB7dH0vYWdlbnQvZW1pdHRlci5weQogICAgLSBjb3B5IHtzfS9jb25maWcucHkge3R9L2FnZW50L2NvbmZpZy5weQogICAgLSBjb3B5IHtzfS9kYWVtb24ucHkge3R9L2FnZW50L2RhZW1vbi5weQogICAgLSBjb3B5IHtzfS9nb2hhaS5weSB7dH0vYWdlbnQvZ29oYWkucHkKICAgIC0gY29weSB7c30vYWdlbnQucHkge3R9L2FnZW50L2FnZW50LnB5CiAgICAtIGNvcHkge3N9L3V0aWwucHkge3R9L2FnZW50L3V0aWwucHkKICAgIC0gY29weSB7c30vY3VzdG9tX3NjcmlwdC5weSB7dH0vYWdlbnQvY3VzdG9tX3NjcmlwdC5weQogICAgLSBjaGFuX21vZCB7dH0gc2Vuc2l0aXZlPS5wZW0sLmtleSwuY29uZiwuY3J0CiAgICAtIGNvbXByZXNzIHt0fSB7cHJvamVjdF9uYW1lfSAtc3VzZTEwLTY0LXtwcm9qZWN0X3ZlcnNpb259LnRhci5negogICAgLSByZW1vdmUge3R9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICcnCg==</text>
@@ -529,18 +529,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGFjdF9tYXRjaFw+</last-search>
+      <last-search>suse10</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGFjdF9tYXRjaFw+</last-pattern>
+      <last-pattern>suse10</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRVJWSUNFX0NIRUNLX05BTUVcPg==</entry>
-        <entry>update</entry>
         <entry>client</entry>
         <entry>autosync</entry>
         <entry>open</entry>
@@ -559,6 +557,8 @@
         <entry encoding="base64">XDxjcHVcPg==</entry>
         <entry encoding="base64">XDxnZXRfcHJvY2Vzc19zdGF0ZVw+</entry>
         <entry encoding="base64">XDxleGFjdF9tYXRjaFw+</entry>
+        <entry>suse</entry>
+        <entry>suse10</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
