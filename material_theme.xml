@@ -1,8 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.1.2-2018.1" />
+    <option name="version" value="2.1.5.1" />
     <option name="selectedTheme" value="MONOKAI" />
-    <option name="userId" value="aa60f71:1641b2c25b9:-7fff" />
-    <option name="allowDataCollection" value="true" />
   </component>
 </application>
