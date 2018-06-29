@@ -354,6 +354,9 @@
       <file name="$USER_HOME$/source/uyun/monitor/datamonitor_template" timestamp="1527218814218">
         <mark key="'" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/source/uyun/monitor/gohai.py" timestamp="1530251036731">
+        <mark key="'" line="113" column="8" />
+      </file>
       <file name="$USER_HOME$/source/uyun/agent/framework/actions/install.py" timestamp="1525684573513">
         <mark key="'" line="126" column="18" />
       </file>
@@ -396,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="38" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="50" column="13" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="62" column="44" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
       <jump line="63" column="13" filename="$USER_HOME$/source/uyun/monitor/agent.py" />
@@ -496,6 +498,7 @@
       <jump line="414" column="7" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="370" column="40" filename="$USER_HOME$/source/uyun/monitor/build.yaml" />
       <jump line="145" column="32" filename="$USER_HOME$/source/uyun/monitor/checks.d/process.py" />
+      <jump line="113" column="8" filename="$USER_HOME$/source/uyun/monitor/gohai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -505,7 +508,7 @@
         <text>search_string</text>
       </register>
       <register name="/" type="4">
-        <text>break</text>
+        <text>info.</text>
       </register>
       <register name="0" type="4">
         <text>{build_version}.</text>
@@ -542,9 +545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>break</last-search>
+      <last-search>info.</last-search>
       <last-offset />
-      <last-pattern>break</last-pattern>
+      <last-pattern>info.</last-pattern>
       <last-replace>merges</last-replace>
       <last-substitute>index</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0X3BkaF9jaGVja1w+</entry>
         <entry encoding="base64">XDxzdXBlclw+</entry>
         <entry>reset</entry>
         <entry encoding="base64">XDxyZWNvcmRfd21pX3J1bl9mYWlsZWRcPg==</entry>
@@ -572,6 +574,7 @@
         <entry>64</entry>
         <entry>self.log</entry>
         <entry>break</entry>
+        <entry>info.</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
