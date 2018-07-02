@@ -6,14 +6,43 @@
       <file name="/Dummy.txt" timestamp="1530516651469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/scripts/Pipfile" timestamp="1530521323529">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="18" />
+      </file>
+      <file name="F:/scripts/requirements.txt" timestamp="1530521535362">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cHN1dGlsID0gIj09NS40LjEuNCIKc3lzdXRpbCA9ICI9PTAuNi4wIgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHN1dGlsCnN5c3V0aWwK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>=</text>
+      </register>
+      <register name="-" type="4">
+        <text>=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
