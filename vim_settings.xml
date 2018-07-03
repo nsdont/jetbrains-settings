@@ -35,12 +35,21 @@
       <file name="F:/monitor/checks/collector.py" timestamp="1530599897632">
         <mark key="'" line="214" column="13" />
       </file>
-      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530604072158">
-        <mark key="'" line="163" column="8" />
+      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530609657288">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="354" column="49" />
+        <mark key="^" line="353" column="24" />
+        <mark key="." line="353" column="24" />
       </file>
       <file name="F:/monitor/util.py" timestamp="1530599086243" />
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
+      </file>
+      <file name="F:/monitor/checks.d/tcp_check.py" timestamp="1530609416348">
+        <mark key="'" line="99" column="17" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="180" column="21" />
       </file>
       <file name="F:/scripts/zgh/cassandra_check_ping.py" timestamp="1530583212038">
         <mark key="[" line="14" column="5" />
@@ -93,19 +102,24 @@
       <jump line="270" column="23" filename="F:/monitor/checks.d/http_check.py" />
       <jump line="317" column="31" filename="F:/monitor/checks.d/http_check.py" />
       <jump line="163" column="8" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="20" column="12" filename="F:/monitor/checks.d/tcp_check.py" />
+      <jump line="117" column="34" filename="F:/monitor/checks.d/tcp_check.py" />
+      <jump line="177" column="13" filename="F:/monitor/checks.d/tcp_check.py" />
+      <jump line="99" column="17" filename="F:/monitor/checks.d/tcp_check.py" />
+      <jump line="162" column="0" filename="F:/monitor/checks.d/http_check.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>run</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhdWdlKAogICAgICAgICAgICAnbmV0d29yay5odHRwLmNhbl9jb25uZWN0JywKICAgICAgICAgICAgdmFsdWU9MSBpZiBzdGF0dXMgPT0gU3RhdHVzLlVQIGVsc2UgMCwK</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>tcp</text>
       </register>
       <register name="/" type="4">
-        <text>_check</text>
+        <text>gauge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdbbWFpbl0gcmVhZHkgcnVuJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhdWdlKAogICAgICAgICAgICAnbmV0d29yay5odHRwLmNhbl9jb25uZWN0JywKICAgICAgICAgICAgdmFsdWU9MSBpZiBzdGF0dXMgPT0gU3RhdHVzLlVQIGVsc2UgMCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -139,9 +153,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_check</last-search>
+      <last-search>gauge</last-search>
       <last-offset />
-      <last-pattern>_check</last-pattern>
+      <last-pattern>gauge</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -156,7 +170,6 @@
         <entry encoding="base64">XDxTQ19TVEFUVVNcPg==</entry>
         <entry encoding="base64">XDw6XD4=</entry>
         <entry encoding="base64">XDxzY19uYW1lXD4=</entry>
-        <entry>gauge</entry>
         <entry>nerwork</entry>
         <entry>Network</entry>
         <entry>network</entry>
@@ -165,6 +178,9 @@
         <entry>event</entry>
         <entry encoding="base64">XDxfY2hlY2tcPg==</entry>
         <entry>_check</entry>
+        <entry>status</entry>
+        <entry>gague</entry>
+        <entry>gauge</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
