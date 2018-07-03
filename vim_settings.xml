@@ -15,6 +15,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/monitor/requirements.txt" timestamp="1530587737650" />
+      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530589225955">
+        <mark key="'" line="221" column="24" />
+      </file>
       <file name="/Python Console" timestamp="1530587844883">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,6 +36,9 @@
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="13" />
       </file>
+      <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
+        <mark key="'" line="144" column="0" />
+      </file>
       <file name="F:/scripts/requirements.txt" timestamp="1530583817805">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="7" column="0" />
@@ -49,6 +55,15 @@
       <jump line="55" column="0" filename="F:/scripts/zgh/check_mysql_last_collect_time.py" />
       <jump line="60" column="4" filename="F:/scripts/zgh/check_mysql_last_collect_time.py" />
       <jump line="138" column="40" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="76" column="0" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="335" column="12" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="151" column="38" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="174" column="87" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="220" column="17" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="240" column="17" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="20" column="12" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="221" column="24" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="144" column="0" filename="F:/monitor/datamonitor_template" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -56,6 +71,9 @@
       </register>
       <register name="-" type="4">
         <text>run</text>
+      </register>
+      <register name="/" type="4">
+        <text>open</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdbbWFpbl0gcmVhZHkgcnVuJykK</text>
@@ -92,11 +110,23 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>open</last-search>
+      <last-offset />
+      <last-pattern>open</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>guage</entry>
+        <entry>gu</entry>
+        <entry>self.g</entry>
+        <entry>gauge</entry>
+        <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
+        <entry>network</entry>
+        <entry>openapi</entry>
+        <entry>open</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
@@ -118,6 +148,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
