@@ -15,8 +15,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/monitor/requirements.txt" timestamp="1530587737650" />
-      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530589225955">
-        <mark key="'" line="221" column="24" />
+      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530596769120">
+        <mark key="'" line="221" column="17" />
       </file>
       <file name="/Python Console" timestamp="1530587844883">
         <mark key="[" line="0" column="0" />
@@ -62,8 +62,11 @@
       <jump line="220" column="17" filename="F:/monitor/checks.d/http_check.py" />
       <jump line="240" column="17" filename="F:/monitor/checks.d/http_check.py" />
       <jump line="20" column="12" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="221" column="24" filename="F:/monitor/checks.d/http_check.py" />
       <jump line="144" column="0" filename="F:/monitor/datamonitor_template" />
+      <jump line="114" column="4" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="342" column="11" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="357" column="0" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="221" column="17" filename="F:/monitor/checks.d/http_check.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -73,7 +76,7 @@
         <text>run</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text>gauge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdbbWFpbl0gcmVhZHkgcnVuJykK</text>
@@ -110,9 +113,9 @@
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search>gauge</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern>gauge</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -121,11 +124,14 @@
         <entry>guage</entry>
         <entry>gu</entry>
         <entry>self.g</entry>
-        <entry>gauge</entry>
         <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
         <entry>network</entry>
         <entry>openapi</entry>
         <entry>open</entry>
+        <entry encoding="base64">XDxTQ19TVEFUVVNcPg==</entry>
+        <entry encoding="base64">XDw6XD4=</entry>
+        <entry encoding="base64">XDxzY19uYW1lXD4=</entry>
+        <entry>gauge</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
