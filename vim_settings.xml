@@ -15,8 +15,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/monitor/requirements.txt" timestamp="1530587737650" />
-      <file name="/Python Console" timestamp="1530587844883">
+      <file name="/Python Console" timestamp="1530703965977">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
+        <mark key="'" line="26" column="13" />
       </file>
       <file name="F:/scripts/Pipfile" timestamp="1530521323529">
         <mark key="[" line="6" column="0" />
@@ -108,6 +111,8 @@
       <jump line="177" column="13" filename="F:/monitor/checks.d/tcp_check.py" />
       <jump line="99" column="17" filename="F:/monitor/checks.d/tcp_check.py" />
       <jump line="162" column="0" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="52" column="69" filename="F:/agent/framework/actions/show_u_log.py" />
+      <jump line="26" column="13" filename="F:/agent/framework/actions/show_u_log.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -220,6 +225,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
@@ -228,6 +236,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
