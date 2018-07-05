@@ -55,6 +55,9 @@
         <mark key="]" line="179" column="49" />
         <mark key="." line="179" column="49" />
       </file>
+      <file name="F:/monitor/agent.py" timestamp="1530759330393">
+        <mark key="'" line="35" column="39" />
+      </file>
       <file name="F:/scripts/zgh/cassandra_check_ping.py" timestamp="1530583212038">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="13" />
@@ -64,6 +67,9 @@
       </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
         <mark key="'" line="144" column="0" />
+      </file>
+      <file name="F:/monitor/monitoragent.py" timestamp="1530759466814">
+        <mark key="'" line="10" column="10" />
       </file>
       <file name="F:/scripts/requirements.txt" timestamp="1530583817805">
         <mark key="[" line="8" column="6" />
@@ -121,6 +127,14 @@
       <jump line="157" column="24" filename="F:/monitor/checks.d/process.py" />
       <jump line="287" column="8" filename="F:/monitor/checks.d/process.py" />
       <jump line="96" column="39" filename="F:/monitor/checks.d/process.py" />
+      <jump line="35" column="39" filename="F:/monitor/agent.py" />
+      <jump line="31" column="22" filename="F:/monitor/monitoragent.py" />
+      <jump line="120" column="23" filename="F:/monitor/monitoragent.py" />
+      <jump line="124" column="44" filename="F:/monitor/monitoragent.py" />
+      <jump line="575" column="12" filename="F:/monitor/monitoragent.py" />
+      <jump line="577" column="38" filename="F:/monitor/monitoragent.py" />
+      <jump line="694" column="24" filename="F:/monitor/monitoragent.py" />
+      <jump line="10" column="10" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -130,7 +144,7 @@
         <text>tcp</text>
       </register>
       <register name="/" type="4">
-        <text>search process</text>
+        <text>foreground</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmdhdWdlKAogICAgICAgICAgICAnbmV0d29yay5odHRwLmNhbl9jb25uZWN0JywKICAgICAgICAgICAgdmFsdWU9MSBpZiBzdGF0dXMgPT0gU3RhdHVzLlVQIGVsc2UgMCwK</text>
@@ -167,20 +181,14 @@
       </register>
     </registers>
     <search>
-      <last-search>search process</last-search>
+      <last-search>foreground</last-search>
       <last-offset />
-      <last-pattern>search process</last-pattern>
+      <last-pattern>foreground</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
-        <entry>openapi</entry>
-        <entry>open</entry>
-        <entry encoding="base64">XDxTQ19TVEFUVVNcPg==</entry>
-        <entry encoding="base64">XDw6XD4=</entry>
-        <entry encoding="base64">XDxzY19uYW1lXD4=</entry>
         <entry>nerwork</entry>
         <entry>Network</entry>
         <entry>network</entry>
@@ -195,6 +203,12 @@
         <entry>num</entry>
         <entry>search</entry>
         <entry>search process</entry>
+        <entry encoding="base64">XDxmb3JlZ3JvdW5kXD4=</entry>
+        <entry>start</entry>
+        <entry>.start</entry>
+        <entry>\start</entry>
+        <entry>for</entry>
+        <entry>foreground</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
