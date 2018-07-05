@@ -59,6 +59,9 @@
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="13" />
       </file>
+      <file name="F:/monitor/checks.d/process.py" timestamp="1530758832126">
+        <mark key="'" line="96" column="39" />
+      </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
         <mark key="'" line="144" column="0" />
       </file>
@@ -114,6 +117,10 @@
       <jump line="52" column="69" filename="F:/agent/framework/actions/show_u_log.py" />
       <jump line="26" column="13" filename="F:/agent/framework/actions/show_u_log.py" />
       <jump line="322" column="0" filename="F:/monitor/checks.d/http_check.py" />
+      <jump line="6" column="33" filename="F:/monitor/checks.d/process.py" />
+      <jump line="157" column="24" filename="F:/monitor/checks.d/process.py" />
+      <jump line="287" column="8" filename="F:/monitor/checks.d/process.py" />
+      <jump line="96" column="39" filename="F:/monitor/checks.d/process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -123,7 +130,7 @@
         <text>tcp</text>
       </register>
       <register name="/" type="4">
-        <text>gauge</text>
+        <text>search process</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmdhdWdlKAogICAgICAgICAgICAnbmV0d29yay5odHRwLmNhbl9jb25uZWN0JywKICAgICAgICAgICAgdmFsdWU9MSBpZiBzdGF0dXMgPT0gU3RhdHVzLlVQIGVsc2UgMCwK</text>
@@ -160,17 +167,14 @@
       </register>
     </registers>
     <search>
-      <last-search>gauge</last-search>
+      <last-search>search process</last-search>
       <last-offset />
-      <last-pattern>gauge</last-pattern>
+      <last-pattern>search process</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>guage</entry>
-        <entry>gu</entry>
-        <entry>self.g</entry>
         <entry encoding="base64">XDxuZXR3b3JrXD4=</entry>
         <entry>openapi</entry>
         <entry>open</entry>
@@ -188,6 +192,9 @@
         <entry>status</entry>
         <entry>gague</entry>
         <entry>gauge</entry>
+        <entry>num</entry>
+        <entry>search</entry>
+        <entry>search process</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
