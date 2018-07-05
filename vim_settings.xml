@@ -28,8 +28,12 @@
         <mark key="." line="53" column="95" />
         <mark key="^" line="53" column="95" />
       </file>
-      <file name="F:/monitor/checks/system/unix.py" timestamp="1530599841127">
-        <mark key="[" line="824" column="0" />
+      <file name="F:/monitor/checks/system/unix.py" timestamp="1530773874764">
+        <mark key="'" line="824" column="0" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="F:/agent/framework/__main__.py" timestamp="1530771251771" />
       <file name="F:/monitor/checks/collector.py" timestamp="1530599897632">
@@ -46,6 +50,7 @@
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
       </file>
+      <file name="F:/monitor/build.yaml" timestamp="1530773891374" />
       <file name="F:/monitor/checks.d/tcp_check.py" timestamp="1530613701443">
         <mark key="'" line="99" column="17" />
         <mark key="[" line="179" column="48" />
@@ -63,12 +68,6 @@
       </file>
       <file name="F:/monitor/monitoragent.py" timestamp="1530759466814">
         <mark key="'" line="10" column="10" />
-      </file>
-      <file name="F:/scripts/requirements.txt" timestamp="1530583817805">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -128,6 +127,7 @@
       <jump line="577" column="38" filename="F:/monitor/monitoragent.py" />
       <jump line="694" column="24" filename="F:/monitor/monitoragent.py" />
       <jump line="10" column="10" filename="F:/monitor/monitoragent.py" />
+      <jump line="824" column="0" filename="F:/monitor/checks/system/unix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
