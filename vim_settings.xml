@@ -57,8 +57,8 @@
         <mark key="]" line="179" column="49" />
         <mark key="." line="179" column="49" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1530759330393">
-        <mark key="'" line="35" column="39" />
+      <file name="F:/monitor/agent.py" timestamp="1530781681805">
+        <mark key="'" line="313" column="28" />
       </file>
       <file name="F:/monitor/checks.d/process.py" timestamp="1530758832126">
         <mark key="'" line="96" column="39" />
@@ -128,6 +128,7 @@
       <jump line="694" column="24" filename="F:/monitor/monitoragent.py" />
       <jump line="10" column="10" filename="F:/monitor/monitoragent.py" />
       <jump line="824" column="0" filename="F:/monitor/checks/system/unix.py" />
+      <jump line="313" column="28" filename="F:/monitor/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -137,7 +138,7 @@
         <text>tcp</text>
       </register>
       <register name="/" type="4">
-        <text>foreground</text>
+        <text>thread</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmdhdWdlKAogICAgICAgICAgICAnbmV0d29yay5odHRwLmNhbl9jb25uZWN0JywKICAgICAgICAgICAgdmFsdWU9MSBpZiBzdGF0dXMgPT0gU3RhdHVzLlVQIGVsc2UgMCwK</text>
@@ -174,15 +175,14 @@
       </register>
     </registers>
     <search>
-      <last-search>foreground</last-search>
+      <last-search>thread</last-search>
       <last-offset />
-      <last-pattern>foreground</last-pattern>
+      <last-pattern>thread</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nerwork</entry>
         <entry>Network</entry>
         <entry>network</entry>
         <entry encoding="base64">XDxieXRlc19yY3ZkXD4=</entry>
@@ -202,6 +202,7 @@
         <entry>\start</entry>
         <entry>for</entry>
         <entry>foreground</entry>
+        <entry>thread</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
