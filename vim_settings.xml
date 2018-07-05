@@ -21,10 +21,6 @@
       <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
         <mark key="'" line="26" column="13" />
       </file>
-      <file name="F:/scripts/Pipfile" timestamp="1530521323529">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="18" />
-      </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="53" column="71" />
@@ -35,6 +31,7 @@
       <file name="F:/monitor/checks/system/unix.py" timestamp="1530599841127">
         <mark key="[" line="824" column="0" />
       </file>
+      <file name="F:/agent/framework/__main__.py" timestamp="1530771251771" />
       <file name="F:/monitor/checks/collector.py" timestamp="1530599897632">
         <mark key="'" line="214" column="13" />
       </file>
@@ -57,10 +54,6 @@
       </file>
       <file name="F:/monitor/agent.py" timestamp="1530759330393">
         <mark key="'" line="35" column="39" />
-      </file>
-      <file name="F:/scripts/zgh/cassandra_check_ping.py" timestamp="1530583212038">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="13" />
       </file>
       <file name="F:/monitor/checks.d/process.py" timestamp="1530758832126">
         <mark key="'" line="96" column="39" />
