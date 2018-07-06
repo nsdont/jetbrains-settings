@@ -3,18 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/monitor/checks/system/win32.py" timestamp="1530599930614">
-        <mark key="'" line="138" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530610386380">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/monitor/requirements.txt" timestamp="1530587737650" />
       <file name="/Python Console" timestamp="1530703965977">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
-        <mark key="'" line="26" column="13" />
       </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
@@ -30,18 +20,7 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/agent/framework/__main__.py" timestamp="1530771251771" />
-      <file name="F:/monitor/checks/collector.py" timestamp="1530599897632">
-        <mark key="'" line="214" column="13" />
-      </file>
-      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530842623131">
-        <mark key="'" line="149" column="62" />
-        <mark key="[" line="219" column="54" />
-        <mark key="]" line="219" column="81" />
-        <mark key="." line="219" column="81" />
-        <mark key="^" line="219" column="81" />
-      </file>
-      <file name="F:/monitor/util.py" timestamp="1530599086243" />
+      <file name="F:/monitor/build/linux_build/debian64/manifest.yaml" timestamp="1530860282396" />
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
       </file>
@@ -55,11 +34,11 @@
         <mark key="]" line="179" column="49" />
         <mark key="." line="179" column="49" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1530784814968">
-        <mark key="'" line="178" column="14" />
-      </file>
       <file name="F:/monitor/checks.d/process.py" timestamp="1530758832126">
         <mark key="'" line="96" column="39" />
+      </file>
+      <file name="F:/monitor/script_monitor_process.py" timestamp="1530860424866">
+        <mark key="'" line="18" column="34" />
       </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
         <mark key="'" line="144" column="0" />
@@ -69,6 +48,35 @@
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
+      </file>
+      <file name="F:/monitor/checks/system/win32.py" timestamp="1530599930614">
+        <mark key="'" line="138" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530859801742">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/monitor/requirements.txt" timestamp="1530587737650" />
+      <file name="F:/monitor/checks/script_monitor.py" timestamp="1530860672404">
+        <mark key="'" line="24" column="10" />
+      </file>
+      <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
+        <mark key="'" line="26" column="13" />
+      </file>
+      <file name="F:/agent/framework/__main__.py" timestamp="1530771251771" />
+      <file name="F:/monitor/checks/collector.py" timestamp="1530599897632">
+        <mark key="'" line="214" column="13" />
+      </file>
+      <file name="F:/monitor/checks.d/http_check.py" timestamp="1530842623131">
+        <mark key="'" line="149" column="62" />
+        <mark key="[" line="219" column="54" />
+        <mark key="]" line="219" column="81" />
+        <mark key="." line="219" column="81" />
+        <mark key="^" line="219" column="81" />
+      </file>
+      <file name="F:/monitor/util.py" timestamp="1530599086243" />
+      <file name="F:/monitor/custom_script.py" timestamp="1530860907860" />
+      <file name="F:/monitor/agent.py" timestamp="1530784814968">
+        <mark key="'" line="178" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -136,6 +144,8 @@
       <jump line="75" column="16" filename="F:/monitor/checks.d/ntp.py" />
       <jump line="72" column="27" filename="F:/monitor/checks.d/ntp.py" />
       <jump line="78" column="23" filename="F:/monitor/checks.d/ntp.py" />
+      <jump line="18" column="34" filename="F:/monitor/script_monitor_process.py" />
+      <jump line="24" column="10" filename="F:/monitor/checks/script_monitor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -145,7 +155,7 @@
         <text>'--------------------------------'</text>
       </register>
       <register name="/" type="4">
-        <text>ntp offset</text>
+        <text encoding="base64">XDxTY3JpcHRNb25pdG9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
@@ -182,15 +192,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ntp offset</last-search>
+      <last-search encoding="base64">XDxTY3JpcHRNb25pdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern>ntp offset</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTY3JpcHRNb25pdG9yXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>event</entry>
         <entry encoding="base64">XDxfY2hlY2tcPg==</entry>
         <entry>_check</entry>
         <entry>status</entry>
@@ -210,6 +219,7 @@
         <entry>ntp_check</entry>
         <entry>ntp</entry>
         <entry>ntp offset</entry>
+        <entry encoding="base64">XDxTY3JpcHRNb25pdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
