@@ -66,8 +66,12 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
         <mark key="'" line="144" column="0" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1530759466814">
+      <file name="F:/monitor/monitoragent.py" timestamp="1530844349618">
         <mark key="'" line="10" column="10" />
+        <mark key="[" line="213" column="18" />
+        <mark key="]" line="213" column="27" />
+        <mark key="^" line="213" column="27" />
+        <mark key="." line="213" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -134,17 +138,17 @@
       <jump line="149" column="62" filename="F:/monitor/checks.d/http_check.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuaW5mbygnW2h0dHAgY2hlY2tdIHt9IHt9Jy5mb3JtYXQoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>'--------------------------------'</text>
       </register>
       <register name="-" type="4">
-        <text>tcp</text>
+        <text>'--------------------------------'</text>
       </register>
       <register name="/" type="4">
         <text>response_time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdWdlKAogICAgICAgICAgICAnbmV0d29yay5odHRwLmNhbl9jb25uZWN0JywKICAgICAgICAgICAgdmFsdWU9MSBpZiBzdGF0dXMgPT0gU3RhdHVzLlVQIGVsc2UgMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuaW5mbygnW2h0dHAgY2hlY2tdIHt9IHt9Jy5mb3JtYXQoKSkK</text>
