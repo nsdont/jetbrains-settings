@@ -62,19 +62,15 @@
       <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
         <mark key="'" line="26" column="13" />
       </file>
-      <file name="F:/monitor/checks/collector.py" timestamp="1531116769817">
-        <mark key="'" line="714" column="25" />
-        <mark key="[" line="646" column="8" />
-        <mark key="]" line="646" column="3" />
-        <mark key="^" line="646" column="3" />
-        <mark key="." line="646" column="3" />
-      </file>
       <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
         <mark key="'" line="149" column="62" />
         <mark key="[" line="219" column="54" />
         <mark key="]" line="219" column="81" />
         <mark key="." line="219" column="81" />
         <mark key="^" line="219" column="81" />
+      </file>
+      <file name="F:/monitor/checks/check_status.py" timestamp="1531120430192">
+        <mark key="'" line="119" column="34" />
       </file>
       <file name="F:/monitor/agent.py" timestamp="1530784814968">
         <mark key="'" line="178" column="14" />
@@ -161,6 +157,17 @@
       <jump line="496" column="12" filename="F:/monitor/checks/collector.py" />
       <jump line="699" column="18" filename="F:/monitor/checks/collector.py" />
       <jump line="721" column="25" filename="F:/monitor/checks/collector.py" />
+      <jump line="622" column="15" filename="F:/monitor/checks/collector.py" />
+      <jump line="4" column="0" filename="F:/monitor/checks/collector.py" />
+      <jump line="0" column="18" filename="F:/monitor/checks/check_status.py" />
+      <jump line="115" column="29" filename="F:/monitor/checks/check_status.py" />
+      <jump line="201" column="31" filename="F:/monitor/checks/check_status.py" />
+      <jump line="117" column="12" filename="F:/monitor/checks/check_status.py" />
+      <jump line="212" column="16" filename="F:/monitor/checks/check_status.py" />
+      <jump line="210" column="35" filename="F:/monitor/checks/check_status.py" />
+      <jump line="208" column="12" filename="F:/monitor/checks/check_status.py" />
+      <jump line="121" column="16" filename="F:/monitor/checks/check_status.py" />
+      <jump line="119" column="34" filename="F:/monitor/checks/check_status.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -170,7 +177,7 @@
         <text>'--------------------------------'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lem9uZXNcPg==</text>
+        <text encoding="base64">XDxmXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
@@ -207,18 +214,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lem9uZXNcPg==</last-search>
+      <last-search encoding="base64">XDxmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lem9uZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gague</entry>
-        <entry>gauge</entry>
-        <entry>num</entry>
-        <entry>search</entry>
         <entry>search process</entry>
         <entry encoding="base64">XDxmb3JlZ3JvdW5kXD4=</entry>
         <entry>start</entry>
@@ -235,6 +238,10 @@
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>timezone</entry>
         <entry encoding="base64">XDx0aW1lem9uZXNcPg==</entry>
+        <entry>pick</entry>
+        <entry>pi</entry>
+        <entry>pickle</entry>
+        <entry encoding="base64">XDxmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
