@@ -68,8 +68,10 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="F:/monitor/checks/collector.py" timestamp="1531106134069">
-        <mark key="'" line="496" column="12" />
+      <file name="F:/monitor/checks/collector.py" timestamp="1531106925971">
+        <mark key="[" line="699" column="0" />
+        <mark key="]" line="699" column="0" />
+        <mark key="." line="699" column="0" />
       </file>
       <file name="F:/monitor/checks.d/http_check.py" timestamp="1530842623131">
         <mark key="'" line="149" column="62" />
@@ -156,67 +158,66 @@
       <jump line="18" column="34" filename="F:/monitor/script_monitor_process.py" />
       <jump line="24" column="10" filename="F:/monitor/checks/script_monitor.py" />
       <jump line="285" column="0" filename="F:/monitor/checks/collector.py" />
-      <jump line="699" column="48" filename="F:/monitor/checks/collector.py" />
       <jump line="591" column="14" filename="F:/monitor/checks/collector.py" />
       <jump line="567" column="14" filename="F:/monitor/checks/collector.py" />
       <jump line="497" column="52" filename="F:/monitor/checks/collector.py" />
       <jump line="490" column="51" filename="F:/monitor/checks/collector.py" />
       <jump line="496" column="12" filename="F:/monitor/checks/collector.py" />
+      <jump line="699" column="18" filename="F:/monitor/checks/collector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBzdXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRhZGF0YVsidGltZXpvbmVzIl0gPSBzYW5pdGl6ZV90em5hbWUodGltZS50em5hbWUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>'--------------------------------'</text>
       </register>
       <register name="/" type="4">
-        <text>timezone</text>
+        <text encoding="base64">XDx0aW1lem9uZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBzdXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRhZGF0YVsidGltZXpvbmVzIl0gPSBzYW5pdGl6ZV90em5hbWUodGltZS50em5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5c3V0aWwK</text>
+        <text encoding="base64">aW1wb3J0IHBzdXRpbAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHN5c3V0aWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykKICAgICAgICAgICAgcHJpbnQoc2VsZi5fZGF0YSkKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
+        <text encoding="base64">aW1wb3J0IHN5c3V0aWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuaW5mbygnW2h0dHAgY2hlY2tdIHt9IHt9Jy5mb3JtYXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykKICAgICAgICAgICAgcHJpbnQoc2VsZi5fZGF0YSkKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZy5pbmZvKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuaW5mbygnW2h0dHAgY2hlY2tdIHt9IHt9Jy5mb3JtYXQoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZy5pbmZvKCcnKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>timezone</last-search>
+      <last-search encoding="base64">XDx0aW1lem9uZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>timezone</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx0aW1lem9uZXNcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
         <entry>gague</entry>
         <entry>gauge</entry>
         <entry>num</entry>
@@ -236,6 +237,7 @@
         <entry encoding="base64">XDxTY3JpcHRNb25pdG9yXD4=</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>timezone</entry>
+        <entry encoding="base64">XDx0aW1lem9uZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
