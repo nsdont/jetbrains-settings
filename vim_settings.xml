@@ -62,6 +62,9 @@
       <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
         <mark key="'" line="26" column="13" />
       </file>
+      <file name="F:/monitor/checks.d/mysql.py" timestamp="1531127680735">
+        <mark key="'" line="274" column="27" />
+      </file>
       <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
         <mark key="'" line="149" column="62" />
         <mark key="[" line="219" column="54" />
@@ -168,6 +171,15 @@
       <jump line="208" column="12" filename="F:/monitor/checks/check_status.py" />
       <jump line="121" column="16" filename="F:/monitor/checks/check_status.py" />
       <jump line="119" column="34" filename="F:/monitor/checks/check_status.py" />
+      <jump line="43" column="58" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="293" column="8" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="299" column="44" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="331" column="53" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="351" column="27" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="358" column="27" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="365" column="27" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="265" column="26" filename="F:/monitor/checks.d/mysql.py" />
+      <jump line="274" column="27" filename="F:/monitor/checks.d/mysql.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -177,7 +189,7 @@
         <text>'--------------------------------'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmXD4=</text>
+        <text>password</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
@@ -214,15 +226,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmXD4=</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>password</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>search process</entry>
         <entry encoding="base64">XDxmb3JlZ3JvdW5kXD4=</entry>
         <entry>start</entry>
         <entry>.start</entry>
@@ -242,6 +253,7 @@
         <entry>pi</entry>
         <entry>pickle</entry>
         <entry encoding="base64">XDxmXD4=</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
