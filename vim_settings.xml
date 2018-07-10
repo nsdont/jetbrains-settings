@@ -17,6 +17,7 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="F:/monitor/build/linux_build/debian32/manifest.yaml" timestamp="1531205142091" />
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
       </file>
@@ -74,6 +75,13 @@
         <mark key="]" line="219" column="81" />
         <mark key="." line="219" column="81" />
         <mark key="^" line="219" column="81" />
+      </file>
+      <file name="F:/monitor/monitorstatsd.py" timestamp="1531205371238">
+        <mark key="'" line="407" column="33" />
+        <mark key="[" line="407" column="74" />
+        <mark key="]" line="407" column="73" />
+        <mark key="." line="407" column="73" />
+        <mark key="^" line="407" column="73" />
       </file>
       <file name="F:/monitor/checks/check_status.py" timestamp="1531120430192">
         <mark key="'" line="119" column="34" />
@@ -184,61 +192,64 @@
       <jump line="265" column="26" filename="F:/monitor/checks.d/mysql.py" />
       <jump line="274" column="27" filename="F:/monitor/checks.d/mysql.py" />
       <jump line="85" column="23" filename="F:/monitor/build.yaml" />
+      <jump line="248" column="21" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="356" column="46" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="355" column="9" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="407" column="33" filename="F:/monitor/monitorstatsd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHpuYW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>, args=args</text>
       </register>
       <register name="-" type="4">
-        <text>'--------------------------------'</text>
+        <text>, args=args</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text encoding="base64">XDxjb25maWdfcGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHpuYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHR6bmFtZVswXSA9PSAnXHg5M1x4OGNceDhiXHg5ZSAoXHg5NVdceDhmXHg4MFx4OGVceDllKSc6CiAgICAgICAgbG9nLmRlYnVnKCd0em5hbWUgZnJvbSBUT0tZTyBkZXRlY3RlZCBhbmQgY29udmVydGVkJykKICAgICAgICByZXR1cm4gKCdKU1QnLCAnSlNUJykKICAgIGVsaWYgdHpuYW1lWzBdID09ICdceGQ2XHhkMFx4YjlceGZhXHhiMVx4ZWFceGQ3XHhiY1x4Y2FceGIxXHhiY1x4ZTQnOgogICAgICAgIGxvZy5kZWJ1ZygndHpuYW1lIGZyb20gQ0hJTkEgZGV0ZWN0ZWQgYW5kIGNvbnZlcnRlZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHR6bmFtZVswXSA9PSAnXHg5M1x4OGNceDhiXHg5ZSAoXHg5NVdceDhmXHg4MFx4OGVceDllKSc6CiAgICAgICAgbG9nLmRlYnVnKCd0em5hbWUgZnJvbSB0b2t5byBkZXRlY3RlZCBhbmQgY29udmVydGVkJykKICAgICAgICByZXR1cm4gKCdqc3QnLCAnanN0JykKICAgIGVsaWYgdHpuYW1lWzBdID09ICdceGQ2XHhkMFx4YjlceGZhXHhiMVx4ZWFceGQ3XHhiY1x4Y2FceGIxXHhiY1x4ZTQnOgogICAgICAgIGxvZy5kZWJ1ZygndHpuYW1lIGZyb20gY2hpbmEgZGV0ZWN0ZWQgYW5kIGNvbnZlcnRlZCcpCiAgICBlbHNlOgogICAgICAgIHJldHVybiB0em5hbWUK</text>
+        <text encoding="base64">ZGVmIG1haW4oY29uZmlnX3BhdGg9Tm9uZSk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKCdVVEMnLCAnVVRDJykK</text>
+        <text encoding="base64">ICAgIHN5cy5leGl0KG1haW4oKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRhZGF0YVsidGltZXpvbmVzIl0gPSBzYW5pdGl6ZV90em5hbWUodGltZS50em5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHJlcG9ydGVyLCBzZXJ2ZXIsIGNuZiA9IGluaXQoY29uZmlnX3BhdGgsIHVzZV93YXRjaG1vbml0b3I9VHJ1ZSwgdXNlX2ZvcndhcmRlcj1vcHRzLnVzZV9mb3J3YXJkZXIsIGFyZ3M9YXJncykKICAgIGRhZW1vbiA9IE1vbml0b3JzdGF0c2QoUGlkRmlsZShQSURfTkFNRSwgUElEX0RJUikuZ2V0X3BhdGgoKSwgc2VydmVyLCByZXBvcnRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY25mLmdldCgnYXV0b3Jlc3RhcnQnLCBGYWxzZSkpCiAgICBkYWVtb24uc3RhcnQoZm9yZWdyb3VuZD1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBzdXRpbAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5c3V0aWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN5c3V0aWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search encoding="base64">XDxjb25maWdfcGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb25maWdfcGF0aFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JlZ3JvdW5kXD4=</entry>
         <entry>start</entry>
         <entry>.start</entry>
         <entry>\start</entry>
@@ -258,6 +269,7 @@
         <entry>pickle</entry>
         <entry encoding="base64">XDxmXD4=</entry>
         <entry>password</entry>
+        <entry encoding="base64">XDxjb25maWdfcGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
