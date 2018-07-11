@@ -19,20 +19,6 @@
         <mark key="[" line="205" column="0" />
         <mark key="]" line="218" column="19" />
       </file>
-      <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="53" column="71" />
-        <mark key="]" line="53" column="95" />
-        <mark key="." line="53" column="95" />
-        <mark key="^" line="53" column="95" />
-      </file>
-      <file name="F:/monitor/checks/system/unix.py" timestamp="1530773874764">
-        <mark key="'" line="824" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
       </file>
@@ -54,6 +40,11 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
         <mark key="'" line="144" column="0" />
       </file>
+      <file name="F:/monitor/monitoragent.py" timestamp="1531279811053">
+        <mark key="'" line="253" column="73" />
+      </file>
+      <file name="F:/monitor/aggregator.py" timestamp="1531280096244" />
+      <file name="F:/monitor/config.py" timestamp="1531280205813" />
       <file name="F:/monitor/checks/system/win32.py" timestamp="1530599930614">
         <mark key="'" line="138" column="40" />
       </file>
@@ -84,14 +75,8 @@
       <file name="F:/monitor/checks.d/mysql.py" timestamp="1531127680735">
         <mark key="'" line="274" column="27" />
       </file>
-      <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
-        <mark key="'" line="149" column="62" />
-        <mark key="[" line="219" column="54" />
-        <mark key="]" line="219" column="81" />
-        <mark key="." line="219" column="81" />
-        <mark key="^" line="219" column="81" />
-      </file>
-      <file name="F:/monitor/monitorstatsd.py" timestamp="1531277008170">
+      <file name="F:/monitor/monitorstatsd.py" timestamp="1531280430396">
+        <mark key="'" line="112" column="13" />
         <mark key="[" line="372" column="12" />
         <mark key="]" line="372" column="11" />
         <mark key="." line="372" column="11" />
@@ -103,8 +88,8 @@
       <file name="F:/monitor/checks/check_status.py" timestamp="1531120430192">
         <mark key="'" line="119" column="34" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1530784814968">
-        <mark key="'" line="178" column="14" />
+      <file name="F:/monitor/agent.py" timestamp="1531278364365">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="F:/monitor/checks.d/statsd.py" timestamp="1531218891773">
         <mark key="'" line="26" column="14" />
@@ -112,30 +97,9 @@
       <file name="F:/monitor/checks.d/sqlserver.py" timestamp="1531218889960">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="F:/monitor/utils/send_request.py" timestamp="1531278208466" />
     </filemarks>
     <jumps>
-      <jump line="114" column="4" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="342" column="11" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="357" column="0" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="221" column="17" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="201" column="19" filename="F:/monitor/checks/collector.py" />
-      <jump line="290" column="58" filename="F:/monitor/checks/collector.py" />
-      <jump line="214" column="13" filename="F:/monitor/checks/collector.py" />
-      <jump line="99" column="13" filename="F:/monitor/checks.d/network.py" />
-      <jump line="313" column="25" filename="F:/monitor/checks.d/network.py" />
-      <jump line="278" column="25" filename="F:/monitor/checks.d/network.py" />
-      <jump line="146" column="37" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="285" column="0" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="0" column="0" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="314" column="12" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="321" column="12" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="325" column="26" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="331" column="13" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="270" column="23" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="317" column="31" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="163" column="8" filename="F:/monitor/checks.d/http_check.py" />
-      <jump line="20" column="12" filename="F:/monitor/checks.d/tcp_check.py" />
-      <jump line="117" column="34" filename="F:/monitor/checks.d/tcp_check.py" />
       <jump line="177" column="13" filename="F:/monitor/checks.d/tcp_check.py" />
       <jump line="99" column="17" filename="F:/monitor/checks.d/tcp_check.py" />
       <jump line="162" column="0" filename="F:/monitor/checks.d/http_check.py" />
@@ -146,8 +110,6 @@
       <jump line="157" column="24" filename="F:/monitor/checks.d/process.py" />
       <jump line="287" column="8" filename="F:/monitor/checks.d/process.py" />
       <jump line="96" column="39" filename="F:/monitor/checks.d/process.py" />
-      <jump line="35" column="39" filename="F:/monitor/agent.py" />
-      <jump line="31" column="22" filename="F:/monitor/monitoragent.py" />
       <jump line="120" column="23" filename="F:/monitor/monitoragent.py" />
       <jump line="124" column="44" filename="F:/monitor/monitoragent.py" />
       <jump line="575" column="12" filename="F:/monitor/monitoragent.py" />
@@ -214,6 +176,30 @@
       <jump line="205" column="0" filename="F:/monitor/checks.d/disk.py" />
       <jump line="0" column="0" filename="F:/monitor/checks.d/openstack.py" />
       <jump line="16" column="10" filename="F:/monitor/checks.d/openstack.py" />
+      <jump line="26" column="30" filename="F:/monitor/agent.py" />
+      <jump line="35" column="39" filename="F:/monitor/agent.py" />
+      <jump line="343" column="69" filename="F:/monitor/agent.py" />
+      <jump line="0" column="0" filename="F:/monitor/agent.py" />
+      <jump line="182" column="20" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="130" column="17" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="129" column="23" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="124" column="13" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="112" column="13" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="660" column="11" filename="F:/monitor/monitoragent.py" />
+      <jump line="664" column="9" filename="F:/monitor/monitoragent.py" />
+      <jump line="25" column="5" filename="F:/monitor/monitoragent.py" />
+      <jump line="26" column="7" filename="F:/monitor/monitoragent.py" />
+      <jump line="27" column="7" filename="F:/monitor/monitoragent.py" />
+      <jump line="28" column="7" filename="F:/monitor/monitoragent.py" />
+      <jump line="29" column="5" filename="F:/monitor/monitoragent.py" />
+      <jump line="30" column="7" filename="F:/monitor/monitoragent.py" />
+      <jump line="31" column="7" filename="F:/monitor/monitoragent.py" />
+      <jump line="40" column="8" filename="F:/monitor/monitoragent.py" />
+      <jump line="213" column="12" filename="F:/monitor/monitoragent.py" />
+      <jump line="222" column="24" filename="F:/monitor/monitoragent.py" />
+      <jump line="223" column="24" filename="F:/monitor/monitoragent.py" />
+      <jump line="232" column="37" filename="F:/monitor/monitoragent.py" />
+      <jump line="253" column="73" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -223,7 +209,7 @@
         <text>上报数据移除 timezones</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtX3VybFw+</text>
+        <text>Per</text>
       </register>
       <register name="0" type="4">
         <text>path_to_yaml = 'conf.d/openstack.yaml'</text>
@@ -260,20 +246,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtX3VybFw+</last-search>
+      <last-search>Per</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtX3VybFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Per</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>thread</entry>
-        <entry>response_time</entry>
-        <entry>ntp_check</entry>
-        <entry>ntp</entry>
-        <entry>ntp offset</entry>
-        <entry encoding="base64">XDxTY3JpcHRNb25pdG9yXD4=</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry>timezone</entry>
         <entry encoding="base64">XDx0aW1lem9uZXNcPg==</entry>
@@ -288,6 +268,12 @@
         <entry encoding="base64">XDxtb25pdG9yU1RBVFNEX0FHR1JFR0FUT1JfQlVDS0VUX1NJWkVcPg==</entry>
         <entry encoding="base64">XDxldmVudF9jaHVua19zaXplXD4=</entry>
         <entry encoding="base64">XDxtX3VybFw+</entry>
+        <entry>for</entry>
+        <entry>metri</entry>
+        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
+        <entry>tornado</entry>
+        <entry>period</entry>
+        <entry>Per</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -346,6 +332,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
