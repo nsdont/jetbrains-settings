@@ -54,8 +54,8 @@
       <file name="F:/monitor/checks.d/rabbitmq.py" timestamp="1531218899285">
         <mark key="'" line="280" column="30" />
       </file>
-      <file name="F:/monitor/datamonitor_template" timestamp="1530589638129">
-        <mark key="'" line="144" column="0" />
+      <file name="F:/monitor/datamonitor_template" timestamp="1531376291181">
+        <mark key="'" line="8" column="10" />
       </file>
       <file name="F:/monitor/monitoragent.py" timestamp="1531292792192">
         <mark key="'" line="43" column="0" />
@@ -86,6 +86,10 @@
       </file>
       <file name="F:/monitor/checks.d/ssh_check.py" timestamp="1531218894032">
         <mark key="'" line="23" column="18" />
+      </file>
+      <file name="F:/monitor/build/install.py" timestamp="1531376266940">
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="46" />
       </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
@@ -148,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="4" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="367" column="26" filename="F:/monitor/monitorstatsd.py" />
       <jump line="364" column="4" filename="F:/monitor/monitorstatsd.py" />
       <jump line="368" column="16" filename="F:/monitor/monitorstatsd.py" />
       <jump line="211" column="0" filename="F:/monitor/checks.d/process.py" />
@@ -248,19 +250,21 @@
       <jump line="208" column="44" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="211" column="40" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="292" column="2" filename="F:/monitor/build.yaml" />
+      <jump line="68" column="15" filename="F:/monitor/datamonitor_template" />
+      <jump line="8" column="10" filename="F:/monitor/datamonitor_template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB6Z2ggs/bP1rK/t9Ygd2luZG93cyCyybyvIGNhY2hlZCDWuLHquLrK/aOsz9bU2rLJyKHB2cqxt72wuKOsuf3Cy7i6yv2jrLzT0rvQqcjV1r64qNb6xcWy6Qo=</text>
+      <register name="&quot;" type="4">
+        <text>ANT_M_API_KEY</text>
       </register>
       <register name="-" type="4">
         <text>wmi</text>
       </register>
       <register name="/" type="4">
-        <text>_query</text>
+        <text>apikey</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB6Z2ggs/bP1rK/t9Ygd2luZG93cyCyybyvIGNhY2hlZCDWuLHquLrK/aOsz9bU2rLJyKHB2cqxt72wuKOsuf3Cy7i6yv2jrLzT0rvQqcjV1r64qNb6xcWy6Qo=</text>
+      <register name="0" type="4">
+        <text>ANT_M_API_KEY</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -294,15 +298,14 @@
       </register>
     </registers>
     <search>
-      <last-search>_query</last-search>
+      <last-search>apikey</last-search>
       <last-offset />
-      <last-pattern>_query</last-pattern>
+      <last-pattern>apikey</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>period</entry>
         <entry>Per</entry>
         <entry encoding="base64">XDxmb3J3YXJkX3RvX2hvc3RcPg==</entry>
         <entry encoding="base64">XDxVRFBfU09DS0VUX1RJTUVPVVRcPg==</entry>
@@ -322,6 +325,7 @@
         <entry>password</entry>
         <entry encoding="base64">d2luZG93cyA=</entry>
         <entry>_query</entry>
+        <entry>apikey</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
