@@ -39,8 +39,8 @@
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1531192944242">
-        <mark key="'" line="85" column="23" />
+      <file name="F:/monitor/build.yaml" timestamp="1531366381823">
+        <mark key="'" line="292" column="2" />
       </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1531123360934">
         <mark key="'" line="78" column="23" />
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="7" filename="F:/monitor/monitorstatsd.py" />
       <jump line="363" column="4" filename="F:/monitor/monitorstatsd.py" />
       <jump line="367" column="26" filename="F:/monitor/monitorstatsd.py" />
       <jump line="364" column="4" filename="F:/monitor/monitorstatsd.py" />
@@ -248,6 +247,7 @@
       <jump line="128" column="53" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="208" column="44" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="211" column="40" filename="F:/monitor/checks/libs/wmi/sampler.py" />
+      <jump line="292" column="2" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
