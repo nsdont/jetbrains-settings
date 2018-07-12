@@ -66,8 +66,12 @@
       </file>
       <file name="F:/monitor/aggregator.py" timestamp="1531294050454" />
       <file name="F:/monitor/config.py" timestamp="1531280205813" />
-      <file name="F:/monitor/checks/system/win32.py" timestamp="1531300457088">
-        <mark key="'" line="338" column="20" />
+      <file name="F:/monitor/checks/system/win32.py" timestamp="1531362241423">
+        <mark key="'" line="526" column="23" />
+        <mark key="[" line="261" column="9" />
+        <mark key="]" line="261" column="9" />
+        <mark key="^" line="261" column="9" />
+        <mark key="." line="261" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1531276530412">
         <mark key="[" line="0" column="0" />
@@ -139,15 +143,11 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
       </file>
+      <file name="F:/monitor/checks/libs/wmi/sampler.py" timestamp="1531362278324">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="12" filename="F:/monitor/checks/check_status.py" />
-      <jump line="212" column="16" filename="F:/monitor/checks/check_status.py" />
-      <jump line="210" column="35" filename="F:/monitor/checks/check_status.py" />
-      <jump line="208" column="12" filename="F:/monitor/checks/check_status.py" />
-      <jump line="121" column="16" filename="F:/monitor/checks/check_status.py" />
-      <jump line="119" column="34" filename="F:/monitor/checks/check_status.py" />
-      <jump line="43" column="58" filename="F:/monitor/checks.d/mysql.py" />
       <jump line="293" column="8" filename="F:/monitor/checks.d/mysql.py" />
       <jump line="299" column="44" filename="F:/monitor/checks.d/mysql.py" />
       <jump line="331" column="53" filename="F:/monitor/checks.d/mysql.py" />
@@ -241,61 +241,67 @@
       <jump line="340" column="20" filename="F:/monitor/checks/system/win32.py" />
       <jump line="339" column="20" filename="F:/monitor/checks/system/win32.py" />
       <jump line="338" column="20" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="323" column="41" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="526" column="23" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="32" column="31" filename="F:/monitor/checks/libs/wmi/sampler.py" />
+      <jump line="194" column="0" filename="F:/monitor/checks/libs/wmi/sampler.py" />
+      <jump line="8" column="21" filename="F:/monitor/checks/libs/wmi/sampler.py" />
+      <jump line="93" column="30" filename="F:/monitor/checks/libs/wmi/sampler.py" />
+      <jump line="0" column="0" filename="F:/monitor/checks/libs/wmi/sampler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmVzb3VyY2UK</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeXN0ZW1cPg==</text>
+        <text>password</text>
       </register>
       <register name="0" type="4">
-        <text>MONITOR_STATSD_AGGREGATOR_BUCKET_SIZE</text>
+        <text>vurtual_memory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmVzb3VyY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSBtZXRyaWNzX2FnZ3JlZ2F0b3I6IE1ldHJpY3NCdWNrZXRBZ2dyZWdhdG9yCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF92aXNpYmxlX21lbW9yeV9zaXplID0gb3MuZ2V0KCdUb3RhbFZpc2libGVNZW1vcnlTaXplJykKICAgICAgICBmcmVlX3BoeXNpY2FsX21lbW9yeSA9IG9zLmdldCgnRnJlZVBoeXNpY2FsTWVtb3J5JykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydGVyID0gUmVwb3J0ZXIoYWdlbnRfY29uZmlnLCBNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTCwgYWdncmVnYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYub3Nfd21pX3NhbXBsZXIuc2FtcGxlKCkKICAgICAgICBleGNlcHQgVGltZW91dEV4Y2VwdGlvbjoKICAgICAgICAgICAgc2VsZi5yZWNvcmRfd21pX3J1bl9mYWlsZWQoJ29zJykKICAgICAgICAgICAgc2VsZi5sb2dnZXIud2FybmluZygKICAgICAgICAgICAgICAgIHUiVGltZW91dCB3aGlsZSBxdWVyeWluZyBXaW4zMl9PcGVyYXRpbmdTeXN0ZW0gV01JIGNsYXNzLiIKICAgICAgICAgICAgICAgIHUiIE1lbW9yeSBtZXRyaWNzIHdpbGwgYmUgcmV0dXJuZWQgYXQgbmV4dCBpdGVyYXRpb24uIikKICAgICAgICAgICAgcmV0dXJuIFtdCgogICAgICAgIGlmIG5vdCAobGVuKHNlbGYub3Nfd21pX3NhbXBsZXIpKToKICAgICAgICAgICAgc2VsZi5yZWNvcmRfd21pX3J1bl9mYWlsZWQoJ29zJykKICAgICAgICAgICAgc2VsZi5sb2dnZXIud2FybmluZygnTWlzc2luZyBXaW4zMl9PcGVyYXRpbmdTeXN0ZW0gV01JIGNsYXNzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIE5vIG1lbW9yeSBtZXRyaWNzIHdpbGwgYmUgcmV0dXJuZWQuJykKICAgICAgICAgICAgcmV0dXJuIFtdCgogICAgICAgIG9zID0gc2VsZi5vc193bWlfc2FtcGxlclswXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcyA9IHNlbGYub3Nfd21pX3NhbXBsZXJbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHIiL2ludGFrZS8/IiwgQWdlbnRJbnB1dEhhbmRsZXIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmVzb3VyY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHIiL2FwaS92MS9zZXJpZXMvPyIsIEFwaUlucHV0SGFuZGxlciksCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSBtZXRyaWNzX2FnZ3JlZ2F0b3I6IE1ldHJpY3NCdWNrZXRBZ2dyZWdhdG9yCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHIiL2FwaS92MS9jaGVja19ydW4vPyIsIEFwaUNoZWNrUnVuSGFuZGxlciksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYud2F0Y2htb25pdG9yLnJlc2V0KCkK</text>
+        <text encoding="base64">ICAgIHJlcG9ydGVyID0gUmVwb3J0ZXIoYWdlbnRfY29uZmlnLCBNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTCwgYWdncmVnYXRvcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeXN0ZW1cPg==</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeXN0ZW1cPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>password</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metri</entry>
         <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
         <entry>tornado</entry>
         <entry>period</entry>
@@ -315,6 +321,7 @@
         <entry>pct_</entry>
         <entry encoding="base64">XDxwY3RfdXNhZ2VcPg==</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
