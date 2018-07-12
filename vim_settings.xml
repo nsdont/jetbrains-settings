@@ -64,7 +64,9 @@
         <mark key="." line="200" column="12" />
         <mark key="^" line="200" column="12" />
       </file>
-      <file name="F:/monitor/aggregator.py" timestamp="1531294050454" />
+      <file name="F:/monitor/aggregator.py" timestamp="1531380587128">
+        <mark key="'" line="646" column="45" />
+      </file>
       <file name="F:/monitor/config.py" timestamp="1531280205813" />
       <file name="F:/monitor/checks/system/win32.py" timestamp="1531364906477">
         <mark key="'" line="160" column="19" />
@@ -155,11 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="32" filename="F:/monitor/checks.d/riak.py" />
-      <jump line="280" column="30" filename="F:/monitor/checks.d/rabbitmq.py" />
-      <jump line="0" column="0" filename="F:/monitor/checks.d/postgres.py" />
-      <jump line="205" column="0" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="0" column="0" filename="F:/monitor/checks.d/openstack.py" />
       <jump line="16" column="10" filename="F:/monitor/checks.d/openstack.py" />
       <jump line="26" column="30" filename="F:/monitor/agent.py" />
       <jump line="35" column="39" filename="F:/monitor/agent.py" />
@@ -255,6 +252,11 @@
       <jump line="204" column="12" filename="F:/monitor/monitoragent.py" />
       <jump line="196" column="40" filename="F:/monitor/monitoragent.py" />
       <jump line="192" column="54" filename="F:/monitor/monitoragent.py" />
+      <jump line="571" column="70" filename="F:/monitor/aggregator.py" />
+      <jump line="630" column="55" filename="F:/monitor/aggregator.py" />
+      <jump line="641" column="57" filename="F:/monitor/aggregator.py" />
+      <jump line="762" column="65" filename="F:/monitor/aggregator.py" />
+      <jump line="646" column="45" filename="F:/monitor/aggregator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +266,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>keys()</text>
+        <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="4">
         <text>ANT_M_API_KEY</text>
@@ -301,16 +303,14 @@
       </register>
     </registers>
     <search>
-      <last-search>keys()</last-search>
+      <last-search encoding="base64">XDxjb3VudFw+</last-search>
       <last-offset />
-      <last-pattern>keys()</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb3VudFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3J3YXJkX3RvX2hvc3RcPg==</entry>
-        <entry encoding="base64">XDxVRFBfU09DS0VUX1RJTUVPVVRcPg==</entry>
         <entry encoding="base64">XDxydW5uaW5nXD4=</entry>
         <entry encoding="base64">XDxhZ2VudENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxtb25pdG9yU1RBVFNEX0ZMVVNIX0lOVEVSVkFMXD4=</entry>
@@ -329,6 +329,8 @@
         <entry>_query</entry>
         <entry>apikey</entry>
         <entry>keys()</entry>
+        <entry>last flush</entry>
+        <entry encoding="base64">XDxjb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
