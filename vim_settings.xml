@@ -57,8 +57,8 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531378561539">
         <mark key="'" line="29" column="31" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531378697541">
-        <mark key="'" line="193" column="54" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531384598970">
+        <mark key="'" line="62" column="6" />
         <mark key="[" line="200" column="12" />
         <mark key="]" line="200" column="12" />
         <mark key="." line="200" column="12" />
@@ -157,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="7" filename="F:/monitor/monitoragent.py" />
-      <jump line="28" column="7" filename="F:/monitor/monitoragent.py" />
-      <jump line="29" column="5" filename="F:/monitor/monitoragent.py" />
-      <jump line="30" column="7" filename="F:/monitor/monitoragent.py" />
       <jump line="31" column="7" filename="F:/monitor/monitoragent.py" />
       <jump line="40" column="8" filename="F:/monitor/monitoragent.py" />
       <jump line="213" column="12" filename="F:/monitor/monitoragent.py" />
@@ -257,6 +253,10 @@
       <jump line="302" column="12" filename="F:/monitor/checks/system/win32.py" />
       <jump line="265" column="8" filename="F:/monitor/checks/system/win32.py" />
       <jump line="255" column="24" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="140" column="31" filename="F:/monitor/monitoragent.py" />
+      <jump line="94" column="6" filename="F:/monitor/monitoragent.py" />
+      <jump line="107" column="25" filename="F:/monitor/monitoragent.py" />
+      <jump line="62" column="6" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -266,7 +266,7 @@
         <text>调整数据格式校验</text>
       </register>
       <register name="/" type="4">
-        <text>cached</text>
+        <text encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>ANT_M_API_KEY</text>
@@ -303,16 +303,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cached</last-search>
+      <last-search encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</last-search>
       <last-offset />
-      <last-pattern>cached</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZ2VudENvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxtb25pdG9yU1RBVFNEX0ZMVVNIX0lOVEVSVkFMXD4=</entry>
         <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9BR0dSRUdBVE9SX0JVQ0tFVF9TSVpFXD4=</entry>
         <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTFw+</entry>
         <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTE9cPg==</entry>
@@ -331,6 +329,8 @@
         <entry>last flush</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry>cached</entry>
+        <entry encoding="base64">XDxFbWl0dGVyTWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
