@@ -68,14 +68,14 @@
         <mark key="'" line="646" column="45" />
       </file>
       <file name="F:/monitor/config.py" timestamp="1531280205813" />
-      <file name="F:/monitor/checks/system/win32.py" timestamp="1531381409640">
-        <mark key="'" line="255" column="24" />
-        <mark key="[" line="245" column="15" />
-        <mark key="]" line="245" column="16" />
-        <mark key="." line="245" column="16" />
-        <mark key="^" line="245" column="16" />
+      <file name="F:/monitor/checks/system/win32.py" timestamp="1531382320688">
+        <mark key="'" line="254" column="24" />
+        <mark key="[" line="244" column="15" />
+        <mark key="]" line="244" column="15" />
+        <mark key="." line="244" column="15" />
+        <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531381329307">
+      <file name="/Dummy.txt" timestamp="1531382358138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -260,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>调整数据格式校验</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>调整数据格式校验</text>
       </register>
       <register name="/" type="4">
         <text>cached</text>
