@@ -68,16 +68,16 @@
         <mark key="'" line="646" column="45" />
       </file>
       <file name="F:/monitor/config.py" timestamp="1531280205813" />
-      <file name="F:/monitor/checks/system/win32.py" timestamp="1531364906477">
-        <mark key="'" line="160" column="19" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="69" />
-        <mark key="." line="241" column="0" />
-        <mark key="^" line="303" column="68" />
+      <file name="F:/monitor/checks/system/win32.py" timestamp="1531381409640">
+        <mark key="'" line="255" column="24" />
+        <mark key="[" line="245" column="15" />
+        <mark key="]" line="245" column="16" />
+        <mark key="." line="245" column="16" />
+        <mark key="^" line="245" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531276530412">
+      <file name="/Dummy.txt" timestamp="1531381329307">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="F:/monitor/checks/script_monitor.py" timestamp="1530860672404">
@@ -157,20 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="10" filename="F:/monitor/checks.d/openstack.py" />
-      <jump line="26" column="30" filename="F:/monitor/agent.py" />
-      <jump line="35" column="39" filename="F:/monitor/agent.py" />
-      <jump line="343" column="69" filename="F:/monitor/agent.py" />
-      <jump line="0" column="0" filename="F:/monitor/agent.py" />
-      <jump line="182" column="20" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="130" column="17" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="129" column="23" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="124" column="13" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="112" column="13" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="660" column="11" filename="F:/monitor/monitoragent.py" />
-      <jump line="664" column="9" filename="F:/monitor/monitoragent.py" />
-      <jump line="25" column="5" filename="F:/monitor/monitoragent.py" />
-      <jump line="26" column="7" filename="F:/monitor/monitoragent.py" />
       <jump line="27" column="7" filename="F:/monitor/monitoragent.py" />
       <jump line="28" column="7" filename="F:/monitor/monitoragent.py" />
       <jump line="29" column="5" filename="F:/monitor/monitoragent.py" />
@@ -257,16 +243,30 @@
       <jump line="641" column="57" filename="F:/monitor/aggregator.py" />
       <jump line="762" column="65" filename="F:/monitor/aggregator.py" />
       <jump line="646" column="45" filename="F:/monitor/aggregator.py" />
+      <jump line="178" column="55" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="201" column="26" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="220" column="8" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="239" column="12" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="565" column="4" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="189" column="31" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="318" column="24" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="307" column="15" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="306" column="62" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="304" column="15" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="303" column="34" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="302" column="12" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="265" column="8" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="255" column="24" filename="F:/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudFw+</text>
+        <text>cached</text>
       </register>
       <register name="0" type="4">
         <text>ANT_M_API_KEY</text>
@@ -303,15 +303,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudFw+</last-search>
+      <last-search>cached</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>cached</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5uaW5nXD4=</entry>
         <entry encoding="base64">XDxhZ2VudENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxtb25pdG9yU1RBVFNEX0ZMVVNIX0lOVEVSVkFMXD4=</entry>
         <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9BR0dSRUdBVE9SX0JVQ0tFVF9TSVpFXD4=</entry>
@@ -331,6 +330,7 @@
         <entry>keys()</entry>
         <entry>last flush</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry>cached</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
