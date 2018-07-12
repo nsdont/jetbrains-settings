@@ -14,11 +14,6 @@
       <file name="F:/monitor/checks.d/redisdb.py" timestamp="1531218877953">
         <mark key="'" line="86" column="29" />
       </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1531218941519">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="218" column="19" />
-      </file>
       <file name="/a.dummy" timestamp="1531291338180">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +30,11 @@
         <mark key="]" line="126" column="0" />
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
+      </file>
+      <file name="F:/monitor/utils/transaction.py" timestamp="1531385390225">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
         <mark key="'" line="278" column="25" />
@@ -57,12 +57,11 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531378561539">
         <mark key="'" line="29" column="31" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531384598970">
-        <mark key="'" line="62" column="6" />
-        <mark key="[" line="200" column="12" />
-        <mark key="]" line="200" column="12" />
-        <mark key="." line="200" column="12" />
-        <mark key="^" line="200" column="12" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531385663617">
+        <mark key="'" line="237" column="19" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="14" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="F:/monitor/aggregator.py" timestamp="1531380587128">
         <mark key="'" line="646" column="45" />
@@ -142,8 +141,12 @@
         <mark key="'" line="24" column="0" />
       </file>
       <file name="F:/monitor/utils/send_request.py" timestamp="1531278208466" />
-      <file name="F:/monitor/transaction.py" timestamp="1531378589949">
-        <mark key="'" line="152" column="8" />
+      <file name="F:/monitor/transaction.py" timestamp="1531385941099">
+        <mark key="'" line="267" column="33" />
+        <mark key="[" line="224" column="28" />
+        <mark key="]" line="224" column="38" />
+        <mark key="." line="224" column="28" />
+        <mark key="^" line="225" column="34" />
       </file>
       <file name="F:/monitor/utils/dockerutil.py" timestamp="1531295930901">
         <mark key="'" line="76" column="20" />
@@ -157,12 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="7" filename="F:/monitor/monitoragent.py" />
-      <jump line="40" column="8" filename="F:/monitor/monitoragent.py" />
-      <jump line="213" column="12" filename="F:/monitor/monitoragent.py" />
-      <jump line="222" column="24" filename="F:/monitor/monitoragent.py" />
-      <jump line="223" column="24" filename="F:/monitor/monitoragent.py" />
-      <jump line="232" column="37" filename="F:/monitor/monitoragent.py" />
       <jump line="253" column="73" filename="F:/monitor/monitoragent.py" />
       <jump line="243" column="30" filename="F:/monitor/monitorstatsd.py" />
       <jump line="236" column="55" filename="F:/monitor/monitorstatsd.py" />
@@ -257,63 +254,66 @@
       <jump line="94" column="6" filename="F:/monitor/monitoragent.py" />
       <jump line="107" column="25" filename="F:/monitor/monitoragent.py" />
       <jump line="62" column="6" filename="F:/monitor/monitoragent.py" />
+      <jump line="2" column="35" filename="F:/monitor/utils/transaction.py" />
+      <jump line="7" column="37" filename="F:/monitor/transaction.py" />
+      <jump line="267" column="33" filename="F:/monitor/transaction.py" />
+      <jump line="49" column="0" filename="F:/monitor/monitoragent.py" />
+      <jump line="249" column="16" filename="F:/monitor/monitoragent.py" />
+      <jump line="237" column="19" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>调整数据格式校验</text>
+        <text>manager</text>
       </register>
       <register name="-" type="4">
-        <text>调整数据格式校验</text>
+        <text>manager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</text>
+        <text encoding="base64">XDxkZWx0YV90aW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ANT_M_API_KEY</text>
+        <text>delta_time</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF90cl9tYW5hZ2VyKGNscyk6CiAgICAgICAgcmV0dXJuIGNscy5fdHJNYW5hZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF92aXNpYmxlX21lbW9yeV9zaXplID0gb3MuZ2V0KCdUb3RhbFZpc2libGVNZW1vcnlTaXplJykKICAgICAgICBmcmVlX3BoeXNpY2FsX21lbW9yeSA9IG9zLmdldCgnRnJlZVBoeXNpY2FsTWVtb3J5JykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">RERfRU5EUE9JTlQgPSAibV91cmwiCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYub3Nfd21pX3NhbXBsZXIuc2FtcGxlKCkKICAgICAgICBleGNlcHQgVGltZW91dEV4Y2VwdGlvbjoKICAgICAgICAgICAgc2VsZi5yZWNvcmRfd21pX3J1bl9mYWlsZWQoJ29zJykKICAgICAgICAgICAgc2VsZi5sb2dnZXIud2FybmluZygKICAgICAgICAgICAgICAgIHUiVGltZW91dCB3aGlsZSBxdWVyeWluZyBXaW4zMl9PcGVyYXRpbmdTeXN0ZW0gV01JIGNsYXNzLiIKICAgICAgICAgICAgICAgIHUiIE1lbW9yeSBtZXRyaWNzIHdpbGwgYmUgcmV0dXJuZWQgYXQgbmV4dCBpdGVyYXRpb24uIikKICAgICAgICAgICAgcmV0dXJuIFtdCgogICAgICAgIGlmIG5vdCAobGVuKHNlbGYub3Nfd21pX3NhbXBsZXIpKToKICAgICAgICAgICAgc2VsZi5yZWNvcmRfd21pX3J1bl9mYWlsZWQoJ29zJykKICAgICAgICAgICAgc2VsZi5sb2dnZXIud2FybmluZygnTWlzc2luZyBXaW4zMl9PcGVyYXRpbmdTeXN0ZW0gV01JIGNsYXNzLicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIE5vIG1lbW9yeSBtZXRyaWNzIHdpbGwgYmUgcmV0dXJuZWQuJykKICAgICAgICAgICAgcmV0dXJuIFtdCgogICAgICAgIG9zID0gc2VsZi5vc193bWlfc2FtcGxlclswXQo=</text>
+        <text encoding="base64">RERfRU5EUE9JTlQgPSAibV91cmwiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcyA9IHNlbGYub3Nfd21pX3NhbXBsZXJbMF0K</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLmVzY2FwZSBpbXBvcnQganNvbl9kZWNvZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcmVzb3VyY2UK</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLmVzY2FwZSBpbXBvcnQganNvbl9kZWNvZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSBtZXRyaWNzX2FnZ3JlZ2F0b3I6IE1ldHJpY3NCdWNrZXRBZ2dyZWdhdG9yCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</last-search>
+      <last-search encoding="base64">XDxkZWx0YV90aW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWx0YV90aW1lXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9BR0dSRUdBVE9SX0JVQ0tFVF9TSVpFXD4=</entry>
-        <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTFw+</entry>
-        <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTE9cPg==</entry>
         <entry>inter</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
         <entry encoding="base64">XDxFVkVOVF9DSFVOS19TSVpFXD4=</entry>
@@ -331,6 +331,9 @@
         <entry>cached</entry>
         <entry encoding="base64">XDxFbWl0dGVyTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</entry>
+        <entry encoding="base64">XDxnZXRfdmVyc2lvblw+</entry>
+        <entry encoding="base64">XDxERF9FTkRQT0lOVFw+</entry>
+        <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
