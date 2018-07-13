@@ -66,7 +66,6 @@
       <file name="F:/monitor/aggregator.py" timestamp="1531380587128">
         <mark key="'" line="646" column="45" />
       </file>
-      <file name="F:/monitor/config.py" timestamp="1531280205813" />
       <file name="F:/monitor/checks/system/win32.py" timestamp="1531382320688">
         <mark key="'" line="254" column="24" />
         <mark key="[" line="244" column="15" />
@@ -74,7 +73,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531382358138">
+      <file name="/Dummy.txt" timestamp="1531449316804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -140,13 +139,8 @@
       <file name="F:/monitor/checks.d/sqlserver.py" timestamp="1531218889960">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="F:/monitor/utils/send_request.py" timestamp="1531278208466" />
-      <file name="F:/monitor/transaction.py" timestamp="1531385941099">
-        <mark key="'" line="267" column="33" />
-        <mark key="[" line="224" column="28" />
-        <mark key="]" line="224" column="38" />
-        <mark key="." line="224" column="28" />
-        <mark key="^" line="225" column="34" />
+      <file name="F:/monitor/checks.d/agent_metrics.py" timestamp="1531449805056">
+        <mark key="'" line="45" column="58" />
       </file>
       <file name="F:/monitor/utils/dockerutil.py" timestamp="1531295930901">
         <mark key="'" line="76" column="20" />
@@ -160,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="73" filename="F:/monitor/monitoragent.py" />
       <jump line="243" column="30" filename="F:/monitor/monitorstatsd.py" />
       <jump line="236" column="55" filename="F:/monitor/monitorstatsd.py" />
       <jump line="366" column="20" filename="F:/monitor/monitorstatsd.py" />
@@ -260,6 +253,7 @@
       <jump line="49" column="0" filename="F:/monitor/monitoragent.py" />
       <jump line="249" column="16" filename="F:/monitor/monitoragent.py" />
       <jump line="237" column="19" filename="F:/monitor/monitoragent.py" />
+      <jump line="45" column="58" filename="F:/monitor/checks.d/agent_metrics.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +263,7 @@
         <text>manager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWx0YV90aW1lXD4=</text>
+        <text>high</text>
       </register>
       <register name="0" type="4">
         <text>delta_time</text>
@@ -306,15 +300,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWx0YV90aW1lXD4=</last-search>
+      <last-search>high</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWx0YV90aW1lXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>high</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inter</entry>
         <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
         <entry encoding="base64">XDxFVkVOVF9DSFVOS19TSVpFXD4=</entry>
         <entry encoding="base64">XDxNZXRyaWNzQnVja2V0QWdncmVnYXRvclw+</entry>
@@ -334,6 +327,7 @@
         <entry encoding="base64">XDxnZXRfdmVyc2lvblw+</entry>
         <entry encoding="base64">XDxERF9FTkRQT0lOVFw+</entry>
         <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
+        <entry>high</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
