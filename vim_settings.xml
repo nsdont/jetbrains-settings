@@ -54,8 +54,8 @@
       <file name="F:/monitor/checks.d/rabbitmq.py" timestamp="1531218899285">
         <mark key="'" line="280" column="30" />
       </file>
-      <file name="F:/monitor/datamonitor_template" timestamp="1531378561539">
-        <mark key="'" line="29" column="31" />
+      <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
+        <mark key="'" line="155" column="44" />
       </file>
       <file name="F:/monitor/monitoragent.py" timestamp="1531385663617">
         <mark key="'" line="237" column="19" />
@@ -130,8 +130,10 @@
       <file name="F:/monitor/checks/check_status.py" timestamp="1531120430192">
         <mark key="'" line="119" column="34" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1531378602117">
-        <mark key="'" line="16" column="47" />
+      <file name="F:/monitor/agent.py" timestamp="1531453140461">
+        <mark key="'" line="344" column="29" />
+        <mark key="[" line="128" column="54" />
+        <mark key="]" line="128" column="63" />
       </file>
       <file name="F:/monitor/checks.d/statsd.py" timestamp="1531218891773">
         <mark key="'" line="26" column="14" />
@@ -154,15 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="30" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="236" column="55" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="366" column="20" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="272" column="18" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="39" column="0" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="247" column="13" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="293" column="13" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="274" column="19" filename="F:/monitor/monitorstatsd.py" />
-      <jump line="477" column="15" filename="F:/monitor/monitoragent.py" />
       <jump line="335" column="28" filename="F:/monitor/monitoragent.py" />
       <jump line="65" column="45" filename="F:/monitor/monitorstatsd.py" />
       <jump line="36" column="0" filename="F:/monitor/monitorstatsd.py" />
@@ -254,19 +247,28 @@
       <jump line="249" column="16" filename="F:/monitor/monitoragent.py" />
       <jump line="237" column="19" filename="F:/monitor/monitoragent.py" />
       <jump line="45" column="58" filename="F:/monitor/checks.d/agent_metrics.py" />
+      <jump line="43" column="20" filename="F:/monitor/agent.py" />
+      <jump line="133" column="32" filename="F:/monitor/agent.py" />
+      <jump line="174" column="21" filename="F:/monitor/agent.py" />
+      <jump line="344" column="29" filename="F:/monitor/agent.py" />
+      <jump line="10" column="10" filename="F:/monitor/datamonitor_template" />
+      <jump line="57" column="53" filename="F:/monitor/datamonitor_template" />
+      <jump line="58" column="2" filename="F:/monitor/datamonitor_template" />
+      <jump line="65" column="21" filename="F:/monitor/datamonitor_template" />
+      <jump line="155" column="44" filename="F:/monitor/datamonitor_template" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>manager</text>
+        <text>check_freq</text>
       </register>
       <register name="-" type="4">
         <text>manager</text>
       </register>
       <register name="/" type="4">
-        <text>high</text>
+        <text>check_freq</text>
       </register>
       <register name="0" type="4">
-        <text>delta_time</text>
+        <text>check_freq</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -300,18 +302,14 @@
       </register>
     </registers>
     <search>
-      <last-search>high</last-search>
+      <last-search>check_freq</last-search>
       <last-offset />
-      <last-pattern>high</last-pattern>
+      <last-pattern>check_freq</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
-        <entry encoding="base64">XDxFVkVOVF9DSFVOS19TSVpFXD4=</entry>
-        <entry encoding="base64">XDxNZXRyaWNzQnVja2V0QWdncmVnYXRvclw+</entry>
-        <entry>pct_</entry>
         <entry encoding="base64">XDxwY3RfdXNhZ2VcPg==</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
         <entry>password</entry>
@@ -328,6 +326,10 @@
         <entry encoding="base64">XDxERF9FTkRQT0lOVFw+</entry>
         <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
         <entry>high</entry>
+        <entry>time</entry>
+        <entry>sleep</entry>
+        <entry>check</entry>
+        <entry>check_freq</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
