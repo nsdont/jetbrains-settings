@@ -57,12 +57,12 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
         <mark key="'" line="155" column="44" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531555709625">
-        <mark key="'" line="177" column="0" />
-        <mark key="[" line="121" column="17" />
-        <mark key="]" line="121" column="42" />
-        <mark key="." line="265" column="0" />
-        <mark key="^" line="271" column="51" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531556676124">
+        <mark key="'" line="83" column="15" />
+        <mark key="[" line="277" column="55" />
+        <mark key="]" line="277" column="66" />
+        <mark key="." line="277" column="66" />
+        <mark key="^" line="277" column="66" />
       </file>
       <file name="F:/monitor/aggregator.py" timestamp="1531553246132">
         <mark key="'" line="384" column="33" />
@@ -119,12 +119,12 @@
         <mark key="]" line="507" column="0" />
         <mark key="." line="507" column="0" />
       </file>
-      <file name="F:/monitor/monitorstatsd.py" timestamp="1531555747548">
+      <file name="F:/monitor/monitorstatsd.py" timestamp="1531557692625">
         <mark key="'" line="1" column="15" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="175" column="11" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="F:/monitor/checks.d/postgres.py" timestamp="1531218902550">
         <mark key="'" line="0" column="0" />
@@ -143,11 +143,11 @@
       <file name="F:/monitor/checks.d/sqlserver.py" timestamp="1531218889960">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="F:/monitor/transaction.py" timestamp="1531555278561">
-        <mark key="[" line="317" column="6" />
-        <mark key="]" line="317" column="25" />
-        <mark key="." line="227" column="36" />
-        <mark key="^" line="227" column="36" />
+      <file name="F:/monitor/transaction.py" timestamp="1531557843258">
+        <mark key="[" line="237" column="73" />
+        <mark key="]" line="237" column="73" />
+        <mark key="." line="237" column="73" />
+        <mark key="^" line="237" column="74" />
       </file>
       <file name="F:/monitor/checks.d/agent_metrics.py" timestamp="1531449805056">
         <mark key="'" line="45" column="58" />
@@ -164,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="31" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="194" column="0" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="8" column="21" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="93" column="30" filename="F:/monitor/checks/libs/wmi/sampler.py" />
@@ -264,13 +263,14 @@
       <jump line="248" column="8" filename="F:/monitor/monitoragent.py" />
       <jump line="1" column="15" filename="F:/monitor/monitorstatsd.py" />
       <jump line="177" column="0" filename="F:/monitor/monitoragent.py" />
+      <jump line="83" column="15" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHVybGVuY29kZQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>json.dumps(service_checks), headers</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>ApiInput</text>
@@ -279,31 +279,31 @@
         <text>APIServiceCheckTransaction</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIgaW1wb3J0IHVybGVuY29kZQo=</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGdldF9jb25maWcsIGdldF92ZXJzaW9uCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5wcm94eSBpbXBvcnQgc2V0X25vX3Byb3h5X3NldHRpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgc2VuZF9yZXF1ZXN0Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGluaXRpYWxpemVfbG9nZ2luZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN1Ym1pdF9odHRwKHVybCwgKQo=</text>
+        <text encoding="base64">aW5pdGlhbGl6ZV9sb2dnaW5nKCdtb25pdG9yc3RhdHNkJykKc2V0X25vX3Byb3h5X3NldHRpbmdzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAnezB9L2FwaS92MS9jaGVja19ydW4/ezF9Jy5mb3JtYXQoc2VsZi5hcGlfaG9zdCwgdXJsZW5jb2RlKHBhcmFtcykpCg==</text>
+        <text encoding="base64">ZnJvbSBhZ2dyZWdhdG9yIGltcG9ydCBnZXRfZm9ybWF0dGVyLCBNZXRyaWNzQnVja2V0QWdncmVnYXRvcgpmcm9tIGNoZWNrcy5tZXRyaWNfdHlwZXMgaW1wb3J0IE1ldHJpY1R5cGVzCmZyb20gdXRpbCBpbXBvcnQgY2h1bmtzLCBnZXRfaG9zdG5hbWUsIGdldF9pcCwgcGx1cmFsCmZyb20gdXRpbCBpbXBvcnQgZ2V0X3V1aWQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFwaV9rZXk6Cg==</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zWydhcGlfa2V5J10gPSBzZWxmLmFwaV9rZXkK</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5wcm94eSBpbXBvcnQgc2V0X25vX3Byb3h5X3NldHRpbmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
