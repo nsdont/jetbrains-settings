@@ -57,12 +57,12 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
         <mark key="'" line="155" column="44" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531556676124">
-        <mark key="'" line="83" column="15" />
-        <mark key="[" line="277" column="55" />
-        <mark key="]" line="277" column="66" />
-        <mark key="." line="277" column="66" />
-        <mark key="^" line="277" column="66" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531706961126">
+        <mark key="'" line="269" column="24" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="276" column="15" />
       </file>
       <file name="F:/monitor/aggregator.py" timestamp="1531553246132">
         <mark key="'" line="384" column="33" />
@@ -119,12 +119,12 @@
         <mark key="]" line="507" column="0" />
         <mark key="." line="507" column="0" />
       </file>
-      <file name="F:/monitor/monitorstatsd.py" timestamp="1531557692625">
-        <mark key="'" line="1" column="15" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="F:/monitor/monitorstatsd.py" timestamp="1531706941375">
+        <mark key="'" line="224" column="18" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="242" column="47" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="F:/monitor/checks.d/postgres.py" timestamp="1531218902550">
         <mark key="'" line="0" column="0" />
@@ -142,6 +142,10 @@
       </file>
       <file name="F:/monitor/checks.d/sqlserver.py" timestamp="1531218889960">
         <mark key="'" line="24" column="0" />
+      </file>
+      <file name="F:/monitor/venv/Lib/site-packages/tornado/ioloop.py" timestamp="1531706794374">
+        <mark key="[" line="980" column="51" />
+        <mark key="]" line="980" column="62" />
       </file>
       <file name="F:/monitor/transaction.py" timestamp="1531557843258">
         <mark key="[" line="237" column="73" />
@@ -164,10 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="F:/monitor/checks/libs/wmi/sampler.py" />
-      <jump line="8" column="21" filename="F:/monitor/checks/libs/wmi/sampler.py" />
-      <jump line="93" column="30" filename="F:/monitor/checks/libs/wmi/sampler.py" />
-      <jump line="0" column="0" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="300" column="30" filename="F:/monitor/checks/system/win32.py" />
       <jump line="349" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="376" column="18" filename="F:/monitor/checks/system/win32.py" />
@@ -264,62 +264,64 @@
       <jump line="1" column="15" filename="F:/monitor/monitorstatsd.py" />
       <jump line="177" column="0" filename="F:/monitor/monitoragent.py" />
       <jump line="83" column="15" filename="F:/monitor/monitoragent.py" />
+      <jump line="128" column="43" filename="F:/monitor/monitoragent.py" />
+      <jump line="25" column="0" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="224" column="18" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="270" column="24" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>ApiInput</text>
+        <text encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>APIServiceCheckTransaction</text>
+        <text>milliseconds</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5wcm94eSBpbXBvcnQgc2V0X25vX3Byb3h5X3NldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGluaXRpYWxpemVfbG9nZ2luZwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tMycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZV9sb2dnaW5nKCdtb25pdG9yc3RhdHNkJykKc2V0X25vX3Byb3h5X3NldHRpbmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tMicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhZ2dyZWdhdG9yIGltcG9ydCBnZXRfZm9ybWF0dGVyLCBNZXRyaWNzQnVja2V0QWdncmVnYXRvcgpmcm9tIGNoZWNrcy5tZXRyaWNfdHlwZXMgaW1wb3J0IE1ldHJpY1R5cGVzCmZyb20gdXRpbCBpbXBvcnQgY2h1bmtzLCBnZXRfaG9zdG5hbWUsIGdldF9pcCwgcGx1cmFsCmZyb20gdXRpbCBpbXBvcnQgZ2V0X3V1aWQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tMScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tZmx1c2gtLS0tLTUnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tZmx1c2gtLS0tLTQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tZmx1c2gtLS0tLTMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5wcm94eSBpbXBvcnQgc2V0X25vX3Byb3h5X3NldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tZmx1c2gtLS0tLTInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ApiInput</last-search>
+      <last-search encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</last-search>
       <last-offset />
-      <last-pattern>ApiInput</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbWl0dGVyVGhyZWFkXD4=</entry>
-        <entry encoding="base64">XDxnZXRfdmVyc2lvblw+</entry>
         <entry encoding="base64">XDxERF9FTkRQT0lOVFw+</entry>
         <entry>high</entry>
         <entry>time</entry>
@@ -338,6 +340,8 @@
         <entry encoding="base64">XDxzdG9wXD4=</entry>
         <entry encoding="base64">XDxpb2xvb3BcPg==</entry>
         <entry>ApiInput</entry>
+        <entry>KeyboardInterrupt</entry>
+        <entry encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
