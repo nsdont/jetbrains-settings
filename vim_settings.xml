@@ -57,12 +57,10 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
         <mark key="'" line="155" column="44" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531708231790">
-        <mark key="'" line="272" column="52" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-        <mark key="^" line="276" column="15" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531709346929">
+        <mark key="'" line="221" column="29" />
+        <mark key="." line="145" column="32" />
+        <mark key="^" line="145" column="32" />
       </file>
       <file name="F:/monitor/aggregator.py" timestamp="1531553246132">
         <mark key="'" line="384" column="33" />
@@ -168,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="523" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="74" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="84" column="36" filename="F:/monitor/checks/system/win32.py" />
@@ -268,10 +265,11 @@
       <jump line="270" column="24" filename="F:/monitor/monitoragent.py" />
       <jump line="50" column="0" filename="F:/monitor/monitorstatsd.py" />
       <jump line="272" column="52" filename="F:/monitor/monitoragent.py" />
+      <jump line="222" column="29" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNScpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/intake/</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -280,7 +278,7 @@
         <text encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>milliseconds</text>
+        <text>/intake/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNScpCg==</text>
