@@ -57,8 +57,8 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
         <mark key="'" line="155" column="44" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531706961126">
-        <mark key="'" line="269" column="24" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531708231790">
+        <mark key="'" line="272" column="52" />
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
@@ -119,8 +119,8 @@
         <mark key="]" line="507" column="0" />
         <mark key="." line="507" column="0" />
       </file>
-      <file name="F:/monitor/monitorstatsd.py" timestamp="1531706941375">
-        <mark key="'" line="224" column="18" />
+      <file name="F:/monitor/monitorstatsd.py" timestamp="1531708226821">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="^" line="242" column="47" />
@@ -168,8 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="30" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="349" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="376" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="523" column="18" filename="F:/monitor/checks/system/win32.py" />
       <jump line="74" column="18" filename="F:/monitor/checks/system/win32.py" />
@@ -268,6 +266,8 @@
       <jump line="25" column="0" filename="F:/monitor/monitorstatsd.py" />
       <jump line="224" column="18" filename="F:/monitor/monitorstatsd.py" />
       <jump line="270" column="24" filename="F:/monitor/monitoragent.py" />
+      <jump line="50" column="0" filename="F:/monitor/monitorstatsd.py" />
+      <jump line="272" column="52" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
