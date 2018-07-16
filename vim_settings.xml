@@ -121,13 +121,6 @@
         <mark key="]" line="507" column="0" />
         <mark key="." line="507" column="0" />
       </file>
-      <file name="F:/monitor/monitorstatsd.py" timestamp="1531708226821">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="242" column="47" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="F:/monitor/checks.d/postgres.py" timestamp="1531218902550">
         <mark key="'" line="0" column="0" />
       </file>
