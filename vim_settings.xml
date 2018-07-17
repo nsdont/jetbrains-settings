@@ -65,8 +65,8 @@
         <mark key="'" line="384" column="33" />
       </file>
       <file name="F:/monitor/config.py" timestamp="1531469977506" />
-      <file name="F:/monitor/checks/system/win32.py" timestamp="1531382320688">
-        <mark key="'" line="254" column="24" />
+      <file name="F:/monitor/checks/system/win32.py" timestamp="1531794144632">
+        <mark key="'" line="438" column="17" />
         <mark key="[" line="244" column="15" />
         <mark key="]" line="244" column="15" />
         <mark key="." line="244" column="15" />
@@ -168,13 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="523" column="18" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="74" column="18" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="84" column="36" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="90" column="36" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="95" column="18" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="160" column="19" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="139" column="10" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="434" column="8" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="128" column="53" filename="F:/monitor/checks/libs/wmi/sampler.py" />
       <jump line="208" column="44" filename="F:/monitor/checks/libs/wmi/sampler.py" />
@@ -268,6 +261,13 @@
       <jump line="50" column="0" filename="F:/monitor/monitorstatsd.py" />
       <jump line="272" column="52" filename="F:/monitor/monitoragent.py" />
       <jump line="222" column="29" filename="F:/monitor/monitoragent.py" />
+      <jump line="39" column="0" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="40" column="18" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="191" column="26" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="192" column="18" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="195" column="33" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="198" column="31" filename="F:/monitor/checks/system/win32.py" />
+      <jump line="438" column="17" filename="F:/monitor/checks/system/win32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -277,7 +277,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</text>
+        <text>disk</text>
       </register>
       <register name="0" type="4">
         <text>/intake/</text>
@@ -314,15 +314,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</last-search>
+      <last-search>disk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>disk</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERF9FTkRQT0lOVFw+</entry>
         <entry>high</entry>
         <entry>time</entry>
         <entry>sleep</entry>
@@ -342,6 +341,7 @@
         <entry>ApiInput</entry>
         <entry>KeyboardInterrupt</entry>
         <entry encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</entry>
+        <entry>disk</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
