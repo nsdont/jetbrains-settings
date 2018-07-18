@@ -8,9 +8,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/redisdb.py" timestamp="1531218877953">
-        <mark key="'" line="86" column="29" />
-      </file>
       <file name="/a.dummy" timestamp="1531880380110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,18 +28,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/network.py" timestamp="1530600304804">
-        <mark key="'" line="278" column="25" />
-      </file>
-      <file name="F:/monitor/checks.d/process.py" timestamp="1531218873148">
-        <mark key="'" line="211" column="0" />
-      </file>
-      <file name="F:/monitor/script_monitor_process.py" timestamp="1530860424866">
-        <mark key="'" line="18" column="34" />
-      </file>
-      <file name="F:/monitor/aggregator.py" timestamp="1531553246132">
-        <mark key="'" line="384" column="33" />
-      </file>
       <file name="F:/monitor/config.py" timestamp="1531898772096">
         <mark key="'" line="924" column="15" />
         <mark key="[" line="981" column="25" />
@@ -57,18 +42,12 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="F:/monitor/checks.d/ssh_check.py" timestamp="1531218894032">
-        <mark key="'" line="23" column="18" />
-      </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="961" column="88" />
         <mark key="]" line="961" column="88" />
         <mark key="." line="961" column="88" />
         <mark key="^" line="961" column="83" />
-      </file>
-      <file name="F:/monitor/checks.d/riak.py" timestamp="1531218896837">
-        <mark key="'" line="28" column="32" />
       </file>
       <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
         <mark key="'" line="149" column="62" />
@@ -83,17 +62,11 @@
         <mark key="]" line="507" column="0" />
         <mark key="." line="507" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/postgres.py" timestamp="1531218902550">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="F:/monitor/agent.py" timestamp="1531898075024">
         <mark key="'" line="341" column="29" />
         <mark key="[" line="20" column="36" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="F:/monitor/checks.d/sqlserver.py" timestamp="1531218889960">
-        <mark key="'" line="24" column="0" />
       </file>
       <file name="F:/monitor/venv/Lib/site-packages/tornado/ioloop.py" timestamp="1531706794374">
         <mark key="[" line="980" column="51" />
@@ -120,9 +93,6 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
       </file>
-      <file name="F:/monitor/checks/libs/wmi/sampler.py" timestamp="1531364549767">
-        <mark key="'" line="211" column="40" />
-      </file>
       <file name="/Python Console" timestamp="1531275455668">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,23 +109,11 @@
         <mark key="." line="126" column="0" />
       </file>
       <file name="F:/monitor/venv/Lib/site-packages/tornado/httpclient.py" timestamp="1531822850348" />
-      <file name="F:/monitor/build.yaml" timestamp="1531366381823">
-        <mark key="'" line="292" column="2" />
-      </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
-      </file>
-      <file name="F:/monitor/checks.d/ntp.py" timestamp="1531123360934">
-        <mark key="'" line="78" column="23" />
-      </file>
-      <file name="F:/monitor/checks.d/rabbitmq.py" timestamp="1531218899285">
-        <mark key="'" line="280" column="30" />
-      </file>
-      <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
-        <mark key="'" line="155" column="44" />
       </file>
       <file name="F:/monitor/monitoragent.py" timestamp="1531897330765">
         <mark key="'" line="249" column="20" />
@@ -169,19 +127,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/monitor/checks/script_monitor.py" timestamp="1530860672404">
-        <mark key="'" line="24" column="10" />
-      </file>
-      <file name="F:/agent/framework/actions/show_u_log.py" timestamp="1530707292681">
-        <mark key="'" line="26" column="13" />
-      </file>
-      <file name="F:/monitor/updater_process.py" timestamp="1531897354231">
-        <mark key="'" line="104" column="33" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="50" column="36" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="F:/monitor/gohai.py" timestamp="1531880414991">
         <mark key="'" line="77" column="31" />
       </file>
@@ -190,19 +135,16 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/mysql.py" timestamp="1531127680735">
-        <mark key="'" line="274" column="27" />
+      <file name="F:/monitor/checks/collector.py" timestamp="1531900153541">
+        <mark key="[" line="251" column="53" />
+        <mark key="]" line="252" column="11" />
+        <mark key="." line="252" column="11" />
+        <mark key="^" line="252" column="11" />
       </file>
       <file name="F:/monitor/monitorstatsd.py" timestamp="1531897339801">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="F:/monitor/checks/check_status.py" timestamp="1531120430192">
-        <mark key="'" line="119" column="34" />
-      </file>
-      <file name="F:/monitor/checks.d/statsd.py" timestamp="1531218891773">
-        <mark key="'" line="26" column="14" />
       </file>
       <file name="F:/monitor/win32/agent.py" timestamp="1531897405396">
         <mark key="[" line="561" column="0" />
@@ -320,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dcPg==</text>
@@ -332,28 +274,28 @@
         <text>logging.getLogger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCdqbXhmZXRjaCcpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZTQ4MjRjLi4uILT6wuvQ3rjEo6y9+LPMus+yogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX21vbml0b3JzdGF0c2QnKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX2ZvcndhcmRlcicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplX2xvZ2dpbmcoJ3dpbmRvd3NfY29sbGVjdG9yJykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCdqbXhmZXRjaCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplX2xvZ2dpbmcoJ3dpbmRvd3NfY3VzdG9tX3NjcmlwdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX21vbml0b3JzdGF0c2QnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX2ZvcndhcmRlcicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplX2xvZ2dpbmcoJ3dpbmRvd3NfdXBkYXRlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplX2xvZ2dpbmcoJ3dpbmRvd3NfY29sbGVjdG9yJykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCg==</text>
