@@ -130,17 +130,22 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531897330765">
-        <mark key="'" line="249" column="20" />
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531906315705">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1531449316804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="F:/monitor/updater_process.py" timestamp="1531906259320">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
       </file>
       <file name="F:/monitor/gohai.py" timestamp="1531880414991">
         <mark key="'" line="77" column="31" />
@@ -174,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="4" filename="F:/monitor/monitorstatsd.py" />
       <jump line="300" column="8" filename="F:/monitor/monitorstatsd.py" />
       <jump line="296" column="15" filename="F:/monitor/monitorstatsd.py" />
       <jump line="35" column="0" filename="F:/monitor/monitorstatsd.py" />
@@ -274,13 +278,14 @@
       <jump line="224" column="0" filename="F:/monitor/build.yaml" />
       <jump line="252" column="65" filename="F:/monitor/build.yaml" />
       <jump line="266" column="35" filename="F:/monitor/build.yaml" />
+      <jump line="6" column="0" filename="F:/monitor/monitoragent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW0K</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUuY29uZmlndXJhdG9yKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>update_interval</text>
       </register>
       <register name="/" type="4">
         <text>aix</text>
@@ -289,10 +294,10 @@
         <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW1sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW0K</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUuY29uZmlndXJhdG9yKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
+        <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
@@ -307,13 +312,13 @@
         <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9kYWVtb24ucHkK</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9kYWVtb24ucHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gY29weSB7c30vZ3JhcGhpdGUucHkge3R9L2FnZW50L2dyYXBoaXRlLnB5Cg==</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9kYWVtb24ucHkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
