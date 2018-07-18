@@ -63,10 +63,11 @@
       <file name="F:/monitor/datamonitor_template" timestamp="1531452715437">
         <mark key="'" line="155" column="44" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531710020541">
-        <mark key="'" line="221" column="29" />
-        <mark key="." line="145" column="32" />
-        <mark key="^" line="145" column="32" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1531883331615">
+        <mark key="'" line="222" column="29" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="275" column="43" />
+        <mark key="." line="273" column="0" />
       </file>
       <file name="F:/monitor/aggregator.py" timestamp="1531553246132">
         <mark key="'" line="384" column="33" />
@@ -93,12 +94,12 @@
       <file name="F:/monitor/checks.d/ssh_check.py" timestamp="1531218894032">
         <mark key="'" line="23" column="18" />
       </file>
-      <file name="F:/monitor/updater_process.py" timestamp="1531881205620">
-        <mark key="'" line="118" column="33" />
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="25" />
-        <mark key="." line="51" column="25" />
+      <file name="F:/monitor/updater_process.py" timestamp="1531883225356">
+        <mark key="'" line="111" column="33" />
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="36" />
+        <mark key="^" line="57" column="36" />
+        <mark key="." line="57" column="36" />
       </file>
       <file name="F:/monitor/gohai.py" timestamp="1531880414991">
         <mark key="'" line="77" column="31" />
@@ -127,6 +128,12 @@
         <mark key="]" line="219" column="81" />
         <mark key="." line="219" column="81" />
         <mark key="^" line="219" column="81" />
+      </file>
+      <file name="F:/monitor/util.py" timestamp="1531296769480">
+        <mark key="'" line="644" column="0" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="0" />
+        <mark key="." line="507" column="0" />
       </file>
       <file name="F:/monitor/monitorstatsd.py" timestamp="1531881054428">
         <mark key="[" line="235" column="8" />
@@ -283,60 +290,58 @@
       <jump line="113" column="33" filename="F:/monitor/updater_process.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGUgPSBpbml0X3VwZGF0ZShhZ2VudF9jb25maWcpCiAgICAgICAgdXBkYXRlLnVwZGF0ZXIoKQogICAgICAgIHVwZGF0ZS5yZWdpc3Rlcl9wZXJpb2RfdGFzayhpb2xvb3ApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>updater()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25mZF9wYXRoXD4=</text>
+        <text>Process</text>
       </register>
-      <register name="0" type="4">
-        <text>/intake/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0b3JuYWRvLmlvbG9vcC5QZXJpb2RpY0NhbGxiYWNrKAogICAgICAgICAgICBsYW1iZGE6IHNlbGYudXBkYXRlcigpLAogICAgICAgICAgICBzZWxmLnVwZGF0ZV9pbnRlcnZhbCAqIDEwMDAsCiAgICAgICAgICAgIGlvX2xvb3A9aW9sb29wCiAgICAgICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1cGRhdGVfcHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUgPSBpbml0X3VwZGF0ZShhZ2VudF9jb25maWcpCiAgICAgICAgdXBkYXRlLnVwZGF0ZXIoKQogICAgICAgIHVwZGF0ZS5yZWdpc3Rlcl9wZXJpb2RfdGFzayhpb2xvb3ApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVyX3Byb2Nlc3MucnVuKCkK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUgPSBpbml0X3VwZGF0ZShhZ2VudF9jb25maWcpCiAgICAgICAgdXBkYXRlLnVwZGF0ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFnZW50X2NvbmZpZyA9IGdldF9jb25maWcoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHRyeToKICAgICAgICBzeXMuZXhpdChtYWluKCkpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGxvZy5leGNlcHRpb24oIlVuY2F1Z2h0IGVycm9yIHJ1bm5pbmcgdGhlIEFnZW50IikK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKGludChzZWxmLnBvc3RfaW50ZXJ2YWwpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfcGFyc2VkX2FyZ3MsCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoaW50KHNlbGYudXBkYXRlX2ludGVydmFsKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICB0X2xpc3QgPSBbXQogICAgICAgIHRfbGlzdC5hcHBlbmQodGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c2VsZi51cGRhdGVyKSkKICAgICAgICBpZiBzZWxmLmNlbnRyYWxfY29uZmlndXJhdGlvbl9zd2l0Y2ggPT0gJ3llcyc6CiAgICAgICAgICAgIHRfbGlzdC5hcHBlbmQodGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c2VsZi5jb25maWd1cmF0b3IpKQoKICAgICAgICBmb3IgdCBpbiB0X2xpc3Q6CiAgICAgICAgICAgIHQuc3RhcnQoKQogICAgICAgIGZvciB0IGluIHRfbGlzdDoKICAgICAgICAgICAgdC5qb2luKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB1cGRhdGVfcHJvY2Vzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25mZF9wYXRoXD4=</last-search>
+      <last-search>Process</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25mZF9wYXRoXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Process</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delta</entry>
-        <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
         <entry encoding="base64">XDxnZXRfZGVsdGFfdGltZVw+</entry>
         <entry>url</entry>
         <entry>v1</entry>
@@ -355,6 +360,8 @@
         <entry encoding="base64">XDxnZXRfY29uZmRfcGF0aFw+</entry>
         <entry encoding="base64">XDxjb25mX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxjb25mZF9wYXRoXD4=</entry>
+        <entry>process</entry>
+        <entry>Process</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
