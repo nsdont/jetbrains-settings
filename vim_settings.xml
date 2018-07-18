@@ -68,10 +68,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/monitor/venv/Lib/site-packages/tornado/ioloop.py" timestamp="1531706794374">
-        <mark key="[" line="980" column="51" />
-        <mark key="]" line="980" column="62" />
-      </file>
       <file name="F:/monitor/transaction.py" timestamp="1531557843258">
         <mark key="[" line="237" column="73" />
         <mark key="]" line="237" column="73" />
@@ -109,11 +105,30 @@
         <mark key="." line="126" column="0" />
       </file>
       <file name="F:/monitor/venv/Lib/site-packages/tornado/httpclient.py" timestamp="1531822850348" />
+      <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1531903276520">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="F:/monitor/build.yaml" timestamp="1531904288769">
+        <mark key="'" line="267" column="35" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="246" column="5" />
+        <mark key="." line="246" column="0" />
+      </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
         <mark key="'" line="167" column="0" />
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
+      </file>
+      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1531903269382">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="F:/monitor/monitoragent.py" timestamp="1531897330765">
         <mark key="'" line="249" column="20" />
@@ -130,7 +145,7 @@
       <file name="F:/monitor/gohai.py" timestamp="1531880414991">
         <mark key="'" line="77" column="31" />
       </file>
-      <file name="F:/monitor/build/linux_build/centos5_64/manifest.yaml" timestamp="1531710236567">
+      <file name="F:/monitor/build/linux_build/centos5_64/manifest.yaml" timestamp="1531902325129">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -152,57 +167,13 @@
         <mark key="." line="561" column="0" />
       </file>
       <file name="F:/monitor/utils/send_request.py" timestamp="1531822807189" />
-      <file name="F:/monitor/build/linux_build/aix64/manifest.yaml" timestamp="1531710174478">
+      <file name="F:/monitor/build/linux_build/aix64/manifest.yaml" timestamp="1531902102182">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="12" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="265" column="8" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="255" column="24" filename="F:/monitor/checks/system/win32.py" />
-      <jump line="94" column="6" filename="F:/monitor/monitoragent.py" />
-      <jump line="107" column="25" filename="F:/monitor/monitoragent.py" />
-      <jump line="62" column="6" filename="F:/monitor/monitoragent.py" />
-      <jump line="2" column="35" filename="F:/monitor/utils/transaction.py" />
-      <jump line="7" column="37" filename="F:/monitor/transaction.py" />
-      <jump line="267" column="33" filename="F:/monitor/transaction.py" />
-      <jump line="49" column="0" filename="F:/monitor/monitoragent.py" />
-      <jump line="237" column="19" filename="F:/monitor/monitoragent.py" />
-      <jump line="45" column="58" filename="F:/monitor/checks.d/agent_metrics.py" />
-      <jump line="43" column="20" filename="F:/monitor/agent.py" />
-      <jump line="133" column="32" filename="F:/monitor/agent.py" />
-      <jump line="174" column="21" filename="F:/monitor/agent.py" />
-      <jump line="344" column="29" filename="F:/monitor/agent.py" />
-      <jump line="10" column="10" filename="F:/monitor/datamonitor_template" />
-      <jump line="57" column="53" filename="F:/monitor/datamonitor_template" />
-      <jump line="58" column="2" filename="F:/monitor/datamonitor_template" />
-      <jump line="65" column="21" filename="F:/monitor/datamonitor_template" />
-      <jump line="155" column="44" filename="F:/monitor/datamonitor_template" />
-      <jump line="55" column="0" filename="F:/monitor/monitoragent.py" />
-      <jump line="139" column="8" filename="F:/monitor/monitoragent.py" />
-      <jump line="30" column="32" filename="F:/monitor/monitoragent.py" />
-      <jump line="140" column="8" filename="F:/monitor/monitoragent.py" />
-      <jump line="144" column="8" filename="F:/monitor/monitoragent.py" />
-      <jump line="235" column="16" filename="F:/monitor/monitoragent.py" />
-      <jump line="241" column="16" filename="F:/monitor/monitoragent.py" />
-      <jump line="232" column="12" filename="F:/monitor/monitoragent.py" />
-      <jump line="192" column="39" filename="F:/monitor/monitoragent.py" />
-      <jump line="229" column="12" filename="F:/monitor/monitoragent.py" />
-      <jump line="190" column="56" filename="F:/monitor/monitoragent.py" />
-      <jump line="257" column="0" filename="F:/monitor/monitoragent.py" />
-      <jump line="191" column="37" filename="F:/monitor/monitoragent.py" />
-      <jump line="228" column="12" filename="F:/monitor/monitoragent.py" />
-      <jump line="234" column="25" filename="F:/monitor/monitoragent.py" />
-      <jump line="16" column="14" filename="F:/monitor/monitoragent.py" />
-      <jump line="18" column="7" filename="F:/monitor/monitoragent.py" />
-      <jump line="165" column="8" filename="F:/monitor/monitoragent.py" />
-      <jump line="650" column="33" filename="F:/monitor/aggregator.py" />
-      <jump line="387" column="41" filename="F:/monitor/aggregator.py" />
-      <jump line="385" column="11" filename="F:/monitor/aggregator.py" />
-      <jump line="384" column="33" filename="F:/monitor/aggregator.py" />
-      <jump line="299" column="8" filename="F:/monitor/monitorstatsd.py" />
       <jump line="294" column="4" filename="F:/monitor/monitorstatsd.py" />
       <jump line="300" column="8" filename="F:/monitor/monitorstatsd.py" />
       <jump line="296" column="15" filename="F:/monitor/monitorstatsd.py" />
@@ -259,68 +230,104 @@
       <jump line="1025" column="69" filename="F:/monitor/config.py" />
       <jump line="924" column="15" filename="F:/monitor/config.py" />
       <jump line="167" column="0" filename="F:/monitor/checks/updater.py" />
+      <jump line="499" column="38" filename="F:/monitor/build.yaml" />
+      <jump line="300" column="45" filename="F:/monitor/build.yaml" />
+      <jump line="138" column="31" filename="F:/monitor/build.yaml" />
+      <jump line="163" column="39" filename="F:/monitor/build.yaml" />
+      <jump line="135" column="28" filename="F:/monitor/build.yaml" />
+      <jump line="83" column="7" filename="F:/monitor/build.yaml" />
+      <jump line="63" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="103" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="116" column="39" filename="F:/monitor/build.yaml" />
+      <jump line="117" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="144" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="158" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="185" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="199" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="225" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="239" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="265" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="279" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="140" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="173" column="33" filename="F:/monitor/build.yaml" />
+      <jump line="181" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="213" column="33" filename="F:/monitor/build.yaml" />
+      <jump line="221" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="254" column="33" filename="F:/monitor/build.yaml" />
+      <jump line="261" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="19" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="58" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="91" column="33" filename="F:/monitor/build.yaml" />
+      <jump line="99" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="132" column="33" filename="F:/monitor/build.yaml" />
+      <jump line="150" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="190" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="229" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="268" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="30" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="68" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="33" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="70" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="108" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="147" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="186" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="224" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="252" column="65" filename="F:/monitor/build.yaml" />
+      <jump line="266" column="35" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text>aix</text>
       </register>
-      <register name="0" type="4">
-        <text>logging.getLogger</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW1sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZTQ4MjRjLi4uILT6wuvQ3rjEo6y9+LPMus+yogo=</text>
+        <text encoding="base64">ICAgIC0gc3VwcG9ydF9wbGF0IHt7J1NVU0UxMCc6WzY0XX19IHt0fS9tYW5pZmVzdC55YW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCdqbXhmZXRjaCcpCg==</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX21vbml0b3JzdGF0c2QnKQo=</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9hZ2VudC9kYWVtb24ucHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCiAgICAgICAgaW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX2ZvcndhcmRlcicpCg==</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9kYWVtb24ucHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplX2xvZ2dpbmcoJ3dpbmRvd3NfY29sbGVjdG9yJykK</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZGFlbW9uLnB5IHt0fS9kYWVtb24ucHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNvbmZpZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnaW5nCg==</text>
+        <text encoding="base64">ICAgIC0gY29weSB7c30vZ3JhcGhpdGUucHkge3R9L2FnZW50L2dyYXBoaXRlLnB5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search>aix</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>aix</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlcnZhbFw+</entry>
-        <entry encoding="base64">XDxob3N0bmFtZVw+</entry>
-        <entry encoding="base64">XDxNT05JVE9SX1NUQVRTRF9GTFVTSF9JTlRFUlZBTFw+</entry>
-        <entry encoding="base64">XDxzdG9wXD4=</entry>
-        <entry encoding="base64">XDxpb2xvb3BcPg==</entry>
-        <entry>ApiInput</entry>
-        <entry>KeyboardInterrupt</entry>
-        <entry encoding="base64">XDxydW5fcGVyaW9kX3Rhc2tcPg==</entry>
         <entry>disk</entry>
         <entry encoding="base64">XDxwc3V0aWxcPg==</entry>
         <entry encoding="base64">XDxhZ2VudF9jb25maWdcPg==</entry>
@@ -333,6 +340,14 @@
         <entry encoding="base64">XDxsb2dfbGV2ZWxcPg==</entry>
         <entry>log_file</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxjZW50b3M2NFw+</entry>
+        <entry>debian</entry>
+        <entry>debain</entry>
+        <entry>de</entry>
+        <entry>script</entry>
+        <entry>graphite</entry>
+        <entry>daemon</entry>
+        <entry>aix</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
