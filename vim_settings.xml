@@ -126,11 +126,11 @@
         <mark key="^" line="186" column="2" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531979315008">
+      <file name="F:/monitor/monitoragent.py" timestamp="1531983414860">
         <mark key="'" line="184" column="8" />
-        <mark key="[" line="241" column="76" />
-        <mark key="]" line="241" column="79" />
-        <mark key="." line="241" column="79" />
+        <mark key="[" line="241" column="77" />
+        <mark key="]" line="241" column="77" />
+        <mark key="." line="241" column="77" />
         <mark key="^" line="241" column="79" />
       </file>
       <file name="/Dummy.txt" timestamp="1531908116585">
@@ -280,11 +280,11 @@
       <jump line="308" column="0" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0b3IK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>collector</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
