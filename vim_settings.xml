@@ -39,8 +39,8 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1531993071835">
-        <mark key="'" line="293" column="35" />
+      <file name="F:/monitor/build.yaml" timestamp="1532068373232">
+        <mark key="'" line="98" column="0" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
@@ -185,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="8" filename="F:/monitor/config.py" />
       <jump line="554" column="12" filename="F:/monitor/config.py" />
       <jump line="552" column="8" filename="F:/monitor/config.py" />
       <jump line="549" column="12" filename="F:/monitor/config.py" />
@@ -285,6 +284,7 @@
       <jump line="223" column="17" filename="F:/monitor/jmxfetch.py" />
       <jump line="67" column="23" filename="F:/monitor/jmxfetch.py" />
       <jump line="168" column="16" filename="F:/monitor/jmxfetch.py" />
+      <jump line="98" column="0" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
