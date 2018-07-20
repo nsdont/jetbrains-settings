@@ -39,12 +39,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1532068373232">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="97" column="66" />
+      <file name="F:/monitor/build.yaml" timestamp="1532078437397">
+        <mark key="'" line="139" column="27" />
+        <mark key="[" line="275" column="23" />
+        <mark key="]" line="275" column="23" />
+        <mark key="." line="275" column="23" />
+        <mark key="^" line="98" column="30" />
       </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
         <mark key="'" line="167" column="0" />
@@ -192,34 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="8" filename="F:/monitor/config.py" />
-      <jump line="549" column="12" filename="F:/monitor/config.py" />
-      <jump line="547" column="8" filename="F:/monitor/config.py" />
-      <jump line="544" column="12" filename="F:/monitor/config.py" />
-      <jump line="542" column="8" filename="F:/monitor/config.py" />
-      <jump line="539" column="12" filename="F:/monitor/config.py" />
-      <jump line="537" column="8" filename="F:/monitor/config.py" />
-      <jump line="534" column="12" filename="F:/monitor/config.py" />
-      <jump line="531" column="12" filename="F:/monitor/config.py" />
-      <jump line="528" column="12" filename="F:/monitor/config.py" />
-      <jump line="524" column="16" filename="F:/monitor/config.py" />
-      <jump line="522" column="12" filename="F:/monitor/config.py" />
-      <jump line="519" column="12" filename="F:/monitor/config.py" />
-      <jump line="515" column="12" filename="F:/monitor/config.py" />
-      <jump line="511" column="12" filename="F:/monitor/config.py" />
-      <jump line="508" column="12" filename="F:/monitor/config.py" />
-      <jump line="505" column="16" filename="F:/monitor/config.py" />
-      <jump line="501" column="16" filename="F:/monitor/config.py" />
-      <jump line="495" column="12" filename="F:/monitor/config.py" />
-      <jump line="490" column="12" filename="F:/monitor/config.py" />
-      <jump line="485" column="12" filename="F:/monitor/config.py" />
-      <jump line="481" column="12" filename="F:/monitor/config.py" />
-      <jump line="477" column="12" filename="F:/monitor/config.py" />
-      <jump line="475" column="12" filename="F:/monitor/config.py" />
-      <jump line="471" column="12" filename="F:/monitor/config.py" />
-      <jump line="468" column="16" filename="F:/monitor/config.py" />
-      <jump line="463" column="16" filename="F:/monitor/config.py" />
-      <jump line="460" column="12" filename="F:/monitor/config.py" />
       <jump line="456" column="8" filename="F:/monitor/config.py" />
       <jump line="454" column="16" filename="F:/monitor/config.py" />
       <jump line="452" column="16" filename="F:/monitor/config.py" />
@@ -290,67 +262,90 @@
       <jump line="223" column="17" filename="F:/monitor/jmxfetch.py" />
       <jump line="67" column="23" filename="F:/monitor/jmxfetch.py" />
       <jump line="168" column="16" filename="F:/monitor/jmxfetch.py" />
-      <jump line="98" column="0" filename="F:/monitor/build.yaml" />
       <jump line="70" column="14" filename="F:/monitor/requirements.txt" />
+      <jump line="267" column="54" filename="F:/monitor/build.yaml" />
+      <jump line="255" column="14" filename="F:/monitor/build.yaml" />
+      <jump line="212" column="15" filename="F:/monitor/build.yaml" />
+      <jump line="268" column="21" filename="F:/monitor/build.yaml" />
+      <jump line="225" column="62" filename="F:/monitor/build.yaml" />
+      <jump line="38" column="33" filename="F:/monitor/build.yaml" />
+      <jump line="187" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="224" column="60" filename="F:/monitor/build.yaml" />
+      <jump line="227" column="31" filename="F:/monitor/build.yaml" />
+      <jump line="141" column="96" filename="F:/monitor/build.yaml" />
+      <jump line="142" column="32" filename="F:/monitor/build.yaml" />
+      <jump line="144" column="23" filename="F:/monitor/build.yaml" />
+      <jump line="183" column="60" filename="F:/monitor/build.yaml" />
+      <jump line="185" column="92" filename="F:/monitor/build.yaml" />
+      <jump line="186" column="31" filename="F:/monitor/build.yaml" />
+      <jump line="188" column="23" filename="F:/monitor/build.yaml" />
+      <jump line="226" column="60" filename="F:/monitor/build.yaml" />
+      <jump line="228" column="94" filename="F:/monitor/build.yaml" />
+      <jump line="229" column="31" filename="F:/monitor/build.yaml" />
+      <jump line="231" column="23" filename="F:/monitor/build.yaml" />
+      <jump line="270" column="54" filename="F:/monitor/build.yaml" />
+      <jump line="272" column="94" filename="F:/monitor/build.yaml" />
+      <jump line="273" column="31" filename="F:/monitor/build.yaml" />
+      <jump line="275" column="23" filename="F:/monitor/build.yaml" />
+      <jump line="95" column="58" filename="F:/monitor/build.yaml" />
+      <jump line="97" column="96" filename="F:/monitor/build.yaml" />
+      <jump line="98" column="32" filename="F:/monitor/build.yaml" />
+      <jump line="100" column="23" filename="F:/monitor/build.yaml" />
+      <jump line="139" column="27" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>embedded/</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>embedded/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqbXhfY2hlY2tzXD4=</text>
+        <text>bin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoY29uZik6CiAgICAgICAgICAgICAgICBmID0gb3Blbihjb25mKQogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGNoZWNrX2NvbmZpZyA9IHlhbWwubG9hZChmLnJlYWQoKSwgTG9hZGVyPXlMb2FkZXIpCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0IGNoZWNrX2NvbmZpZyBpcyBub3QgTm9uZQogICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgICAgICBmLmNsb3NlKCkKICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIlVuYWJsZSB0byBwYXJzZSB5YW1sIGNvbmZpZyBpbiAlcyIgJSBjb25mKQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGlzX2pteCwgY2hlY2tfamF2YV9iaW5fcGF0aCwgY2hlY2tfamF2YV9vcHRpb25zLCBjaGVja190b29sc19qYXJfcGF0aCwgY2hlY2tfY3VzdG9tX2phcl9wYXRocyA9IFwKICAgICAgICAgICAgICAgICAgICAgICAgY2xzLl9pc19qbXhfY2hlY2soY2hlY2tfY29uZmlnLCBjaGVja19uYW1lLCBjaGVja3NfbGlzdCkKICAgICAgICAgICAgICAgICAgICBpZiBpc19qbXg6CiAgICAgICAgICAgICAgICAgICAgICAgIGpteF9jaGVja3MuYXBwZW5kKGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vbW9uaXRvci9jZW50b3M1LTMyLWJpbi50Z3oge3N9L2NlbnRvczUtMzItYmluLnRnegogICAgLSB1bmNvbXByZXNzIHtzfS9jZW50b3M1LTMyLWJpbi50Z3oge3R9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS02NC1iaW4udGd6IHt0fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdXRpbD09MC43LjgK</text>
+        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9lbWJlZGRlZC9iaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dG9ybmFkbz09NC41LjEK</text>
+        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9lbWJlZGRlZC9iaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3VwZXJ2aXNvcj09My4xLjMK</text>
+        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS02NC1iaW4udGd6IHt0fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFdpbmRvd3M6IFszMl0K</text>
+        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS0zMi1iaW4udGd6IHt0fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvbGludXg2NC1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS0zMi1iaW4udGd6IHt0fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvbGludXgzMi1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vbW9uaXRvci1weXRob24tc3VzZTEwLTY0LnRneiB7c30vbW9uaXRvci1weXRob24tc3VzZTEwLTY0LnRnegogICAgLSB1bmNvbXByZXNzIHtzfS9tb25pdG9yLXB5dGhvbi1zdXNlMTAtNjQudGd6IHt0fQogICAgLSB1bmNvbXByZXNzIC9ob21lL3V5dW4vYnVpbGRzY3JpcHRzL2FudC9zdXNlMTAtYmluLnRneiB7dH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS0zMi1iaW4udGd6IHt0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvc3VzZTEwLTMyLWJpbi50Z3oge3R9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqbXhfY2hlY2tzXD4=</last-search>
+      <last-search>bin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqbXhfY2hlY2tzXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>bin</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja195YW1sXD4=</entry>
-        <entry encoding="base64">XDxsb2FkX2NoZWNrX2RpcmVjdG9yeVw+</entry>
-        <entry>yaml</entry>
-        <entry>parse</entry>
-        <entry encoding="base64">XDxtb25pdG9yc3RhdHNkX2RlZmF1bHRzXD4=</entry>
         <entry>updater_interval</entry>
         <entry encoding="base64">XDx1cGRhdGVyX2ludGVydmFsXD4=</entry>
         <entry encoding="base64">XDxhZ2VudENvbmZpZ1w+</entry>
@@ -366,6 +361,11 @@
         <entry encoding="base64">XDxuZXN0ZWRcPg==</entry>
         <entry>run</entry>
         <entry encoding="base64">XDxqbXhfY2hlY2tzXD4=</entry>
+        <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
+        <entry encoding="base64">XDxhaXg1XD4=</entry>
+        <entry encoding="base64">XDxzdXNlMTBcPg==</entry>
+        <entry>embedded</entry>
+        <entry>bin</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
