@@ -24,10 +24,10 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1531993189826">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1532334355346">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
@@ -42,10 +42,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1531993244278">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1532334360792">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
       <file name="F:/monitor/manifest.yaml" timestamp="1531993274593">
@@ -81,7 +81,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531908116585">
+      <file name="/Dummy.txt" timestamp="1532334675388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>embedded/</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>embedded/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>bin</text>
