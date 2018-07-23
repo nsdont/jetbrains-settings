@@ -3,21 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1531275455668">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/monitor/conf/datamonitor.conf" timestamp="1531907580528">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="F:/monitor/jmxfetch.py" timestamp="1531992656495">
         <mark key="'" line="168" column="16" />
         <mark key="[" line="392" column="23" />
         <mark key="]" line="392" column="27" />
         <mark key="^" line="392" column="27" />
         <mark key="." line="392" column="27" />
-      </file>
-      <file name="/a.dummy" timestamp="1531880380110">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
@@ -38,13 +29,6 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
         <mark key="^" line="1" column="13" />
-      </file>
-      <file name="F:/monitor/build.yaml" timestamp="1532078437397">
-        <mark key="'" line="139" column="27" />
-        <mark key="[" line="275" column="23" />
-        <mark key="]" line="275" column="23" />
-        <mark key="." line="275" column="23" />
-        <mark key="^" line="98" column="30" />
       </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
         <mark key="'" line="167" column="0" />
@@ -192,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="8" filename="F:/monitor/config.py" />
-      <jump line="454" column="16" filename="F:/monitor/config.py" />
       <jump line="452" column="16" filename="F:/monitor/config.py" />
       <jump line="448" column="24" filename="F:/monitor/config.py" />
       <jump line="443" column="12" filename="F:/monitor/config.py" />
@@ -292,6 +274,8 @@
       <jump line="98" column="32" filename="F:/monitor/build.yaml" />
       <jump line="100" column="23" filename="F:/monitor/build.yaml" />
       <jump line="139" column="27" filename="F:/monitor/build.yaml" />
+      <jump line="41" column="26" filename="F:/monitor/checks/control_script.py" />
+      <jump line="70" column="12" filename="F:/monitor/checks/control_script.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
