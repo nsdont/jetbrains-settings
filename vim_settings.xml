@@ -42,7 +42,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1532334360792">
+      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1532337525918">
+        <mark key="'" line="15" column="20" />
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
@@ -86,12 +87,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="F:/monitor/requirements.txt" timestamp="1532077051312">
-        <mark key="'" line="67" column="14" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+      <file name="F:/monitor/requirements.txt" timestamp="1532337668897">
+        <mark key="'" line="48" column="17" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="1" column="1" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="F:/monitor/updater_process.py" timestamp="1531978806515">
         <mark key="'" line="116" column="0" />
@@ -176,9 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="16" filename="F:/monitor/config.py" />
-      <jump line="448" column="24" filename="F:/monitor/config.py" />
-      <jump line="443" column="12" filename="F:/monitor/config.py" />
       <jump line="440" column="12" filename="F:/monitor/config.py" />
       <jump line="437" column="16" filename="F:/monitor/config.py" />
       <jump line="432" column="12" filename="F:/monitor/config.py" />
@@ -276,62 +274,63 @@
       <jump line="139" column="27" filename="F:/monitor/build.yaml" />
       <jump line="41" column="26" filename="F:/monitor/checks/control_script.py" />
       <jump line="70" column="12" filename="F:/monitor/checks/control_script.py" />
+      <jump line="15" column="20" filename="F:/monitor/build/win_build/manifest.yaml" />
+      <jump line="55" column="16" filename="F:/monitor/requirements.txt" />
+      <jump line="57" column="17" filename="F:/monitor/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>cpuinfo</text>
       </register>
       <register name="/" type="4">
-        <text>bin</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vbW9uaXRvci9jZW50b3M1LTMyLWJpbi50Z3oge3N9L2NlbnRvczUtMzItYmluLnRnegogICAgLSB1bmNvbXByZXNzIHtzfS9jZW50b3M1LTMyLWJpbi50Z3oge3R9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS02NC1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9lbWJlZGRlZC9iaW4K</text>
+        <text encoding="base64">cHktPT0zLjMuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9lbWJlZGRlZC9iaW4K</text>
+        <text encoding="base64">IyBub3RlOiBzaW1wbGVqc29uIGlzIHVzZWQgaW4gbWFueSBjaGVja3MgdG8gaW50ZWZhY2UgQVBJcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS02NC1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">IyB0aGUgbGlieWFtbCBiaW5kaW5ncyBhcmUgb3B0aW9uYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS0zMi1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">IyBub3RlOiByZXF1ZXN0cyBpcyBhbHNvIHVzZWQgaW4gbWFueSBjaGVja3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS0zMi1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">c2ltcGxlanNvbj09My42LjUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cmVxdWVzdHM9PTIuNi4wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvY2VudG9zNS0zMi1iaW4udGd6IHt0fQo=</text>
+        <text encoding="base64">cHl5YW1sPT0zLjExCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gdW5jb21wcmVzcyAvaG9tZS91eXVuL2J1aWxkc2NyaXB0cy9hbnQvc3VzZTEwLTMyLWJpbi50Z3oge3R9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bin</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern>bin</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updater_interval</entry>
-        <entry encoding="base64">XDx1cGRhdGVyX2ludGVydmFsXD4=</entry>
         <entry encoding="base64">XDxhZ2VudENvbmZpZ1w+</entry>
         <entry>main</entry>
         <entry encoding="base64">XDx3aW5kb3dzX2NvbmZcPg==</entry>
@@ -350,6 +349,8 @@
         <entry encoding="base64">XDxzdXNlMTBcPg==</entry>
         <entry>embedded</entry>
         <entry>bin</entry>
+        <entry>py</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
