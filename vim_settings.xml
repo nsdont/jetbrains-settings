@@ -49,6 +49,9 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
+        <mark key="'" line="230" column="57" />
+      </file>
       <file name="F:/monitor/manifest.yaml" timestamp="1531993274593">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="13" />
@@ -177,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="12" filename="F:/monitor/config.py" />
-      <jump line="437" column="16" filename="F:/monitor/config.py" />
-      <jump line="432" column="12" filename="F:/monitor/config.py" />
       <jump line="428" column="12" filename="F:/monitor/config.py" />
       <jump line="422" column="16" filename="F:/monitor/config.py" />
       <jump line="417" column="12" filename="F:/monitor/config.py" />
@@ -277,6 +277,9 @@
       <jump line="15" column="20" filename="F:/monitor/build/win_build/manifest.yaml" />
       <jump line="55" column="16" filename="F:/monitor/requirements.txt" />
       <jump line="57" column="17" filename="F:/monitor/requirements.txt" />
+      <jump line="0" column="0" filename="F:/monitor/checks.d/process.py" />
+      <jump line="20" column="12" filename="F:/monitor/checks.d/process.py" />
+      <jump line="230" column="57" filename="F:/monitor/checks.d/process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -286,7 +289,7 @@
         <text>cpuinfo</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>threa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vbW9uaXRvci9jZW50b3M1LTMyLWJpbi50Z3oge3N9L2NlbnRvczUtMzItYmluLnRnegogICAgLSB1bmNvbXByZXNzIHtzfS9jZW50b3M1LTMyLWJpbi50Z3oge3R9Cg==</text>
@@ -323,15 +326,14 @@
       </register>
     </registers>
     <search>
-      <last-search>mysql</last-search>
+      <last-search>threa</last-search>
       <last-offset />
-      <last-pattern>mysql</last-pattern>
+      <last-pattern>threa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZ2VudENvbmZpZ1w+</entry>
         <entry>main</entry>
         <entry encoding="base64">XDx3aW5kb3dzX2NvbmZcPg==</entry>
         <entry encoding="base64">XDx3aW5kb3dfY29uZl9wYXRoXD4=</entry>
@@ -351,6 +353,7 @@
         <entry>bin</entry>
         <entry>py</entry>
         <entry>mysql</entry>
+        <entry>threa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
