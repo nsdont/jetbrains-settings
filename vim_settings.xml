@@ -19,6 +19,7 @@
       <file name="/a.dummy" timestamp="1531880380110">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1532488256568" />
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="53" column="71" />
@@ -33,7 +34,7 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/checks/control_script.py" timestamp="1532485296741" />
+      <file name="F:/monitor/checks/control_script.py" timestamp="1532487827287" />
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1532334355346">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -163,11 +164,11 @@
         <mark key="]" line="184" column="18" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1531980804793">
-        <mark key="'" line="311" column="0" />
-        <mark key="[" line="330" column="4" />
-        <mark key="]" line="330" column="7" />
-        <mark key="." line="330" column="7" />
+      <file name="F:/monitor/win32/agent.py" timestamp="1532487885253">
+        <mark key="'" line="407" column="6" />
+        <mark key="[" line="474" column="0" />
+        <mark key="]" line="474" column="0" />
+        <mark key="." line="474" column="0" />
         <mark key="^" line="330" column="7" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1531970908279">
@@ -190,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="12" filename="F:/monitor/config.py" />
       <jump line="422" column="16" filename="F:/monitor/config.py" />
       <jump line="417" column="12" filename="F:/monitor/config.py" />
       <jump line="412" column="12" filename="F:/monitor/config.py" />
@@ -290,6 +290,7 @@
       <jump line="0" column="0" filename="F:/monitor/checks.d/process.py" />
       <jump line="20" column="12" filename="F:/monitor/checks.d/process.py" />
       <jump line="230" column="57" filename="F:/monitor/checks.d/process.py" />
+      <jump line="407" column="6" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -299,7 +300,7 @@
         <text>cpuinfo</text>
       </register>
       <register name="/" type="4">
-        <text>threa</text>
+        <text>ignore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vbW9uaXRvci9jZW50b3M1LTMyLWJpbi50Z3oge3N9L2NlbnRvczUtMzItYmluLnRnegogICAgLSB1bmNvbXByZXNzIHtzfS9jZW50b3M1LTMyLWJpbi50Z3oge3R9Cg==</text>
@@ -308,44 +309,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHktPT0zLjMuMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBub3RlOiBzaW1wbGVqc29uIGlzIHVzZWQgaW4gbWFueSBjaGVja3MgdG8gaW50ZWZhY2UgQVBJcwo=</text>
+        <text encoding="base64">cHktPT0zLjMuMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0aGUgbGlieWFtbCBiaW5kaW5ncyBhcmUgb3B0aW9uYWwK</text>
+        <text encoding="base64">IyBub3RlOiBzaW1wbGVqc29uIGlzIHVzZWQgaW4gbWFueSBjaGVja3MgdG8gaW50ZWZhY2UgQVBJcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBub3RlOiByZXF1ZXN0cyBpcyBhbHNvIHVzZWQgaW4gbWFueSBjaGVja3MK</text>
+        <text encoding="base64">IyB0aGUgbGlieWFtbCBiaW5kaW5ncyBhcmUgb3B0aW9uYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2ltcGxlanNvbj09My42LjUK</text>
+        <text encoding="base64">IyBub3RlOiByZXF1ZXN0cyBpcyBhbHNvIHVzZWQgaW4gbWFueSBjaGVja3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWVzdHM9PTIuNi4wCg==</text>
+        <text encoding="base64">c2ltcGxlanNvbj09My42LjUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHl5YW1sPT0zLjExCg==</text>
+        <text encoding="base64">cmVxdWVzdHM9PTIuNi4wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHl5YW1sPT0zLjExCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>threa</last-search>
+      <last-search>ignore</last-search>
       <last-offset />
-      <last-pattern>threa</last-pattern>
+      <last-pattern>ignore</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
-        <entry encoding="base64">XDx3aW5kb3dzX2NvbmZcPg==</entry>
         <entry encoding="base64">XDx3aW5kb3dfY29uZl9wYXRoXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>_post</entry>
@@ -364,6 +363,8 @@
         <entry>py</entry>
         <entry>mysql</entry>
         <entry>threa</entry>
+        <entry encoding="base64">XDxNb25pdG9yYWdlbnRcPg==</entry>
+        <entry>ignore</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
