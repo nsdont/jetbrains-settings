@@ -19,7 +19,6 @@
       <file name="/a.dummy" timestamp="1531880380110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1532496634825" />
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="53" column="71" />
@@ -34,7 +33,6 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/checks/control_script.py" timestamp="1532487827287" />
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1532334355346">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -97,6 +95,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
+      <file name="F:/monitor/logs/win32.log" timestamp="1532499898124" />
       <file name="/Dummy.txt" timestamp="1532334675388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -135,9 +134,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="F:/monitor/checks/collector.py" timestamp="1531979526384">
-        <mark key="'" line="269" column="25" />
-        <mark key="[" line="47" column="8" />
+      <file name="F:/monitor/checks/collector.py" timestamp="1532499928063">
+        <mark key="'" line="270" column="25" />
+        <mark key="[" line="257" column="0" />
         <mark key="]" line="47" column="8" />
         <mark key="." line="47" column="8" />
         <mark key="^" line="252" column="11" />
@@ -159,18 +158,18 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/monitor/datamonitor.conf" timestamp="1532498736276">
+      <file name="F:/monitor/datamonitor.conf" timestamp="1532499983772">
         <mark key="'" line="185" column="0" />
         <mark key="[" line="170" column="11" />
         <mark key="]" line="170" column="11" />
         <mark key="." line="170" column="11" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1532499691869">
+      <file name="F:/monitor/win32/agent.py" timestamp="1532500029599">
         <mark key="'" line="252" column="28" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="51" column="27" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="29" />
+        <mark key="^" line="46" column="29" />
+        <mark key="." line="46" column="29" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1531970908279">
         <mark key="'" line="15" column="48" />
@@ -294,11 +293,11 @@
       <jump line="1045" column="40" filename="F:/monitor/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>__name__</text>
       </register>
       <register name="-" type="4">
-        <text>config.</text>
+        <text>__name__</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzX2xvZ19maWxlXD4=</text>
