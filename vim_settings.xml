@@ -48,6 +48,15 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="F:/monitor/graphite.py" timestamp="1532513191523">
+        <mark key="'" line="80" column="25" />
+      </file>
+      <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1532509293192">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="68" column="11" />
@@ -61,6 +70,12 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="F:/monitor/utils/flare.py" timestamp="1532512834203">
+        <mark key="[" line="487" column="24" />
+        <mark key="]" line="488" column="11" />
+        <mark key="." line="488" column="11" />
+        <mark key="^" line="488" column="11" />
       </file>
       <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
         <mark key="'" line="230" column="57" />
@@ -78,12 +93,12 @@
         <mark key="^" line="186" column="2" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1532508714998">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="578" column="15" />
-        <mark key="]" line="578" column="25" />
-        <mark key="." line="578" column="25" />
-        <mark key="^" line="578" column="25" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1532513147529">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="694" column="20" />
+        <mark key="]" line="694" column="28" />
+        <mark key="." line="694" column="28" />
+        <mark key="^" line="694" column="28" />
       </file>
       <file name="F:/monitor/config.py" timestamp="1532507187485">
         <mark key="'" line="489" column="49" />
@@ -119,12 +134,12 @@
         <mark key="." line="49" column="51" />
         <mark key="^" line="49" column="52" />
       </file>
-      <file name="F:/monitor/gohai.py" timestamp="1532498471274">
+      <file name="F:/monitor/gohai.py" timestamp="1532513300731">
         <mark key="'" line="77" column="31" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
@@ -144,12 +159,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="F:/monitor/checks/collector.py" timestamp="1532499928063">
-        <mark key="'" line="270" column="25" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="47" column="8" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="252" column="11" />
+      <file name="F:/monitor/checks/collector.py" timestamp="1532512908020">
+        <mark key="'" line="269" column="25" />
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="478" column="0" />
+        <mark key="." line="478" column="0" />
+        <mark key="^" line="251" column="11" />
       </file>
       <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
         <mark key="'" line="149" column="62" />
@@ -161,6 +176,25 @@
       <file name="F:/monitor/util.py" timestamp="1532502743623">
         <mark key="'" line="331" column="34" />
         <mark key="[" line="211" column="15" />
+      </file>
+      <file name="F:/monitor/monitorstatsd.py" timestamp="1532513066659">
+        <mark key="[" line="341" column="15" />
+        <mark key="]" line="341" column="16" />
+        <mark key="." line="341" column="16" />
+        <mark key="^" line="341" column="16" />
+      </file>
+      <file name="F:/monitor/checks/check_status.py" timestamp="1532513221710">
+        <mark key="'" line="119" column="16" />
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
+      </file>
+      <file name="F:/monitor/agent.py" timestamp="1532512865693">
+        <mark key="'" line="51" column="39" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="^" line="97" column="16" />
+        <mark key="." line="337" column="0" />
       </file>
       <file name="F:/monitor/datamonitor.conf" timestamp="1532499983772">
         <mark key="'" line="185" column="0" />
@@ -174,6 +208,11 @@
         <mark key="]" line="46" column="29" />
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
+      </file>
+      <file name="F:/monitor/transaction.py" timestamp="1532513093216">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1532509190359">
         <mark key="'" line="15" column="48" />
@@ -196,14 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="6" filename="F:/monitor/checks/collector.py" />
-      <jump line="47" column="34" filename="F:/monitor/checks/collector.py" />
-      <jump line="428" column="34" filename="F:/monitor/checks/collector.py" />
-      <jump line="464" column="16" filename="F:/monitor/checks/collector.py" />
-      <jump line="193" column="13" filename="F:/monitor/checks/collector.py" />
-      <jump line="627" column="30" filename="F:/monitor/checks/collector.py" />
-      <jump line="604" column="34" filename="F:/monitor/checks/collector.py" />
-      <jump line="358" column="26" filename="F:/monitor/checks/collector.py" />
       <jump line="269" column="25" filename="F:/monitor/checks/collector.py" />
       <jump line="787" column="16" filename="F:/monitor/config.py" />
       <jump line="52" column="39" filename="F:/monitor/agent.py" />
@@ -296,62 +327,68 @@
       <jump line="73" column="23" filename="F:/monitor/checks.d/disk.py" />
       <jump line="201" column="0" filename="F:/monitor/checks.d/disk.py" />
       <jump line="0" column="0" filename="F:/monitor/checks.d/disk.py" />
+      <jump line="15" column="65" filename="F:/monitor/graphite.py" />
+      <jump line="14" column="33" filename="F:/monitor/graphite.py" />
+      <jump line="0" column="18" filename="F:/monitor/graphite.py" />
+      <jump line="80" column="25" filename="F:/monitor/graphite.py" />
+      <jump line="0" column="18" filename="F:/monitor/checks/check_status.py" />
+      <jump line="247" column="51" filename="F:/monitor/checks/check_status.py" />
+      <jump line="210" column="23" filename="F:/monitor/checks/check_status.py" />
+      <jump line="119" column="16" filename="F:/monitor/checks/check_status.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBwZiBpbXBvcnQgZ2V0X3BsYXRmb3JtCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>no</text>
       </register>
       <register name="/" type="4">
-        <text>9660</text>
+        <text encoding="base64">XDxwaWNrbGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>_excluded_disk_re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlc3lzdGVtIGluIHNlbGYuX2V4Y2x1ZGVkX2ZpbGVzeXN0ZW1zCg==</text>
+        <text encoding="base64">ZnJvbSBwZiBpbXBvcnQgZ2V0X3BsYXRmb3JtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>(Platform.is_win32() and ('cdrom' in part.opts or
-                                          part.fstype == '')</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBGb3J3YXJkZXJTdGF0dXMucmVtb3ZlX2xhdGVzdF9zdGF0dXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBjaGVja3MuY2hlY2tfc3RhdHVzIGltcG9ydCBGb3J3YXJkZXJTdGF0dXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBGb3J3YXJkZXJTdGF0dXMoCiAgICAgICAgICAgIHF1ZXVlX2xlbmd0aD1zZWxmLl90b3RhbF9jb3VudCwKICAgICAgICAgICAgcXVldWVfc2l6ZT1zZWxmLl90b3RhbF9zaXplLAogICAgICAgICAgICBmbHVzaF9jb3VudD1zZWxmLl9mbHVzaF9jb3VudCwKICAgICAgICAgICAgdHJhbnNhY3Rpb25zX3JlY2VpdmVkPXNlbGYuX3RyYW5zYWN0aW9uc19yZWNlaXZlZCwKICAgICAgICAgICAgdHJhbnNhY3Rpb25zX2ZsdXNoZWQ9c2VsZi5fdHJhbnNhY3Rpb25zX2ZsdXNoZWQpLnBlcnNpc3QoKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobG9nLmhhbmRsZXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBGb3J3YXJkZXJTdGF0dXMoKS5wZXJzaXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nLmVycm9yKCdbd2luMzJdID09PT09PT09PT09PT0gdGVzdCcpCg==</text>
+        <text encoding="base64">ZnJvbSBjaGVja3MuY2hlY2tfc3RhdHVzIGltcG9ydCBGb3J3YXJkZXJTdGF0dXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLTEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9uaXRvcnN0YXRzZFN0YXR1cygKICAgICAgICAgICAgICAgIGZsdXNoX2NvdW50PXNlbGYuZmx1c2hfY291bnQsCiAgICAgICAgICAgICAgICBwYWNrZXRfY291bnQ9cGFja2V0X2NvdW50LAogICAgICAgICAgICAgICAgcGFja2V0c19wZXJfc2Vjb25kPXBhY2tldHNfcGVyX3NlY29uZCwKICAgICAgICAgICAgICAgIG1ldHJpY19jb3VudD1jb3VudCwKICAgICAgICAgICAgICAgIGV2ZW50X2NvdW50PWV2ZW50X2NvdW50LAogICAgICAgICAgICAgICAgc2VydmljZV9jaGVja19jb3VudD1zZXJ2aWNlX2NoZWNrX2NvdW50LAogICAgICAgICAgICApLnBlcnNpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>9660</last-search>
+      <last-search encoding="base64">XDxwaWNrbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>9660</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwaWNrbGVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxSb3RhdGluZ0ZpbGVIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxzX2xvZ19maWxlXD4=</entry>
@@ -371,6 +408,7 @@
         <entry encoding="base64">XDxfZXhjbGVkZWRfcmVcPg==</entry>
         <entry>ISO</entry>
         <entry>9660</entry>
+        <entry encoding="base64">XDxwaWNrbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
