@@ -19,6 +19,12 @@
       <file name="/a.dummy" timestamp="1531880380110">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1532501987462">
+        <mark key="[" line="215" column="63" />
+        <mark key="]" line="215" column="63" />
+        <mark key="^" line="215" column="63" />
+        <mark key="." line="215" column="63" />
+      </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="53" column="71" />
@@ -74,15 +80,15 @@
         <mark key="^" line="186" column="2" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1531986859669">
-        <mark key="'" line="184" column="8" />
-        <mark key="[" line="241" column="77" />
-        <mark key="]" line="241" column="77" />
-        <mark key="." line="241" column="77" />
-        <mark key="^" line="241" column="79" />
+      <file name="F:/monitor/monitoragent.py" timestamp="1532501824576">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="578" column="15" />
+        <mark key="]" line="578" column="14" />
+        <mark key="." line="578" column="14" />
+        <mark key="^" line="578" column="14" />
       </file>
-      <file name="F:/monitor/config.py" timestamp="1532499670981">
-        <mark key="'" line="1045" column="40" />
+      <file name="F:/monitor/config.py" timestamp="1532501900297">
+        <mark key="'" line="151" column="5" />
         <mark key="[" line="1045" column="0" />
         <mark key="]" line="1045" column="0" />
         <mark key="." line="1045" column="0" />
@@ -191,28 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="11" filename="F:/monitor/config.py" />
-      <jump line="384" column="12" filename="F:/monitor/config.py" />
-      <jump line="382" column="12" filename="F:/monitor/config.py" />
-      <jump line="380" column="12" filename="F:/monitor/config.py" />
-      <jump line="378" column="12" filename="F:/monitor/config.py" />
-      <jump line="373" column="8" filename="F:/monitor/config.py" />
-      <jump line="371" column="12" filename="F:/monitor/config.py" />
-      <jump line="368" column="12" filename="F:/monitor/config.py" />
-      <jump line="364" column="12" filename="F:/monitor/config.py" />
-      <jump line="361" column="12" filename="F:/monitor/config.py" />
-      <jump line="358" column="14" filename="F:/monitor/config.py" />
-      <jump line="71" column="24" filename="F:/monitor/datamonitor.conf" />
-      <jump line="167" column="35" filename="F:/monitor/datamonitor_template" />
-      <jump line="184" column="0" filename="F:/monitor/datamonitor.conf" />
-      <jump line="334" column="0" filename="F:/monitor/win32/agent.py" />
-      <jump line="343" column="18" filename="F:/monitor/win32/agent.py" />
-      <jump line="262" column="4" filename="F:/monitor/monitoragent.py" />
-      <jump line="0" column="0" filename="F:/monitor/monitoragent.py" />
-      <jump line="103" column="30" filename="F:/monitor/updater_process.py" />
-      <jump line="84" column="42" filename="F:/monitor/updater_process.py" />
-      <jump line="29" column="13" filename="F:/monitor/updater_process.py" />
-      <jump line="23" column="54" filename="F:/monitor/updater_process.py" />
       <jump line="26" column="41" filename="F:/monitor/checks/central_configurator.py" />
       <jump line="20" column="13" filename="F:/monitor/checks/central_configurator.py" />
       <jump line="15" column="48" filename="F:/monitor/checks/central_configurator.py" />
@@ -291,16 +275,38 @@
       <jump line="246" column="28" filename="F:/monitor/win32/agent.py" />
       <jump line="1048" column="48" filename="F:/monitor/config.py" />
       <jump line="1045" column="40" filename="F:/monitor/config.py" />
+      <jump line="222" column="4" filename="F:/monitor/config.py" />
+      <jump line="187" column="11" filename="F:/monitor/config.py" />
+      <jump line="165" column="11" filename="F:/monitor/config.py" />
+      <jump line="244" column="26" filename="F:/monitor/monitoragent.py" />
+      <jump line="252" column="20" filename="F:/monitor/monitoragent.py" />
+      <jump line="253" column="60" filename="F:/monitor/monitoragent.py" />
+      <jump line="254" column="63" filename="F:/monitor/monitoragent.py" />
+      <jump line="255" column="43" filename="F:/monitor/monitoragent.py" />
+      <jump line="267" column="24" filename="F:/monitor/monitoragent.py" />
+      <jump line="498" column="39" filename="F:/monitor/monitoragent.py" />
+      <jump line="210" column="45" filename="F:/monitor/monitoragent.py" />
+      <jump line="207" column="33" filename="F:/monitor/monitoragent.py" />
+      <jump line="205" column="56" filename="F:/monitor/monitoragent.py" />
+      <jump line="53" column="0" filename="F:/monitor/monitoragent.py" />
+      <jump line="62" column="0" filename="F:/monitor/config.py" />
+      <jump line="137" column="5" filename="F:/monitor/config.py" />
+      <jump line="138" column="12" filename="F:/monitor/config.py" />
+      <jump line="141" column="5" filename="F:/monitor/config.py" />
+      <jump line="142" column="19" filename="F:/monitor/config.py" />
+      <jump line="146" column="5" filename="F:/monitor/config.py" />
+      <jump line="147" column="19" filename="F:/monitor/config.py" />
+      <jump line="151" column="5" filename="F:/monitor/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__name__</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>__name__</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzX2xvZ19maWxlXD4=</text>
+        <text>'windows</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLTEnKQo=</text>
@@ -337,22 +343,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzX2xvZ19maWxlXD4=</last-search>
+      <last-search>'windows</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzX2xvZ19maWxlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>'windows</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsaXplZF9jaGVja3NfZFw+</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxuZXN0ZWRcPg==</entry>
-        <entry>run</entry>
-        <entry encoding="base64">XDxqbXhfY2hlY2tzXD4=</entry>
-        <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
-        <entry encoding="base64">XDxhaXg1XD4=</entry>
-        <entry encoding="base64">XDxzdXNlMTBcPg==</entry>
         <entry>embedded</entry>
         <entry>bin</entry>
         <entry>py</entry>
@@ -362,9 +360,17 @@
         <entry>ignore</entry>
         <entry>file</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry>windows</entry>
         <entry encoding="base64">XDxSb3RhdGluZ0ZpbGVIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxzX2xvZ19maWxlXD4=</entry>
+        <entry encoding="base64">XDxfY29uZmRfcGF0aFw+</entry>
+        <entry>time</entry>
+        <entry>de</entry>
+        <entry>delat</entry>
+        <entry>delta</entry>
+        <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
+        <entry>windows</entry>
+        <entry>os.system</entry>
+        <entry>'windows</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
