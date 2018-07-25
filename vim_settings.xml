@@ -19,12 +19,12 @@
       <file name="/a.dummy" timestamp="1531880380110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1532502870975">
-        <mark key="'" line="70" column="78" />
-        <mark key="[" line="70" column="41" />
-        <mark key="]" line="70" column="78" />
-        <mark key="^" line="70" column="78" />
-        <mark key="." line="70" column="78" />
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1532503718074">
+        <mark key="'" line="72" column="78" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="11" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
       </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
@@ -136,9 +136,9 @@
         <mark key="." line="961" column="88" />
         <mark key="^" line="961" column="83" />
       </file>
-      <file name="F:/monitor/checks/disk.py" timestamp="1532502914819">
-        <mark key="[" line="69" column="53" />
-        <mark key="]" line="70" column="21" />
+      <file name="F:/monitor/checks/disk.py" timestamp="1532503569021">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="81" />
         <mark key="." line="70" column="21" />
         <mark key="^" line="70" column="21" />
       </file>
@@ -307,7 +307,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFydCkKICAgICAgICAgICAgcHJpbnQoJy0tLWV4Y2x1ZGUgcmVzdWx0OiB7fScuZm9ybWF0KHNlbGYuX2V4Y2x1ZGVfZGlza19wc3V0aWwocGFydCkpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -316,7 +316,7 @@
         <text>'windows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLTEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFydCkKICAgICAgICAgICAgcHJpbnQoJy0tLWV4Y2x1ZGUgcmVzdWx0OiB7fScuZm9ybWF0KHNlbGYuX2V4Y2x1ZGVfZGlza19wc3V0aWwocGFydCkpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
