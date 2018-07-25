@@ -19,11 +19,12 @@
       <file name="/a.dummy" timestamp="1531880380110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1532501987462">
-        <mark key="[" line="215" column="63" />
-        <mark key="]" line="215" column="63" />
-        <mark key="^" line="215" column="63" />
-        <mark key="." line="215" column="63" />
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1532502870975">
+        <mark key="'" line="70" column="78" />
+        <mark key="[" line="70" column="41" />
+        <mark key="]" line="70" column="78" />
+        <mark key="^" line="70" column="78" />
+        <mark key="." line="70" column="78" />
       </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
@@ -135,6 +136,12 @@
         <mark key="." line="961" column="88" />
         <mark key="^" line="961" column="83" />
       </file>
+      <file name="F:/monitor/checks/disk.py" timestamp="1532502914819">
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="70" column="21" />
+        <mark key="." line="70" column="21" />
+        <mark key="^" line="70" column="21" />
+      </file>
       <file name="F:/monitor/build/linux_build/centos5_64/manifest.yaml" timestamp="1531902325129">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -154,7 +161,7 @@
         <mark key="." line="219" column="81" />
         <mark key="^" line="219" column="81" />
       </file>
-      <file name="F:/monitor/util.py" timestamp="1531990780171">
+      <file name="F:/monitor/util.py" timestamp="1532502743623">
         <mark key="'" line="331" column="34" />
         <mark key="[" line="211" column="15" />
       </file>
@@ -197,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="41" filename="F:/monitor/checks/central_configurator.py" />
       <jump line="20" column="13" filename="F:/monitor/checks/central_configurator.py" />
       <jump line="15" column="48" filename="F:/monitor/checks/central_configurator.py" />
       <jump line="101" column="0" filename="F:/monitor/updater_process.py" />
@@ -297,10 +303,11 @@
       <jump line="146" column="5" filename="F:/monitor/config.py" />
       <jump line="147" column="19" filename="F:/monitor/config.py" />
       <jump line="151" column="5" filename="F:/monitor/config.py" />
+      <jump line="70" column="78" filename="F:/monitor/checks.d/disk.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -312,31 +319,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLTEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobG9nLmhhbmRsZXJzKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQobG9nLmhhbmRsZXJzKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nLmVycm9yKCdbd2luMzJdID09PT09PT09PT09PT0gdGVzdCcpCg==</text>
+        <text encoding="base64">cHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLTEnKQo=</text>
+        <text encoding="base64">bG9nLmVycm9yKCdbd2luMzJdID09PT09PT09PT09PT0gdGVzdCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tMicsIGxvZ19maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0tLS0tLS0tLS0tLS0tLS0tLTEnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nX2NvbmZpZ1snd2luZG93c193aW4zMl9sb2dfZmlsZSddID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBfd2luZG93c19jb21tb25kYXRhX3BhdGgoKSwgJ2xvZ3MnLCAnd2luMzIubG9nJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tMicsIGxvZ19maWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX3dpbjMyJykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nX2NvbmZpZ1snd2luZG93c193aW4zMl9sb2dfZmlsZSddID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBfd2luZG93c19jb21tb25kYXRhX3BhdGgoKSwgJ2xvZ3MnLCAnd2luMzIubG9nJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwZiBpbXBvcnQgZ2V0X3BsYXRmb3JtCg==</text>
+        <text encoding="base64">aW5pdGlhbGl6ZV9sb2dnaW5nKCd3aW5kb3dzX3dpbjMyJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
