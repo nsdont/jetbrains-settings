@@ -120,6 +120,9 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
+      <file name="F:/monitor/build.yaml" timestamp="1532574592435">
+        <mark key="'" line="207" column="20" />
+      </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1532509293192">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="68" column="11" />
@@ -212,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="25" filename="F:/monitor/checks/collector.py" />
       <jump line="787" column="16" filename="F:/monitor/config.py" />
       <jump line="52" column="39" filename="F:/monitor/agent.py" />
       <jump line="308" column="0" filename="F:/monitor/win32/agent.py" />
@@ -312,6 +314,7 @@
       <jump line="247" column="51" filename="F:/monitor/checks/check_status.py" />
       <jump line="210" column="23" filename="F:/monitor/checks/check_status.py" />
       <jump line="119" column="16" filename="F:/monitor/checks/check_status.py" />
+      <jump line="207" column="20" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
