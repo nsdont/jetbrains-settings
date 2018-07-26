@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532485284926">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/monitor/conf/datamonitor.conf" timestamp="1531907580528">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="F:/monitor/jmxfetch.py" timestamp="1531992656495">
         <mark key="'" line="168" column="16" />
         <mark key="[" line="392" column="23" />
@@ -16,18 +10,90 @@
         <mark key="^" line="392" column="27" />
         <mark key="." line="392" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1531880380110">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1532508603699">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="53" column="71" />
         <mark key="]" line="53" column="95" />
         <mark key="." line="53" column="95" />
         <mark key="^" line="53" column="95" />
+      </file>
+      <file name="F:/monitor/graphite.py" timestamp="1532513191523">
+        <mark key="'" line="80" column="25" />
+      </file>
+      <file name="F:/monitor/utils/flare.py" timestamp="1532512834203">
+        <mark key="[" line="487" column="24" />
+        <mark key="]" line="488" column="11" />
+        <mark key="." line="488" column="11" />
+        <mark key="^" line="488" column="11" />
+      </file>
+      <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
+        <mark key="'" line="230" column="57" />
+      </file>
+      <file name="F:/monitor/manifest.yaml" timestamp="1531993274593">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="F:/monitor/config.py" timestamp="1532507187485">
+        <mark key="'" line="489" column="49" />
+        <mark key="[" line="1045" column="0" />
+        <mark key="]" line="1045" column="0" />
+        <mark key="." line="1045" column="0" />
+        <mark key="^" line="957" column="45" />
+      </file>
+      <file name="F:/monitor/checks/system/win32.py" timestamp="1531794144632">
+        <mark key="'" line="438" column="17" />
+        <mark key="[" line="244" column="15" />
+        <mark key="]" line="244" column="15" />
+        <mark key="." line="244" column="15" />
+        <mark key="^" line="244" column="15" />
+      </file>
+      <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="961" column="88" />
+        <mark key="]" line="961" column="88" />
+        <mark key="." line="961" column="88" />
+        <mark key="^" line="961" column="83" />
+      </file>
+      <file name="F:/monitor/checks/disk.py" timestamp="1532507716128">
+        <mark key="[" line="106" column="27" />
+        <mark key="]" line="106" column="29" />
+        <mark key="." line="106" column="30" />
+        <mark key="^" line="106" column="29" />
+      </file>
+      <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
+        <mark key="'" line="149" column="62" />
+        <mark key="[" line="219" column="54" />
+        <mark key="]" line="219" column="81" />
+        <mark key="." line="219" column="81" />
+        <mark key="^" line="219" column="81" />
+      </file>
+      <file name="F:/monitor/agent.py" timestamp="1532512865693">
+        <mark key="'" line="51" column="39" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="^" line="97" column="16" />
+        <mark key="." line="337" column="0" />
+      </file>
+      <file name="F:/monitor/transaction.py" timestamp="1532513093216">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
+      <file name="F:/monitor/checks/central_configurator.py" timestamp="1532509190359">
+        <mark key="'" line="15" column="48" />
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="23" />
+      </file>
+      <file name="F:/monitor/utils/dockerutil.py" timestamp="1531295930901">
+        <mark key="'" line="76" column="20" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
       </file>
       <file name="F:/monitor/checks/system/unix.py" timestamp="1530773874764">
         <mark key="'" line="824" column="0" />
@@ -47,9 +113,6 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="1" column="13" />
-      </file>
-      <file name="F:/monitor/graphite.py" timestamp="1532513191523">
-        <mark key="'" line="80" column="25" />
       </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
         <mark key="'" line="167" column="0" />
@@ -71,21 +134,6 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="F:/monitor/utils/flare.py" timestamp="1532512834203">
-        <mark key="[" line="487" column="24" />
-        <mark key="]" line="488" column="11" />
-        <mark key="." line="488" column="11" />
-        <mark key="^" line="488" column="11" />
-      </file>
-      <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
-        <mark key="'" line="230" column="57" />
-      </file>
-      <file name="F:/monitor/manifest.yaml" timestamp="1531993274593">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-      </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1531910210588">
         <mark key="'" line="167" column="35" />
         <mark key="[" line="184" column="0" />
@@ -100,21 +148,6 @@
         <mark key="." line="694" column="28" />
         <mark key="^" line="694" column="28" />
       </file>
-      <file name="F:/monitor/config.py" timestamp="1532507187485">
-        <mark key="'" line="489" column="49" />
-        <mark key="[" line="1045" column="0" />
-        <mark key="]" line="1045" column="0" />
-        <mark key="." line="1045" column="0" />
-        <mark key="^" line="957" column="45" />
-      </file>
-      <file name="F:/monitor/checks/system/win32.py" timestamp="1531794144632">
-        <mark key="'" line="438" column="17" />
-        <mark key="[" line="244" column="15" />
-        <mark key="]" line="244" column="15" />
-        <mark key="." line="244" column="15" />
-        <mark key="^" line="244" column="15" />
-      </file>
-      <file name="F:/monitor/logs/win32.log" timestamp="1532499898124" />
       <file name="/Dummy.txt" timestamp="1532334675388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -141,19 +174,6 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="961" column="88" />
-        <mark key="]" line="961" column="88" />
-        <mark key="." line="961" column="88" />
-        <mark key="^" line="961" column="83" />
-      </file>
-      <file name="F:/monitor/checks/disk.py" timestamp="1532507716128">
-        <mark key="[" line="106" column="27" />
-        <mark key="]" line="106" column="29" />
-        <mark key="." line="106" column="30" />
-        <mark key="^" line="106" column="29" />
-      </file>
       <file name="F:/monitor/build/linux_build/centos5_64/manifest.yaml" timestamp="1531902325129">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -165,17 +185,6 @@
         <mark key="]" line="478" column="0" />
         <mark key="." line="478" column="0" />
         <mark key="^" line="251" column="11" />
-      </file>
-      <file name="F:/monitor/checks.d/http_check.py" timestamp="1531116759145">
-        <mark key="'" line="149" column="62" />
-        <mark key="[" line="219" column="54" />
-        <mark key="]" line="219" column="81" />
-        <mark key="." line="219" column="81" />
-        <mark key="^" line="219" column="81" />
-      </file>
-      <file name="F:/monitor/util.py" timestamp="1532502743623">
-        <mark key="'" line="331" column="34" />
-        <mark key="[" line="211" column="15" />
       </file>
       <file name="F:/monitor/monitorstatsd.py" timestamp="1532513066659">
         <mark key="[" line="341" column="15" />
@@ -189,44 +198,12 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1532512865693">
-        <mark key="'" line="51" column="39" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="0" />
-        <mark key="^" line="97" column="16" />
-        <mark key="." line="337" column="0" />
-      </file>
-      <file name="F:/monitor/datamonitor.conf" timestamp="1532499983772">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="170" column="11" />
-        <mark key="]" line="170" column="11" />
-        <mark key="." line="170" column="11" />
-      </file>
       <file name="F:/monitor/win32/agent.py" timestamp="1532500029599">
         <mark key="'" line="252" column="28" />
         <mark key="[" line="46" column="24" />
         <mark key="]" line="46" column="29" />
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
-      </file>
-      <file name="F:/monitor/transaction.py" timestamp="1532513093216">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
-      <file name="F:/monitor/checks/central_configurator.py" timestamp="1532509190359">
-        <mark key="'" line="15" column="48" />
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="23" />
-        <mark key="." line="54" column="23" />
-        <mark key="^" line="54" column="23" />
-      </file>
-      <file name="F:/monitor/utils/dockerutil.py" timestamp="1531295930901">
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
       </file>
       <file name="F:/monitor/build/linux_build/aix64/manifest.yaml" timestamp="1531902102182">
         <mark key="[" line="11" column="0" />
