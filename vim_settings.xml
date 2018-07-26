@@ -10,6 +10,12 @@
         <mark key="^" line="392" column="27" />
         <mark key="." line="392" column="27" />
       </file>
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1532591899385">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="227" column="19" />
+      </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
         <mark key="[" line="53" column="71" />
@@ -69,17 +75,12 @@
         <mark key="." line="219" column="81" />
         <mark key="^" line="219" column="81" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1532512865693">
-        <mark key="'" line="51" column="39" />
+      <file name="F:/monitor/agent.py" timestamp="1532591913222">
+        <mark key="'" line="135" column="10" />
         <mark key="[" line="337" column="0" />
         <mark key="]" line="337" column="0" />
         <mark key="^" line="97" column="16" />
         <mark key="." line="337" column="0" />
-      </file>
-      <file name="F:/monitor/transaction.py" timestamp="1532513093216">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1532509190359">
         <mark key="'" line="15" column="48" />
@@ -108,10 +109,10 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
       </file>
-      <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1532334355346">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+      <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1532591365418">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
       <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
@@ -120,12 +121,19 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1532589711821">
-        <mark key="'" line="186" column="30" />
-        <mark key="[" line="185" column="66" />
-        <mark key="]" line="185" column="67" />
-        <mark key="^" line="185" column="67" />
-        <mark key="." line="185" column="67" />
+      <file name="F:/monitor/build.yaml" timestamp="1532591353694">
+        <mark key="'" line="220" column="17" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+      </file>
+      <file name="F:/monitor/.gitignore" timestamp="1532591755927">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="38" column="3" />
       </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1532509293192">
         <mark key="'" line="78" column="23" />
@@ -134,11 +142,11 @@
         <mark key="." line="68" column="21" />
         <mark key="^" line="68" column="21" />
       </file>
-      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1532337525918">
+      <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1532591360837">
         <mark key="'" line="15" column="20" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1531910210588">
@@ -154,11 +162,6 @@
         <mark key="]" line="694" column="28" />
         <mark key="." line="694" column="28" />
         <mark key="^" line="694" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1532334675388">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="F:/monitor/requirements.txt" timestamp="1532337668897">
         <mark key="'" line="48" column="17" />
@@ -181,11 +184,6 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="F:/monitor/build/linux_build/centos5_64/manifest.yaml" timestamp="1531902325129">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="F:/monitor/checks/collector.py" timestamp="1532512908020">
         <mark key="'" line="269" column="25" />
         <mark key="[" line="478" column="0" />
@@ -205,28 +203,14 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1532500029599">
-        <mark key="'" line="252" column="28" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="29" />
-        <mark key="^" line="46" column="29" />
-        <mark key="." line="46" column="29" />
-      </file>
-      <file name="F:/monitor/build/linux_build/aix64/manifest.yaml" timestamp="1531902102182">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="F:/monitor/win32/agent.py" timestamp="1532592007699">
+        <mark key="'" line="53" column="28" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="31" filename="F:/monitor/build.yaml" />
-      <jump line="144" column="23" filename="F:/monitor/build.yaml" />
-      <jump line="183" column="60" filename="F:/monitor/build.yaml" />
-      <jump line="188" column="23" filename="F:/monitor/build.yaml" />
-      <jump line="226" column="60" filename="F:/monitor/build.yaml" />
-      <jump line="231" column="23" filename="F:/monitor/build.yaml" />
-      <jump line="270" column="54" filename="F:/monitor/build.yaml" />
-      <jump line="275" column="23" filename="F:/monitor/build.yaml" />
       <jump line="95" column="58" filename="F:/monitor/build.yaml" />
       <jump line="100" column="23" filename="F:/monitor/build.yaml" />
       <jump line="139" column="27" filename="F:/monitor/build.yaml" />
@@ -319,62 +303,68 @@
       <jump line="142" column="31" filename="F:/monitor/build.yaml" />
       <jump line="185" column="93" filename="F:/monitor/build.yaml" />
       <jump line="186" column="30" filename="F:/monitor/build.yaml" />
+      <jump line="225" column="17" filename="F:/monitor/build.yaml" />
+      <jump line="0" column="0" filename="F:/monitor/.gitignore" />
+      <jump line="26" column="0" filename="F:/monitor/checks.d/disk.py" />
+      <jump line="135" column="10" filename="F:/monitor/agent.py" />
+      <jump line="196" column="0" filename="F:/monitor/win32/agent.py" />
+      <jump line="7" column="0" filename="F:/monitor/win32/agent.py" />
+      <jump line="56" column="0" filename="F:/monitor/win32/agent.py" />
+      <jump line="53" column="28" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBwZiBpbXBvcnQgZ2V0X3BsYXRmb3JtCg==</text>
+        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>no</text>
+        <text>site-</text>
       </register>
       <register name="/" type="4">
-        <text>-bin</text>
+        <text>log =</text>
       </register>
-      <register name="0" type="4">
-        <text>_excluded_disk_re</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC0gcGlwX2luc3RhbGwgcHl0aG9uLXdpbmRvd3MtNjQge3N9L3JlcXVpcmVtZW50cy50eHQgdGFyZ2V0PXt0fS9wYWNrYWdlcwogICAgLSByZW1vdmUge3R9L2VtYmVkZGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwZiBpbXBvcnQgZ2V0X3BsYXRmb3JtCg==</text>
+        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBGb3J3YXJkZXJTdGF0dXMucmVtb3ZlX2xhdGVzdF9zdGF0dXMoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjaGVja3MuY2hlY2tfc3RhdHVzIGltcG9ydCBGb3J3YXJkZXJTdGF0dXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGb3J3YXJkZXJTdGF0dXMoCiAgICAgICAgICAgIHF1ZXVlX2xlbmd0aD1zZWxmLl90b3RhbF9jb3VudCwKICAgICAgICAgICAgcXVldWVfc2l6ZT1zZWxmLl90b3RhbF9zaXplLAogICAgICAgICAgICBmbHVzaF9jb3VudD1zZWxmLl9mbHVzaF9jb3VudCwKICAgICAgICAgICAgdHJhbnNhY3Rpb25zX3JlY2VpdmVkPXNlbGYuX3RyYW5zYWN0aW9uc19yZWNlaXZlZCwKICAgICAgICAgICAgdHJhbnNhY3Rpb25zX2ZsdXNoZWQ9c2VsZi5fdHJhbnNhY3Rpb25zX2ZsdXNoZWQpLnBlcnNpc3QoKQoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFydCkKICAgICAgICAgICAgcHJpbnQoJy0tLWV4Y2x1ZGUgcmVzdWx0OiB7fScuZm9ybWF0KHNlbGYuX2V4Y2x1ZGVfZGlza19wc3V0aWwocGFydCkpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LSBwaXBfaW5zdGFsbCBweXRob24tYWl4LTY0IHt0fS9yZXF1aXJlbWVudHMvcHJvZHVjdGlvbi50eHQgdGFyZ2V0PXt0fS9wYWNrYWdlcyBleGNsdWRlX3BrZ3M9cGFyYW1pa28scHljcnlwdG8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vcHl0aG9uLXdpbmRvd3MtMzIuemlwIHtzfS9weXRob24td2luZG93cy0zMi56aXAKICAgIC0gdW5jb21wcmVzcyB7c30vcHl0aG9uLXdpbmRvd3MtMzIuemlwIHtzfQogICAgLSAne3N9L3B5dGhvbi13aW5kb3dzLTMyL1NjcmlwdHMvcGlwLmV4ZSBpbnN0YWxsIC0tdGFyZ2V0PXt0fS9zaXRlLXBhY2thZ2VzIC1yIHtzfS9yZXF1aXJlbWVudHMudHh0Jwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGb3J3YXJkZXJTdGF0dXMoKS5wZXJzaXN0KCkK</text>
+        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vcHl0aG9uLXdpbmRvd3MtNjQuemlwIHtzfS9weXRob24td2luZG93cy02NC56aXAKICAgIC0gdW5jb21wcmVzcyB7c30vcHl0aG9uLXdpbmRvd3MtNjQuemlwIHtzfQogICAgLSAne3N9L3B5dGhvbi13aW5kb3dzLTY0L1NjcmlwdHMvcGlwLmV4ZSBpbnN0YWxsIC0tdGFyZ2V0PXt0fS9zaXRlLXBhY2thZ2VzIC1yIHtzfS9yZXF1aXJlbWVudHMudHh0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjaGVja3MuY2hlY2tfc3RhdHVzIGltcG9ydCBGb3J3YXJkZXJTdGF0dXMK</text>
+        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vcHl0aG9uLWxpbnV4LTY0LnRneiB7c30vcHl0aG9uLWxpbnV4LTY0LnRnegogICAgLSB1bmNvbXByZXNzIHtzfS9weXRob24tbGludXgtNjQudGd6IHtzfQogICAgLSAne3N9L3B5dGhvbi1saW51eC02NC9iaW4vcHl0aG9uIHtzfS9weXRob24tbGludXgtNjQvYmluL3BpcCBpbnN0YWxsIC0tdGFyZ2V0PXt0fS9zaXRlLXBhY2thZ2VzIC1yIHtzfS9yZXF1aXJlbWVudHMudHh0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9uaXRvcnN0YXRzZFN0YXR1cygKICAgICAgICAgICAgICAgIGZsdXNoX2NvdW50PXNlbGYuZmx1c2hfY291bnQsCiAgICAgICAgICAgICAgICBwYWNrZXRfY291bnQ9cGFja2V0X2NvdW50LAogICAgICAgICAgICAgICAgcGFja2V0c19wZXJfc2Vjb25kPXBhY2tldHNfcGVyX3NlY29uZCwKICAgICAgICAgICAgICAgIG1ldHJpY19jb3VudD1jb3VudCwKICAgICAgICAgICAgICAgIGV2ZW50X2NvdW50PWV2ZW50X2NvdW50LAogICAgICAgICAgICAgICAgc2VydmljZV9jaGVja19jb3VudD1zZXJ2aWNlX2NoZWNrX2NvdW50LAogICAgICAgICAgICApLnBlcnNpc3QoKQo=</text>
+        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vcHl0aG9uLWFpeC02NC50Z3oge3N9L3B5dGhvbi1haXgtNjQudGd6CiAgICAtIHVuY29tcHJlc3Mge3N9L3B5dGhvbi1haXgtNjQudGd6IHt0fQogICAgLSAne3N9L3B5dGhvbi1haXgtNjQvYmluL3B5dGhvbiB7c30vcHl0aG9uLWFpeC02NC9iaW4vcGlwIGluc3RhbGwgLS10YXJnZXQ9e3R9L3NpdGUtcGFja2FnZXMgLXIge3N9L3JlcXVpcmVtZW50cy50eHQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-bin</last-search>
+      <last-search>log =</last-search>
       <last-offset />
-      <last-pattern>-bin</last-pattern>
+      <last-pattern>log =</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY29uZmRfcGF0aFw+</entry>
-        <entry>time</entry>
         <entry>de</entry>
         <entry>delat</entry>
         <entry>delta</entry>
@@ -393,6 +383,8 @@
         <entry>bin</entry>
         <entry encoding="base64">XDxjZW50b3M1XD4=</entry>
         <entry>-bin</entry>
+        <entry encoding="base64">XDxlbWJlZGRlZFw+</entry>
+        <entry>log =</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -457,6 +449,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
