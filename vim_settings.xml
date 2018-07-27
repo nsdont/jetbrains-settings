@@ -10,11 +10,12 @@
         <mark key="^" line="392" column="27" />
         <mark key="." line="392" column="27" />
       </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1532591899385">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="227" column="19" />
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1532660402147">
+        <mark key="'" line="205" column="8" />
+        <mark key="[" line="205" column="8" />
+        <mark key="]" line="205" column="7" />
+        <mark key="." line="205" column="7" />
+        <mark key="^" line="205" column="7" />
       </file>
       <file name="F:/scripts/zgh/check_mysql_last_collect_time.py" timestamp="1530672942139">
         <mark key="'" line="60" column="4" />
@@ -26,20 +27,8 @@
       <file name="F:/monitor/graphite.py" timestamp="1532513191523">
         <mark key="'" line="80" column="25" />
       </file>
-      <file name="F:/monitor/utils/flare.py" timestamp="1532512834203">
-        <mark key="[" line="487" column="24" />
-        <mark key="]" line="488" column="11" />
-        <mark key="." line="488" column="11" />
-        <mark key="^" line="488" column="11" />
-      </file>
       <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
         <mark key="'" line="230" column="57" />
-      </file>
-      <file name="F:/monitor/manifest.yaml" timestamp="1531993274593">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
       </file>
       <file name="F:/monitor/config.py" timestamp="1532507187485">
         <mark key="'" line="489" column="49" />
@@ -102,12 +91,6 @@
         <mark key="]" line="126" column="0" />
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
-      </file>
-      <file name="F:/monitor/checks/control_script.py" timestamp="1532509237227">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="7" />
-        <mark key="." line="56" column="7" />
-        <mark key="^" line="56" column="7" />
       </file>
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1532591365418">
         <mark key="[" line="16" column="18" />
@@ -211,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="58" filename="F:/monitor/build.yaml" />
-      <jump line="100" column="23" filename="F:/monitor/build.yaml" />
       <jump line="139" column="27" filename="F:/monitor/build.yaml" />
       <jump line="41" column="26" filename="F:/monitor/checks/control_script.py" />
       <jump line="70" column="12" filename="F:/monitor/checks/control_script.py" />
@@ -311,13 +292,15 @@
       <jump line="7" column="0" filename="F:/monitor/win32/agent.py" />
       <jump line="56" column="0" filename="F:/monitor/win32/agent.py" />
       <jump line="53" column="28" filename="F:/monitor/win32/agent.py" />
+      <jump line="142" column="0" filename="F:/monitor/checks.d/disk.py" />
+      <jump line="205" column="8" filename="F:/monitor/checks.d/disk.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDc1MA==</text>
+        <text>e__ == '__main__':</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDc1MA==</text>
+        <text>e__ == '__main__':</text>
       </register>
       <register name="/" type="4">
         <text>log =</text>
