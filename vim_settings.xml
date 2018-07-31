@@ -177,8 +177,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="F:/monitor/checks/central_configurator.py" timestamp="1532509190359">
-        <mark key="'" line="15" column="48" />
+      <file name="F:/monitor/checks/central_configurator.py" timestamp="1533026149720">
+        <mark key="'" line="29" column="13" />
         <mark key="[" line="54" column="11" />
         <mark key="]" line="54" column="23" />
         <mark key="." line="54" column="23" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="F:/monitor/checks.d/process.py" />
       <jump line="230" column="57" filename="F:/monitor/checks.d/process.py" />
       <jump line="407" column="6" filename="F:/monitor/win32/agent.py" />
       <jump line="640" column="4" filename="F:/monitor/config.py" />
@@ -293,6 +292,7 @@
       <jump line="367" column="8" filename="F:/monitor/monitoragent.py" />
       <jump line="379" column="8" filename="F:/monitor/monitoragent.py" />
       <jump line="20" column="0" filename="F:/monitor/checks.d/network.py" />
+      <jump line="29" column="13" filename="F:/monitor/checks/central_configurator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -302,7 +302,7 @@
         <text>e__ == '__main__':</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text encoding="base64">XDxjbGllbnRfaW5mb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gY2htb2QgLVIgNzUwIHt0fS9iaW4K</text>
@@ -339,15 +339,14 @@
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search encoding="base64">XDxjbGllbnRfaW5mb1w+</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjbGllbnRfaW5mb1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delta</entry>
         <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
         <entry>windows</entry>
         <entry>os.system</entry>
@@ -367,6 +366,7 @@
         <entry>log =</entry>
         <entry encoding="base64">XDxfZW5kcG9pbnRzXD4=</entry>
         <entry>post</entry>
+        <entry encoding="base64">XDxjbGllbnRfaW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
