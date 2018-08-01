@@ -43,8 +43,8 @@
       <file name="F:/monitor/checks.d/network.py" timestamp="1532920101803">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="F:/monitor/checks/updater.py" timestamp="1531898926145">
-        <mark key="'" line="167" column="0" />
+      <file name="F:/monitor/checks/updater.py" timestamp="1533117936092">
+        <mark key="'" line="97" column="51" />
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="F:/monitor/win32/agent.py" />
       <jump line="41" column="21" filename="F:/monitor/win32/agent.py" />
       <jump line="246" column="28" filename="F:/monitor/win32/agent.py" />
       <jump line="1048" column="48" filename="F:/monitor/config.py" />
@@ -299,6 +298,7 @@
       <jump line="389" column="25" filename="F:/monitor/jmxfetch.py" />
       <jump line="8" column="0" filename="F:/monitor/agent.py" />
       <jump line="332" column="11" filename="F:/monitor/win32/agent.py" />
+      <jump line="97" column="51" filename="F:/monitor/checks/updater.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -308,7 +308,7 @@
         <text>cfg_path=config_path</text>
       </register>
       <register name="/" type="4">
-        <text>jmx</text>
+        <text encoding="base64">XDxjbGllbnRfdmVyc2lvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZ2VudENvbmZpZyA9IGdldF9jb25maWcocGFyc2VfYXJncz1GYWxzZSwgY2ZnX3BhdGg9Y29uZmlnX3BhdGgpCiAgICAgICAgY29uZmRfcGF0aCA9IGdldF9jb25mZF9wYXRoKCkK</text>
@@ -345,15 +345,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jmx</last-search>
+      <last-search encoding="base64">XDxjbGllbnRfdmVyc2lvblw+</last-search>
       <last-offset />
-      <last-pattern>jmx</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjbGllbnRfdmVyc2lvblw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZXhjbHVkZWRfZGlza19yZVw+</entry>
         <entry>re</entry>
         <entry encoding="base64">XDxyZVw+</entry>
         <entry encoding="base64">XDxleGNsdWRlZF9kaXNrX3JlXD4=</entry>
@@ -373,6 +372,7 @@
         <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
         <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
         <entry>jmx</entry>
+        <entry encoding="base64">XDxjbGllbnRfdmVyc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
