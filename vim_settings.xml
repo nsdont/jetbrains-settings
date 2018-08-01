@@ -63,6 +63,9 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
+      <file name="F:/monitor/venv/Lib/site-packages/sysutil/cpu.py" timestamp="1533104994712">
+        <mark key="'" line="1895" column="11" />
+      </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1532509293192">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="68" column="11" />
@@ -104,6 +107,9 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1533104932677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/monitor/requirements.txt" timestamp="1532337668897">
         <mark key="'" line="48" column="17" />
         <mark key="[" line="53" column="0" />
@@ -118,12 +124,12 @@
         <mark key="." line="49" column="51" />
         <mark key="^" line="49" column="52" />
       </file>
-      <file name="F:/monitor/gohai.py" timestamp="1532513300731">
-        <mark key="'" line="77" column="31" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="16" />
+      <file name="F:/monitor/gohai.py" timestamp="1533105082259">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="74" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
@@ -193,12 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="57" filename="F:/monitor/checks.d/process.py" />
-      <jump line="407" column="6" filename="F:/monitor/win32/agent.py" />
-      <jump line="640" column="4" filename="F:/monitor/config.py" />
-      <jump line="1055" column="28" filename="F:/monitor/config.py" />
-      <jump line="127" column="17" filename="F:/monitor/win32/agent.py" />
-      <jump line="580" column="12" filename="F:/monitor/win32/agent.py" />
       <jump line="576" column="12" filename="F:/monitor/win32/agent.py" />
       <jump line="549" column="12" filename="F:/monitor/win32/agent.py" />
       <jump line="545" column="12" filename="F:/monitor/win32/agent.py" />
@@ -293,19 +293,25 @@
       <jump line="379" column="8" filename="F:/monitor/monitoragent.py" />
       <jump line="20" column="0" filename="F:/monitor/checks.d/network.py" />
       <jump line="29" column="13" filename="F:/monitor/checks/central_configurator.py" />
+      <jump line="16" column="0" filename="F:/monitor/gohai.py" />
+      <jump line="6" column="0" filename="F:/monitor/gohai.py" />
+      <jump line="75" column="15" filename="F:/monitor/venv/Lib/site-packages/sysutil/cpu.py" />
+      <jump line="1895" column="11" filename="F:/monitor/venv/Lib/site-packages/sysutil/cpu.py" />
+      <jump line="85" column="14" filename="F:/monitor/gohai.py" />
+      <jump line="10" column="20" filename="F:/monitor/gohai.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e__ == '__main__':</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIChjcHVfbW9kZWxzLCBjcHVfZnJlcXVlbmNpZXMsIGNwdV9mYW1pbHksIHZlbmRvcl9pZCwgc3RlcHBpbmcsIGNhY2hlX3NpemUsCiAgICAgbW9kZWwpID0gY3B1X2luZm8oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>e__ == '__main__':</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRfaW5mb1w+</text>
+        <text encoding="base64">XDxjcHVfaW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgLVIgNzUwIHt0fS9iaW4K</text>
+        <text encoding="base64">ICAgIChjcHVfbW9kZWxzLCBjcHVfZnJlcXVlbmNpZXMsIGNwdV9mYW1pbHksIHZlbmRvcl9pZCwgc3RlcHBpbmcsIGNhY2hlX3NpemUsCiAgICAgbW9kZWwpID0gY3B1X2luZm8oKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9iaW4K</text>
@@ -339,17 +345,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRfaW5mb1w+</last-search>
+      <last-search encoding="base64">XDxjcHVfaW5mb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRfaW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjcHVfaW5mb1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWx0YV90aW1lXD4=</entry>
-        <entry>windows</entry>
-        <entry>os.system</entry>
         <entry>'windows</entry>
         <entry encoding="base64">XDxfZXhjbHVkZWRfZGlza19yZVw+</entry>
         <entry>re</entry>
@@ -367,6 +370,9 @@
         <entry encoding="base64">XDxfZW5kcG9pbnRzXD4=</entry>
         <entry>post</entry>
         <entry encoding="base64">XDxjbGllbnRfaW5mb1w+</entry>
+        <entry>cpuinfo</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
+        <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
