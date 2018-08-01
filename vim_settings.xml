@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/monitor/jmxfetch.py" timestamp="1531992656495">
-        <mark key="'" line="168" column="16" />
-        <mark key="[" line="392" column="23" />
-        <mark key="]" line="392" column="27" />
-        <mark key="^" line="392" column="27" />
-        <mark key="." line="392" column="27" />
+      <file name="F:/monitor/jmxfetch.py" timestamp="1533116041077">
+        <mark key="'" line="389" column="25" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="376" column="36" />
+        <mark key="." line="372" column="0" />
+        <mark key="^" line="372" column="0" />
       </file>
       <file name="F:/monitor/checks.d/disk.py" timestamp="1532660402147">
         <mark key="'" line="205" column="8" />
@@ -171,12 +171,12 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="F:/monitor/agent.py" timestamp="1532591913222">
-        <mark key="'" line="135" column="10" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="0" />
-        <mark key="^" line="97" column="16" />
-        <mark key="." line="337" column="0" />
+      <file name="F:/monitor/agent.py" timestamp="1533116058885">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="113" column="49" />
+        <mark key="]" line="113" column="50" />
+        <mark key="." line="113" column="50" />
+        <mark key="^" line="113" column="48" />
       </file>
       <file name="F:/monitor/win32/agent.py" timestamp="1532592007699">
         <mark key="'" line="53" column="28" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="12" filename="F:/monitor/win32/agent.py" />
-      <jump line="549" column="12" filename="F:/monitor/win32/agent.py" />
       <jump line="545" column="12" filename="F:/monitor/win32/agent.py" />
       <jump line="42" column="0" filename="F:/monitor/win32/agent.py" />
       <jump line="41" column="21" filename="F:/monitor/win32/agent.py" />
@@ -300,46 +298,48 @@
       <jump line="1895" column="11" filename="F:/monitor/venv/Lib/site-packages/sysutil/cpu.py" />
       <jump line="85" column="14" filename="F:/monitor/gohai.py" />
       <jump line="10" column="20" filename="F:/monitor/gohai.py" />
+      <jump line="389" column="25" filename="F:/monitor/jmxfetch.py" />
+      <jump line="8" column="0" filename="F:/monitor/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChjcHVfbW9kZWxzLCBjcHVfZnJlcXVlbmNpZXMsIGNwdV9mYW1pbHksIHZlbmRvcl9pZCwgc3RlcHBpbmcsIGNhY2hlX3NpemUsCiAgICAgbW9kZWwpID0gY3B1X2luZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZkX3BhdGgsIGFnZW50Q29uZmlnID0gaW5pdChjb25maWdfcGF0aCkK</text>
       </register>
       <register name="-" type="4">
-        <text>e__ == '__main__':</text>
+        <text>cfg_path=config_path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcHVfaW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChjcHVfbW9kZWxzLCBjcHVfZnJlcXVlbmNpZXMsIGNwdV9mYW1pbHksIHZlbmRvcl9pZCwgc3RlcHBpbmcsIGNhY2hlX3NpemUsCiAgICAgbW9kZWwpID0gY3B1X2luZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBhZ2VudENvbmZpZyA9IGdldF9jb25maWcocGFyc2VfYXJncz1GYWxzZSwgY2ZnX3BhdGg9Y29uZmlnX3BhdGgpCiAgICAgICAgY29uZmRfcGF0aCA9IGdldF9jb25mZF9wYXRoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9iaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZkX3BhdGgsIGFnZW50Q29uZmlnID0gaW5pdChjb25maWdfcGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9iaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9iaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50Q29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlLCBjZmdfcGF0aD1jb25maWdfcGF0aCkKICAgICAgICAgICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcGF0aHMgPSBbXQogICAgICAgICAgICAgICAgZW1pdHRlcnMgPSBzZWxmLl9nZXRfZW1pdHRlcnMoKQogICAgICAgICAgICAgICAgc2NyaXB0c19wYXRoID0gZ2V0X2NoZWNrc2RfcGF0aCgpLnJlcGxhY2UoImNoZWNrcy5kIiwgInNjcmlwdHMiKQogICAgICAgICAgICAgICAgZmlsZV9uYW1lcyA9IG9zLmxpc3RkaXIoc2NyaXB0c19wYXRoKQogICAgICAgICAgICAgICAgZm9yIGZpbGVfbmFtZSBpbiBmaWxlX25hbWVzOgogICAgICAgICAgICAgICAgICAgIGlmIGZpbGVfbmFtZS5lbmRzd2l0aCgnLmV4YW1wbGUnKToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGhzLmFwcGVuZChvcy5wYXRoLmpvaW4oc2NyaXB0c19wYXRoLCBmaWxlX25hbWUpKQoKICAgICAgICAgICAgICAgIGlmIGZpbGVfcGF0aHM6CiAgICAgICAgICAgICAgICAgICAgc2NyaXB0X21vbml0b3IgPSBTY3JpcHRNb25pdG9yKHNlbGYuY29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGhzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5ob3N0bmFtZSkKICAgICAgICAgICAgICAgICAgICBzY3JpcHRfbW9uaXRvci5ydW4oKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiTm8gdmFsaWQgc2NyaXB0IGZvdW5kLiBTbGVlcCA2MCBzZWNvbmRzIikKICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcuaGFuZGxlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFydCkKICAgICAgICAgICAgcHJpbnQoJy0tLWV4Y2x1ZGUgcmVzdWx0OiB7fScuZm9ybWF0KHNlbGYuX2V4Y2x1ZGVfZGlza19wc3V0aWwocGFydCkpKQo=</text>
+        <text encoding="base64">ICAgIHN5cy5leGl0KG1haW4oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBwaXBfaW5zdGFsbCBweXRob24tYWl4LTY0IHt0fS9yZXF1aXJlbWVudHMvcHJvZHVjdGlvbi50eHQgdGFyZ2V0PXt0fS9wYWNrYWdlcyBleGNsdWRlX3BrZ3M9cGFyYW1pa28scHljcnlwdG8K</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZG93bmxvYWQgaHR0cDovLzEwLjEuMTAwLjEwMC9pbnRlcnByZXRlci9weXRob24vcHl0aG9uLXdpbmRvd3MtMzIuemlwIHtzfS9weXRob24td2luZG93cy0zMi56aXAKICAgIC0gdW5jb21wcmVzcyB7c30vcHl0aG9uLXdpbmRvd3MtMzIuemlwIHtzfQogICAgLSAne3N9L3B5dGhvbi13aW5kb3dzLTMyL1NjcmlwdHMvcGlwLmV4ZSBpbnN0YWxsIC0tdGFyZ2V0PXt0fS9zaXRlLXBhY2thZ2VzIC1yIHtzfS9yZXF1aXJlbWVudHMudHh0Jwo=</text>
+        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9iaW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
