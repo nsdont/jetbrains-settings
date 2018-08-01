@@ -49,7 +49,7 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1532594493462">
+      <file name="F:/monitor/build.yaml" timestamp="1533108423164">
         <mark key="'" line="220" column="17" />
         <mark key="[" line="268" column="14" />
         <mark key="]" line="268" column="18" />
@@ -83,6 +83,7 @@
       <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
         <mark key="'" line="230" column="57" />
       </file>
+      <file name="F:/monitor/manifest.yaml" timestamp="1533108438680" />
       <file name="F:/monitor/datamonitor_template" timestamp="1531910210588">
         <mark key="'" line="167" column="35" />
         <mark key="[" line="184" column="0" />
