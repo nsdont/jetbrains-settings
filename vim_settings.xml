@@ -178,11 +178,10 @@
         <mark key="." line="113" column="50" />
         <mark key="^" line="113" column="48" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1532592007699">
-        <mark key="'" line="53" column="28" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="F:/monitor/win32/agent.py" timestamp="1533116692798">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1533026149720">
         <mark key="'" line="29" column="13" />
@@ -200,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="545" column="12" filename="F:/monitor/win32/agent.py" />
       <jump line="42" column="0" filename="F:/monitor/win32/agent.py" />
       <jump line="41" column="21" filename="F:/monitor/win32/agent.py" />
       <jump line="246" column="28" filename="F:/monitor/win32/agent.py" />
@@ -300,61 +298,61 @@
       <jump line="10" column="20" filename="F:/monitor/gohai.py" />
       <jump line="389" column="25" filename="F:/monitor/jmxfetch.py" />
       <jump line="8" column="0" filename="F:/monitor/agent.py" />
+      <jump line="332" column="11" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZkX3BhdGgsIGFnZW50Q29uZmlnID0gaW5pdChjb25maWdfcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cfg_path=config_path</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcHVfaW5mb1w+</text>
+        <text>jmx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZ2VudENvbmZpZyA9IGdldF9jb25maWcocGFyc2VfYXJncz1GYWxzZSwgY2ZnX3BhdGg9Y29uZmlnX3BhdGgpCiAgICAgICAgY29uZmRfcGF0aCA9IGdldF9jb25mZF9wYXRoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZkX3BhdGgsIGFnZW50Q29uZmlnID0gaW5pdChjb25maWdfcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50Q29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlLCBjZmdfcGF0aD1jb25maWdfcGF0aCkKICAgICAgICAgICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCg==</text>
+        <text encoding="base64">Y2xhc3MgSk1YRmV0Y2hQcm9jZXNzKG11bHRpcHJvY2Vzc2luZy5Qcm9jZXNzKToKCiAgICBkZWYgX19pbml0X18oc2VsZiwgYWdlbnRDb25maWcsIGhvc3RuYW1lLCAqKm9wdGlvbnMpOgogICAgICAgIG11bHRpcHJvY2Vzc2luZy5Qcm9jZXNzLl9faW5pdF9fKHNlbGYsIG5hbWU9J2pteGZldGNoJykKICAgICAgICBzZWxmLmNvbmZpZyA9IGFnZW50Q29uZmlnCiAgICAgICAgc2VsZi5ob3N0bmFtZSA9IGhvc3RuYW1lCiAgICAgICAgc2VsZi5vcHRpb25zID0gb3B0aW9ucwoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCiAgICAgICAgICAgIHNlbGYuam14X2RhZW1vbiA9IEpNWEZldGNoKGNvbmZkX3BhdGgsIGFnZW50Q29uZmlnKQogICAgICAgICAgICBzZWxmLmpteF9kYWVtb24uY29uZmlndXJlKCkKICAgICAgICAgICAgc2VsZi5pc19lbmFibGVkID0gc2VsZi5qbXhfZGFlbW9uLnNob3VsZF9ydW4oKQoKICAgICAgICBleGNlcHQgUGF0aE5vdEZvdW5kOgogICAgICAgICAgICBzZWxmLmlzX2VuYWJsZWQgPSBGYWxzZQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgZnJvbSBjb25maWcgaW1wb3J0IGluaXRpYWxpemVfbG9nZ2luZwogICAgICAgIGluaXRpYWxpemVfbG9nZ2luZygnam14ZmV0Y2gnKQogICAgICAgIGlmIHNlbGYuaXNfZW5hYmxlZDoKICAgICAgICAgICAgbG9nLmRlYnVnKCJXaW5kb3dzIFNlcnZpY2UgLSBTdGFydGluZyBKTVhGZXRjaCIpCiAgICAgICAgICAgIEpNWEZpbGVzLmNsZWFuX2V4aXRfZmlsZSgpCiAgICAgICAgICAgIHNlbGYuam14X2RhZW1vbi5ydW4oKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAgICAgIldpbmRvd3MgU2VydmljZSAtIE5vdCBzdGFydGluZyBKTVhGZXRjaDogbm8gdmFsaWQgY29uZmlndXJhdGlvbiBmb3VuZCIKICAgICAgICAgICAgKQoKICAgIGRlZiB0ZXJtaW5hdGUoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgT3ZlcnJpZGUgYHRlcm1pbmF0ZWAgbWV0aG9kIHRvIHByb3Blcmx5IGV4aXQgSk1YRmV0Y2guCiAgICAgICAgIiIiCiAgICAgICAgSk1YRmlsZXMud3JpdGVfZXhpdF9maWxlKCkKICAgICAgICBzZWxmLmpvaW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZkX3BhdGgsIGFnZW50Q29uZmlnID0gaW5pdChjb25maWdfcGF0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcGF0aHMgPSBbXQogICAgICAgICAgICAgICAgZW1pdHRlcnMgPSBzZWxmLl9nZXRfZW1pdHRlcnMoKQogICAgICAgICAgICAgICAgc2NyaXB0c19wYXRoID0gZ2V0X2NoZWNrc2RfcGF0aCgpLnJlcGxhY2UoImNoZWNrcy5kIiwgInNjcmlwdHMiKQogICAgICAgICAgICAgICAgZmlsZV9uYW1lcyA9IG9zLmxpc3RkaXIoc2NyaXB0c19wYXRoKQogICAgICAgICAgICAgICAgZm9yIGZpbGVfbmFtZSBpbiBmaWxlX25hbWVzOgogICAgICAgICAgICAgICAgICAgIGlmIGZpbGVfbmFtZS5lbmRzd2l0aCgnLmV4YW1wbGUnKToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGhzLmFwcGVuZChvcy5wYXRoLmpvaW4oc2NyaXB0c19wYXRoLCBmaWxlX25hbWUpKQoKICAgICAgICAgICAgICAgIGlmIGZpbGVfcGF0aHM6CiAgICAgICAgICAgICAgICAgICAgc2NyaXB0X21vbml0b3IgPSBTY3JpcHRNb25pdG9yKHNlbGYuY29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGhzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5ob3N0bmFtZSkKICAgICAgICAgICAgICAgICAgICBzY3JpcHRfbW9uaXRvci5ydW4oKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiTm8gdmFsaWQgc2NyaXB0IGZvdW5kLiBTbGVlcCA2MCBzZWNvbmRzIikKICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50Q29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlLCBjZmdfcGF0aD1jb25maWdfcGF0aCkKICAgICAgICAgICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KG1haW4oKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcGF0aHMgPSBbXQogICAgICAgICAgICAgICAgZW1pdHRlcnMgPSBzZWxmLl9nZXRfZW1pdHRlcnMoKQogICAgICAgICAgICAgICAgc2NyaXB0c19wYXRoID0gZ2V0X2NoZWNrc2RfcGF0aCgpLnJlcGxhY2UoImNoZWNrcy5kIiwgInNjcmlwdHMiKQogICAgICAgICAgICAgICAgZmlsZV9uYW1lcyA9IG9zLmxpc3RkaXIoc2NyaXB0c19wYXRoKQogICAgICAgICAgICAgICAgZm9yIGZpbGVfbmFtZSBpbiBmaWxlX25hbWVzOgogICAgICAgICAgICAgICAgICAgIGlmIGZpbGVfbmFtZS5lbmRzd2l0aCgnLmV4YW1wbGUnKToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGhzLmFwcGVuZChvcy5wYXRoLmpvaW4oc2NyaXB0c19wYXRoLCBmaWxlX25hbWUpKQoKICAgICAgICAgICAgICAgIGlmIGZpbGVfcGF0aHM6CiAgICAgICAgICAgICAgICAgICAgc2NyaXB0X21vbml0b3IgPSBTY3JpcHRNb25pdG9yKHNlbGYuY29uZmlnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGhzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWl0dGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5ob3N0bmFtZSkKICAgICAgICAgICAgICAgICAgICBzY3JpcHRfbW9uaXRvci5ydW4oKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiTm8gdmFsaWQgc2NyaXB0IGZvdW5kLiBTbGVlcCA2MCBzZWNvbmRzIikKICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gY2htb2QgNzUwIC1SIHt0fS9iaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcHVfaW5mb1w+</last-search>
+      <last-search>jmx</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcHVfaW5mb1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>jmx</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'windows</entry>
         <entry encoding="base64">XDxfZXhjbHVkZWRfZGlza19yZVw+</entry>
         <entry>re</entry>
         <entry encoding="base64">XDxyZVw+</entry>
@@ -374,6 +372,7 @@
         <entry>cpuinfo</entry>
         <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
         <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
+        <entry>jmx</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
