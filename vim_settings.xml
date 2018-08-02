@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="F:/agent/framework/actions/install.py" timestamp="1533177620335">
+        <mark key="'" line="59" column="37" />
+      </file>
       <file name="F:/monitor/jmxfetch.py" timestamp="1533116041077">
         <mark key="'" line="389" column="25" />
         <mark key="[" line="375" column="0" />
@@ -199,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="21" filename="F:/monitor/win32/agent.py" />
       <jump line="246" column="28" filename="F:/monitor/win32/agent.py" />
       <jump line="1048" column="48" filename="F:/monitor/config.py" />
       <jump line="1045" column="40" filename="F:/monitor/config.py" />
@@ -299,6 +301,7 @@
       <jump line="8" column="0" filename="F:/monitor/agent.py" />
       <jump line="332" column="11" filename="F:/monitor/win32/agent.py" />
       <jump line="97" column="51" filename="F:/monitor/checks/updater.py" />
+      <jump line="59" column="37" filename="F:/agent/framework/actions/install.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
