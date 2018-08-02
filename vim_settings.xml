@@ -43,12 +43,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="F:/monitor/collect.py" timestamp="1533181518322">
-        <mark key="'" line="163" column="12" />
-        <mark key="[" line="168" column="4" />
-        <mark key="]" line="168" column="8" />
-        <mark key="." line="168" column="8" />
-        <mark key="^" line="168" column="8" />
+      <file name="F:/monitor/collect.py" timestamp="1533191687198">
+        <mark key="'" line="164" column="12" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="61" />
+        <mark key="^" line="46" column="58" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="F:/monitor/graphite.py" timestamp="1532513191523">
         <mark key="'" line="80" column="25" />
@@ -192,11 +192,12 @@
         <mark key="." line="171" column="15" />
         <mark key="^" line="171" column="15" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1533181549552">
-        <mark key="[" line="223" column="8" />
-        <mark key="]" line="223" column="11" />
-        <mark key="^" line="223" column="11" />
-        <mark key="." line="223" column="11" />
+      <file name="F:/monitor/win32/agent.py" timestamp="1533191572908">
+        <mark key="'" line="75" column="20" />
+        <mark key="[" line="213" column="57" />
+        <mark key="]" line="213" column="83" />
+        <mark key="^" line="213" column="83" />
+        <mark key="." line="213" column="83" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1533026149720">
         <mark key="'" line="29" column="13" />
@@ -214,15 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="24" filename="F:/monitor/monitoragent.py" />
-      <jump line="498" column="39" filename="F:/monitor/monitoragent.py" />
-      <jump line="210" column="45" filename="F:/monitor/monitoragent.py" />
-      <jump line="207" column="33" filename="F:/monitor/monitoragent.py" />
-      <jump line="205" column="56" filename="F:/monitor/monitoragent.py" />
-      <jump line="53" column="0" filename="F:/monitor/monitoragent.py" />
-      <jump line="62" column="0" filename="F:/monitor/config.py" />
-      <jump line="137" column="5" filename="F:/monitor/config.py" />
-      <jump line="138" column="12" filename="F:/monitor/config.py" />
       <jump line="141" column="5" filename="F:/monitor/config.py" />
       <jump line="142" column="19" filename="F:/monitor/config.py" />
       <jump line="146" column="5" filename="F:/monitor/config.py" />
@@ -314,63 +306,69 @@
       <jump line="2" column="5" filename="F:/monitor/collect.py" />
       <jump line="150" column="28" filename="F:/monitor/collect.py" />
       <jump line="163" column="12" filename="F:/monitor/collect.py" />
+      <jump line="203" column="29" filename="F:/monitor/win32/agent.py" />
+      <jump line="111" column="0" filename="F:/monitor/win32/agent.py" />
+      <jump line="141" column="10" filename="F:/monitor/win32/agent.py" />
+      <jump line="197" column="10" filename="F:/monitor/win32/agent.py" />
+      <jump line="213" column="56" filename="F:/monitor/win32/agent.py" />
+      <jump line="55" column="56" filename="F:/monitor/win32/agent.py" />
+      <jump line="57" column="31" filename="F:/monitor/win32/agent.py" />
+      <jump line="58" column="25" filename="F:/monitor/win32/agent.py" />
+      <jump line="75" column="20" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_em</text>
+        <text>heart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZ2VudENvbmZpZyA9IGdldF9jb25maWcocGFyc2VfYXJncz1GYWxzZSwgY2ZnX3BhdGg9Y29uZmlnX3BhdGgpCiAgICAgICAgY29uZmRfcGF0aCA9IGdldF9jb25mZF9wYXRoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZW1pdHRlcnMoc2VsZik6CiAgICAgICAgZW1pdHRlcnMgPSBbaHR0cF9lbWl0dGVyXQogICAgICAgIGN1c3RvbSA9IFsKICAgICAgICAgICAgcy5zdHJpcCgpIGZvciBzIGluIHNlbGYuY29uZmlnLmdldCgnY3VzdG9tX2VtaXR0ZXJzJywgJycpLnNwbGl0KCcsJykKICAgICAgICBdCiAgICAgICAgZm9yIGVtaXR0ZXJfc3BlYyBpbiBjdXN0b206CiAgICAgICAgICAgIGlmIG5vdCBlbWl0dGVyX3NwZWM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBlbWl0dGVycy5hcHBlbmQobW9kdWxlcy5sb2FkKGVtaXR0ZXJfc3BlYywgJ2VtaXR0ZXInKSkKCiAgICAgICAgcmV0dXJuIGVtaXR0ZXJz</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBlbWl0dGVyIGltcG9ydCBodHRwX2VtaXR0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vZHVsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZW1pdHRlcnMoc2VsZik6CiAgICAgICAgZW1pdHRlcnMgPSBbaHR0cF9lbWl0dGVyXQogICAgICAgIGN1c3RvbSA9IFsKICAgICAgICAgICAgcy5zdHJpcCgpIGZvciBzIGluIHNlbGYuY29uZmlnLmdldCgnY3VzdG9tX2VtaXR0ZXJzJywgJycpLnNwbGl0KCcsJykKICAgICAgICBdCiAgICAgICAgZm9yIGVtaXR0ZXJfc3BlYyBpbiBjdXN0b206CiAgICAgICAgICAgIGlmIG5vdCBlbWl0dGVyX3NwZWM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBlbWl0dGVycy5hcHBlbmQobW9kdWxlcy5sb2FkKGVtaXR0ZXJfc3BlYywgJ2VtaXR0ZXInKSkKCiAgICAgICAgcmV0dXJuIGVtaXR0ZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuX2NvbGxlY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWdlbnQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGRlZiBnZXRfZW1pdHRlcnMoc2VsZik6CiAgICAgICAgZW1pdHRlcnMgPSBbaHR0cF9lbWl0dGVyXQogICAgICAgIGN1c3RvbSA9IFsKICAgICAgICAgICAgcy5zdHJpcCgpIGZvciBzIGluIHNlbGYuY29uZmlnLmdldCgnY3VzdG9tX2VtaXR0ZXJzJywgJycpLnNwbGl0KCcsJykKICAgICAgICBdCiAgICAgICAgZm9yIGVtaXR0ZXJfc3BlYyBpbiBjdXN0b206CiAgICAgICAgICAgIGlmIG5vdCBlbWl0dGVyX3NwZWM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBlbWl0dGVycy5hcHBlbmQobW9kdWxlcy5sb2FkKGVtaXR0ZXJfc3BlYywgJ2VtaXR0ZXInKSkKCiAgICAgICAgcmV0dXJuIGVtaXR0ZXJz</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VudC5ydW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZW1pdHRlcnMoc2VsZik6CiAgICAgICAgZW1pdHRlcnMgPSBbaHR0cF9lbWl0dGVyXQogICAgICAgIGN1c3RvbSA9IFsKICAgICAgICAgICAgcy5zdHJpcCgpIGZvciBzIGluIHNlbGYuY29uZmlnLmdldCgnY3VzdG9tX2VtaXR0ZXJzJywgJycpLnNwbGl0KCcsJykKICAgICAgICBdCiAgICAgICAgZm9yIGVtaXR0ZXJfc3BlYyBpbiBjdXN0b206CiAgICAgICAgICAgIGlmIG5vdCBlbWl0dGVyX3NwZWM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBlbWl0dGVycy5hcHBlbmQobW9kdWxlcy5sb2FkKGVtaXR0ZXJfc3BlYywgJ2VtaXR0ZXInKSkKCiAgICAgICAgcmV0dXJuIGVtaXR0ZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_em</last-search>
+      <last-search>heart</last-search>
       <last-offset />
-      <last-pattern>get_em</last-pattern>
+      <last-pattern>heart</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjZW50b3M1XD4=</entry>
-        <entry>-bin</entry>
-        <entry encoding="base64">XDxlbWJlZGRlZFw+</entry>
         <entry>log =</entry>
         <entry encoding="base64">XDxfZW5kcG9pbnRzXD4=</entry>
         <entry>post</entry>
@@ -388,6 +386,9 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>get_emmit</entry>
         <entry>get_em</entry>
+        <entry>init</entry>
+        <entry>init_c</entry>
+        <entry>heart</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
