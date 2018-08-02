@@ -6,12 +6,12 @@
       <file name="F:/agent/framework/actions/install.py" timestamp="1533177620335">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="F:/monitor/jmxfetch.py" timestamp="1533179355733">
+      <file name="F:/monitor/jmxfetch.py" timestamp="1533192409125">
         <mark key="'" line="375" column="24" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="367" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="116" column="71" />
+        <mark key="]" line="116" column="71" />
+        <mark key="^" line="116" column="71" />
+        <mark key="." line="116" column="71" />
       </file>
       <file name="F:/monitor/checks.d/disk.py" timestamp="1532660402147">
         <mark key="'" line="205" column="8" />
@@ -43,12 +43,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="F:/monitor/collect.py" timestamp="1533191687198">
+      <file name="F:/monitor/collect.py" timestamp="1533192401637">
         <mark key="'" line="164" column="12" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="61" />
-        <mark key="^" line="46" column="58" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="124" column="27" />
+        <mark key="]" line="124" column="29" />
+        <mark key="^" line="124" column="29" />
+        <mark key="." line="124" column="29" />
       </file>
       <file name="F:/monitor/graphite.py" timestamp="1532513191523">
         <mark key="'" line="80" column="25" />
@@ -121,7 +121,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533111832440">
+      <file name="/Dummy.txt" timestamp="1533192471189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/monitor/requirements.txt" timestamp="1532337668897">
@@ -192,7 +192,7 @@
         <mark key="." line="171" column="15" />
         <mark key="^" line="171" column="15" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1533191572908">
+      <file name="F:/monitor/win32/agent.py" timestamp="1533192346163">
         <mark key="'" line="75" column="20" />
         <mark key="[" line="213" column="57" />
         <mark key="]" line="213" column="83" />
@@ -317,11 +317,11 @@
       <jump line="75" column="20" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>heart</text>
@@ -330,31 +330,31 @@
         <text encoding="base64">ICAgICAgICBhZ2VudENvbmZpZyA9IGdldF9jb25maWcocGFyc2VfYXJncz1GYWxzZSwgY2ZnX3BhdGg9Y29uZmlnX3BhdGgpCiAgICAgICAgY29uZmRfcGF0aCA9IGdldF9jb25mZF9wYXRoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBqbXhfZmV0Y2goc2VsZik6CiAgICAgICAgYWdlbnRfY29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlKQogICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCiAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgam14ID0gSk1YRmV0Y2goY29uZmRfcGF0aCwgYWdlbnRfY29uZmlnKQogICAgICAgICAgICAgICAgaWYgbm90IGpteC5ydW4oKToKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGxvZy5leGNlcHRpb24oIkVycm9yIHdpdGggam14IGZldGNoIikKICAgICAgICAgICAgdGltZS5zbGVlcCg2MCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlbWl0dGVyIGltcG9ydCBodHRwX2VtaXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZHVsZXMK</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBlbWl0dGVyIGltcG9ydCBodHRwX2VtaXR0ZXIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZW1pdHRlcnMoc2VsZik6CiAgICAgICAgZW1pdHRlcnMgPSBbaHR0cF9lbWl0dGVyXQogICAgICAgIGN1c3RvbSA9IFsKICAgICAgICAgICAgcy5zdHJpcCgpIGZvciBzIGluIHNlbGYuY29uZmlnLmdldCgnY3VzdG9tX2VtaXR0ZXJzJywgJycpLnNwbGl0KCcsJykKICAgICAgICBdCiAgICAgICAgZm9yIGVtaXR0ZXJfc3BlYyBpbiBjdXN0b206CiAgICAgICAgICAgIGlmIG5vdCBlbWl0dGVyX3NwZWM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBlbWl0dGVycy5hcHBlbmQobW9kdWxlcy5sb2FkKGVtaXR0ZXJfc3BlYywgJ2VtaXR0ZXInKSkKCiAgICAgICAgcmV0dXJuIGVtaXR0ZXJz</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG1vZHVsZXMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZW1pdHRlcnMoc2VsZik6CiAgICAgICAgZW1pdHRlcnMgPSBbaHR0cF9lbWl0dGVyXQogICAgICAgIGN1c3RvbSA9IFsKICAgICAgICAgICAgcy5zdHJpcCgpIGZvciBzIGluIHNlbGYuY29uZmlnLmdldCgnY3VzdG9tX2VtaXR0ZXJzJywgJycpLnNwbGl0KCcsJykKICAgICAgICBdCiAgICAgICAgZm9yIGVtaXR0ZXJfc3BlYyBpbiBjdXN0b206CiAgICAgICAgICAgIGlmIG5vdCBlbWl0dGVyX3NwZWM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBlbWl0dGVycy5hcHBlbmQobW9kdWxlcy5sb2FkKGVtaXR0ZXJfc3BlYywgJ2VtaXR0ZXInKSkKCiAgICAgICAgcmV0dXJuIGVtaXR0ZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
