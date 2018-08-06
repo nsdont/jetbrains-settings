@@ -99,7 +99,6 @@
       <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
         <mark key="'" line="230" column="57" />
       </file>
-      <file name="F:/monitor/manifest.yaml" timestamp="1533108438680" />
       <file name="F:/monitor/datamonitor_template" timestamp="1531910210588">
         <mark key="'" line="167" column="35" />
         <mark key="[" line="184" column="0" />
@@ -109,6 +108,12 @@
       </file>
       <file name="F:/monitor/monitoragent.py" timestamp="1532681303114">
         <mark key="'" line="379" column="8" />
+      </file>
+      <file name="F:/agent/a.py" timestamp="1533545409428">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="F:/monitor/config.py" timestamp="1532507187485">
         <mark key="'" line="489" column="49" />
@@ -141,7 +146,6 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="F:/agent/framework/utils.py" timestamp="1533278734598" />
       <file name="F:/monitor/updater_process.py" timestamp="1531978806515">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="49" column="51" />
@@ -202,6 +206,12 @@
         <mark key="]" line="213" column="83" />
         <mark key="^" line="213" column="83" />
         <mark key="." line="213" column="83" />
+      </file>
+      <file name="F:/agent/b.py" timestamp="1533545534110">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="F:/monitor/checks/central_configurator.py" timestamp="1533026149720">
         <mark key="'" line="29" column="13" />
@@ -321,44 +331,44 @@
       <jump line="75" column="20" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ci5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>log.debug</text>
       </register>
       <register name="/" type="4">
         <text>heart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VudENvbmZpZyA9IGdldF9jb25maWcocGFyc2VfYXJncz1GYWxzZSwgY2ZnX3BhdGg9Y29uZmlnX3BhdGgpCiAgICAgICAgY29uZmRfcGF0aCA9IGdldF9jb25mZF9wYXRoKCkK</text>
+        <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ci5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBqbXhfZmV0Y2goc2VsZik6CiAgICAgICAgYWdlbnRfY29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlKQogICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCiAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgam14ID0gSk1YRmV0Y2goY29uZmRfcGF0aCwgYWdlbnRfY29uZmlnKQogICAgICAgICAgICAgICAgaWYgbm90IGpteC5ydW4oKToKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGxvZy5leGNlcHRpb24oIkVycm9yIHdpdGggam14IGZldGNoIikKICAgICAgICAgICAgdGltZS5zbGVlcCg2MCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGUuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQo=</text>
+        <text encoding="base64">ZGF0YSA9IHVybGxpYi51cmxlbmNvZGUoanNvbi5kdW1wcyhwb3N0RGF0YSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCctLS0tJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdIVVAsIHNlbGYuX2hhbmRsZV9zaWdodXApCg==</text>
+        <text encoding="base64">cHJpbnQocmVxLmdldF9tZXRob2QoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlbWl0dGVyIGltcG9ydCBodHRwX2VtaXR0ZXIK</text>
+        <text encoding="base64">aGVhZGVycyA9IHs6IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZHVsZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBqbXhfZmV0Y2goc2VsZik6CiAgICAgICAgYWdlbnRfY29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlKQogICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCiAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgam14ID0gSk1YRmV0Y2goY29uZmRfcGF0aCwgYWdlbnRfY29uZmlnKQogICAgICAgICAgICAgICAgaWYgbm90IGpteC5ydW4oKToKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGxvZy5leGNlcHRpb24oIkVycm9yIHdpdGggam14IGZldGNoIikKICAgICAgICAgICAgdGltZS5zbGVlcCg2MCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
