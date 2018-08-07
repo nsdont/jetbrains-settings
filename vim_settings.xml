@@ -58,8 +58,8 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1533181100245">
-        <mark key="'" line="220" column="17" />
+      <file name="F:/monitor/build.yaml" timestamp="1533625210896">
+        <mark key="'" line="102" column="75" />
         <mark key="[" line="289" column="36" />
         <mark key="]" line="289" column="36" />
         <mark key="^" line="118" column="21" />
@@ -224,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="5" filename="F:/monitor/config.py" />
       <jump line="70" column="78" filename="F:/monitor/checks.d/disk.py" />
       <jump line="114" column="25" filename="F:/monitor/checks.d/disk.py" />
       <jump line="25" column="19" filename="F:/monitor/checks.d/disk.py" />
@@ -324,6 +323,7 @@
       <jump line="16" column="27" filename="F:/monitor/datamonitor_template" />
       <jump line="185" column="0" filename="F:/monitor/datamonitor_template" />
       <jump line="184" column="0" filename="F:/monitor/datamonitor_template" />
+      <jump line="102" column="75" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
