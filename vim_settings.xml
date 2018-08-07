@@ -58,12 +58,12 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1533625210896">
+      <file name="F:/monitor/build.yaml" timestamp="1533627097142">
         <mark key="'" line="102" column="75" />
-        <mark key="[" line="289" column="36" />
-        <mark key="]" line="289" column="36" />
-        <mark key="^" line="118" column="21" />
-        <mark key="." line="289" column="42" />
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="F:/monitor/.gitignore" timestamp="1532591755927">
         <mark key="'" line="0" column="0" />
@@ -122,7 +122,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533623734803">
+      <file name="/Dummy.txt" timestamp="1533627199873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -327,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>将 jmxfetch 合并到采集进程</text>
+        <text>修改默认采集时间</text>
       </register>
       <register name="-" type="4">
-        <text>将 jmxfetch 合并到采集进程</text>
+        <text>修改默认采集时间</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
