@@ -9,6 +9,12 @@
       <file name="/Python Console" timestamp="1533193385553">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/monitor/venv/Lib/site-packages/sysutil/network.py" timestamp="1533713172244">
+        <mark key="[" line="33" column="73" />
+        <mark key="]" line="33" column="72" />
+        <mark key="." line="33" column="72" />
+        <mark key="^" line="33" column="72" />
+      </file>
       <file name="F:/monitor/checks.d/disk.py" timestamp="1532660402147">
         <mark key="'" line="205" column="8" />
         <mark key="[" line="205" column="8" />
@@ -122,7 +128,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533627199873">
+      <file name="/Dummy.txt" timestamp="1533713340309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,14 +154,13 @@
         <mark key="." line="49" column="51" />
         <mark key="^" line="49" column="52" />
       </file>
-      <file name="F:/monitor/gohai.py" timestamp="1533106692316">
+      <file name="F:/monitor/gohai.py" timestamp="1533713792034">
         <mark key="'" line="10" column="20" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="74" />
-        <mark key="^" line="84" column="0" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+        <mark key="^" line="35" column="30" />
       </file>
-      <file name="F:/agent/framework/__main__.py" timestamp="1533698053311" />
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="961" column="88" />
@@ -328,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改默认采集时间</text>
+        <text>v4</text>
       </register>
       <register name="-" type="4">
-        <text>修改默认采集时间</text>
+        <text>v4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
