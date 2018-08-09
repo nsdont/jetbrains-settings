@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="F:/agent/framework/actions/install.py" timestamp="1533177620335">
+        <mark key="'" line="59" column="37" />
+      </file>
       <file name="/Python Console" timestamp="1533193385553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,8 +59,14 @@
         <mark key="^" line="124" column="29" />
         <mark key="." line="124" column="29" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1533627097142">
-        <mark key="'" line="102" column="75" />
+      <file name="F:/monitor/graphite.py" timestamp="1532513191523">
+        <mark key="'" line="80" column="25" />
+      </file>
+      <file name="F:/monitor/checks.d/network.py" timestamp="1532920101803">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="F:/monitor/build.yaml" timestamp="1533798581276">
+        <mark key="'" line="22" column="59" />
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
@@ -69,6 +78,9 @@
         <mark key="]" line="38" column="3" />
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
+      </file>
+      <file name="F:/monitor/venv/Lib/site-packages/sysutil/cpu.py" timestamp="1533104994712">
+        <mark key="'" line="1895" column="11" />
       </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1532509293192">
         <mark key="'" line="78" column="23" />
@@ -84,12 +96,18 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
+        <mark key="'" line="230" column="57" />
+      </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1533623568312">
         <mark key="'" line="184" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="F:/monitor/monitoragent.py" timestamp="1532681303114">
+        <mark key="'" line="379" column="8" />
       </file>
       <file name="F:/agent/a.py" timestamp="1533545409428">
         <mark key="[" line="21" column="9" />
@@ -190,6 +208,9 @@
         <mark key="." line="171" column="15" />
         <mark key="^" line="171" column="15" />
       </file>
+      <file name="F:/monitor/build/linux_build/build.sh" timestamp="1533798578227">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="F:/monitor/checks.d/openstack_ceph.py" timestamp="1533797680370">
         <mark key="'" line="25" column="41" />
         <mark key="[" line="287" column="0" />
@@ -226,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="43" filename="F:/monitor/build.yaml" />
-      <jump line="81" column="0" filename="F:/monitor/build.yaml" />
       <jump line="92" column="32" filename="F:/monitor/build.yaml" />
       <jump line="134" column="32" filename="F:/monitor/build.yaml" />
       <jump line="216" column="53" filename="F:/monitor/build.yaml" />
@@ -326,6 +345,8 @@
       <jump line="36" column="31" filename="F:/monitor/checks.d/openstack_ceph.py" />
       <jump line="59" column="11" filename="F:/monitor/checks.d/ceph.py" />
       <jump line="25" column="41" filename="F:/monitor/checks.d/openstack_ceph.py" />
+      <jump line="0" column="0" filename="F:/monitor/build/linux_build/build.sh" />
+      <jump line="22" column="59" filename="F:/monitor/build.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
