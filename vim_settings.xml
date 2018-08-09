@@ -39,11 +39,12 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533784582107">
-        <mark key="[" line="240" column="8" />
-        <mark key="]" line="239" column="20" />
-        <mark key="." line="239" column="20" />
-        <mark key="^" line="239" column="20" />
+      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533793977709">
+        <mark key="'" line="138" column="25" />
+        <mark key="[" line="228" column="74" />
+        <mark key="]" line="228" column="74" />
+        <mark key="." line="228" column="74" />
+        <mark key="^" line="219" column="34" />
       </file>
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1533181060948">
         <mark key="[" line="8" column="0" />
@@ -153,6 +154,12 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="72" column="31" />
       </file>
+      <file name="F:/monitor/utils/subprocess_output.py" timestamp="1533793698395">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="34" column="39" />
+        <mark key="^" line="34" column="39" />
+        <mark key="." line="34" column="39" />
+      </file>
       <file name="F:/monitor/updater_process.py" timestamp="1531978806515">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="49" column="51" />
@@ -236,21 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="78" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="114" column="25" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="25" column="19" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="254" column="19" filename="F:/monitor/config.py" />
-      <jump line="259" column="12" filename="F:/monitor/config.py" />
-      <jump line="10" column="7" filename="F:/monitor/config.py" />
-      <jump line="489" column="49" filename="F:/monitor/config.py" />
-      <jump line="50" column="44" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="73" column="23" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="201" column="0" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="0" column="0" filename="F:/monitor/checks.d/disk.py" />
-      <jump line="15" column="65" filename="F:/monitor/graphite.py" />
-      <jump line="14" column="33" filename="F:/monitor/graphite.py" />
-      <jump line="0" column="18" filename="F:/monitor/graphite.py" />
-      <jump line="80" column="25" filename="F:/monitor/graphite.py" />
       <jump line="0" column="18" filename="F:/monitor/checks/check_status.py" />
       <jump line="247" column="51" filename="F:/monitor/checks/check_status.py" />
       <jump line="210" column="23" filename="F:/monitor/checks/check_status.py" />
@@ -336,16 +328,31 @@
       <jump line="185" column="0" filename="F:/monitor/datamonitor_template" />
       <jump line="184" column="0" filename="F:/monitor/datamonitor_template" />
       <jump line="102" column="75" filename="F:/monitor/build.yaml" />
+      <jump line="16" column="53" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="18" column="15" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="189" column="35" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="10" column="22" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="239" column="8" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="156" column="17" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="147" column="17" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="96" column="17" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="73" column="17" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="41" column="21" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="38" column="64" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="30" column="60" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="187" column="17" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="162" column="17" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="138" column="25" filename="F:/monitor/checks.d/ceph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disk</text>
+        <text>.example</text>
       </register>
       <register name="-" type="4">
-        <text>disk</text>
+        <text>.example</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
         <text>frequency</text>
@@ -382,16 +389,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmVxdWVuY3lcPg==</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmVxdWVuY3lcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>log</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZW5kcG9pbnRzXD4=</entry>
-        <entry>post</entry>
         <entry encoding="base64">XDxjbGllbnRfaW5mb1w+</entry>
         <entry>cpuinfo</entry>
         <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
@@ -410,6 +415,8 @@
         <entry>init_c</entry>
         <entry>heart</entry>
         <entry encoding="base64">XDxmcmVxdWVuY3lcPg==</entry>
+        <entry>sudo</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
