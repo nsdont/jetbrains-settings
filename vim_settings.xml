@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="F:/agent/framework/actions/install.py" timestamp="1533177620335">
-        <mark key="'" line="59" column="37" />
-      </file>
       <file name="/Python Console" timestamp="1533193385553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,12 +36,12 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533795814401">
-        <mark key="'" line="138" column="25" />
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="30" column="65" />
-        <mark key="." line="30" column="65" />
-        <mark key="^" line="30" column="52" />
+      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533797678393">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="240" column="19" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="22" />
       </file>
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1533181060948">
         <mark key="[" line="8" column="0" />
@@ -58,18 +55,6 @@
         <mark key="]" line="124" column="29" />
         <mark key="^" line="124" column="29" />
         <mark key="." line="124" column="29" />
-      </file>
-      <file name="F:/monitor/graphite.py" timestamp="1532513191523">
-        <mark key="'" line="80" column="25" />
-      </file>
-      <file name="F:/monitor/checks.d/network.py" timestamp="1532920101803">
-        <mark key="'" line="20" column="0" />
-      </file>
-      <file name="F:/monitor/checks/updater.py" timestamp="1533117936092">
-        <mark key="'" line="97" column="51" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
       </file>
       <file name="F:/monitor/build.yaml" timestamp="1533627097142">
         <mark key="'" line="102" column="75" />
@@ -85,9 +70,6 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
-      <file name="F:/monitor/venv/Lib/site-packages/sysutil/cpu.py" timestamp="1533104994712">
-        <mark key="'" line="1895" column="11" />
-      </file>
       <file name="F:/monitor/checks.d/ntp.py" timestamp="1532509293192">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="68" column="11" />
@@ -102,18 +84,12 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
-        <mark key="'" line="230" column="57" />
-      </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1533623568312">
         <mark key="'" line="184" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="F:/monitor/monitoragent.py" timestamp="1532681303114">
-        <mark key="'" line="379" column="8" />
       </file>
       <file name="F:/agent/a.py" timestamp="1533545409428">
         <mark key="[" line="21" column="9" />
@@ -135,7 +111,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533713340309">
+      <file name="/Dummy.txt" timestamp="1533797696591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,11 +130,11 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="F:/monitor/utils/subprocess_output.py" timestamp="1533793698395">
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="34" column="39" />
-        <mark key="^" line="34" column="39" />
-        <mark key="." line="34" column="39" />
+      <file name="F:/monitor/utils/subprocess_output.py" timestamp="1533797422194">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="29" />
       </file>
       <file name="F:/monitor/updater_process.py" timestamp="1531978806515">
         <mark key="'" line="116" column="0" />
@@ -214,6 +190,13 @@
         <mark key="." line="171" column="15" />
         <mark key="^" line="171" column="15" />
       </file>
+      <file name="F:/monitor/checks.d/openstack_ceph.py" timestamp="1533797680370">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="312" column="20" />
+        <mark key="^" line="36" column="83" />
+        <mark key="." line="287" column="0" />
+      </file>
       <file name="F:/monitor/win32/agent.py" timestamp="1533192346163">
         <mark key="'" line="75" column="20" />
         <mark key="[" line="213" column="57" />
@@ -243,11 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="18" filename="F:/monitor/checks/check_status.py" />
-      <jump line="247" column="51" filename="F:/monitor/checks/check_status.py" />
-      <jump line="210" column="23" filename="F:/monitor/checks/check_status.py" />
-      <jump line="119" column="16" filename="F:/monitor/checks/check_status.py" />
-      <jump line="207" column="20" filename="F:/monitor/build.yaml" />
       <jump line="488" column="43" filename="F:/monitor/build.yaml" />
       <jump line="81" column="0" filename="F:/monitor/build.yaml" />
       <jump line="92" column="32" filename="F:/monitor/build.yaml" />
@@ -343,19 +321,24 @@
       <jump line="187" column="17" filename="F:/monitor/checks.d/ceph.py" />
       <jump line="162" column="17" filename="F:/monitor/checks.d/ceph.py" />
       <jump line="138" column="25" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="29" column="27" filename="F:/monitor/checks.d/openstack_ceph.py" />
+      <jump line="7" column="36" filename="F:/monitor/checks.d/openstack_ceph.py" />
+      <jump line="36" column="31" filename="F:/monitor/checks.d/openstack_ceph.py" />
+      <jump line="59" column="11" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="25" column="41" filename="F:/monitor/checks.d/openstack_ceph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>修改打包时存放的文件夹</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>修改打包时存放的文件夹</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>frequency</text>
+      <register name="0" type="2">
+        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgZnJvbSBjb25maWcgaW1wb3J0IChfd2luZG93c19jb25mZF9wYXRoLCBfdW5peF9jb25mZF9wYXRoLCBnZXRfb3MsIGluaXRpYWxpemVfbG9nZ2luZykKICAgIGluaXRpYWxpemVfbG9nZ2luZygnY2hlY2tzLmNlcGgnKQoKICAgIG9zX25hbWUgPSBnZXRfb3MoKQoKICAgIGlmIG9zX25hbWUgPT0gJ3dpbmRvd3MnOgogICAgICAgIGNvbmZkX3BhdGggPSBfd2luZG93c19jb25mZF9wYXRoKCkKICAgIGVsc2U6CiAgICAgICAgY29uZmRfcGF0aCA9IF91bml4X2NvbmZkX3BhdGgoKQoKICAgIGNoZWNrLCBfaW5zdGFuY2VzID0gQ2VwaC5mcm9tX3lhbWwob3MucGF0aC5qb2luKGNvbmZkX3BhdGgsICdjZXBoLnlhbWwnKSkKICAgIHRyeToKICAgICAgICBmb3IgaW5zdGFuY2UgaW4gY2hlY2suaW5zdGFuY2VzOgogICAgICAgICAgICBjaGVjay5jaGVjayhpbnN0YW5jZSkKICAgICAgICAgICAgaWYgY2hlY2suaGFzX2V2ZW50cygpOgogICAgICAgICAgICAgICAgcHJpbnQgJ0V2ZW50czogJXMnICUgKGNoZWNrLmdldF9ldmVudHMoKSkKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLSBNZXRyaWNzOiAtLS0tLS0tLS0nKQogICAgICAgICAgICBmb3IgaSBpbiBjaGVjay5nZXRfbWV0cmljcygpOgogICAgICAgICAgICAgICAgcHJpbnQoaSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCAiV2hvb3BzIHNvbWV0aGluZyBoYXBwZW5lZCB7MH0iLmZvcm1hdChlKQogICAgZmluYWxseToKICAgICAgICBjaGVjay5zdG9wKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">djQK</text>
@@ -389,15 +372,14 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGllbnRfaW5mb1w+</entry>
         <entry>cpuinfo</entry>
         <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
         <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
@@ -417,6 +399,7 @@
         <entry encoding="base64">XDxmcmVxdWVuY3lcPg==</entry>
         <entry>sudo</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
