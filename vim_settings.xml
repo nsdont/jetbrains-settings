@@ -15,7 +15,7 @@
         <mark key="." line="33" column="72" />
         <mark key="^" line="33" column="72" />
       </file>
-      <file name="F:/monitor/checks.d/disk.py" timestamp="1532660402147">
+      <file name="F:/monitor/checks.d/disk.py" timestamp="1533784539069">
         <mark key="'" line="205" column="8" />
         <mark key="[" line="205" column="8" />
         <mark key="]" line="205" column="7" />
@@ -38,6 +38,12 @@
         <mark key="]" line="126" column="0" />
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
+      </file>
+      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533784582107">
+        <mark key="[" line="240" column="8" />
+        <mark key="]" line="239" column="20" />
+        <mark key="." line="239" column="20" />
+        <mark key="^" line="239" column="20" />
       </file>
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1533181060948">
         <mark key="[" line="8" column="0" />
@@ -333,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v4</text>
+        <text>disk</text>
       </register>
       <register name="-" type="4">
-        <text>v4</text>
+        <text>disk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
@@ -345,31 +351,31 @@
         <text>frequency</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJlcXVlbmN5Cg==</text>
+        <text encoding="base64">djQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ci5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
+        <text encoding="base64">ZnJlcXVlbmN5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGUuKQo=</text>
+        <text encoding="base64">ci5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YSA9IHVybGxpYi51cmxlbmNvZGUoanNvbi5kdW1wcyhwb3N0RGF0YSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGUuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCctLS0tJykK</text>
+        <text encoding="base64">ZGF0YSA9IHVybGxpYi51cmxlbmNvZGUoanNvbi5kdW1wcyhwb3N0RGF0YSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQocmVxLmdldF9tZXRob2QoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCctLS0tJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGVhZGVycyA9IHs6IH0K</text>
+        <text encoding="base64">cHJpbnQocmVxLmdldF9tZXRob2QoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVhZGVycyA9IHs6IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBqbXhfZmV0Y2goc2VsZik6CiAgICAgICAgYWdlbnRfY29uZmlnID0gZ2V0X2NvbmZpZyhwYXJzZV9hcmdzPUZhbHNlKQogICAgICAgIGNvbmZkX3BhdGggPSBnZXRfY29uZmRfcGF0aCgpCiAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgam14ID0gSk1YRmV0Y2goY29uZmRfcGF0aCwgYWdlbnRfY29uZmlnKQogICAgICAgICAgICAgICAgaWYgbm90IGpteC5ydW4oKToKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGxvZy5leGNlcHRpb24oIkVycm9yIHdpdGggam14IGZldGNoIikKICAgICAgICAgICAgdGltZS5zbGVlcCg2MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
