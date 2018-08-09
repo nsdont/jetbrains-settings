@@ -39,12 +39,12 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533793977709">
+      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533795814401">
         <mark key="'" line="138" column="25" />
-        <mark key="[" line="228" column="74" />
-        <mark key="]" line="228" column="74" />
-        <mark key="." line="228" column="74" />
-        <mark key="^" line="219" column="34" />
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="65" />
+        <mark key="." line="30" column="65" />
+        <mark key="^" line="30" column="52" />
       </file>
       <file name="F:/monitor/build/linux_build/manifest.yaml" timestamp="1533181060948">
         <mark key="[" line="8" column="0" />
@@ -346,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.example</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.example</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
