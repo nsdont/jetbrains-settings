@@ -89,6 +89,11 @@
         <mark key="." line="68" column="21" />
         <mark key="^" line="68" column="21" />
       </file>
+      <file name="F:/monitor/conf.d/kubernetes.yaml.example" timestamp="1533799287801">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="F:/monitor/build/win_build/manifest.yaml" timestamp="1532591360837">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="14" column="18" />
@@ -350,7 +355,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改打包时存放的文件夹</text>
+        <text encoding="base64">Pz8/Pz8/P2luaXRfY29uZmlnOgogIHRhZ3M6CiAgICAtICBvcHRpb25hbF90YWcxCiAgICAtICBvcHRpb25hbF90YWcyCgppbnN0YW5jZXM6CiAgLSAgaG9zdDogbG9jYWxob3N0CiAgICAgcG9ydDogNDE5NAogICAgIG1ldGhvZDogaHR0cAoKICAgICB1c2VfaGlzdG9ncmFtOiBUcnVlCiAgICAgZW5hYmxlX2t1YmVsZXRfY2hlY2tzOiB0cnVlCiAgICAga3ViZWxldF9wb3J0OiAxMDI1NQoKICAgICBlbmFibGVkX3JhdGVzOgogICAgICAgLSAgY3B1LioKICAgICAgIC0gIG5ldHdvcmsuKgoKICAgICBlbmFibGVkX2dhdWdlczoKICAgICAgIC0gIGZpbGVzeXN0ZW0uKg==</text>
       </register>
       <register name="-" type="4">
         <text>修改打包时存放的文件夹</text>
@@ -361,32 +366,32 @@
       <register name="0" type="2">
         <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgZnJvbSBjb25maWcgaW1wb3J0IChfd2luZG93c19jb25mZF9wYXRoLCBfdW5peF9jb25mZF9wYXRoLCBnZXRfb3MsIGluaXRpYWxpemVfbG9nZ2luZykKICAgIGluaXRpYWxpemVfbG9nZ2luZygnY2hlY2tzLmNlcGgnKQoKICAgIG9zX25hbWUgPSBnZXRfb3MoKQoKICAgIGlmIG9zX25hbWUgPT0gJ3dpbmRvd3MnOgogICAgICAgIGNvbmZkX3BhdGggPSBfd2luZG93c19jb25mZF9wYXRoKCkKICAgIGVsc2U6CiAgICAgICAgY29uZmRfcGF0aCA9IF91bml4X2NvbmZkX3BhdGgoKQoKICAgIGNoZWNrLCBfaW5zdGFuY2VzID0gQ2VwaC5mcm9tX3lhbWwob3MucGF0aC5qb2luKGNvbmZkX3BhdGgsICdjZXBoLnlhbWwnKSkKICAgIHRyeToKICAgICAgICBmb3IgaW5zdGFuY2UgaW4gY2hlY2suaW5zdGFuY2VzOgogICAgICAgICAgICBjaGVjay5jaGVjayhpbnN0YW5jZSkKICAgICAgICAgICAgaWYgY2hlY2suaGFzX2V2ZW50cygpOgogICAgICAgICAgICAgICAgcHJpbnQgJ0V2ZW50czogJXMnICUgKGNoZWNrLmdldF9ldmVudHMoKSkKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLSBNZXRyaWNzOiAtLS0tLS0tLS0nKQogICAgICAgICAgICBmb3IgaSBpbiBjaGVjay5nZXRfbWV0cmljcygpOgogICAgICAgICAgICAgICAgcHJpbnQoaSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCAiV2hvb3BzIHNvbWV0aGluZyBoYXBwZW5lZCB7MH0iLmZvcm1hdChlKQogICAgZmluYWxseToKICAgICAgICBjaGVjay5zdG9wKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">djQK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Pz8/Pz8/P2luaXRfY29uZmlnOgogIHRhZ3M6CiAgICAtICBvcHRpb25hbF90YWcxCiAgICAtICBvcHRpb25hbF90YWcyCgppbnN0YW5jZXM6CiAgLSAgaG9zdDogbG9jYWxob3N0CiAgICAgcG9ydDogNDE5NAogICAgIG1ldGhvZDogaHR0cAoKICAgICB1c2VfaGlzdG9ncmFtOiBUcnVlCiAgICAgZW5hYmxlX2t1YmVsZXRfY2hlY2tzOiB0cnVlCiAgICAga3ViZWxldF9wb3J0OiAxMDI1NQoKICAgICBlbmFibGVkX3JhdGVzOgogICAgICAgLSAgY3B1LioKICAgICAgIC0gIG5ldHdvcmsuKgoKICAgICBlbmFibGVkX2dhdWdlczoKICAgICAgIC0gIGZpbGVzeXN0ZW0uKg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJlcXVlbmN5Cg==</text>
+        <text encoding="base64">djQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ci5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
+        <text encoding="base64">ZnJlcXVlbmN5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGUuKQo=</text>
+        <text encoding="base64">ci5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSA9IHVybGxpYi51cmxlbmNvZGUoanNvbi5kdW1wcyhwb3N0RGF0YSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGUuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCctLS0tJykK</text>
+        <text encoding="base64">ZGF0YSA9IHVybGxpYi51cmxlbmNvZGUoanNvbi5kdW1wcyhwb3N0RGF0YSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQocmVxLmdldF9tZXRob2QoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCctLS0tJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGVhZGVycyA9IHs6IH0K</text>
+        <text encoding="base64">cHJpbnQocmVxLmdldF9tZXRob2QoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVhZGVycyA9IHs6IH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
