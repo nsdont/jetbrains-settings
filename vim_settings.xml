@@ -39,9 +39,9 @@
         <mark key="^" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="F:/monitor/checks.d/ceph.py" timestamp="1533799945448">
-        <mark key="'" line="59" column="11" />
-        <mark key="[" line="215" column="0" />
+      <file name="F:/monitor/checks.d/ceph.py" timestamp="1534228349642">
+        <mark key="'" line="217" column="25" />
+        <mark key="[" line="217" column="0" />
         <mark key="]" line="240" column="19" />
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
@@ -103,6 +103,13 @@
       </file>
       <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
         <mark key="'" line="230" column="57" />
+      </file>
+      <file name="F:/monitor/checks.d/zk.py" timestamp="1534229131012">
+        <mark key="'" line="54" column="34" />
+        <mark key="[" line="308" column="24" />
+        <mark key="]" line="308" column="38" />
+        <mark key="^" line="308" column="70" />
+        <mark key="." line="308" column="24" />
       </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1533623568312">
         <mark key="'" line="184" column="0" />
@@ -230,7 +237,6 @@
         <mark key="^" line="213" column="83" />
         <mark key="." line="213" column="83" />
       </file>
-      <file name="F:/rust_study/transformer_demo/src/main.rs" timestamp="1534209890880" />
       <file name="F:/agent/b.py" timestamp="1533545534110">
         <mark key="[" line="20" column="66" />
         <mark key="]" line="21" column="14" />
@@ -253,13 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="32" filename="F:/monitor/build.yaml" />
-      <jump line="134" column="32" filename="F:/monitor/build.yaml" />
-      <jump line="216" column="53" filename="F:/monitor/build.yaml" />
-      <jump line="258" column="55" filename="F:/monitor/build.yaml" />
-      <jump line="300" column="53" filename="F:/monitor/build.yaml" />
-      <jump line="342" column="51" filename="F:/monitor/build.yaml" />
-      <jump line="383" column="54" filename="F:/monitor/build.yaml" />
       <jump line="424" column="51" filename="F:/monitor/build.yaml" />
       <jump line="466" column="50" filename="F:/monitor/build.yaml" />
       <jump line="91" column="53" filename="F:/monitor/build.yaml" />
@@ -353,38 +352,26 @@
       <jump line="25" column="41" filename="F:/monitor/checks.d/openstack_ceph.py" />
       <jump line="0" column="0" filename="F:/monitor/build/linux_build/build.sh" />
       <jump line="22" column="59" filename="F:/monitor/build.yaml" />
+      <jump line="0" column="0" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="74" column="12" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="217" column="25" filename="F:/monitor/checks.d/ceph.py" />
+      <jump line="245" column="43" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="20" column="6" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="39" column="4" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="54" column="34" filename="F:/monitor/checks.d/zk.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>???????init_config:
-  tags:
-    -  optional_tag1
-    -  optional_tag2
-
-instances:
-  -  host: localhost
-     port: 4194
-     method: http
-
-     use_histogram: True
-     enable_kubelet_checks: true
-     kubelet_port: 10255
-
-     enabled_rates:
-       -  cpu.*
-       -  network.*
-
-     enabled_gauges:
-       -  filesystem.*</text>
+        <text>ZKMetric</text>
       </register>
       <register name="-" type="4">
-        <text>修改打包时存放的文件夹</text>
+        <text>ZKMetric</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</text>
+        <text>long</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgZnJvbSBjb25maWcgaW1wb3J0IChfd2luZG93c19jb25mZF9wYXRoLCBfdW5peF9jb25mZF9wYXRoLCBnZXRfb3MsIGluaXRpYWxpemVfbG9nZ2luZykKICAgIGluaXRpYWxpemVfbG9nZ2luZygnY2hlY2tzLmNlcGgnKQoKICAgIG9zX25hbWUgPSBnZXRfb3MoKQoKICAgIGlmIG9zX25hbWUgPT0gJ3dpbmRvd3MnOgogICAgICAgIGNvbmZkX3BhdGggPSBfd2luZG93c19jb25mZF9wYXRoKCkKICAgIGVsc2U6CiAgICAgICAgY29uZmRfcGF0aCA9IF91bml4X2NvbmZkX3BhdGgoKQoKICAgIGNoZWNrLCBfaW5zdGFuY2VzID0gQ2VwaC5mcm9tX3lhbWwob3MucGF0aC5qb2luKGNvbmZkX3BhdGgsICdjZXBoLnlhbWwnKSkKICAgIHRyeToKICAgICAgICBmb3IgaW5zdGFuY2UgaW4gY2hlY2suaW5zdGFuY2VzOgogICAgICAgICAgICBjaGVjay5jaGVjayhpbnN0YW5jZSkKICAgICAgICAgICAgaWYgY2hlY2suaGFzX2V2ZW50cygpOgogICAgICAgICAgICAgICAgcHJpbnQgJ0V2ZW50czogJXMnICUgKGNoZWNrLmdldF9ldmVudHMoKSkKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLSBNZXRyaWNzOiAtLS0tLS0tLS0nKQogICAgICAgICAgICBmb3IgaSBpbiBjaGVjay5nZXRfbWV0cmljcygpOgogICAgICAgICAgICAgICAgcHJpbnQoaSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCAiV2hvb3BzIHNvbWV0aGluZyBoYXBwZW5lZCB7MH0iLmZvcm1hdChlKQogICAgZmluYWxseToKICAgICAgICBjaGVjay5zdG9wKCkK</text>
+      <register name="0" type="4">
+        <text>ZookeeperCheck</text>
       </register>
       <register name="1" type="4">
         <text>???????init_config:
@@ -437,15 +424,14 @@ instances:
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</last-search>
+      <last-search>long</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>long</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cpuinfo</entry>
         <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
         <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
         <entry>jmx</entry>
@@ -465,6 +451,7 @@ instances:
         <entry>sudo</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</entry>
+        <entry>long</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
