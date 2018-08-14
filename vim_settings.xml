@@ -104,12 +104,12 @@
       <file name="F:/monitor/checks.d/process.py" timestamp="1532416114837">
         <mark key="'" line="230" column="57" />
       </file>
-      <file name="F:/monitor/checks.d/zk.py" timestamp="1534229131012">
-        <mark key="'" line="54" column="34" />
-        <mark key="[" line="308" column="24" />
-        <mark key="]" line="308" column="38" />
-        <mark key="^" line="308" column="70" />
-        <mark key="." line="308" column="24" />
+      <file name="F:/monitor/checks.d/zk.py" timestamp="1534232324574">
+        <mark key="'" line="190" column="36" />
+        <mark key="[" line="193" column="21" />
+        <mark key="]" line="193" column="20" />
+        <mark key="^" line="193" column="20" />
+        <mark key="." line="193" column="20" />
       </file>
       <file name="F:/monitor/datamonitor_template" timestamp="1533623568312">
         <mark key="'" line="184" column="0" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="51" filename="F:/monitor/build.yaml" />
       <jump line="466" column="50" filename="F:/monitor/build.yaml" />
       <jump line="91" column="53" filename="F:/monitor/build.yaml" />
       <jump line="133" column="53" filename="F:/monitor/build.yaml" />
@@ -359,13 +358,14 @@
       <jump line="20" column="6" filename="F:/monitor/checks.d/zk.py" />
       <jump line="39" column="4" filename="F:/monitor/checks.d/zk.py" />
       <jump line="54" column="34" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="190" column="36" filename="F:/monitor/checks.d/zk.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ZKMetric</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ZKMetric</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
