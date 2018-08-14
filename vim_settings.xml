@@ -230,6 +230,7 @@
         <mark key="^" line="213" column="83" />
         <mark key="." line="213" column="83" />
       </file>
+      <file name="F:/rust_study/transformer_demo/src/main.rs" timestamp="1534209890880" />
       <file name="F:/agent/b.py" timestamp="1533545534110">
         <mark key="[" line="20" column="66" />
         <mark key="]" line="21" column="14" />
@@ -355,7 +356,26 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pz8/Pz8/P2luaXRfY29uZmlnOgogIHRhZ3M6CiAgICAtICBvcHRpb25hbF90YWcxCiAgICAtICBvcHRpb25hbF90YWcyCgppbnN0YW5jZXM6CiAgLSAgaG9zdDogbG9jYWxob3N0CiAgICAgcG9ydDogNDE5NAogICAgIG1ldGhvZDogaHR0cAoKICAgICB1c2VfaGlzdG9ncmFtOiBUcnVlCiAgICAgZW5hYmxlX2t1YmVsZXRfY2hlY2tzOiB0cnVlCiAgICAga3ViZWxldF9wb3J0OiAxMDI1NQoKICAgICBlbmFibGVkX3JhdGVzOgogICAgICAgLSAgY3B1LioKICAgICAgIC0gIG5ldHdvcmsuKgoKICAgICBlbmFibGVkX2dhdWdlczoKICAgICAgIC0gIGZpbGVzeXN0ZW0uKg==</text>
+        <text>???????init_config:
+  tags:
+    -  optional_tag1
+    -  optional_tag2
+
+instances:
+  -  host: localhost
+     port: 4194
+     method: http
+
+     use_histogram: True
+     enable_kubelet_checks: true
+     kubelet_port: 10255
+
+     enabled_rates:
+       -  cpu.*
+       -  network.*
+
+     enabled_gauges:
+       -  filesystem.*</text>
       </register>
       <register name="-" type="4">
         <text>修改打包时存放的文件夹</text>
@@ -367,7 +387,26 @@
         <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgZnJvbSBjb25maWcgaW1wb3J0IChfd2luZG93c19jb25mZF9wYXRoLCBfdW5peF9jb25mZF9wYXRoLCBnZXRfb3MsIGluaXRpYWxpemVfbG9nZ2luZykKICAgIGluaXRpYWxpemVfbG9nZ2luZygnY2hlY2tzLmNlcGgnKQoKICAgIG9zX25hbWUgPSBnZXRfb3MoKQoKICAgIGlmIG9zX25hbWUgPT0gJ3dpbmRvd3MnOgogICAgICAgIGNvbmZkX3BhdGggPSBfd2luZG93c19jb25mZF9wYXRoKCkKICAgIGVsc2U6CiAgICAgICAgY29uZmRfcGF0aCA9IF91bml4X2NvbmZkX3BhdGgoKQoKICAgIGNoZWNrLCBfaW5zdGFuY2VzID0gQ2VwaC5mcm9tX3lhbWwob3MucGF0aC5qb2luKGNvbmZkX3BhdGgsICdjZXBoLnlhbWwnKSkKICAgIHRyeToKICAgICAgICBmb3IgaW5zdGFuY2UgaW4gY2hlY2suaW5zdGFuY2VzOgogICAgICAgICAgICBjaGVjay5jaGVjayhpbnN0YW5jZSkKICAgICAgICAgICAgaWYgY2hlY2suaGFzX2V2ZW50cygpOgogICAgICAgICAgICAgICAgcHJpbnQgJ0V2ZW50czogJXMnICUgKGNoZWNrLmdldF9ldmVudHMoKSkKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLSBNZXRyaWNzOiAtLS0tLS0tLS0nKQogICAgICAgICAgICBmb3IgaSBpbiBjaGVjay5nZXRfbWV0cmljcygpOgogICAgICAgICAgICAgICAgcHJpbnQoaSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCAiV2hvb3BzIHNvbWV0aGluZyBoYXBwZW5lZCB7MH0iLmZvcm1hdChlKQogICAgZmluYWxseToKICAgICAgICBjaGVjay5zdG9wKCkK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Pz8/Pz8/P2luaXRfY29uZmlnOgogIHRhZ3M6CiAgICAtICBvcHRpb25hbF90YWcxCiAgICAtICBvcHRpb25hbF90YWcyCgppbnN0YW5jZXM6CiAgLSAgaG9zdDogbG9jYWxob3N0CiAgICAgcG9ydDogNDE5NAogICAgIG1ldGhvZDogaHR0cAoKICAgICB1c2VfaGlzdG9ncmFtOiBUcnVlCiAgICAgZW5hYmxlX2t1YmVsZXRfY2hlY2tzOiB0cnVlCiAgICAga3ViZWxldF9wb3J0OiAxMDI1NQoKICAgICBlbmFibGVkX3JhdGVzOgogICAgICAgLSAgY3B1LioKICAgICAgIC0gIG5ldHdvcmsuKgoKICAgICBlbmFibGVkX2dhdWdlczoKICAgICAgIC0gIGZpbGVzeXN0ZW0uKg==</text>
+        <text>???????init_config:
+  tags:
+    -  optional_tag1
+    -  optional_tag2
+
+instances:
+  -  host: localhost
+     port: 4194
+     method: http
+
+     use_histogram: True
+     enable_kubelet_checks: true
+     kubelet_port: 10255
+
+     enabled_rates:
+       -  cpu.*
+       -  network.*
+
+     enabled_gauges:
+       -  filesystem.*</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">djQK</text>
