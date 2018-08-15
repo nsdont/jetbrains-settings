@@ -6,7 +6,7 @@
       <file name="F:/agent/framework/actions/install.py" timestamp="1533177620335">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1533193385553">
+      <file name="/Python Console" timestamp="1534316545899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/monitor/venv/Lib/site-packages/sysutil/network.py" timestamp="1533713172244">
@@ -65,12 +65,12 @@
       <file name="F:/monitor/checks.d/network.py" timestamp="1532920101803">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="F:/monitor/build.yaml" timestamp="1533798581276">
-        <mark key="'" line="22" column="59" />
+      <file name="F:/monitor/build.yaml" timestamp="1534316435897">
+        <mark key="'" line="298" column="0" />
         <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="F:/monitor/.gitignore" timestamp="1532591755927">
         <mark key="'" line="0" column="0" />
@@ -127,12 +127,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="F:/monitor/config.py" timestamp="1533623546928">
-        <mark key="'" line="489" column="49" />
-        <mark key="[" line="370" column="60" />
-        <mark key="]" line="370" column="68" />
-        <mark key="." line="1045" column="0" />
-        <mark key="^" line="957" column="45" />
+      <file name="F:/monitor/config.py" timestamp="1534317129770">
+        <mark key="'" line="369" column="38" />
+        <mark key="[" line="370" column="75" />
+        <mark key="]" line="370" column="75" />
+        <mark key="." line="370" column="75" />
+        <mark key="^" line="370" column="75" />
       </file>
       <file name="F:/monitor/checks/system/win32.py" timestamp="1531794144632">
         <mark key="'" line="438" column="17" />
@@ -141,7 +141,7 @@
         <mark key="." line="244" column="15" />
         <mark key="^" line="244" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533797696591">
+      <file name="/Dummy.txt" timestamp="1534317368428">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -223,6 +223,10 @@
       <file name="F:/monitor/build/linux_build/build.sh" timestamp="1533798578227">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="F:/monitor/datamonitor.conf" timestamp="1534316918827">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="10" />
+      </file>
       <file name="F:/monitor/checks.d/openstack_ceph.py" timestamp="1533797680370">
         <mark key="'" line="25" column="41" />
         <mark key="[" line="287" column="0" />
@@ -230,12 +234,8 @@
         <mark key="^" line="36" column="83" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="F:/monitor/win32/agent.py" timestamp="1533192346163">
-        <mark key="'" line="75" column="20" />
-        <mark key="[" line="213" column="57" />
-        <mark key="]" line="213" column="83" />
-        <mark key="^" line="213" column="83" />
-        <mark key="." line="213" column="83" />
+      <file name="F:/monitor/win32/agent.py" timestamp="1534317162388">
+        <mark key="'" line="66" column="33" />
       </file>
       <file name="F:/agent/b.py" timestamp="1533545534110">
         <mark key="[" line="20" column="66" />
@@ -259,11 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="53" filename="F:/monitor/build.yaml" />
-      <jump line="133" column="53" filename="F:/monitor/build.yaml" />
-      <jump line="175" column="53" filename="F:/monitor/build.yaml" />
-      <jump line="99" column="0" filename="F:/monitor/build.yaml" />
-      <jump line="0" column="0" filename="F:/monitor/build.yaml" />
       <jump line="228" column="93" filename="F:/monitor/build.yaml" />
       <jump line="229" column="30" filename="F:/monitor/build.yaml" />
       <jump line="272" column="93" filename="F:/monitor/build.yaml" />
@@ -359,19 +354,24 @@
       <jump line="54" column="34" filename="F:/monitor/checks.d/zk.py" />
       <jump line="190" column="36" filename="F:/monitor/checks.d/zk.py" />
       <jump line="287" column="0" filename="F:/monitor/checks.d/zk.py" />
+      <jump line="298" column="0" filename="F:/monitor/build.yaml" />
+      <jump line="497" column="49" filename="F:/monitor/win32/agent.py" />
+      <jump line="370" column="60" filename="F:/monitor/config.py" />
+      <jump line="369" column="38" filename="F:/monitor/config.py" />
+      <jump line="66" column="33" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>修改 build 的版本</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>修改 build 的版本</text>
       </register>
       <register name="/" type="4">
-        <text>long</text>
+        <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ZookeeperCheck</text>
+        <text>frequency</text>
       </register>
       <register name="1" type="4">
         <text>???????init_config:
@@ -424,10 +424,10 @@ instances:
       </register>
     </registers>
     <search>
-      <last-search>long</last-search>
+      <last-search encoding="base64">XDxmcmVxdWVuY3lcPg==</last-search>
       <last-offset />
-      <last-pattern>long</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmcmVxdWVuY3lcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -447,11 +447,11 @@ instances:
         <entry>init</entry>
         <entry>init_c</entry>
         <entry>heart</entry>
-        <entry encoding="base64">XDxmcmVxdWVuY3lcPg==</entry>
         <entry>sudo</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</entry>
         <entry>long</entry>
+        <entry encoding="base64">XDxmcmVxdWVuY3lcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
