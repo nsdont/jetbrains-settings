@@ -180,10 +180,6 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
       </file>
-      <file name="F:/agent/framework/__main__.py" timestamp="1534322875564">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="32" />
-      </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="961" column="88" />
