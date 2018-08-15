@@ -6,7 +6,7 @@
       <file name="F:/agent/framework/actions/install.py" timestamp="1533177620335">
         <mark key="'" line="59" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1534316545899">
+      <file name="/Python Console" timestamp="1534322877063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/monitor/venv/Lib/site-packages/sysutil/network.py" timestamp="1533713172244">
@@ -179,6 +179,10 @@
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
+      </file>
+      <file name="F:/agent/framework/__main__.py" timestamp="1534322875564">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="32" />
       </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
@@ -361,8 +365,8 @@
       <jump line="66" column="33" filename="F:/monitor/win32/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>修改 build 的版本</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBsYXRmb3JtID0gcGYuZ2V0X3BsYXRmb3JtKCkK</text>
       </register>
       <register name="-" type="4">
         <text>修改 build 的版本</text>
@@ -370,8 +374,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>frequency</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBsYXRmb3JtID0gcGYuZ2V0X3BsYXRmb3JtKCkK</text>
       </register>
       <register name="1" type="4">
         <text>???????init_config:
