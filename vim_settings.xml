@@ -153,6 +153,7 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="F:/agent/venv/Lib/site-packages/sysutil/disk.py" timestamp="1534385421656" />
       <file name="F:/monitor/build/install.py" timestamp="1533181049417">
         <mark key="'" line="57" column="4" />
         <mark key="[" line="72" column="31" />
@@ -180,6 +181,9 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
       </file>
+      <file name="F:/agent/framework/__main__.py" timestamp="1534385114681">
+        <mark key="'" line="47" column="45" />
+      </file>
       <file name="F:/monitor/checks.d/openstack.py" timestamp="1531276435832">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="961" column="88" />
@@ -187,6 +191,7 @@
         <mark key="." line="961" column="88" />
         <mark key="^" line="961" column="83" />
       </file>
+      <file name="F:/agent/framework/__init__.py" timestamp="1534384972672" />
       <file name="F:/monitor/checks/disk.py" timestamp="1532507716128">
         <mark key="[" line="106" column="27" />
         <mark key="]" line="106" column="29" />
@@ -259,10 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="93" filename="F:/monitor/build.yaml" />
-      <jump line="229" column="30" filename="F:/monitor/build.yaml" />
-      <jump line="272" column="93" filename="F:/monitor/build.yaml" />
-      <jump line="273" column="30" filename="F:/monitor/build.yaml" />
       <jump line="97" column="95" filename="F:/monitor/build.yaml" />
       <jump line="98" column="31" filename="F:/monitor/build.yaml" />
       <jump line="141" column="95" filename="F:/monitor/build.yaml" />
@@ -359,6 +360,10 @@
       <jump line="370" column="60" filename="F:/monitor/config.py" />
       <jump line="369" column="38" filename="F:/monitor/config.py" />
       <jump line="66" column="33" filename="F:/monitor/win32/agent.py" />
+      <jump line="183" column="17" filename="F:/agent/framework/__main__.py" />
+      <jump line="12" column="0" filename="F:/agent/framework/__main__.py" />
+      <jump line="0" column="0" filename="F:/agent/framework/__main__.py" />
+      <jump line="47" column="45" filename="F:/agent/framework/__main__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -368,7 +373,7 @@
         <text>修改 build 的版本</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmVxdWVuY3lcPg==</text>
+        <text>site</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsYXRmb3JtID0gcGYuZ2V0X3BsYXRmb3JtKCkK</text>
@@ -424,15 +429,14 @@ instances:
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmVxdWVuY3lcPg==</last-search>
+      <last-search>site</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmVxdWVuY3lcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>site</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X2NwdV9pbmZvXD4=</entry>
         <entry encoding="base64">XDxjcHVfaW5mb1w+</entry>
         <entry>jmx</entry>
         <entry encoding="base64">XDxjbGllbnRfdmVyc2lvblw+</entry>
@@ -452,6 +456,7 @@ instances:
         <entry encoding="base64">XDxnZXRfc3VicHJvY2Vzc19vdXRwdXRcPg==</entry>
         <entry>long</entry>
         <entry encoding="base64">XDxmcmVxdWVuY3lcPg==</entry>
+        <entry>site</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
